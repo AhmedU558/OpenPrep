@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-33773",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Baci",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Bacilli Drug Toxicity. Clinical examination and investigative review confirm initiating standard four-drug fixed dose combination HRZE therapy and monitoring liver enzymes for antituberculous drug-induced hepatotoxicity. Vitals reveal blood pressure of 121/85 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine pulmonary tuberculosis dots regimen hrze sputum acid fast bacilli drug toxicity. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Initiating standard four-drug fixed dose combination HRZE therapy and monitoring liver enzymes for antituberculous drug-induced hepatotoxicity",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating standard four-drug fixed dose combination HRZE therapy and monitoring liver enzymes for antituberculous drug-induced hepatotoxicity. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Bacilli Drug Toxicity.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Bacilli Drug Toxicity. The cornerstone of management involves initiating standard four-drug fixed dose combination HRZE therapy and monitoring liver enzymes for antituberculous drug-induced hepatotoxicity. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Bacilli Drug Toxicity.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Pulmonary Tuberculosis DOTS Regimen HRZE Sputum Acid Fast Bacilli Drug Toxicity."
+    ],
+    "references": [
+      {
+        "label": "UHS Lahore Final Professional MBBS Curriculum in Internal Medicine",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33774",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxone vs Azithromycin Resistance. Clinical examination and investigative review confirm treating extensively drug-resistant (XDR) Salmonella enterica serotype Typhi bacteremia with intravenous meropenem or oral azithromycin. Vitals reveal blood pressure of 122/86 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine typhoid enteric fever salmonella typhi blood culture ceftriaxone vs azithromycin resistance. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Treating extensively drug-resistant (XDR) Salmonella enterica serotype Typhi bacteremia with intravenous meropenem or oral azithromycin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is treating extensively drug-resistant (XDR) Salmonella enterica serotype Typhi bacteremia with intravenous meropenem or oral azithromycin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxone vs Azithromycin Resistance.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxone vs Azithromycin Resistance. The cornerstone of management involves treating extensively drug-resistant (XDR) Salmonella enterica serotype Typhi bacteremia with intravenous meropenem or oral azithromycin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxone vs Azithromycin Resistance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Typhoid Enteric Fever Salmonella Typhi Blood Culture Ceftriaxone vs Azithromycin Resistance."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Islamabad and UHS Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33775",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantrine Cerebral Malaria. Clinical examination and investigative review confirm initiating intravenous artesunate for severe complicated Plasmodium falciparum malaria with impaired consciousness and hypoglycemia. Vitals reveal blood pressure of 123/87 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine falciparum malaria ring forms artesunate artemether lumefantrine cerebral malaria. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Initiating intravenous artesunate for severe complicated Plasmodium falciparum malaria with impaired consciousness and hypoglycemia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating intravenous artesunate for severe complicated Plasmodium falciparum malaria with impaired consciousness and hypoglycemia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantrine Cerebral Malaria.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantrine Cerebral Malaria. The cornerstone of management involves initiating intravenous artesunate for severe complicated Plasmodium falciparum malaria with impaired consciousness and hypoglycemia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantrine Cerebral Malaria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Falciparum Malaria Ring Forms Artesunate Artemether Lumefantrine Cerebral Malaria."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Curriculum and WHO Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33776",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring Platelet Count Crystalloid Fluid Protocol. Clinical examination and investigative review confirm monitoring hematocrit rise exceeding 20 percent and managing critical plasma leakage phase with calibrated isotonic fluid titration. Vitals reveal blood pressure of 124/72 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine dengue hemorrhagic fever plasma leakage hematocrit monitoring platelet count crystalloid fluid protocol. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Monitoring hematocrit rise exceeding 20 percent and managing critical plasma leakage phase with calibrated isotonic fluid titration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is monitoring hematocrit rise exceeding 20 percent and managing critical plasma leakage phase with calibrated isotonic fluid titration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring Platelet Count Crystalloid Fluid Protocol.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring Platelet Count Crystalloid Fluid Protocol. The cornerstone of management involves monitoring hematocrit rise exceeding 20 percent and managing critical plasma leakage phase with calibrated isotonic fluid titration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring Platelet Count Crystalloid Fluid Protocol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Dengue Hemorrhagic Fever Plasma Leakage Hematocrit Monitoring Platelet Count Crystalloid Fluid Protocol."
+    ],
+    "references": [
+      {
+        "label": "Punjab Dengue Expert Advisory Group (DEAG) and UHS Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33777",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marro",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marrow LD Bodies Liposomal Amphotericin B. Clinical examination and investigative review confirm demonstrating amastigote Leishman-Donovan bodies in bone marrow aspirate and treating visceral leishmaniasis with liposomal amphotericin B. Vitals reveal blood pressure of 125/73 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine visceral leishmaniasis kala-azar hepatosplenomegaly bone marrow ld bodies liposomal amphotericin b. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Demonstrating amastigote Leishman-Donovan bodies in bone marrow aspirate and treating visceral leishmaniasis with liposomal amphotericin B",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is demonstrating amastigote Leishman-Donovan bodies in bone marrow aspirate and treating visceral leishmaniasis with liposomal amphotericin B. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marrow LD Bodies Liposomal Amphotericin B.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marrow LD Bodies Liposomal Amphotericin B. The cornerstone of management involves demonstrating amastigote Leishman-Donovan bodies in bone marrow aspirate and treating visceral leishmaniasis with liposomal amphotericin B. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marrow LD Bodies Liposomal Amphotericin B.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Visceral Leishmaniasis Kala-Azar Hepatosplenomegaly Bone Marrow LD Bodies Liposomal Amphotericin B."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Tropical Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33778",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus Metronidazole vs Aspiration. Clinical examination and investigative review confirm prescribing oral metronidazole followed by luminal amoebicide diloxanide furoate for amoebic liver abscess reserving needle aspiration for large left lobe cysts. Vitals reveal blood pressure of 126/74 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine amoebic liver abscess entamoeba histolytica anchovy sauce pus metronidazole vs aspiration. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Prescribing oral metronidazole followed by luminal amoebicide diloxanide furoate for amoebic liver abscess reserving needle aspiration for large left lobe cysts",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral metronidazole followed by luminal amoebicide diloxanide furoate for amoebic liver abscess reserving needle aspiration for large left lobe cysts. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus Metronidazole vs Aspiration.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus Metronidazole vs Aspiration. The cornerstone of management involves prescribing oral metronidazole followed by luminal amoebicide diloxanide furoate for amoebic liver abscess reserving needle aspiration for large left lobe cysts. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus Metronidazole vs Aspiration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Amoebic Liver Abscess Entamoeba Histolytica Anchovy Sauce Pus Metronidazole vs Aspiration."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33779",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Ph",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Pharyngitis Benzathine Penicillin Prophylaxis. Clinical examination and investigative review confirm applying revised Jones criteria to establish acute rheumatic fever diagnosis and prescribing long-term monthly intramuscular benzathine penicillin. Vitals reveal blood pressure of 127/75 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute rheumatic fever modified jones criteria streptococcal pharyngitis benzathine penicillin prophylaxis. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Applying revised Jones criteria to establish acute rheumatic fever diagnosis and prescribing long-term monthly intramuscular benzathine penicillin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying revised Jones criteria to establish acute rheumatic fever diagnosis and prescribing long-term monthly intramuscular benzathine penicillin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Pharyngitis Benzathine Penicillin Prophylaxis.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Pharyngitis Benzathine Penicillin Prophylaxis. The cornerstone of management involves applying revised Jones criteria to establish acute rheumatic fever diagnosis and prescribing long-term monthly intramuscular benzathine penicillin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Pharyngitis Benzathine Penicillin Prophylaxis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Rheumatic Fever Modified Jones Criteria Streptococcal Pharyngitis Benzathine Penicillin Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine Curriculum and Pakistan Cardiac Society",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33780",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Rib",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Ribavirin Strict Isolation Precautions. Clinical examination and investigative review confirm instituting strict barrier nursing precautions and early oral or intravenous ribavirin for suspected Crimean-Congo hemorrhagic fever. Vitals reveal blood pressure of 128/76 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine crimean-congo hemorrhagic fever tick bite thrombocytopenia ribavirin strict isolation precautions. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Instituting strict barrier nursing precautions and early oral or intravenous ribavirin for suspected Crimean-Congo hemorrhagic fever",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instituting strict barrier nursing precautions and early oral or intravenous ribavirin for suspected Crimean-Congo hemorrhagic fever. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Ribavirin Strict Isolation Precautions.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Ribavirin Strict Isolation Precautions. The cornerstone of management involves instituting strict barrier nursing precautions and early oral or intravenous ribavirin for suspected Crimean-Congo hemorrhagic fever. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Ribavirin Strict Isolation Precautions.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Crimean-Congo Hemorrhagic Fever Tick Bite Thrombocytopenia Ribavirin Strict Isolation Precautions."
+    ],
+    "references": [
+      {
+        "label": "NIH Islamabad and UHS Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33781",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies Immunoglobulin Human Diploid Cell Vaccine. Clinical examination and investigative review confirm administering rabies immunoglobulin infiltration into wound site followed by complete 4-dose cell culture vaccine regimen for transdermal bite. Vitals reveal blood pressure of 129/77 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine rabies post-exposure prophylaxis category iii dog bite rabies immunoglobulin human diploid cell vaccine. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Administering rabies immunoglobulin infiltration into wound site followed by complete 4-dose cell culture vaccine regimen for transdermal bite",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering rabies immunoglobulin infiltration into wound site followed by complete 4-dose cell culture vaccine regimen for transdermal bite. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies Immunoglobulin Human Diploid Cell Vaccine.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies Immunoglobulin Human Diploid Cell Vaccine. The cornerstone of management involves administering rabies immunoglobulin infiltration into wound site followed by complete 4-dose cell culture vaccine regimen for transdermal bite. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies Immunoglobulin Human Diploid Cell Vaccine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Rabies Post-Exposure Prophylaxis Category III Dog Bite Rabies Immunoglobulin Human Diploid Cell Vaccine."
+    ],
+    "references": [
+      {
+        "label": "UHS Preventive and Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33782",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testing Inactivated Oral Polio Vaccine. Clinical examination and investigative review confirm collecting two adequate stool specimens 24 hours apart within 14 days of paralysis onset for national wild poliovirus surveillance. Vitals reveal blood pressure of 130/78 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute flaccid paralysis polio surveillance stool sample testing inactivated oral polio vaccine. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Collecting two adequate stool specimens 24 hours apart within 14 days of paralysis onset for national wild poliovirus surveillance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is collecting two adequate stool specimens 24 hours apart within 14 days of paralysis onset for national wild poliovirus surveillance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testing Inactivated Oral Polio Vaccine.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testing Inactivated Oral Polio Vaccine. The cornerstone of management involves collecting two adequate stool specimens 24 hours apart within 14 days of paralysis onset for national wild poliovirus surveillance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testing Inactivated Oral Polio Vaccine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Flaccid Paralysis Polio Surveillance Stool Sample Testing Inactivated Oral Polio Vaccine."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Polio Eradication Programme and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33783",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap Mid-Diastolic Murmur Percutaneous Commissurotomy. Clinical examination and investigative review confirm auscultating opening snap and low-pitched rumbling mid-diastolic murmur in rheumatic mitral stenosis and assessing Wilkins score for balloon valvotomy. Vitals reveal blood pressure of 131/79 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine rheumatic mitral stenosis loud first heart sound opening snap mid-diastolic murmur percutaneous commissurotomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Auscultating opening snap and low-pitched rumbling mid-diastolic murmur in rheumatic mitral stenosis and assessing Wilkins score for balloon valvotomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is auscultating opening snap and low-pitched rumbling mid-diastolic murmur in rheumatic mitral stenosis and assessing Wilkins score for balloon valvotomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap Mid-Diastolic Murmur Percutaneous Commissurotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap Mid-Diastolic Murmur Percutaneous Commissurotomy. The cornerstone of management involves auscultating opening snap and low-pitched rumbling mid-diastolic murmur in rheumatic mitral stenosis and assessing Wilkins score for balloon valvotomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap Mid-Diastolic Murmur Percutaneous Commissurotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Rheumatic Mitral Stenosis Loud First Heart Sound Opening Snap Mid-Diastolic Murmur Percutaneous Commissurotomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine and Pakistan Cardiac Society",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33784",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Strepto",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Streptokinase Thrombolysis Window. Clinical examination and investigative review confirm administering intravenous streptokinase within 12 hours of chest pain onset when primary percutaneous coronary intervention is unavailable within 120 minutes. Vitals reveal blood pressure of 132/80 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute anterior stemi st elevation v1-v4 primary pci vs streptokinase thrombolysis window. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Administering intravenous streptokinase within 12 hours of chest pain onset when primary percutaneous coronary intervention is unavailable within 120 minutes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous streptokinase within 12 hours of chest pain onset when primary percutaneous coronary intervention is unavailable within 120 minutes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Streptokinase Thrombolysis Window.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Streptokinase Thrombolysis Window. The cornerstone of management involves administering intravenous streptokinase within 12 hours of chest pain onset when primary percutaneous coronary intervention is unavailable within 120 minutes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Streptokinase Thrombolysis Window.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Anterior STEMI ST Elevation V1-V4 Primary PCI vs Streptokinase Thrombolysis Window."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society STEMI Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33785",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Med",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Medical Therapy ARNI Beta-Blocker MRA SGLT2i. Clinical examination and investigative review confirm optimizing four pillar guideline-directed medical therapy with sacubitril-valsartan carvedilol spironolactone and dapagliflozin in HFrEF. Vitals reveal blood pressure of 133/81 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine heart failure reduced ejection fraction guideline-directed medical therapy arni beta-blocker mra sglt2i. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Optimizing four pillar guideline-directed medical therapy with sacubitril-valsartan carvedilol spironolactone and dapagliflozin in HFrEF",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is optimizing four pillar guideline-directed medical therapy with sacubitril-valsartan carvedilol spironolactone and dapagliflozin in HFrEF. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Medical Therapy ARNI Beta-Blocker MRA SGLT2i.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Medical Therapy ARNI Beta-Blocker MRA SGLT2i. The cornerstone of management involves optimizing four pillar guideline-directed medical therapy with sacubitril-valsartan carvedilol spironolactone and dapagliflozin in HFrEF. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Medical Therapy ARNI Beta-Blocker MRA SGLT2i.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Heart Failure Reduced Ejection Fraction Guideline-Directed Medical Therapy ARNI Beta-Blocker MRA SGLT2i."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society and UHS Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33786",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target CCB ACE-Inhibitor South Asian Population. Clinical examination and investigative review confirm initiating combination therapy with amlodipine and enalapril to achieve target blood pressure below 130/80 mm Hg in high-risk adult. Vitals reveal blood pressure of 134/82 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine primary essential hypertension stage 2 blood pressure target ccb ace-inhibitor south asian population. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Initiating combination therapy with amlodipine and enalapril to achieve target blood pressure below 130/80 mm Hg in high-risk adult",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating combination therapy with amlodipine and enalapril to achieve target blood pressure below 130/80 mm Hg in high-risk adult. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target CCB ACE-Inhibitor South Asian Population.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target CCB ACE-Inhibitor South Asian Population. The cornerstone of management involves initiating combination therapy with amlodipine and enalapril to achieve target blood pressure below 130/80 mm Hg in high-risk adult. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target CCB ACE-Inhibitor South Asian Population.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Primary Essential Hypertension Stage 2 Blood Pressure Target CCB ACE-Inhibitor South Asian Population."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine Curriculum and Pakistan Hypertension League",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33787",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Wav",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Waves Stokes-Adams Attacks Pacemaker. Clinical examination and investigative review confirm recognizing independent atrial and ventricular activity on ECG with intermittent syncope indicating urgent temporary and permanent pacemaker implantation. Vitals reveal blood pressure of 135/83 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine complete heart block third-degree av dissociation cannon a waves stokes-adams attacks pacemaker. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Recognizing independent atrial and ventricular activity on ECG with intermittent syncope indicating urgent temporary and permanent pacemaker implantation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recognizing independent atrial and ventricular activity on ECG with intermittent syncope indicating urgent temporary and permanent pacemaker implantation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Waves Stokes-Adams Attacks Pacemaker.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Waves Stokes-Adams Attacks Pacemaker. The cornerstone of management involves recognizing independent atrial and ventricular activity on ECG with intermittent syncope indicating urgent temporary and permanent pacemaker implantation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Waves Stokes-Adams Attacks Pacemaker.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Complete Heart Block Third-Degree AV Dissociation Cannon A Waves Stokes-Adams Attacks Pacemaker."
+    ],
+    "references": [
+      {
+        "label": "UHS Cardiology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33788",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Di",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Digoxin Beta-Blocker Warfarin Anticoagulation. Clinical examination and investigative review confirm controlling ventricular rate with metoprolol or digoxin and initiating anticoagulation adjusted to target INR 2.0 to 3.0 in rheumatic atrial fibrillation. Vitals reveal blood pressure of 136/84 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine atrial fibrillation rapid ventricular response rate control digoxin beta-blocker warfarin anticoagulation. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Controlling ventricular rate with metoprolol or digoxin and initiating anticoagulation adjusted to target INR 2.0 to 3.0 in rheumatic atrial fibrillation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is controlling ventricular rate with metoprolol or digoxin and initiating anticoagulation adjusted to target INR 2.0 to 3.0 in rheumatic atrial fibrillation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Digoxin Beta-Blocker Warfarin Anticoagulation.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Digoxin Beta-Blocker Warfarin Anticoagulation. The cornerstone of management involves controlling ventricular rate with metoprolol or digoxin and initiating anticoagulation adjusted to target INR 2.0 to 3.0 in rheumatic atrial fibrillation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Digoxin Beta-Blocker Warfarin Anticoagulation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Atrial Fibrillation Rapid Ventricular Response Rate Control Digoxin Beta-Blocker Warfarin Anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Guidelines",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33789",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Wate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Water-Hammer Pulse Austin Flint Murmur. Clinical examination and investigative review confirm identifying peripheral vascular signs of severe chronic aortic regurgitation including bounding water-hammer pulse and early diastolic decrescendo murmur. Vitals reveal blood pressure of 137/85 mm Hg, heart rate of 83/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine chronic aortic regurgitation wide pulse pressure corrigan water-hammer pulse austin flint murmur. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Identifying peripheral vascular signs of severe chronic aortic regurgitation including bounding water-hammer pulse and early diastolic decrescendo murmur",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying peripheral vascular signs of severe chronic aortic regurgitation including bounding water-hammer pulse and early diastolic decrescendo murmur. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Water-Hammer Pulse Austin Flint Murmur.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Water-Hammer Pulse Austin Flint Murmur. The cornerstone of management involves identifying peripheral vascular signs of severe chronic aortic regurgitation including bounding water-hammer pulse and early diastolic decrescendo murmur. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Water-Hammer Pulse Austin Flint Murmur.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Aortic Regurgitation Wide Pulse Pressure Corrigan Water-Hammer Pulse Austin Flint Murmur."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33790",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alter",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alternans Emergent Pericardiocentesis. Clinical examination and investigative review confirm performing emergency subxiphoid pericardiocentesis for acute cardiac tamponade showing hypotension jugular venous distension and muffled heart sounds. Vitals reveal blood pressure of 138/86 mm Hg, heart rate of 84/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine cardiac tamponade beck triad pulsus paradoxus electrical alternans emergent pericardiocentesis. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing emergency subxiphoid pericardiocentesis for acute cardiac tamponade showing hypotension jugular venous distension and muffled heart sounds",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing emergency subxiphoid pericardiocentesis for acute cardiac tamponade showing hypotension jugular venous distension and muffled heart sounds. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alternans Emergent Pericardiocentesis.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alternans Emergent Pericardiocentesis. The cornerstone of management involves performing emergency subxiphoid pericardiocentesis for acute cardiac tamponade showing hypotension jugular venous distension and muffled heart sounds. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alternans Emergent Pericardiocentesis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Cardiac Tamponade Beck Triad Pulsus Paradoxus Electrical Alternans Emergent Pericardiocentesis."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Critical Care Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33791",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ult",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ultrasound Low Molecular Weight Heparin. Clinical examination and investigative review confirm confirming deep vein thrombosis on compression venous duplex ultrasound and administering therapeutic weight-adjusted enoxaparin. Vitals reveal blood pressure of 139/87 mm Hg, heart rate of 85/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine deep vein thrombosis virchow triad lower limb edema duplex ultrasound low molecular weight heparin. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Confirming deep vein thrombosis on compression venous duplex ultrasound and administering therapeutic weight-adjusted enoxaparin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming deep vein thrombosis on compression venous duplex ultrasound and administering therapeutic weight-adjusted enoxaparin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ultrasound Low Molecular Weight Heparin.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ultrasound Low Molecular Weight Heparin. The cornerstone of management involves confirming deep vein thrombosis on compression venous duplex ultrasound and administering therapeutic weight-adjusted enoxaparin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ultrasound Low Molecular Weight Heparin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Deep Vein Thrombosis Virchow Triad Lower Limb Edema Duplex Ultrasound Low Molecular Weight Heparin."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33792",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler No",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler Nodes Roth Spots Native Valve Ampicillin Gentamicin. Clinical examination and investigative review confirm diagnosing viridans group streptococcal endocarditis in rheumatic heart valve and administering intravenous benzylpenicillin or ampicillin with gentamicin. Vitals reveal blood pressure of 118/72 mm Hg, heart rate of 86/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine subacute bacterial endocarditis viridans streptococci osler nodes roth spots native valve ampicillin gentamicin. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Diagnosing viridans group streptococcal endocarditis in rheumatic heart valve and administering intravenous benzylpenicillin or ampicillin with gentamicin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnosing viridans group streptococcal endocarditis in rheumatic heart valve and administering intravenous benzylpenicillin or ampicillin with gentamicin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler Nodes Roth Spots Native Valve Ampicillin Gentamicin.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler Nodes Roth Spots Native Valve Ampicillin Gentamicin. The cornerstone of management involves diagnosing viridans group streptococcal endocarditis in rheumatic heart valve and administering intravenous benzylpenicillin or ampicillin with gentamicin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler Nodes Roth Spots Native Valve Ampicillin Gentamicin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Subacute Bacterial Endocarditis Viridans Streptococci Osler Nodes Roth Spots Native Valve Ampicillin Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Microbiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33793",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory Flow Nebulized Salbutamol Ipratropium IV Magnesium. Clinical examination and investigative review confirm managing life-threatening acute asthma flare characterized by exhaustion and silent chest with nebulized bronchodilators IV hydrocortisone and magnesium. Vitals reveal blood pressure of 119/73 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute severe asthma exacerbation silent chest peak expiratory flow nebulized salbutamol ipratropium iv magnesium. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Managing life-threatening acute asthma flare characterized by exhaustion and silent chest with nebulized bronchodilators IV hydrocortisone and magnesium",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is managing life-threatening acute asthma flare characterized by exhaustion and silent chest with nebulized bronchodilators IV hydrocortisone and magnesium. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory Flow Nebulized Salbutamol Ipratropium IV Magnesium.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory Flow Nebulized Salbutamol Ipratropium IV Magnesium. The cornerstone of management involves managing life-threatening acute asthma flare characterized by exhaustion and silent chest with nebulized bronchodilators IV hydrocortisone and magnesium. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory Flow Nebulized Salbutamol Ipratropium IV Magnesium.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Severe Asthma Exacerbation Silent Chest Peak Expiratory Flow Nebulized Salbutamol Ipratropium IV Magnesium."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine and Pakistan Chest Society",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33794",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term Oxygen Therapy Criteria Smoking Cessation. Clinical examination and investigative review confirm evaluating indication for continuous long-term home oxygen therapy based on resting PaO2 below 55 mm Hg or secondary polycythemia in COPD. Vitals reveal blood pressure of 120/74 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine chronic obstructive pulmonary disease cor pulmonale long term oxygen therapy criteria smoking cessation. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Evaluating indication for continuous long-term home oxygen therapy based on resting PaO2 below 55 mm Hg or secondary polycythemia in COPD",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating indication for continuous long-term home oxygen therapy based on resting PaO2 below 55 mm Hg or secondary polycythemia in COPD. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term Oxygen Therapy Criteria Smoking Cessation.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term Oxygen Therapy Criteria Smoking Cessation. The cornerstone of management involves evaluating indication for continuous long-term home oxygen therapy based on resting PaO2 below 55 mm Hg or secondary polycythemia in COPD. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term Oxygen Therapy Criteria Smoking Cessation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Obstructive Pulmonary Disease Cor Pulmonale Long Term Oxygen Therapy Criteria Smoking Cessation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society COPD Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33795",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputum High-Resolution CT Honeycombing Postural Drainage. Clinical examination and investigative review confirm implementing postural drainage with chest physiotherapy and sputum-directed antimicrobial therapy for chronic extensive bronchiectasis. Vitals reveal blood pressure of 121/75 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine bronchiectasis chronic productive cough copious purulent sputum high-resolution ct honeycombing postural drainage. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Implementing postural drainage with chest physiotherapy and sputum-directed antimicrobial therapy for chronic extensive bronchiectasis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is implementing postural drainage with chest physiotherapy and sputum-directed antimicrobial therapy for chronic extensive bronchiectasis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputum High-Resolution CT Honeycombing Postural Drainage.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputum High-Resolution CT Honeycombing Postural Drainage. The cornerstone of management involves implementing postural drainage with chest physiotherapy and sputum-directed antimicrobial therapy for chronic extensive bronchiectasis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputum High-Resolution CT Honeycombing Postural Drainage.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Bronchiectasis Chronic Productive Cough Copious Purulent Sputum High-Resolution CT Honeycombing Postural Drainage."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33796",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid p",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid pH Less Than 7.2 Low Glucose Intercostal Tube Drainage. Clinical examination and investigative review confirm inserting intercostal underwater-seal chest tube drain for complicated parapneumonic effusion with pleural fluid pH below 7.20 and positive gram stain. Vitals reveal blood pressure of 122/76 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine empyema thoracis parapneumonic effusion turbid pleural fluid ph less than 7.2 low glucose intercostal tube drainage. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Inserting intercostal underwater-seal chest tube drain for complicated parapneumonic effusion with pleural fluid pH below 7.20 and positive gram stain",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is inserting intercostal underwater-seal chest tube drain for complicated parapneumonic effusion with pleural fluid pH below 7.20 and positive gram stain. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid pH Less Than 7.2 Low Glucose Intercostal Tube Drainage.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid pH Less Than 7.2 Low Glucose Intercostal Tube Drainage. The cornerstone of management involves inserting intercostal underwater-seal chest tube drain for complicated parapneumonic effusion with pleural fluid pH below 7.20 and positive gram stain. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid pH Less Than 7.2 Low Glucose Intercostal Tube Drainage.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Empyema Thoracis Parapneumonic Effusion Turbid Pleural Fluid pH Less Than 7.2 Low Glucose Intercostal Tube Drainage."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33797",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Ru",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Rusty Sputum Consolidation Amoxicillin-Clavulanate. Clinical examination and investigative review confirm prescribing oral amoxicillin-clavulanic acid or ceftriaxone for lobar pneumonia with bronchial breathing and dullness to percussion on chest exam. Vitals reveal blood pressure of 123/77 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine community-acquired lobar pneumonia streptococcus pneumoniae rusty sputum consolidation amoxicillin-clavulanate. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Prescribing oral amoxicillin-clavulanic acid or ceftriaxone for lobar pneumonia with bronchial breathing and dullness to percussion on chest exam",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral amoxicillin-clavulanic acid or ceftriaxone for lobar pneumonia with bronchial breathing and dullness to percussion on chest exam. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Rusty Sputum Consolidation Amoxicillin-Clavulanate.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Rusty Sputum Consolidation Amoxicillin-Clavulanate. The cornerstone of management involves prescribing oral amoxicillin-clavulanic acid or ceftriaxone for lobar pneumonia with bronchial breathing and dullness to percussion on chest exam. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Rusty Sputum Consolidation Amoxicillin-Clavulanate.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Community-Acquired Lobar Pneumonia Streptococcus Pneumoniae Rusty Sputum Consolidation Amoxicillin-Clavulanate."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33798",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small Rounded Opacities Restrictive Spirometry. Clinical examination and investigative review confirm identifying occupational coal workers pneumoconiosis on chest radiograph showing nodular opacities in upper lung zones with restrictive pulmonary deficit. Vitals reveal blood pressure of 124/78 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine coal workers pneumoconiosis progressive massive fibrosis small rounded opacities restrictive spirometry. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Identifying occupational coal workers pneumoconiosis on chest radiograph showing nodular opacities in upper lung zones with restrictive pulmonary deficit",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying occupational coal workers pneumoconiosis on chest radiograph showing nodular opacities in upper lung zones with restrictive pulmonary deficit. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small Rounded Opacities Restrictive Spirometry.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small Rounded Opacities Restrictive Spirometry. The cornerstone of management involves identifying occupational coal workers pneumoconiosis on chest radiograph showing nodular opacities in upper lung zones with restrictive pulmonary deficit. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small Rounded Opacities Restrictive Spirometry.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Coal Workers Pneumoconiosis Progressive Massive Fibrosis Small Rounded Opacities Restrictive Spirometry."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine and Pulmonology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33799",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deami",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deaminase ADA Lymphocytic Exudate. Clinical examination and investigative review confirm confirming tuberculous pleurisy based on pleural fluid adenosine deaminase greater than 40 U per L and predominant lymphocytic exudative response. Vitals reveal blood pressure of 125/79 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine tuberculous pleural effusion high protein high adenosine deaminase ada lymphocytic exudate. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Confirming tuberculous pleurisy based on pleural fluid adenosine deaminase greater than 40 U per L and predominant lymphocytic exudative response",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming tuberculous pleurisy based on pleural fluid adenosine deaminase greater than 40 U per L and predominant lymphocytic exudative response. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deaminase ADA Lymphocytic Exudate.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deaminase ADA Lymphocytic Exudate. The cornerstone of management involves confirming tuberculous pleurisy based on pleural fluid adenosine deaminase greater than 40 U per L and predominant lymphocytic exudative response. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deaminase ADA Lymphocytic Exudate.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Tuberculous Pleural Effusion High Protein High Adenosine Deaminase ADA Lymphocytic Exudate."
+    ],
+    "references": [
+      {
+        "label": "UHS Pulmonology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33800",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dry Cough Restrictive Spirometry High-Resolution CT. Clinical examination and investigative review confirm identifying bilateral bibasilar fine end-inspiratory velcro crackles and digital clubbing indicative of idiopathic pulmonary fibrosis. Vitals reveal blood pressure of 126/80 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine idiopathic pulmonary fibrosis bilateral basal velvocrackles dry cough restrictive spirometry high-resolution ct. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Identifying bilateral bibasilar fine end-inspiratory velcro crackles and digital clubbing indicative of idiopathic pulmonary fibrosis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying bilateral bibasilar fine end-inspiratory velcro crackles and digital clubbing indicative of idiopathic pulmonary fibrosis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dry Cough Restrictive Spirometry High-Resolution CT.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dry Cough Restrictive Spirometry High-Resolution CT. The cornerstone of management involves identifying bilateral bibasilar fine end-inspiratory velcro crackles and digital clubbing indicative of idiopathic pulmonary fibrosis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dry Cough Restrictive Spirometry High-Resolution CT.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Idiopathic Pulmonary Fibrosis Bilateral Basal Velvocrackles Dry Cough Restrictive Spirometry High-Resolution CT."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33801",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning B",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning Bleeding Side Down Rigid Bronchoscopy. Clinical examination and investigative review confirm positioning patient with bleeding lung dependent in lateral decubitus position and preparing for urgent bronchial artery angiography embolization. Vitals reveal blood pressure of 127/81 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine massive hemoptysis bronchial artery embolization positioning bleeding side down rigid bronchoscopy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Positioning patient with bleeding lung dependent in lateral decubitus position and preparing for urgent bronchial artery angiography embolization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is positioning patient with bleeding lung dependent in lateral decubitus position and preparing for urgent bronchial artery angiography embolization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning Bleeding Side Down Rigid Bronchoscopy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning Bleeding Side Down Rigid Bronchoscopy. The cornerstone of management involves positioning patient with bleeding lung dependent in lateral decubitus position and preparing for urgent bronchial artery angiography embolization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning Bleeding Side Down Rigid Bronchoscopy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Massive Hemoptysis Bronchial Artery Embolization Positioning Bleeding Side Down Rigid Bronchoscopy."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Pulmonology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33802",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture Chest Tube Aspiration Technique. Clinical examination and investigative review confirm performing needle decompression followed by intercostal tube insertion at fourth or fifth intercostal space anterior axillary line for large pneumothorax. Vitals reveal blood pressure of 128/82 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine spontaneous pneumothorax primary vs secondary pleural puncture chest tube aspiration technique. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Performing needle decompression followed by intercostal tube insertion at fourth or fifth intercostal space anterior axillary line for large pneumothorax",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing needle decompression followed by intercostal tube insertion at fourth or fifth intercostal space anterior axillary line for large pneumothorax. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture Chest Tube Aspiration Technique.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture Chest Tube Aspiration Technique. The cornerstone of management involves performing needle decompression followed by intercostal tube insertion at fourth or fifth intercostal space anterior axillary line for large pneumothorax. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture Chest Tube Aspiration Technique.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Spontaneous Pneumothorax Primary vs Secondary Pleural Puncture Chest Tube Aspiration Technique."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery and Pulmonology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33803",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load Tenofovir Disoproxil Antiviral Therapy. Clinical examination and investigative review confirm initiating oral tenofovir disoproxil fumarate or entecavir for chronic hepatitis B with high serum HBV DNA and elevated ALT. Vitals reveal blood pressure of 129/83 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine chronic hepatitis b virus infection hbeag positive viral load tenofovir disoproxil antiviral therapy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Initiating oral tenofovir disoproxil fumarate or entecavir for chronic hepatitis B with high serum HBV DNA and elevated ALT",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral tenofovir disoproxil fumarate or entecavir for chronic hepatitis B with high serum HBV DNA and elevated ALT. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load Tenofovir Disoproxil Antiviral Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load Tenofovir Disoproxil Antiviral Therapy. The cornerstone of management involves initiating oral tenofovir disoproxil fumarate or entecavir for chronic hepatitis B with high serum HBV DNA and elevated ALT. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load Tenofovir Disoproxil Antiviral Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Hepatitis B Virus Infection HBeAg Positive Viral Load Tenofovir Disoproxil Antiviral Therapy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for the Study of Liver Diseases (PSSLD) Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33804",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals Sofosbuvir Velpatasvir Sustained Virologic Response. Clinical examination and investigative review confirm prescribing pangenotypic oral sofosbuvir-velpatasvir for 12 weeks to achieve sustained virologic response in chronic hepatitis C infection. Vitals reveal blood pressure of 130/84 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine chronic hepatitis c virus genotype 3 direct-acting antivirals sofosbuvir velpatasvir sustained virologic response. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Prescribing pangenotypic oral sofosbuvir-velpatasvir for 12 weeks to achieve sustained virologic response in chronic hepatitis C infection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing pangenotypic oral sofosbuvir-velpatasvir for 12 weeks to achieve sustained virologic response in chronic hepatitis C infection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals Sofosbuvir Velpatasvir Sustained Virologic Response.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals Sofosbuvir Velpatasvir Sustained Virologic Response. The cornerstone of management involves prescribing pangenotypic oral sofosbuvir-velpatasvir for 12 weeks to achieve sustained virologic response in chronic hepatitis C infection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals Sofosbuvir Velpatasvir Sustained Virologic Response.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Hepatitis C Virus Genotype 3 Direct-Acting Antivirals Sofosbuvir Velpatasvir Sustained Virologic Response."
+    ],
+    "references": [
+      {
+        "label": "PSSLD Guidelines and UHS Internal Medicine",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33805",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Var",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Variceal Ligation Terlipressin Propranolol Prophylaxis. Clinical examination and investigative review confirm combining intravenous terlipressin infusion with emergent endoscopic band ligation followed by nonselective beta-blocker secondary prophylaxis. Vitals reveal blood pressure of 131/85 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine portal hypertension bleeding esophageal varices endoscopic variceal ligation terlipressin propranolol prophylaxis. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Combining intravenous terlipressin infusion with emergent endoscopic band ligation followed by nonselective beta-blocker secondary prophylaxis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is combining intravenous terlipressin infusion with emergent endoscopic band ligation followed by nonselective beta-blocker secondary prophylaxis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Variceal Ligation Terlipressin Propranolol Prophylaxis.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Variceal Ligation Terlipressin Propranolol Prophylaxis. The cornerstone of management involves combining intravenous terlipressin infusion with emergent endoscopic band ligation followed by nonselective beta-blocker secondary prophylaxis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Variceal Ligation Terlipressin Propranolol Prophylaxis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Portal Hypertension Bleeding Esophageal Varices Endoscopic Variceal Ligation Terlipressin Propranolol Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "PSSLD and UHS Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33806",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammonia Lactulose Rifaximin Therapy. Clinical examination and investigative review confirm titrating oral lactulose to produce 2 to 3 soft acidic bowel movements daily and adding rifaximin for recurrent overt hepatic encephalopathy. Vitals reveal blood pressure of 132/86 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine hepatic encephalopathy cirrhosis asterixis elevated blood ammonia lactulose rifaximin therapy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Titrating oral lactulose to produce 2 to 3 soft acidic bowel movements daily and adding rifaximin for recurrent overt hepatic encephalopathy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is titrating oral lactulose to produce 2 to 3 soft acidic bowel movements daily and adding rifaximin for recurrent overt hepatic encephalopathy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammonia Lactulose Rifaximin Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammonia Lactulose Rifaximin Therapy. The cornerstone of management involves titrating oral lactulose to produce 2 to 3 soft acidic bowel movements daily and adding rifaximin for recurrent overt hepatic encephalopathy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammonia Lactulose Rifaximin Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Hepatic Encephalopathy Cirrhosis Asterixis Elevated Blood Ammonia Lactulose Rifaximin Therapy."
+    ],
+    "references": [
+      {
+        "label": "PSSLD Cirrhosis Management Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33807",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Trans",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Transglutaminase Subtotal Villous Atrophy. Clinical examination and investigative review confirm recommending strict lifelong gluten-free diet for histologically proven celiac sprue demonstrating crypt hyperplasia and villous blunting. Vitals reveal blood pressure of 133/87 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine celiac disease malabsorption chronic diarrhea iga tissue transglutaminase subtotal villous atrophy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Recommending strict lifelong gluten-free diet for histologically proven celiac sprue demonstrating crypt hyperplasia and villous blunting",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending strict lifelong gluten-free diet for histologically proven celiac sprue demonstrating crypt hyperplasia and villous blunting. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Transglutaminase Subtotal Villous Atrophy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Transglutaminase Subtotal Villous Atrophy. The cornerstone of management involves recommending strict lifelong gluten-free diet for histologically proven celiac sprue demonstrating crypt hyperplasia and villous blunting. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Transglutaminase Subtotal Villous Atrophy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Celiac Disease Malabsorption Chronic Diarrhea IgA Tissue Transglutaminase Subtotal Villous Atrophy."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33808",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal Pain Altered Bowel Habit Antispasmodics. Clinical examination and investigative review confirm applying Rome IV criteria to reassure patient with recurrent abdominal pain related to defecation without organic alarm features. Vitals reveal blood pressure of 134/72 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine irritable bowel syndrome rome iv diagnostic criteria abdominal pain altered bowel habit antispasmodics. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Applying Rome IV criteria to reassure patient with recurrent abdominal pain related to defecation without organic alarm features",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying Rome IV criteria to reassure patient with recurrent abdominal pain related to defecation without organic alarm features. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal Pain Altered Bowel Habit Antispasmodics.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal Pain Altered Bowel Habit Antispasmodics. The cornerstone of management involves applying Rome IV criteria to reassure patient with recurrent abdominal pain related to defecation without organic alarm features. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal Pain Altered Bowel Habit Antispasmodics.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Irritable Bowel Syndrome Rome IV Diagnostic Criteria Abdominal Pain Altered Bowel Habit Antispasmodics."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33809",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus Topical 5-ASA Mesalamine Suppositories. Clinical examination and investigative review confirm prescribing rectal mesalamine suppositories or enemas as first-line therapy to induce and maintain remission in distal ulcerative colitis. Vitals reveal blood pressure of 135/73 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine ulcerative colitis proctosigmoiditis bloody diarrhea tenesmus topical 5-asa mesalamine suppositories. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Prescribing rectal mesalamine suppositories or enemas as first-line therapy to induce and maintain remission in distal ulcerative colitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing rectal mesalamine suppositories or enemas as first-line therapy to induce and maintain remission in distal ulcerative colitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus Topical 5-ASA Mesalamine Suppositories.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus Topical 5-ASA Mesalamine Suppositories. The cornerstone of management involves prescribing rectal mesalamine suppositories or enemas as first-line therapy to induce and maintain remission in distal ulcerative colitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus Topical 5-ASA Mesalamine Suppositories.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Ulcerative Colitis Proctosigmoiditis Bloody Diarrhea Tenesmus Topical 5-ASA Mesalamine Suppositories."
+    ],
+    "references": [
+      {
+        "label": "UHS Gastroenterology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33810",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound Biliary Tree Early Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm performing index admission laparoscopic cholecystectomy after resolution of mild acute biliary pancreatitis to prevent fatal recurrence. Vitals reveal blood pressure of 136/74 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute gallstone pancreatitis modified glasgow score ultrasound biliary tree early laparoscopic cholecystectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing index admission laparoscopic cholecystectomy after resolution of mild acute biliary pancreatitis to prevent fatal recurrence",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing index admission laparoscopic cholecystectomy after resolution of mild acute biliary pancreatitis to prevent fatal recurrence. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound Biliary Tree Early Laparoscopic Cholecystectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound Biliary Tree Early Laparoscopic Cholecystectomy. The cornerstone of management involves performing index admission laparoscopic cholecystectomy after resolution of mild acute biliary pancreatitis to prevent fatal recurrence. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound Biliary Tree Early Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Gallstone Pancreatitis Modified Glasgow Score Ultrasound Biliary Tree Early Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery and Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33811",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater Than 1.1 Spironolactone Furosemide. Clinical examination and investigative review confirm prescribing dual diuretic regimen with spironolactone and furosemide in 100:40 ratio for portal hypertension ascites with SAAG above 1.1 g per dL. Vitals reveal blood pressure of 137/75 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine cirrhosis ascites serum-ascites albumin gradient saag greater than 1.1 spironolactone furosemide. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Prescribing dual diuretic regimen with spironolactone and furosemide in 100:40 ratio for portal hypertension ascites with SAAG above 1.1 g per dL",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing dual diuretic regimen with spironolactone and furosemide in 100:40 ratio for portal hypertension ascites with SAAG above 1.1 g per dL. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater Than 1.1 Spironolactone Furosemide.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater Than 1.1 Spironolactone Furosemide. The cornerstone of management involves prescribing dual diuretic regimen with spironolactone and furosemide in 100:40 ratio for portal hypertension ascites with SAAG above 1.1 g per dL. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater Than 1.1 Spironolactone Furosemide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Cirrhosis Ascites Serum-Ascites Albumin Gradient SAAG Greater Than 1.1 Spironolactone Furosemide."
+    ],
+    "references": [
+      {
+        "label": "PSSLD Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33812",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic Ulcer Endoscopic Hemoclips Epinephrine Injection. Clinical examination and investigative review confirm administering intravenous pantoprazole infusion following dual endoscopic hemoclip application for Forrest class Ia active arterial bleeding ulcer. Vitals reveal blood pressure of 138/76 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine upper gastrointestinal bleeding forrest classification peptic ulcer endoscopic hemoclips epinephrine injection. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Administering intravenous pantoprazole infusion following dual endoscopic hemoclip application for Forrest class Ia active arterial bleeding ulcer",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous pantoprazole infusion following dual endoscopic hemoclip application for Forrest class Ia active arterial bleeding ulcer. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic Ulcer Endoscopic Hemoclips Epinephrine Injection.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic Ulcer Endoscopic Hemoclips Epinephrine Injection. The cornerstone of management involves administering intravenous pantoprazole infusion following dual endoscopic hemoclip application for Forrest class Ia active arterial bleeding ulcer. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic Ulcer Endoscopic Hemoclips Epinephrine Injection.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Upper Gastrointestinal Bleeding Forrest Classification Peptic Ulcer Endoscopic Hemoclips Epinephrine Injection."
+    ],
+    "references": [
+      {
+        "label": "UHS Gastroenterology and Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33813",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbital Puffiness Low Serum C3 ASO Titer. Clinical examination and investigative review confirm managing post-streptococcal glomerulonephritis in child or young adult with salt restriction loop diuretics and monitoring C3 normalization. Vitals reveal blood pressure of 139/77 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute post-streptococcal glomerulonephritis hematuria periorbital puffiness low serum c3 aso titer. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Managing post-streptococcal glomerulonephritis in child or young adult with salt restriction loop diuretics and monitoring C3 normalization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is managing post-streptococcal glomerulonephritis in child or young adult with salt restriction loop diuretics and monitoring C3 normalization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbital Puffiness Low Serum C3 ASO Titer.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbital Puffiness Low Serum C3 ASO Titer. The cornerstone of management involves managing post-streptococcal glomerulonephritis in child or young adult with salt restriction loop diuretics and monitoring C3 normalization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbital Puffiness Low Serum C3 ASO Titer.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Post-Streptococcal Glomerulonephritis Hematuria Periorbital Puffiness Low Serum C3 ASO Titer."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Nephrology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33814",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Prote",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Proteinuria Hyperlipidemia Prophylactic Anticoagulation. Clinical examination and investigative review confirm evaluating indication for therapeutic anticoagulation in membranous nephropathy with severe hypoalbuminemia below 2.0 g per dL. Vitals reveal blood pressure of 118/78 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine adult nephrotic syndrome membranous glomerulopathy heavy proteinuria hyperlipidemia prophylactic anticoagulation. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Evaluating indication for therapeutic anticoagulation in membranous nephropathy with severe hypoalbuminemia below 2.0 g per dL",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating indication for therapeutic anticoagulation in membranous nephropathy with severe hypoalbuminemia below 2.0 g per dL. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Proteinuria Hyperlipidemia Prophylactic Anticoagulation.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Proteinuria Hyperlipidemia Prophylactic Anticoagulation. The cornerstone of management involves evaluating indication for therapeutic anticoagulation in membranous nephropathy with severe hypoalbuminemia below 2.0 g per dL. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Proteinuria Hyperlipidemia Prophylactic Anticoagulation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Adult Nephrotic Syndrome Membranous Glomerulopathy Heavy Proteinuria Hyperlipidemia Prophylactic Anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33815",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arterioven",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arteriovenous Fistula Hemodialysis Preparation. Clinical examination and investigative review confirm creating radiocephalic arteriovenous fistula at least 6 months prior to anticipated start of maintenance hemodialysis in progressive CKD. Vitals reveal blood pressure of 119/79 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine chronic kidney disease stage 5 diabetic nephropathy arteriovenous fistula hemodialysis preparation. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Creating radiocephalic arteriovenous fistula at least 6 months prior to anticipated start of maintenance hemodialysis in progressive CKD",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is creating radiocephalic arteriovenous fistula at least 6 months prior to anticipated start of maintenance hemodialysis in progressive CKD. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arteriovenous Fistula Hemodialysis Preparation.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arteriovenous Fistula Hemodialysis Preparation. The cornerstone of management involves creating radiocephalic arteriovenous fistula at least 6 months prior to anticipated start of maintenance hemodialysis in progressive CKD. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arteriovenous Fistula Hemodialysis Preparation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Chronic Kidney Disease Stage 5 Diabetic Nephropathy Arteriovenous Fistula Hemodialysis Preparation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33816",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor Lisinopril Glomerular Hyperfiltration. Clinical examination and investigative review confirm initiating lisinopril to decrease intraglomerular pressure and retard diabetic microalbuminuria progression independent of systemic blood pressure. Vitals reveal blood pressure of 120/80 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine diabetic nephropathy persistent microalbuminuria ace-inhibitor lisinopril glomerular hyperfiltration. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Initiating lisinopril to decrease intraglomerular pressure and retard diabetic microalbuminuria progression independent of systemic blood pressure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating lisinopril to decrease intraglomerular pressure and retard diabetic microalbuminuria progression independent of systemic blood pressure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor Lisinopril Glomerular Hyperfiltration.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor Lisinopril Glomerular Hyperfiltration. The cornerstone of management involves initiating lisinopril to decrease intraglomerular pressure and retard diabetic microalbuminuria progression independent of systemic blood pressure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor Lisinopril Glomerular Hyperfiltration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Diabetic Nephropathy Persistent Microalbuminuria ACE-Inhibitor Lisinopril Glomerular Hyperfiltration."
+    ],
+    "references": [
+      {
+        "label": "UHS Internal Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33817",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum Beta-Lactamase E Coli Carbapenem Meropenem. Clinical examination and investigative review confirm removing indwelling catheter and administering IV carbapenem for complicated pyelonephritis caused by ESBL-producing Escherichia coli. Vitals reveal blood pressure of 121/81 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine catheter-associated urinary tract infection extended spectrum beta-lactamase e coli carbapenem meropenem. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Removing indwelling catheter and administering IV carbapenem for complicated pyelonephritis caused by ESBL-producing Escherichia coli",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is removing indwelling catheter and administering IV carbapenem for complicated pyelonephritis caused by ESBL-producing Escherichia coli. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum Beta-Lactamase E Coli Carbapenem Meropenem.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum Beta-Lactamase E Coli Carbapenem Meropenem. The cornerstone of management involves removing indwelling catheter and administering IV carbapenem for complicated pyelonephritis caused by ESBL-producing Escherichia coli. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum Beta-Lactamase E Coli Carbapenem Meropenem.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Catheter-Associated Urinary Tract Infection Extended Spectrum Beta-Lactamase E Coli Carbapenem Meropenem."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Microbiology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33818",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calciu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calcium Gluconate Dialysis Urgency. Clinical examination and investigative review confirm administering 10 percent calcium gluconate to prevent cardiac arrest in hyperkalemic renal failure while preparing for urgent hemodialysis. Vitals reveal blood pressure of 122/82 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute hyperkalemia renal failure tall tented t waves iv calcium gluconate dialysis urgency. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Administering 10 percent calcium gluconate to prevent cardiac arrest in hyperkalemic renal failure while preparing for urgent hemodialysis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 10 percent calcium gluconate to prevent cardiac arrest in hyperkalemic renal failure while preparing for urgent hemodialysis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calcium Gluconate Dialysis Urgency.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calcium Gluconate Dialysis Urgency. The cornerstone of management involves administering 10 percent calcium gluconate to prevent cardiac arrest in hyperkalemic renal failure while preparing for urgent hemodialysis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calcium Gluconate Dialysis Urgency.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Hyperkalemia Renal Failure Tall Tented T Waves IV Calcium Gluconate Dialysis Urgency."
+    ],
+    "references": [
+      {
+        "label": "UHS Critical Care and Nephrology Standards",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33819",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicity Muddy Brown Granular Casts. Clinical examination and investigative review confirm discontinuing aminoglycoside and monitoring urine output for non-oliguric acute tubular necrosis showing muddy brown epithelial casts. Vitals reveal blood pressure of 123/83 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine acute tubular necrosis aminoglycoside gentamicin nephrotoxicity muddy brown granular casts. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Discontinuing aminoglycoside and monitoring urine output for non-oliguric acute tubular necrosis showing muddy brown epithelial casts",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is discontinuing aminoglycoside and monitoring urine output for non-oliguric acute tubular necrosis showing muddy brown epithelial casts. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicity Muddy Brown Granular Casts.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicity Muddy Brown Granular Casts. The cornerstone of management involves discontinuing aminoglycoside and monitoring urine output for non-oliguric acute tubular necrosis showing muddy brown epithelial casts. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicity Muddy Brown Granular Casts.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Acute Tubular Necrosis Aminoglycoside Gentamicin Nephrotoxicity Muddy Brown Granular Casts."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Pharmacology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33820",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT KUB Alpha-Blocker Tamsulosin. Clinical examination and investigative review confirm prescribing oral tamsulosin medical expulsive therapy for uncomplicated distal ureteric stone measuring 5 to 6 millimeters. Vitals reveal blood pressure of 124/84 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine renal calculus nephrolithiasis calcium oxalate non-contrast ct kub alpha-blocker tamsulosin. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Prescribing oral tamsulosin medical expulsive therapy for uncomplicated distal ureteric stone measuring 5 to 6 millimeters",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral tamsulosin medical expulsive therapy for uncomplicated distal ureteric stone measuring 5 to 6 millimeters. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT KUB Alpha-Blocker Tamsulosin.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT KUB Alpha-Blocker Tamsulosin. The cornerstone of management involves prescribing oral tamsulosin medical expulsive therapy for uncomplicated distal ureteric stone measuring 5 to 6 millimeters. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT KUB Alpha-Blocker Tamsulosin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Renal Calculus Nephrolithiasis Calcium Oxalate Non-Contrast CT KUB Alpha-Blocker Tamsulosin."
+    ],
+    "references": [
+      {
+        "label": "UHS Urology and Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33821",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluore",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluorescence Mycophenolate Cyclophosphamide. Clinical examination and investigative review confirm performing percutaneous renal biopsy to identify class IV diffuse proliferative lupus nephritis and guiding aggressive immunosuppressive therapy. Vitals reveal blood pressure of 125/85 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine lupus nephritis proliferative class iv full house immunofluorescence mycophenolate cyclophosphamide. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Performing percutaneous renal biopsy to identify class IV diffuse proliferative lupus nephritis and guiding aggressive immunosuppressive therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing percutaneous renal biopsy to identify class IV diffuse proliferative lupus nephritis and guiding aggressive immunosuppressive therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluorescence Mycophenolate Cyclophosphamide.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluorescence Mycophenolate Cyclophosphamide. The cornerstone of management involves performing percutaneous renal biopsy to identify class IV diffuse proliferative lupus nephritis and guiding aggressive immunosuppressive therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluorescence Mycophenolate Cyclophosphamide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Lupus Nephritis Proliferative Class IV Full House Immunofluorescence Mycophenolate Cyclophosphamide."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33822",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis S",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis Sloughed Papillae in Urine. Clinical examination and investigative review confirm counseling cessation of nonsteroidal anti-inflammatory drugs in patient presenting with sterile pyuria and renal papillary necrosis. Vitals reveal blood pressure of 126/86 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine analgesic nephropathy chronic nsaid abuse papillary necrosis sloughed papillae in urine. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Counseling cessation of nonsteroidal anti-inflammatory drugs in patient presenting with sterile pyuria and renal papillary necrosis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counseling cessation of nonsteroidal anti-inflammatory drugs in patient presenting with sterile pyuria and renal papillary necrosis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis Sloughed Papillae in Urine.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis Sloughed Papillae in Urine. The cornerstone of management involves counseling cessation of nonsteroidal anti-inflammatory drugs in patient presenting with sterile pyuria and renal papillary necrosis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis Sloughed Papillae in Urine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Analgesic Nephropathy Chronic NSAID Abuse Papillary Necrosis Sloughed Papillae in Urine."
+    ],
+    "references": [
+      {
+        "label": "UHS Medicine and Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33823",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Lapar",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Laparoscopic Appendectomy Histopathology. Clinical examination and investigative review confirm confirming clinical diagnosis of acute appendicitis and performing prompt laparoscopic or open appendectomy through Gridiron incision. Vitals reveal blood pressure of 127/87 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery acute appendicitis mcburney point tenderness rovsing sign laparoscopic appendectomy histopathology. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Confirming clinical diagnosis of acute appendicitis and performing prompt laparoscopic or open appendectomy through Gridiron incision",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming clinical diagnosis of acute appendicitis and performing prompt laparoscopic or open appendectomy through Gridiron incision. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Laparoscopic Appendectomy Histopathology.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Laparoscopic Appendectomy Histopathology. The cornerstone of management involves confirming clinical diagnosis of acute appendicitis and performing prompt laparoscopic or open appendectomy through Gridiron incision. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Laparoscopic Appendectomy Histopathology.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Appendicitis McBurney Point Tenderness Rovsing Sign Laparoscopic Appendectomy Histopathology."
+    ],
+    "references": [
+      {
+        "label": "UHS Final Professional MBBS Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33824",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladde",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladder Wall Thickening Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm demonstrating acoustic shadowing gallstones and thickened gallbladder wall on ultrasound followed by laparoscopic cholecystectomy. Vitals reveal blood pressure of 128/72 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery acute calculous cholecystitis murphy sign ultrasound gallbladder wall thickening laparoscopic cholecystectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Demonstrating acoustic shadowing gallstones and thickened gallbladder wall on ultrasound followed by laparoscopic cholecystectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is demonstrating acoustic shadowing gallstones and thickened gallbladder wall on ultrasound followed by laparoscopic cholecystectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladder Wall Thickening Laparoscopic Cholecystectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladder Wall Thickening Laparoscopic Cholecystectomy. The cornerstone of management involves demonstrating acoustic shadowing gallstones and thickened gallbladder wall on ultrasound followed by laparoscopic cholecystectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladder Wall Thickening Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Calculous Cholecystitis Murphy Sign Ultrasound Gallbladder Wall Thickening Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33825",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rig",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rigidity Subdiaphragmatic Air Graham Patch. Clinical examination and investigative review confirm performing exploratory laparotomy with live omental Graham patch repair for perforated duodenal ulcer following vigorous fluid resuscitation. Vitals reveal blood pressure of 129/73 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery perforated peptic ulcer sudden onset severe epigastric pain rigidity subdiaphragmatic air graham patch. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing exploratory laparotomy with live omental Graham patch repair for perforated duodenal ulcer following vigorous fluid resuscitation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing exploratory laparotomy with live omental Graham patch repair for perforated duodenal ulcer following vigorous fluid resuscitation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rigidity Subdiaphragmatic Air Graham Patch.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rigidity Subdiaphragmatic Air Graham Patch. The cornerstone of management involves performing exploratory laparotomy with live omental Graham patch repair for perforated duodenal ulcer following vigorous fluid resuscitation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rigidity Subdiaphragmatic Air Graham Patch.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Perforated Peptic Ulcer Sudden Onset Severe Epigastric Pain Rigidity Subdiaphragmatic Air Graham Patch."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33826",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Le",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Levels Conservative Drip and Suck. Clinical examination and investigative review confirm managing uncomplicated adhesive intestinal obstruction with nasogastric decompression and intravenous fluids while watching for strangulation. Vitals reveal blood pressure of 130/74 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery acute intestinal obstruction small bowel adhesions air-fluid levels conservative drip and suck. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Managing uncomplicated adhesive intestinal obstruction with nasogastric decompression and intravenous fluids while watching for strangulation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is managing uncomplicated adhesive intestinal obstruction with nasogastric decompression and intravenous fluids while watching for strangulation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Levels Conservative Drip and Suck.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Levels Conservative Drip and Suck. The cornerstone of management involves managing uncomplicated adhesive intestinal obstruction with nasogastric decompression and intravenous fluids while watching for strangulation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Levels Conservative Drip and Suck.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Intestinal Obstruction Small Bowel Adhesions Air-Fluid Levels Conservative Drip and Suck."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33827",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica Endoscopic Biopsy Partial Gastrectomy. Clinical examination and investigative review confirm performing endoscopic biopsy and staging contrast CT followed by subtotal gastrectomy with D2 lymph node dissection for antral carcinoma. Vitals reveal blood pressure of 131/75 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery carcinoma stomach distal gastric antral tumor linitis plastica endoscopic biopsy partial gastrectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Performing endoscopic biopsy and staging contrast CT followed by subtotal gastrectomy with D2 lymph node dissection for antral carcinoma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing endoscopic biopsy and staging contrast CT followed by subtotal gastrectomy with D2 lymph node dissection for antral carcinoma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica Endoscopic Biopsy Partial Gastrectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica Endoscopic Biopsy Partial Gastrectomy. The cornerstone of management involves performing endoscopic biopsy and staging contrast CT followed by subtotal gastrectomy with D2 lymph node dissection for antral carcinoma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica Endoscopic Biopsy Partial Gastrectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Carcinoma Stomach Distal Gastric Antral Tumor Linitis Plastica Endoscopic Biopsy Partial Gastrectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgical Oncology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33828",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR Albendazole Anaphylaxis Risk. Clinical examination and investigative review confirm initiating oral albendazole before puncture aspiration injection of scolicidal agent and re-aspiration (PAIR) for hepatic hydatid disease. Vitals reveal blood pressure of 132/76 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery hydatid cyst liver echinococcus granulosus daughter cysts pair albendazole anaphylaxis risk. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Initiating oral albendazole before puncture aspiration injection of scolicidal agent and re-aspiration (PAIR) for hepatic hydatid disease",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral albendazole before puncture aspiration injection of scolicidal agent and re-aspiration (PAIR) for hepatic hydatid disease. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR Albendazole Anaphylaxis Risk.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR Albendazole Anaphylaxis Risk. The cornerstone of management involves initiating oral albendazole before puncture aspiration injection of scolicidal agent and re-aspiration (PAIR) for hepatic hydatid disease. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR Albendazole Anaphylaxis Risk.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Hydatid Cyst Liver Echinococcus Granulosus Daughter Cysts PAIR Albendazole Anaphylaxis Risk."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33829",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mamm",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mammography Core Needle Biopsy. Clinical examination and investigative review confirm conducting triple assessment with clinical breast examination bilateral imaging and ultrasound-guided core biopsy for suspicious breast mass. Vitals reveal blood pressure of 133/77 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery palpable breast lump triple assessment clinical ultrasound mammography core needle biopsy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Conducting triple assessment with clinical breast examination bilateral imaging and ultrasound-guided core biopsy for suspicious breast mass",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is conducting triple assessment with clinical breast examination bilateral imaging and ultrasound-guided core biopsy for suspicious breast mass. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mammography Core Needle Biopsy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mammography Core Needle Biopsy. The cornerstone of management involves conducting triple assessment with clinical breast examination bilateral imaging and ultrasound-guided core biopsy for suspicious breast mass. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mammography Core Needle Biopsy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Palpable Breast Lump Triple Assessment Clinical Ultrasound Mammography Core Needle Biopsy."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery and Surgical Oncology Standards",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33830",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms Subtotal vs Total Thyroidectomy. Clinical examination and investigative review confirm performing total thyroidectomy while identifying and preserving recurrent laryngeal nerves and superior and inferior parathyroid glands. Vitals reveal blood pressure of 134/78 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery multinodular goiter retrosternal extension compressive symptoms subtotal vs total thyroidectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing total thyroidectomy while identifying and preserving recurrent laryngeal nerves and superior and inferior parathyroid glands",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing total thyroidectomy while identifying and preserving recurrent laryngeal nerves and superior and inferior parathyroid glands. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms Subtotal vs Total Thyroidectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms Subtotal vs Total Thyroidectomy. The cornerstone of management involves performing total thyroidectomy while identifying and preserving recurrent laryngeal nerves and superior and inferior parathyroid glands. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms Subtotal vs Total Thyroidectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Multinodular Goiter Retrosternal Extension Compressive Symptoms Subtotal vs Total Thyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33831",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pancreaticoduodenectomy Whipple Procedure. Clinical examination and investigative review confirm identifying painless jaundice with palpable nontender gallbladder and planning pancreaticoduodenectomy for resectable ampullary adenocarcinoma. Vitals reveal blood pressure of 135/79 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery obstructive jaundice periampullary carcinoma courvoisier law pancreaticoduodenectomy whipple procedure. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Identifying painless jaundice with palpable nontender gallbladder and planning pancreaticoduodenectomy for resectable ampullary adenocarcinoma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying painless jaundice with palpable nontender gallbladder and planning pancreaticoduodenectomy for resectable ampullary adenocarcinoma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pancreaticoduodenectomy Whipple Procedure.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pancreaticoduodenectomy Whipple Procedure. The cornerstone of management involves identifying painless jaundice with palpable nontender gallbladder and planning pancreaticoduodenectomy for resectable ampullary adenocarcinoma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pancreaticoduodenectomy Whipple Procedure.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Obstructive Jaundice Periampullary Carcinoma Courvoisier Law Pancreaticoduodenectomy Whipple Procedure."
+    ],
+    "references": [
+      {
+        "label": "UHS Hepatobiliary Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33832",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-M",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-Morgan Open Hemorrhoidectomy. Clinical examination and investigative review confirm performing formal excisional Milligan-Morgan hemorrhoidectomy for third-to-fourth degree internal hemorrhoids refractory to conservative therapy. Vitals reveal blood pressure of 136/80 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery third-degree hemorrhoids prolapsing manual reduction milligan-morgan open hemorrhoidectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Performing formal excisional Milligan-Morgan hemorrhoidectomy for third-to-fourth degree internal hemorrhoids refractory to conservative therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing formal excisional Milligan-Morgan hemorrhoidectomy for third-to-fourth degree internal hemorrhoids refractory to conservative therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-Morgan Open Hemorrhoidectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-Morgan Open Hemorrhoidectomy. The cornerstone of management involves performing formal excisional Milligan-Morgan hemorrhoidectomy for third-to-fourth degree internal hemorrhoids refractory to conservative therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-Morgan Open Hemorrhoidectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Third-Degree Hemorrhoids Prolapsing Manual Reduction Milligan-Morgan Open Hemorrhoidectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Colorectal Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33833",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification Hemiarthroplasty vs Cannulated Screws. Clinical examination and investigative review confirm performing cemented bipolar hemiarthroplasty for displaced intracapsular femoral neck fracture in elderly patient to allow early mobilization. Vitals reveal blood pressure of 137/81 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery fracture neck of femur elderly subcapital garden classification hemiarthroplasty vs cannulated screws. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Performing cemented bipolar hemiarthroplasty for displaced intracapsular femoral neck fracture in elderly patient to allow early mobilization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing cemented bipolar hemiarthroplasty for displaced intracapsular femoral neck fracture in elderly patient to allow early mobilization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification Hemiarthroplasty vs Cannulated Screws.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification Hemiarthroplasty vs Cannulated Screws. The cornerstone of management involves performing cemented bipolar hemiarthroplasty for displaced intracapsular femoral neck fracture in elderly patient to allow early mobilization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification Hemiarthroplasty vs Cannulated Screws.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Fracture Neck of Femur Elderly Subcapital Garden Classification Hemiarthroplasty vs Cannulated Screws."
+    ],
+    "references": [
+      {
+        "label": "UHS Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33834",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkmann Ischemic Contracture Closed Reduction Percutaneous Pinning. Clinical examination and investigative review confirm performing urgent closed reduction and percutaneous crossed or lateral Kirschner wire fixation for displaced Gartland III supracondylar fracture. Vitals reveal blood pressure of 138/82 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery supracondylar fracture humerus children gartland type iii volkmann ischemic contracture closed reduction percutaneous pinning. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Performing urgent closed reduction and percutaneous crossed or lateral Kirschner wire fixation for displaced Gartland III supracondylar fracture",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing urgent closed reduction and percutaneous crossed or lateral Kirschner wire fixation for displaced Gartland III supracondylar fracture. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkmann Ischemic Contracture Closed Reduction Percutaneous Pinning.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkmann Ischemic Contracture Closed Reduction Percutaneous Pinning. The cornerstone of management involves performing urgent closed reduction and percutaneous crossed or lateral Kirschner wire fixation for displaced Gartland III supracondylar fracture. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkmann Ischemic Contracture Closed Reduction Percutaneous Pinning.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Supracondylar Fracture Humerus Children Gartland Type III Volkmann Ischemic Contracture Closed Reduction Percutaneous Pinning."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatric Orthopedics Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33835",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Mani",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Manipulation Below-Elbow Plaster Cast. Clinical examination and investigative review confirm reducing dorsally displaced and tilted distal radius fracture with disimpaction palmar flexion and ulnar deviation held in plaster cast. Vitals reveal blood pressure of 139/83 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery colles fracture distal radius dinner fork deformity closed manipulation below-elbow plaster cast. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Reducing dorsally displaced and tilted distal radius fracture with disimpaction palmar flexion and ulnar deviation held in plaster cast",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reducing dorsally displaced and tilted distal radius fracture with disimpaction palmar flexion and ulnar deviation held in plaster cast. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Manipulation Below-Elbow Plaster Cast.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Manipulation Below-Elbow Plaster Cast. The cornerstone of management involves reducing dorsally displaced and tilted distal radius fracture with disimpaction palmar flexion and ulnar deviation held in plaster cast. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Manipulation Below-Elbow Plaster Cast.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Colles Fracture Distal Radius Dinner Fork Deformity Closed Manipulation Below-Elbow Plaster Cast."
+    ],
+    "references": [
+      {
+        "label": "UHS Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33836",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphys",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphyseal Tenderness Subperiosteal Abscess Drainage. Clinical examination and investigative review confirm administering high-dose intravenous flucloxacillin and performing surgical cortical fenestration for acute osteomyelitis with subperiosteal collection. Vitals reveal blood pressure of 118/84 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery acute hematogenous osteomyelitis staphylococcus aureus metaphyseal tenderness subperiosteal abscess drainage. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Administering high-dose intravenous flucloxacillin and performing surgical cortical fenestration for acute osteomyelitis with subperiosteal collection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering high-dose intravenous flucloxacillin and performing surgical cortical fenestration for acute osteomyelitis with subperiosteal collection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphyseal Tenderness Subperiosteal Abscess Drainage.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphyseal Tenderness Subperiosteal Abscess Drainage. The cornerstone of management involves administering high-dose intravenous flucloxacillin and performing surgical cortical fenestration for acute osteomyelitis with subperiosteal collection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphyseal Tenderness Subperiosteal Abscess Drainage.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Hematogenous Osteomyelitis Staphylococcus Aureus Metaphyseal Tenderness Subperiosteal Abscess Drainage."
+    ],
+    "references": [
+      {
+        "label": "UHS Orthopedics and Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33837",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Inter",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Intercostal Space Intercostal Tube Insertion. Clinical examination and investigative review confirm performing immediate wide-bore needle thoracostomy in second intercostal space midclavicular line followed by intercostal tube underwater drainage. Vitals reveal blood pressure of 119/85 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery tension pneumothorax immediate needle thoracostomy second intercostal space intercostal tube insertion. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Performing immediate wide-bore needle thoracostomy in second intercostal space midclavicular line followed by intercostal tube underwater drainage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing immediate wide-bore needle thoracostomy in second intercostal space midclavicular line followed by intercostal tube underwater drainage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Intercostal Space Intercostal Tube Insertion.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Intercostal Space Intercostal Tube Insertion. The cornerstone of management involves performing immediate wide-bore needle thoracostomy in second intercostal space midclavicular line followed by intercostal tube underwater drainage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Intercostal Space Intercostal Tube Insertion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Tension Pneumothorax Immediate Needle Thoracostomy Second Intercostal Space Intercostal Tube Insertion."
+    ],
+    "references": [
+      {
+        "label": "UHS Trauma and Emergency Surgery Standards",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33838",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Bico",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Biconvex Lens Hyperdensity Emergent Craniotomy. Clinical examination and investigative review confirm performing urgent temporal burr hole evacuation and craniotomy for extradural hematoma showing lucid interval and biconvex lens on CT brain. Vitals reveal blood pressure of 120/86 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery extradural hematoma middle meningeal artery lucid interval biconvex lens hyperdensity emergent craniotomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Performing urgent temporal burr hole evacuation and craniotomy for extradural hematoma showing lucid interval and biconvex lens on CT brain",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing urgent temporal burr hole evacuation and craniotomy for extradural hematoma showing lucid interval and biconvex lens on CT brain. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Biconvex Lens Hyperdensity Emergent Craniotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Biconvex Lens Hyperdensity Emergent Craniotomy. The cornerstone of management involves performing urgent temporal burr hole evacuation and craniotomy for extradural hematoma showing lucid interval and biconvex lens on CT brain. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Biconvex Lens Hyperdensity Emergent Craniotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Extradural Hematoma Middle Meningeal Artery Lucid Interval Biconvex Lens Hyperdensity Emergent Craniotomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Neurosurgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33839",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emer",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emergency Inguinal Exploration Herniotomy. Clinical examination and investigative review confirm avoiding manual taxis and performing emergency surgical repair in suspected strangulated groin hernia with erythema and systemic toxicity. Vitals reveal blood pressure of 121/87 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery acute inguinal hernia strangulation taxis contraindication emergency inguinal exploration herniotomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Avoiding manual taxis and performing emergency surgical repair in suspected strangulated groin hernia with erythema and systemic toxicity",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is avoiding manual taxis and performing emergency surgical repair in suspected strangulated groin hernia with erythema and systemic toxicity. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emergency Inguinal Exploration Herniotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emergency Inguinal Exploration Herniotomy. The cornerstone of management involves avoiding manual taxis and performing emergency surgical repair in suspected strangulated groin hernia with erythema and systemic toxicity. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emergency Inguinal Exploration Herniotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Acute Inguinal Hernia Strangulation Taxis Contraindication Emergency Inguinal Exploration Herniotomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33840",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique E",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique External Rotation Reduction Axillary Nerve Check. Clinical examination and investigative review confirm reducing anterior glenohumeral dislocation using Kocher or Milch technique and testing axillary nerve sensory integrity over deltoid. Vitals reveal blood pressure of 122/72 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery anterior shoulder dislocation bankart lesion kocher technique external rotation reduction axillary nerve check. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Reducing anterior glenohumeral dislocation using Kocher or Milch technique and testing axillary nerve sensory integrity over deltoid",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reducing anterior glenohumeral dislocation using Kocher or Milch technique and testing axillary nerve sensory integrity over deltoid. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique External Rotation Reduction Axillary Nerve Check.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique External Rotation Reduction Axillary Nerve Check. The cornerstone of management involves reducing anterior glenohumeral dislocation using Kocher or Milch technique and testing axillary nerve sensory integrity over deltoid. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique External Rotation Reduction Axillary Nerve Check.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Anterior Shoulder Dislocation Bankart Lesion Kocher Technique External Rotation Reduction Axillary Nerve Check."
+    ],
+    "references": [
+      {
+        "label": "UHS Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33841",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Ni",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Nines Urine Output Monitoring. Clinical examination and investigative review confirm calculating crystalloid fluid resuscitation using 4 mL times body weight times percent total burn surface area with Parkland formula in first 24 hours. Vitals reveal blood pressure of 123/73 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery burns resuscitation parkland formula ringers lactate rule of nines urine output monitoring. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Calculating crystalloid fluid resuscitation using 4 mL times body weight times percent total burn surface area with Parkland formula in first 24 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating crystalloid fluid resuscitation using 4 mL times body weight times percent total burn surface area with Parkland formula in first 24 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Nines Urine Output Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Nines Urine Output Monitoring. The cornerstone of management involves calculating crystalloid fluid resuscitation using 4 mL times body weight times percent total burn surface area with Parkland formula in first 24 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Nines Urine Output Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Burns Resuscitation Parkland Formula Ringers Lactate Rule of Nines Urine Output Monitoring."
+    ],
+    "references": [
+      {
+        "label": "UHS Plastic and Reconstructive Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33842",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junction Incompetence Trendelenburg Test Stripping. Clinical examination and investigative review confirm performing high saphenofemoral ligation and flush saphenous vein stripping for severe venous insufficiency with medial malleolar ulceration. Vitals reveal blood pressure of 124/74 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs surgery primary varicose veins great saphenous vein saphenofemoral junction incompetence trendelenburg test stripping. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Performing high saphenofemoral ligation and flush saphenous vein stripping for severe venous insufficiency with medial malleolar ulceration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing high saphenofemoral ligation and flush saphenous vein stripping for severe venous insufficiency with medial malleolar ulceration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junction Incompetence Trendelenburg Test Stripping.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junction Incompetence Trendelenburg Test Stripping. The cornerstone of management involves performing high saphenofemoral ligation and flush saphenous vein stripping for severe venous insufficiency with medial malleolar ulceration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junction Incompetence Trendelenburg Test Stripping.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Surgery Primary Varicose Veins Great Saphenous Vein Saphenofemoral Junction Incompetence Trendelenburg Test Stripping."
+    ],
+    "references": [
+      {
+        "label": "UHS Vascular Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33843",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magnesium Sulfate Regimen Delivery Urgency. Clinical examination and investigative review confirm administering loading and maintenance doses of intramuscular magnesium sulfate by Pritchard regimen and securing prompt delivery. Vitals reveal blood pressure of 125/75 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics eclampsia tonic-clonic seizures pritchard intramuscular magnesium sulfate regimen delivery urgency. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Administering loading and maintenance doses of intramuscular magnesium sulfate by Pritchard regimen and securing prompt delivery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering loading and maintenance doses of intramuscular magnesium sulfate by Pritchard regimen and securing prompt delivery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magnesium Sulfate Regimen Delivery Urgency.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magnesium Sulfate Regimen Delivery Urgency. The cornerstone of management involves administering loading and maintenance doses of intramuscular magnesium sulfate by Pritchard regimen and securing prompt delivery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magnesium Sulfate Regimen Delivery Urgency.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Eclampsia Tonic-Clonic Seizures Pritchard Intramuscular Magnesium Sulfate Regimen Delivery Urgency."
+    ],
+    "references": [
+      {
+        "label": "UHS Obstetrics Guidelines and Society of Obstetricians & Gynaecologists of Pakistan (SOGP)",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33844",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrine B-Lynch Compression Suture. Clinical examination and investigative review confirm instituting step-wise surgical intervention including B-Lynch brace suturing and uterine artery ligation for intractable atonic postpartum hemorrhage. Vitals reveal blood pressure of 126/76 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics primary postpartum hemorrhage 4 ts atony oxytocin ergometrine b-lynch compression suture. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Instituting step-wise surgical intervention including B-Lynch brace suturing and uterine artery ligation for intractable atonic postpartum hemorrhage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instituting step-wise surgical intervention including B-Lynch brace suturing and uterine artery ligation for intractable atonic postpartum hemorrhage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrine B-Lynch Compression Suture.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrine B-Lynch Compression Suture. The cornerstone of management involves instituting step-wise surgical intervention including B-Lynch brace suturing and uterine artery ligation for intractable atonic postpartum hemorrhage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrine B-Lynch Compression Suture.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Primary Postpartum Hemorrhage 4 Ts Atony Oxytocin Ergometrine B-Lynch Compression Suture."
+    ],
+    "references": [
+      {
+        "label": "SOGP Guidelines and UHS Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33845",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Pl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Placentography Elective Cesarean Section. Clinical examination and investigative review confirm planning scheduled elective cesarean section at 36 to 37 weeks gestation with cross-matched blood on standby for complete central placenta previa. Vitals reveal blood pressure of 127/77 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics placenta previa major degree painless bleeding ultrasound placentography elective cesarean section. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Planning scheduled elective cesarean section at 36 to 37 weeks gestation with cross-matched blood on standby for complete central placenta previa",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is planning scheduled elective cesarean section at 36 to 37 weeks gestation with cross-matched blood on standby for complete central placenta previa. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Placentography Elective Cesarean Section.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Placentography Elective Cesarean Section. The cornerstone of management involves planning scheduled elective cesarean section at 36 to 37 weeks gestation with cross-matched blood on standby for complete central placenta previa. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Placentography Elective Cesarean Section.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Placenta Previa Major Degree Painless Bleeding Ultrasound Placentography Elective Cesarean Section."
+    ],
+    "references": [
+      {
+        "label": "SOGP and UHS Obstetrics Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33846",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Late",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Latency Erythromycin Antenatal Steroids. Clinical examination and investigative review confirm administering prophylactic oral erythromycin and dexamethasone for preterm premature rupture of membranes between 24 and 34 weeks gestation. Vitals reveal blood pressure of 128/78 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics premature rupture of membranes prom nitrazine fern test latency erythromycin antenatal steroids. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Administering prophylactic oral erythromycin and dexamethasone for preterm premature rupture of membranes between 24 and 34 weeks gestation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering prophylactic oral erythromycin and dexamethasone for preterm premature rupture of membranes between 24 and 34 weeks gestation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Latency Erythromycin Antenatal Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Latency Erythromycin Antenatal Steroids. The cornerstone of management involves administering prophylactic oral erythromycin and dexamethasone for preterm premature rupture of membranes between 24 and 34 weeks gestation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Latency Erythromycin Antenatal Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Premature Rupture of Membranes PROM Nitrazine Fern Test Latency Erythromycin Antenatal Steroids."
+    ],
+    "references": [
+      {
+        "label": "UHS Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33847",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-h",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-hCG Suction Evacuation Follow-Up. Clinical examination and investigative review confirm performing suction curettage evacuation under oxytocin cover and tracking serial weekly serum beta-hCG until normal for complete molar pregnancy. Vitals reveal blood pressure of 129/79 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics complete hydatidiform mole snowstorm appearance serum beta-hcg suction evacuation follow-up. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Performing suction curettage evacuation under oxytocin cover and tracking serial weekly serum beta-hCG until normal for complete molar pregnancy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing suction curettage evacuation under oxytocin cover and tracking serial weekly serum beta-hCG until normal for complete molar pregnancy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-hCG Suction Evacuation Follow-Up.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-hCG Suction Evacuation Follow-Up. The cornerstone of management involves performing suction curettage evacuation under oxytocin cover and tracking serial weekly serum beta-hCG until normal for complete molar pregnancy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-hCG Suction Evacuation Follow-Up.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Complete Hydatidiform Mole Snowstorm Appearance Serum Beta-hCG Suction Evacuation Follow-Up."
+    ],
+    "references": [
+      {
+        "label": "SOGP Guidelines and UHS Obstetrics",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33848",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collap",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergent Exploratory Laparotomy Salpingectomy. Clinical examination and investigative review confirm performing immediate resuscitative exploratory laparotomy and ipsilateral salpingectomy for ruptured tubal ectopic pregnancy with free peritoneal fluid. Vitals reveal blood pressure of 130/80 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs obstetrics ruptured ectopic pregnancy hemoperitoneum hemodynamic collapse emergent exploratory laparotomy salpingectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Performing immediate resuscitative exploratory laparotomy and ipsilateral salpingectomy for ruptured tubal ectopic pregnancy with free peritoneal fluid",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing immediate resuscitative exploratory laparotomy and ipsilateral salpingectomy for ruptured tubal ectopic pregnancy with free peritoneal fluid. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergent Exploratory Laparotomy Salpingectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergent Exploratory Laparotomy Salpingectomy. The cornerstone of management involves performing immediate resuscitative exploratory laparotomy and ipsilateral salpingectomy for ruptured tubal ectopic pregnancy with free peritoneal fluid. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergent Exploratory Laparotomy Salpingectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergent Exploratory Laparotomy Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Obstetrics and Gynecology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33849",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anem",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anemia Hysteroscopic Myomectomy. Clinical examination and investigative review confirm correcting profound microcytic hypochromic iron deficiency anemia and performing hysteroscopic resection for symptomatic submucous uterine fibroid. Vitals reveal blood pressure of 131/81 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs gynecology uterine leiomyoma submucosal fibroid menorrhagia severe anemia hysteroscopic myomectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Correcting profound microcytic hypochromic iron deficiency anemia and performing hysteroscopic resection for symptomatic submucous uterine fibroid",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is correcting profound microcytic hypochromic iron deficiency anemia and performing hysteroscopic resection for symptomatic submucous uterine fibroid. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anemia Hysteroscopic Myomectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anemia Hysteroscopic Myomectomy. The cornerstone of management involves correcting profound microcytic hypochromic iron deficiency anemia and performing hysteroscopic resection for symptomatic submucous uterine fibroid. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anemia Hysteroscopic Myomectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Uterine Leiomyoma Submucosal Fibroid Menorrhagia Severe Anemia Hysteroscopic Myomectomy."
+    ],
+    "references": [
+      {
+        "label": "SOGP and UHS Gynecology Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33850",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Ce",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Cervical Biopsy FIGO Staging Wertheim Hysterectomy. Clinical examination and investigative review confirm performing punch biopsy of ulcerative exophytic cervical mass and executing radical hysterectomy with pelvic lymphadenectomy for FIGO stage IB1 disease. Vitals reveal blood pressure of 132/82 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs gynecology carcinoma cervix postcoital bleeding speculum examination cervical biopsy figo staging wertheim hysterectomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing punch biopsy of ulcerative exophytic cervical mass and executing radical hysterectomy with pelvic lymphadenectomy for FIGO stage IB1 disease",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing punch biopsy of ulcerative exophytic cervical mass and executing radical hysterectomy with pelvic lymphadenectomy for FIGO stage IB1 disease. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Cervical Biopsy FIGO Staging Wertheim Hysterectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Cervical Biopsy FIGO Staging Wertheim Hysterectomy. The cornerstone of management involves performing punch biopsy of ulcerative exophytic cervical mass and executing radical hysterectomy with pelvic lymphadenectomy for FIGO stage IB1 disease. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Cervical Biopsy FIGO Staging Wertheim Hysterectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Carcinoma Cervix Postcoital Bleeding Speculum Examination Cervical Biopsy FIGO Staging Wertheim Hysterectomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Gynecologic Oncology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33851",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Ind",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Index CA-125 Ultrasound Staging Laparotomy. Clinical examination and investigative review confirm calculating Risk of Malignancy Index based on menopausal status ultrasound score and serum CA-125 level to plan staging laparotomy. Vitals reveal blood pressure of 133/83 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs gynecology ovarian mass cystadenoma dermoid cyst risk of malignancy index ca-125 ultrasound staging laparotomy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Calculating Risk of Malignancy Index based on menopausal status ultrasound score and serum CA-125 level to plan staging laparotomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating Risk of Malignancy Index based on menopausal status ultrasound score and serum CA-125 level to plan staging laparotomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Index CA-125 Ultrasound Staging Laparotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Index CA-125 Ultrasound Staging Laparotomy. The cornerstone of management involves calculating Risk of Malignancy Index based on menopausal status ultrasound score and serum CA-125 level to plan staging laparotomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Index CA-125 Ultrasound Staging Laparotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Ovarian Mass Cystadenoma Dermoid Cyst Risk of Malignancy Index CA-125 Ultrasound Staging Laparotomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33852",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovula",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovulation Hyperandrogenism Letrozole Ovulation Induction. Clinical examination and investigative review confirm prescribing oral letrozole as first-line agent for ovulation induction in anovulatory infertility due to polycystic ovary syndrome. Vitals reveal blood pressure of 134/84 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs gynecology polycystic ovarian syndrome rotterdam criteria oligo-anovulation hyperandrogenism letrozole ovulation induction. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Prescribing oral letrozole as first-line agent for ovulation induction in anovulatory infertility due to polycystic ovary syndrome",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral letrozole as first-line agent for ovulation induction in anovulatory infertility due to polycystic ovary syndrome. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovulation Hyperandrogenism Letrozole Ovulation Induction.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovulation Hyperandrogenism Letrozole Ovulation Induction. The cornerstone of management involves prescribing oral letrozole as first-line agent for ovulation induction in anovulatory infertility due to polycystic ovary syndrome. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovulation Hyperandrogenism Letrozole Ovulation Induction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Gynecology Polycystic Ovarian Syndrome Rotterdam Criteria Oligo-Anovulation Hyperandrogenism Letrozole Ovulation Induction."
+    ],
+    "references": [
+      {
+        "label": "SOGP Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33853",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 St",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 Steps F-75 Resomal Hypoglycemia Prevention. Clinical examination and investigative review confirm implementing initial stabilization phase with starter formula F-75 and ReSoMal while preventing hypothermia and hypoglycemia in severe acute malnutrition. Vitals reveal blood pressure of 135/85 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics severe acute malnutrition sam marasmus kwashiorkor who 10 steps f-75 resomal hypoglycemia prevention. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Implementing initial stabilization phase with starter formula F-75 and ReSoMal while preventing hypothermia and hypoglycemia in severe acute malnutrition",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is implementing initial stabilization phase with starter formula F-75 and ReSoMal while preventing hypothermia and hypoglycemia in severe acute malnutrition. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 Steps F-75 Resomal Hypoglycemia Prevention.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 Steps F-75 Resomal Hypoglycemia Prevention. The cornerstone of management involves implementing initial stabilization phase with starter formula F-75 and ReSoMal while preventing hypothermia and hypoglycemia in severe acute malnutrition. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 Steps F-75 Resomal Hypoglycemia Prevention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Severe Acute Malnutrition SAM Marasmus Kwashiorkor WHO 10 Steps F-75 Resomal Hypoglycemia Prevention."
+    ],
+    "references": [
+      {
+        "label": "WHO SAM Guidelines and UHS Pediatric Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33854",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blood Culture Ampicillin Gentamicin. Clinical examination and investigative review confirm initiating empirical IV ampicillin and gentamicin after obtaining blood culture and lumbar puncture for neonate with lethargy and poor feeding. Vitals reveal blood pressure of 136/86 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics early-onset neonatal sepsis group b streptococcus e coli blood culture ampicillin gentamicin. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Initiating empirical IV ampicillin and gentamicin after obtaining blood culture and lumbar puncture for neonate with lethargy and poor feeding",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating empirical IV ampicillin and gentamicin after obtaining blood culture and lumbar puncture for neonate with lethargy and poor feeding. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blood Culture Ampicillin Gentamicin.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blood Culture Ampicillin Gentamicin. The cornerstone of management involves initiating empirical IV ampicillin and gentamicin after obtaining blood culture and lumbar puncture for neonate with lethargy and poor feeding. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blood Culture Ampicillin Gentamicin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Early-Onset Neonatal Sepsis Group B Streptococcus E Coli Blood Culture Ampicillin Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33855",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs Test Phototherapy Exchange Transfusion. Clinical examination and investigative review confirm initiating intensive blue-light phototherapy and preparing double-volume exchange transfusion for hemolytic disease of newborn with rapid bilirubin rise. Vitals reveal blood pressure of 137/87 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics neonatal jaundice abo incompatibility positive direct coombs test phototherapy exchange transfusion. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Initiating intensive blue-light phototherapy and preparing double-volume exchange transfusion for hemolytic disease of newborn with rapid bilirubin rise",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating intensive blue-light phototherapy and preparing double-volume exchange transfusion for hemolytic disease of newborn with rapid bilirubin rise. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs Test Phototherapy Exchange Transfusion.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs Test Phototherapy Exchange Transfusion. The cornerstone of management involves initiating intensive blue-light phototherapy and preparing double-volume exchange transfusion for hemolytic disease of newborn with rapid bilirubin rise. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs Test Phototherapy Exchange Transfusion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Neonatal Jaundice ABO Incompatibility Positive Direct Coombs Test Phototherapy Exchange Transfusion."
+    ],
+    "references": [
+      {
+        "label": "PPA Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33856",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Stagin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Staging Therapeutic Hypothermia Criteria. Clinical examination and investigative review confirm initiating therapeutic total-body hypothermia to 33.5 degrees Celsius within 6 hours of birth for moderate-to-severe hypoxic ischemic encephalopathy. Vitals reveal blood pressure of 138/72 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics hypoxic ischemic encephalopathy birth asphyxia sarnat staging therapeutic hypothermia criteria. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Initiating therapeutic total-body hypothermia to 33.5 degrees Celsius within 6 hours of birth for moderate-to-severe hypoxic ischemic encephalopathy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating therapeutic total-body hypothermia to 33.5 degrees Celsius within 6 hours of birth for moderate-to-severe hypoxic ischemic encephalopathy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Staging Therapeutic Hypothermia Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Staging Therapeutic Hypothermia Criteria. The cornerstone of management involves initiating therapeutic total-body hypothermia to 33.5 degrees Celsius within 6 hours of birth for moderate-to-severe hypoxic ischemic encephalopathy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Staging Therapeutic Hypothermia Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Hypoxic Ischemic Encephalopathy Birth Asphyxia Sarnat Staging Therapeutic Hypothermia Criteria."
+    ],
+    "references": [
+      {
+        "label": "UHS Neonatology and PPA Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33857",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pentavalent Pneumococcal Measles Vaccines. Clinical examination and investigative review confirm advising complete childhood vaccination according to national EPI schedule including pentavalent OPV IPV rotavirus and measles immunizations. Vitals reveal blood pressure of 139/73 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics expanded programme on immunization epi pakistan schedule pentavalent pneumococcal measles vaccines. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Advising complete childhood vaccination according to national EPI schedule including pentavalent OPV IPV rotavirus and measles immunizations",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising complete childhood vaccination according to national EPI schedule including pentavalent OPV IPV rotavirus and measles immunizations. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pentavalent Pneumococcal Measles Vaccines.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pentavalent Pneumococcal Measles Vaccines. The cornerstone of management involves advising complete childhood vaccination according to national EPI schedule including pentavalent OPV IPV rotavirus and measles immunizations. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pentavalent Pneumococcal Measles Vaccines.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Expanded Programme on Immunization EPI Pakistan Schedule Pentavalent Pneumococcal Measles Vaccines."
+    ],
+    "references": [
+      {
+        "label": "EPI Pakistan and UHS Child Health Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33858",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ORS Zinc Supplementation. Clinical examination and investigative review confirm administering oral rehydration salts solution over 4 hours with daily elemental zinc for 14 days in pediatric moderate dehydration. Vitals reveal blood pressure of 118/74 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics acute watery diarrhea dehydration who plan b low-osmolarity ors zinc supplementation. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Administering oral rehydration salts solution over 4 hours with daily elemental zinc for 14 days in pediatric moderate dehydration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering oral rehydration salts solution over 4 hours with daily elemental zinc for 14 days in pediatric moderate dehydration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ORS Zinc Supplementation.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ORS Zinc Supplementation. The cornerstone of management involves administering oral rehydration salts solution over 4 hours with daily elemental zinc for 14 days in pediatric moderate dehydration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ORS Zinc Supplementation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Watery Diarrhea Dehydration WHO Plan B Low-Osmolarity ORS Zinc Supplementation."
+    ],
+    "references": [
+      {
+        "label": "WHO and Pakistan Pediatric Association Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33859",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactose Intolerance Lactose-Free Diet. Clinical examination and investigative review confirm prescribing lactose-free or yogurt-based dietary regimen for infant with persistent post-infectious diarrhea exceeding 14 days duration. Vitals reveal blood pressure of 119/75 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics persistent diarrhea post-enteritis syndrome secondary lactose intolerance lactose-free diet. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Prescribing lactose-free or yogurt-based dietary regimen for infant with persistent post-infectious diarrhea exceeding 14 days duration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing lactose-free or yogurt-based dietary regimen for infant with persistent post-infectious diarrhea exceeding 14 days duration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactose Intolerance Lactose-Free Diet.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactose Intolerance Lactose-Free Diet. The cornerstone of management involves prescribing lactose-free or yogurt-based dietary regimen for infant with persistent post-infectious diarrhea exceeding 14 days duration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactose Intolerance Lactose-Free Diet.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Persistent Diarrhea Post-Enteritis Syndrome Secondary Lactose Intolerance Lactose-Free Diet."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33860",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool Target Sign Ultrasound Hydrostatic Saline Reduction. Clinical examination and investigative review confirm performing ultrasound-guided hydrostatic saline or pneumatic enema reduction for ileocolic intussusception without peritoneal signs. Vitals reveal blood pressure of 120/76 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics acute intussusception colicky pain red currant jelly stool target sign ultrasound hydrostatic saline reduction. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Performing ultrasound-guided hydrostatic saline or pneumatic enema reduction for ileocolic intussusception without peritoneal signs",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing ultrasound-guided hydrostatic saline or pneumatic enema reduction for ileocolic intussusception without peritoneal signs. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool Target Sign Ultrasound Hydrostatic Saline Reduction.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool Target Sign Ultrasound Hydrostatic Saline Reduction. The cornerstone of management involves performing ultrasound-guided hydrostatic saline or pneumatic enema reduction for ileocolic intussusception without peritoneal signs. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool Target Sign Ultrasound Hydrostatic Saline Reduction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Intussusception Colicky Pain Red Currant Jelly Stool Target Sign Ultrasound Hydrostatic Saline Reduction."
+    ],
+    "references": [
+      {
+        "label": "PPA and UHS Pediatric Surgery Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33861",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemia Injectable Ampicillin Gentamicin. Clinical examination and investigative review confirm classifying severe pneumonia based on lower chest wall indrawing and administering parenteral ampicillin and oxygen by nasal prongs. Vitals reveal blood pressure of 121/77 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics severe pneumonia who fast breathing chest indrawing hypoxemia injectable ampicillin gentamicin. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Classifying severe pneumonia based on lower chest wall indrawing and administering parenteral ampicillin and oxygen by nasal prongs",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is classifying severe pneumonia based on lower chest wall indrawing and administering parenteral ampicillin and oxygen by nasal prongs. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemia Injectable Ampicillin Gentamicin.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemia Injectable Ampicillin Gentamicin. The cornerstone of management involves classifying severe pneumonia based on lower chest wall indrawing and administering parenteral ampicillin and oxygen by nasal prongs. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemia Injectable Ampicillin Gentamicin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Severe Pneumonia WHO Fast Breathing Chest Indrawing Hypoxemia Injectable Ampicillin Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "WHO Integrated Management of Childhood Illness (IMCI) and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33862",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Strid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Stridor Barking Cough Single Dose Oral Dexamethasone. Clinical examination and investigative review confirm prescribing single oral dose of dexamethasone at 0.15 to 0.6 mg per kg for child presenting with barking cough and stridor at rest. Vitals reveal blood pressure of 122/78 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs pediatrics acute viral croup laryngotracheobronchitis inspiratory stridor barking cough single dose oral dexamethasone. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Prescribing single oral dose of dexamethasone at 0.15 to 0.6 mg per kg for child presenting with barking cough and stridor at rest",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing single oral dose of dexamethasone at 0.15 to 0.6 mg per kg for child presenting with barking cough and stridor at rest. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Stridor Barking Cough Single Dose Oral Dexamethasone.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Stridor Barking Cough Single Dose Oral Dexamethasone. The cornerstone of management involves prescribing single oral dose of dexamethasone at 0.15 to 0.6 mg per kg for child presenting with barking cough and stridor at rest. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Stridor Barking Cough Single Dose Oral Dexamethasone.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Pediatrics Acute Viral Croup Laryngotracheobronchitis Inspiratory Stridor Barking Cough Single Dose Oral Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "PPA Guidelines and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33863",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputum Microscopy Direct Observed Therapy. Clinical examination and investigative review confirm organizing directly observed treatment short-course (DOTS) with peripheral treatment supporters to achieve treatment completion and prevent resistance. Vitals reveal blood pressure of 123/79 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine tuberculosis dots strategy case detection smear positive sputum microscopy direct observed therapy. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Organizing directly observed treatment short-course (DOTS) with peripheral treatment supporters to achieve treatment completion and prevent resistance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is organizing directly observed treatment short-course (DOTS) with peripheral treatment supporters to achieve treatment completion and prevent resistance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputum Microscopy Direct Observed Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputum Microscopy Direct Observed Therapy. The cornerstone of management involves organizing directly observed treatment short-course (DOTS) with peripheral treatment supporters to achieve treatment completion and prevent resistance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputum Microscopy Direct Observed Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Tuberculosis DOTS Strategy Case Detection Smear Positive Sputum Microscopy Direct Observed Therapy."
+    ],
+    "references": [
+      {
+        "label": "National TB Control Program Pakistan and UHS",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33864",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Su",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Sustainable Development Goals. Clinical examination and investigative review confirm analyzing national maternal mortality causes and strategies including skilled birth attendance and emergency obstetric care to reduce maternal deaths. Vitals reveal blood pressure of 124/80 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine maternal mortality ratio causes hemorrhage eclampsia sepsis sustainable development goals. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Analyzing national maternal mortality causes and strategies including skilled birth attendance and emergency obstetric care to reduce maternal deaths",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is analyzing national maternal mortality causes and strategies including skilled birth attendance and emergency obstetric care to reduce maternal deaths. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Sustainable Development Goals.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Sustainable Development Goals. The cornerstone of management involves analyzing national maternal mortality causes and strategies including skilled birth attendance and emergency obstetric care to reduce maternal deaths. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Sustainable Development Goals.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Maternal Mortality Ratio Causes Hemorrhage Eclampsia Sepsis Sustainable Development Goals."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33865",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prema",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prematurity Primary Health Care Interventions. Clinical examination and investigative review confirm evaluating high-impact community interventions such as clean cord care chlorhexidine and kangaroo mother care to decrease neonatal mortality. Vitals reveal blood pressure of 125/81 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine infant mortality rate neonatal mortality sepsis asphyxia prematurity primary health care interventions. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Evaluating high-impact community interventions such as clean cord care chlorhexidine and kangaroo mother care to decrease neonatal mortality",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating high-impact community interventions such as clean cord care chlorhexidine and kangaroo mother care to decrease neonatal mortality. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prematurity Primary Health Care Interventions.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prematurity Primary Health Care Interventions. The cornerstone of management involves evaluating high-impact community interventions such as clean cord care chlorhexidine and kangaroo mother care to decrease neonatal mortality. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prematurity Primary Health Care Interventions.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Infant Mortality Rate Neonatal Mortality Sepsis Asphyxia Prematurity Primary Health Care Interventions."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33866",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission C",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the medical outpatient department (OPD) of Mayo Hospital Lahore for academic clinical evaluation with clinical findings indicative of UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission Chlorination Chlorine Demand Safe Water Supply. Clinical examination and investigative review confirm calculating break-point chlorination and ensuring residual free chlorine of 0.5 mg per L to halt municipal water-borne cholera outbreak. Vitals reveal blood pressure of 126/82 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine water-borne disease epidemic cholera fecal-oral transmission chlorination chlorine demand safe water supply. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Calculating break-point chlorination and ensuring residual free chlorine of 0.5 mg per L to halt municipal water-borne cholera outbreak",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating break-point chlorination and ensuring residual free chlorine of 0.5 mg per L to halt municipal water-borne cholera outbreak. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission Chlorination Chlorine Demand Safe Water Supply.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission Chlorination Chlorine Demand Safe Water Supply. The cornerstone of management involves calculating break-point chlorination and ensuring residual free chlorine of 0.5 mg per L to halt municipal water-borne cholera outbreak. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission Chlorination Chlorine Demand Safe Water Supply.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Water-Borne Disease Epidemic Cholera Fecal-Oral Transmission Chlorination Chlorine Demand Safe Water Supply."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33867",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Ha",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is evaluated in the emergency ward of Services Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Hand Hygiene Five Moments Disinfection. Clinical examination and investigative review confirm implementing WHO 5 moments of hand hygiene and alcohol-based rub rubbing technique to control multidrug-resistant nosocomial transmission. Vitals reveal blood pressure of 127/83 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine hospital-acquired infections universal standard precautions hand hygiene five moments disinfection. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Implementing WHO 5 moments of hand hygiene and alcohol-based rub rubbing technique to control multidrug-resistant nosocomial transmission",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is implementing WHO 5 moments of hand hygiene and alcohol-based rub rubbing technique to control multidrug-resistant nosocomial transmission. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Hand Hygiene Five Moments Disinfection.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Hand Hygiene Five Moments Disinfection. The cornerstone of management involves implementing WHO 5 moments of hand hygiene and alcohol-based rub rubbing technique to control multidrug-resistant nosocomial transmission. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Hand Hygiene Five Moments Disinfection.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Hospital-Acquired Infections Universal Standard Precautions Hand Hygiene Five Moments Disinfection."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine and Infection Control",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33868",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Ra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man presents to the specialized consultative clinic of Jinnah Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Rain-Drop Pigmentation Hyperkeratosis Mees Lines. Clinical examination and investigative review confirm identifying chronic arsenic poisoning from contaminated tubewell water with raindrop hyperpigmentation palmar hyperkeratosis and transverse Mees lines. Vitals reveal blood pressure of 128/84 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine arsenic poisoning chronic toxicity rain-water contamination rain-drop pigmentation hyperkeratosis mees lines. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Identifying chronic arsenic poisoning from contaminated tubewell water with raindrop hyperpigmentation palmar hyperkeratosis and transverse Mees lines",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying chronic arsenic poisoning from contaminated tubewell water with raindrop hyperpigmentation palmar hyperkeratosis and transverse Mees lines. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Rain-Drop Pigmentation Hyperkeratosis Mees Lines.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Rain-Drop Pigmentation Hyperkeratosis Mees Lines. The cornerstone of management involves identifying chronic arsenic poisoning from contaminated tubewell water with raindrop hyperpigmentation palmar hyperkeratosis and transverse Mees lines. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Rain-Drop Pigmentation Hyperkeratosis Mees Lines.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Arsenic Poisoning Chronic Toxicity Rain-Water Contamination Rain-Drop Pigmentation Hyperkeratosis Mees Lines."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine and Toxicology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33869",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cho",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is admitted to the inpatient medical unit of Sir Ganga Ram Hospital Lahore with clinical findings indicative of UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cholinergic Toxidrome Atropine Oximes Pralidoxime. Clinical examination and investigative review confirm administering intravenous atropine until pulmonary secretions clear and pralidoxime for acute organophosphate acetylcholinesterase inhibition. Vitals reveal blood pressure of 129/85 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine organophosphate poisoning agricultural pesticide ingestion cholinergic toxidrome atropine oximes pralidoxime. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Administering intravenous atropine until pulmonary secretions clear and pralidoxime for acute organophosphate acetylcholinesterase inhibition",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous atropine until pulmonary secretions clear and pralidoxime for acute organophosphate acetylcholinesterase inhibition. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cholinergic Toxidrome Atropine Oximes Pralidoxime.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cholinergic Toxidrome Atropine Oximes Pralidoxime. The cornerstone of management involves administering intravenous atropine until pulmonary secretions clear and pralidoxime for acute organophosphate acetylcholinesterase inhibition. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cholinergic Toxidrome Atropine Oximes Pralidoxime.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Organophosphate Poisoning Agricultural Pesticide Ingestion Cholinergic Toxidrome Atropine Oximes Pralidoxime."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine and Emergency Medicine Guidelines",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33870",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ant",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man undergoes professorial clinical review at Nishtar Hospital Multan with clinical findings indicative of UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ante-Mortem Features Hyoid Bone Fracture. Clinical examination and investigative review confirm differentiating ante-mortem hanging with oblique inverted-V incomplete ligature mark above thyroid cartilage from horizontal ligature strangulation. Vitals reveal blood pressure of 130/86 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine mechanical asphyxia hanging vs strangulation ligature mark ante-mortem features hyoid bone fracture. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Differentiating ante-mortem hanging with oblique inverted-V incomplete ligature mark above thyroid cartilage from horizontal ligature strangulation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is differentiating ante-mortem hanging with oblique inverted-V incomplete ligature mark above thyroid cartilage from horizontal ligature strangulation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ante-Mortem Features Hyoid Bone Fracture.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ante-Mortem Features Hyoid Bone Fracture. The cornerstone of management involves differentiating ante-mortem hanging with oblique inverted-V incomplete ligature mark above thyroid cartilage from horizontal ligature strangulation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ante-Mortem Features Hyoid Bone Fracture.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Ante-Mortem Features Hyoid Bone Fracture."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33871",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Coll",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the clinical examination suite at Allied Hospital Faisalabad with clinical findings indicative of UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Collar Burning Blackening Tattooing. Clinical examination and investigative review confirm identifying close-range firearm entry wound by presence of inverted edges abrasion collar thermal burning and powder tattooing. Vitals reveal blood pressure of 131/87 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine firearm wounds rifled weapon entry vs exit wound abrasion collar burning blackening tattooing. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Identifying close-range firearm entry wound by presence of inverted edges abrasion collar thermal burning and powder tattooing",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying close-range firearm entry wound by presence of inverted edges abrasion collar thermal burning and powder tattooing. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Collar Burning Blackening Tattooing.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Collar Burning Blackening Tattooing. The cornerstone of management involves identifying close-range firearm entry wound by presence of inverted edges abrasion collar thermal burning and powder tattooing. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Collar Burning Blackening Tattooing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Firearm Wounds Rifled Weapon Entry vs Exit Wound Abrasion Collar Burning Blackening Tattooing."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33872",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is examined at the tertiary university teaching hospital for UHS MBBS final professional examination with clinical findings indicative of UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor Mortis Decomposition Sequence. Clinical examination and investigative review confirm estimating post-mortem interval using core body cooling complete rigor mortis progression and fixed hypostasis distribution. Vitals reveal blood pressure of 132/72 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of uhs mbbs medicine estimation of time since death algor mortis livor mortis rigor mortis decomposition sequence. Which of the following clinical actions best aligns with UHS final professional MBBS clinical standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Estimating post-mortem interval using core body cooling complete rigor mortis progression and fixed hypostasis distribution",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is estimating post-mortem interval using core body cooling complete rigor mortis progression and fixed hypostasis distribution. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor Mortis Decomposition Sequence.\\n\\nClinical Discussion: This clinical presentation corresponds to UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor Mortis Decomposition Sequence. The cornerstone of management involves estimating post-mortem interval using core body cooling complete rigor mortis progression and fixed hypostasis distribution. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor Mortis Decomposition Sequence.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of UHS MBBS Medicine Estimation of Time Since Death Algor Mortis Livor Mortis Rigor Mortis Decomposition Sequence."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-33973",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary In",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary Intervention 120 Minute Door to Balloon. Clinical examination and investigative review confirm transferring patient directly for primary percutaneous coronary intervention within 120 minutes of ECG diagnosis per NICE guidelines. Vitals reveal blood pressure of 123/77 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute stemi nice guidelines primary percutaneous coronary intervention 120 minute door to balloon. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Transferring patient directly for primary percutaneous coronary intervention within 120 minutes of ECG diagnosis per NICE guidelines",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transferring patient directly for primary percutaneous coronary intervention within 120 minutes of ECG diagnosis per NICE guidelines. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary Intervention 120 Minute Door to Balloon.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary Intervention 120 Minute Door to Balloon. The cornerstone of management involves transferring patient directly for primary percutaneous coronary intervention within 120 minutes of ECG diagnosis per NICE guidelines. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary Intervention 120 Minute Door to Balloon.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute STEMI NICE Guidelines Primary Percutaneous Coronary Intervention 120 Minute Door to Balloon."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG185] Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33974",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple Therapy SGLT2i ARNI Beta-Blocker MRA. Clinical examination and investigative review confirm implementing guideline-directed medical therapy with dapagliflozin sacubitril-valsartan bisoprolol and eplerenone in symptomatic HFrEF. Vitals reveal blood pressure of 124/78 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine heart failure reduced ejection fraction nice ng106 quadruple therapy sglt2i arni beta-blocker mra. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Implementing guideline-directed medical therapy with dapagliflozin sacubitril-valsartan bisoprolol and eplerenone in symptomatic HFrEF",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is implementing guideline-directed medical therapy with dapagliflozin sacubitril-valsartan bisoprolol and eplerenone in symptomatic HFrEF. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple Therapy SGLT2i ARNI Beta-Blocker MRA.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple Therapy SGLT2i ARNI Beta-Blocker MRA. The cornerstone of management involves implementing guideline-directed medical therapy with dapagliflozin sacubitril-valsartan bisoprolol and eplerenone in symptomatic HFrEF. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple Therapy SGLT2i ARNI Beta-Blocker MRA.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Heart Failure Reduced Ejection Fraction NICE NG106 Quadruple Therapy SGLT2i ARNI Beta-Blocker MRA."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG106] Chronic Heart Failure in Adults",
+        "url": "https://www.nice.org.uk/guidance/ng106"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33975",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2DS2-VASc Bleeding Risk. Clinical examination and investigative review confirm offering apixaban or edoxaban as first-line anticoagulation for non-valvular atrial fibrillation with CHA2DS2-VASc score of 2 or more. Vitals reveal blood pressure of 125/79 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine atrial fibrillation nice ng196 doac first-line apixaban cha2ds2-vasc bleeding risk. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Offering apixaban or edoxaban as first-line anticoagulation for non-valvular atrial fibrillation with CHA2DS2-VASc score of 2 or more",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering apixaban or edoxaban as first-line anticoagulation for non-valvular atrial fibrillation with CHA2DS2-VASc score of 2 or more. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2DS2-VASc Bleeding Risk.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2DS2-VASc Bleeding Risk. The cornerstone of management involves offering apixaban or edoxaban as first-line anticoagulation for non-valvular atrial fibrillation with CHA2DS2-VASc score of 2 or more. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2DS2-VASc Bleeding Risk.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Atrial Fibrillation NICE NG196 DOAC First-Line Apixaban CHA2DS2-VASc Bleeding Risk."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG196] Atrial Fibrillation: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng196"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33976",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor In",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor Indapamide Spironolactone. Clinical examination and investigative review confirm titrating antihypertensive therapy through step 1 to 4 adding low-dose spironolactone for resistant hypertension with potassium under 4.5. Vitals reveal blood pressure of 126/80 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine hypertension nice ng136 step 1-4 amlodipine ace inhibitor indapamide spironolactone. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Titrating antihypertensive therapy through step 1 to 4 adding low-dose spironolactone for resistant hypertension with potassium under 4.5",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is titrating antihypertensive therapy through step 1 to 4 adding low-dose spironolactone for resistant hypertension with potassium under 4.5. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor Indapamide Spironolactone.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor Indapamide Spironolactone. The cornerstone of management involves titrating antihypertensive therapy through step 1 to 4 adding low-dose spironolactone for resistant hypertension with potassium under 4.5. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor Indapamide Spironolactone.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hypertension NICE NG136 Step 1-4 Amlodipine ACE Inhibitor Indapamide Spironolactone."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG136] Hypertension in Adults: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33977",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prop",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prophylaxis Not Routinely Recommended. Clinical examination and investigative review confirm advising that routine antibiotic prophylaxis against infective endocarditis is not recommended for dental and non-dental interventional procedures. Vitals reveal blood pressure of 127/81 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine infective endocarditis prophylaxis nice cg64 antibiotic prophylaxis not routinely recommended. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Advising that routine antibiotic prophylaxis against infective endocarditis is not recommended for dental and non-dental interventional procedures",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising that routine antibiotic prophylaxis against infective endocarditis is not recommended for dental and non-dental interventional procedures. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prophylaxis Not Routinely Recommended.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prophylaxis Not Routinely Recommended. The cornerstone of management involves advising that routine antibiotic prophylaxis against infective endocarditis is not recommended for dental and non-dental interventional procedures. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prophylaxis Not Routinely Recommended.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Infective Endocarditis Prophylaxis NICE CG64 Antibiotic Prophylaxis Not Routinely Recommended."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG64] Prophylaxis Against Infective Endocarditis",
+        "url": "https://www.nice.org.uk/guidance/cg64"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33978",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker or Calcium Channel Blocker Titration. Clinical examination and investigative review confirm initiating either a beta-blocker or calcium channel blocker monotherapy as first-line antianginal treatment in stable chest pain per NICE. Vitals reveal blood pressure of 128/82 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine stable angina nice cg95 first-line monotherapy beta-blocker or calcium channel blocker titration. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Initiating either a beta-blocker or calcium channel blocker monotherapy as first-line antianginal treatment in stable chest pain per NICE",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating either a beta-blocker or calcium channel blocker monotherapy as first-line antianginal treatment in stable chest pain per NICE. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker or Calcium Channel Blocker Titration.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker or Calcium Channel Blocker Titration. The cornerstone of management involves initiating either a beta-blocker or calcium channel blocker monotherapy as first-line antianginal treatment in stable chest pain per NICE. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker or Calcium Channel Blocker Titration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Stable Angina NICE CG95 First-Line Monotherapy Beta-Blocker or Calcium Channel Blocker Titration."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG95] Chest Pain of Recent Onset",
+        "url": "https://www.nice.org.uk/guidance/cg95"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33979",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs SAVR Heart Team Criteria. Clinical examination and investigative review confirm referring symptomatic severe aortic stenosis for Heart Team assessment for transcatheter versus surgical aortic valve replacement. Vitals reveal blood pressure of 129/83 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine severe symptomatic aortic stenosis valve replacement tavi vs savr heart team criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Referring symptomatic severe aortic stenosis for Heart Team assessment for transcatheter versus surgical aortic valve replacement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring symptomatic severe aortic stenosis for Heart Team assessment for transcatheter versus surgical aortic valve replacement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs SAVR Heart Team Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs SAVR Heart Team Criteria. The cornerstone of management involves referring symptomatic severe aortic stenosis for Heart Team assessment for transcatheter versus surgical aortic valve replacement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs SAVR Heart Team Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Symptomatic Aortic Stenosis Valve Replacement TAVI vs SAVR Heart Team Criteria."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG208] Heart Valve Disease in Adults",
+        "url": "https://www.nice.org.uk/guidance/ng208"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33980",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interim DOAC Proximal Leg Ultrasound. Clinical examination and investigative review confirm administering interim therapeutic dose DOAC while awaiting same-day proximal leg compression ultrasound in likely DVT. Vitals reveal blood pressure of 130/84 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine deep vein thrombosis nice ng158 two-level wells score interim doac proximal leg ultrasound. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering interim therapeutic dose DOAC while awaiting same-day proximal leg compression ultrasound in likely DVT",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering interim therapeutic dose DOAC while awaiting same-day proximal leg compression ultrasound in likely DVT. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interim DOAC Proximal Leg Ultrasound.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interim DOAC Proximal Leg Ultrasound. The cornerstone of management involves administering interim therapeutic dose DOAC while awaiting same-day proximal leg compression ultrasound in likely DVT. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interim DOAC Proximal Leg Ultrasound.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Deep Vein Thrombosis NICE NG158 Two-Level Wells Score Interim DOAC Proximal Leg Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG158] Venous Thromboembolic Diseases",
+        "url": "https://www.nice.org.uk/guidance/ng158"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33981",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose NSAID Colchicine Avoidance of Steroids. Clinical examination and investigative review confirm prescribing oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily for three months in acute pericarditis. Vitals reveal blood pressure of 131/85 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute pericarditis british cardiovascular society high-dose nsaid colchicine avoidance of steroids. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prescribing oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily for three months in acute pericarditis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily for three months in acute pericarditis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose NSAID Colchicine Avoidance of Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose NSAID Colchicine Avoidance of Steroids. The cornerstone of management involves prescribing oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily for three months in acute pericarditis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose NSAID Colchicine Avoidance of Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Pericarditis British Cardiovascular Society High-Dose NSAID Colchicine Avoidance of Steroids."
+    ],
+    "references": [
+      {
+        "label": "British Cardiovascular Society / ESC Guidelines",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33982",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implanta",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implantable Cardioverter Defibrillator Criteria. Clinical examination and investigative review confirm calculating 5-year sudden cardiac death risk using ESC HCM Risk-SCD formula to identify indication for primary prevention ICD. Vitals reveal blood pressure of 132/86 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine hypertrophic cardiomyopathy esc risk-scd calculator implantable cardioverter defibrillator criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Calculating 5-year sudden cardiac death risk using ESC HCM Risk-SCD formula to identify indication for primary prevention ICD",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating 5-year sudden cardiac death risk using ESC HCM Risk-SCD formula to identify indication for primary prevention ICD. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implantable Cardioverter Defibrillator Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implantable Cardioverter Defibrillator Criteria. The cornerstone of management involves calculating 5-year sudden cardiac death risk using ESC HCM Risk-SCD formula to identify indication for primary prevention ICD. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implantable Cardioverter Defibrillator Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hypertrophic Cardiomyopathy ESC Risk-SCD Calculator Implantable Cardioverter Defibrillator Criteria."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines and British Cardiovascular Society",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33983",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin o",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin or Doxycycline Inhaler Optimization. Clinical examination and investigative review confirm prescribing oral prednisolone 30 mg daily for 5 days and oral doxycycline for acute COPD exacerbation with purulent sputum. Vitals reveal blood pressure of 133/87 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine copd exacerbation nice ng115 oral prednisolone amoxicillin or doxycycline inhaler optimization. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Prescribing oral prednisolone 30 mg daily for 5 days and oral doxycycline for acute COPD exacerbation with purulent sputum",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral prednisolone 30 mg daily for 5 days and oral doxycycline for acute COPD exacerbation with purulent sputum. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin or Doxycycline Inhaler Optimization.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin or Doxycycline Inhaler Optimization. The cornerstone of management involves prescribing oral prednisolone 30 mg daily for 5 days and oral doxycycline for acute COPD exacerbation with purulent sputum. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin or Doxycycline Inhaler Optimization.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine COPD Exacerbation NICE NG115 Oral Prednisolone Amoxicillin or Doxycycline Inhaler Optimization."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG115] Chronic Obstructive Pulmonary Disease in Over 16s",
+        "url": "https://www.nice.org.uk/guidance/ng115"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33984",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid M",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid MART Regimen Peak Flow Monitoring. Clinical examination and investigative review confirm initiating low-dose inhaled corticosteroid combined with fast-acting LABA as maintenance and reliever therapy (MART) in asthma. Vitals reveal blood pressure of 134/72 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine asthma bts sign guidelines stepwise inhaled corticosteroid mart regimen peak flow monitoring. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Initiating low-dose inhaled corticosteroid combined with fast-acting LABA as maintenance and reliever therapy (MART) in asthma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating low-dose inhaled corticosteroid combined with fast-acting LABA as maintenance and reliever therapy (MART) in asthma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid MART Regimen Peak Flow Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid MART Regimen Peak Flow Monitoring. The cornerstone of management involves initiating low-dose inhaled corticosteroid combined with fast-acting LABA as maintenance and reliever therapy (MART) in asthma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid MART Regimen Peak Flow Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Asthma BTS SIGN Guidelines Stepwise Inhaled Corticosteroid MART Regimen Peak Flow Monitoring."
+    ],
+    "references": [
+      {
+        "label": "BTS/SIGN British Guideline on the Management of Asthma [SIGN 158]",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33985",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpa",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpatient Oral Amoxicillin Decision. Clinical examination and investigative review confirm managing community-acquired pneumonia in primary care with oral amoxicillin for 5 days when CRB-65 score is 0. Vitals reveal blood pressure of 135/73 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine community acquired pneumonia bts crb-65 severity score outpatient oral amoxicillin decision. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Managing community-acquired pneumonia in primary care with oral amoxicillin for 5 days when CRB-65 score is 0",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is managing community-acquired pneumonia in primary care with oral amoxicillin for 5 days when CRB-65 score is 0. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpatient Oral Amoxicillin Decision.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpatient Oral Amoxicillin Decision. The cornerstone of management involves managing community-acquired pneumonia in primary care with oral amoxicillin for 5 days when CRB-65 score is 0. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpatient Oral Amoxicillin Decision.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Community Acquired Pneumonia BTS CRB-65 Severity Score Outpatient Oral Amoxicillin Decision."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG138] Pneumonia (Community-Acquired)",
+        "url": "https://www.nice.org.uk/guidance/ng138"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33986",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixab",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixaban Rivaroxaban First Line. Clinical examination and investigative review confirm arranging immediate CT pulmonary angiogram and prescribing rivaroxaban or apixaban as first-line anticoagulation for confirmed acute PE. Vitals reveal blood pressure of 136/74 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine pulmonary embolism nice ng158 diagnostic pathway ctpa apixaban rivaroxaban first line. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Arranging immediate CT pulmonary angiogram and prescribing rivaroxaban or apixaban as first-line anticoagulation for confirmed acute PE",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is arranging immediate CT pulmonary angiogram and prescribing rivaroxaban or apixaban as first-line anticoagulation for confirmed acute PE. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixaban Rivaroxaban First Line.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixaban Rivaroxaban First Line. The cornerstone of management involves arranging immediate CT pulmonary angiogram and prescribing rivaroxaban or apixaban as first-line anticoagulation for confirmed acute PE. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixaban Rivaroxaban First Line.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pulmonary Embolism NICE NG158 Diagnostic Pathway CTPA Apixaban Rivaroxaban First Line."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG158] Venous Thromboembolic Diseases",
+        "url": "https://www.nice.org.uk/guidance/ng158"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33987",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Ninteda",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Nintedanib Forced Vital Capacity Criteria. Clinical examination and investigative review confirm initiating antifibrotic therapy with pirfenidone or nintedanib for IPF when predicted forced vital capacity is between 50 and 80 percent. Vitals reveal blood pressure of 137/75 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine idiopathic pulmonary fibrosis nice ta379 pirfenidone nintedanib forced vital capacity criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Initiating antifibrotic therapy with pirfenidone or nintedanib for IPF when predicted forced vital capacity is between 50 and 80 percent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating antifibrotic therapy with pirfenidone or nintedanib for IPF when predicted forced vital capacity is between 50 and 80 percent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Nintedanib Forced Vital Capacity Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Nintedanib Forced Vital Capacity Criteria. The cornerstone of management involves initiating antifibrotic therapy with pirfenidone or nintedanib for IPF when predicted forced vital capacity is between 50 and 80 percent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Nintedanib Forced Vital Capacity Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Idiopathic Pulmonary Fibrosis NICE TA379 Pirfenidone Nintedanib Forced Vital Capacity Criteria."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal [TA379] Pirfenidone for Treating IPF",
+        "url": "https://www.nice.org.uk/guidance/ta379"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33988",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thorace",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thoracentesis Ultrasound Guidance Light Criteria. Clinical examination and investigative review confirm performing thoracic bedside ultrasound-guided pleural aspiration and sending fluid for protein LDH microbiology and cytology. Vitals reveal blood pressure of 138/76 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine pleural effusion british thoracic society diagnostic thoracentesis ultrasound guidance light criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Performing thoracic bedside ultrasound-guided pleural aspiration and sending fluid for protein LDH microbiology and cytology",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing thoracic bedside ultrasound-guided pleural aspiration and sending fluid for protein LDH microbiology and cytology. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thoracentesis Ultrasound Guidance Light Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thoracentesis Ultrasound Guidance Light Criteria. The cornerstone of management involves performing thoracic bedside ultrasound-guided pleural aspiration and sending fluid for protein LDH microbiology and cytology. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thoracentesis Ultrasound Guidance Light Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pleural Effusion British Thoracic Society Diagnostic Thoracentesis Ultrasound Guidance Light Criteria."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Pleural Disease Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33989",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid Indications Hypercalcemia Ocular Disease. Clinical examination and investigative review confirm initiating systemic oral prednisolone in pulmonary sarcoidosis complicated by severe hypercalcemia deteriorating spirometry or uveitis. Vitals reveal blood pressure of 139/77 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine pulmonary sarcoidosis bts guidelines systemic corticosteroid indications hypercalcemia ocular disease. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Initiating systemic oral prednisolone in pulmonary sarcoidosis complicated by severe hypercalcemia deteriorating spirometry or uveitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating systemic oral prednisolone in pulmonary sarcoidosis complicated by severe hypercalcemia deteriorating spirometry or uveitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid Indications Hypercalcemia Ocular Disease.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid Indications Hypercalcemia Ocular Disease. The cornerstone of management involves initiating systemic oral prednisolone in pulmonary sarcoidosis complicated by severe hypercalcemia deteriorating spirometry or uveitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid Indications Hypercalcemia Ocular Disease.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pulmonary Sarcoidosis BTS Guidelines Systemic Corticosteroid Indications Hypercalcemia Ocular Disease."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33990",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Sa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Saline Long-Term Macrolide Azithromycin. Clinical examination and investigative review confirm prescribing thrice-weekly prophylactic low-dose oral azithromycin for patients with bronchiectasis experiencing three or more exacerbations yearly. Vitals reveal blood pressure of 118/78 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine bronchiectasis bts guidelines airway clearance hypertonic saline long-term macrolide azithromycin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing thrice-weekly prophylactic low-dose oral azithromycin for patients with bronchiectasis experiencing three or more exacerbations yearly",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing thrice-weekly prophylactic low-dose oral azithromycin for patients with bronchiectasis experiencing three or more exacerbations yearly. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Saline Long-Term Macrolide Azithromycin.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Saline Long-Term Macrolide Azithromycin. The cornerstone of management involves prescribing thrice-weekly prophylactic low-dose oral azithromycin for patients with bronchiectasis experiencing three or more exacerbations yearly. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Saline Long-Term Macrolide Azithromycin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Bronchiectasis BTS Guidelines Airway Clearance Hypertonic Saline Long-Term Macrolide Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Guideline for Bronchiectasis in Adults",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33991",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second Intercostal Space Intercostal Drain. Clinical examination and investigative review confirm inserting 14-gauge cannula into second intercostal space midclavicular line immediately prior to definitive chest drain insertion. Vitals reveal blood pressure of 119/79 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine tension pneumothorax immediate needle decompression second intercostal space intercostal drain. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Inserting 14-gauge cannula into second intercostal space midclavicular line immediately prior to definitive chest drain insertion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is inserting 14-gauge cannula into second intercostal space midclavicular line immediately prior to definitive chest drain insertion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second Intercostal Space Intercostal Drain.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second Intercostal Space Intercostal Drain. The cornerstone of management involves inserting 14-gauge cannula into second intercostal space midclavicular line immediately prior to definitive chest drain insertion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second Intercostal Space Intercostal Drain.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Tension Pneumothorax Immediate Needle Decompression Second Intercostal Space Intercostal Drain."
+    ],
+    "references": [
+      {
+        "label": "BTS Guidelines for the Management of Spontaneous Pneumothorax",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33992",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epw",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epworth Sleepiness Score CPAP Compliance. Clinical examination and investigative review confirm advising patient with excessive daytime sleepiness affecting driving to notify DVLA and cease driving until symptoms controlled on CPAP. Vitals reveal blood pressure of 120/80 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine obstructive sleep apnoea dvla driving notification rules epworth sleepiness score cpap compliance. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Advising patient with excessive daytime sleepiness affecting driving to notify DVLA and cease driving until symptoms controlled on CPAP",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising patient with excessive daytime sleepiness affecting driving to notify DVLA and cease driving until symptoms controlled on CPAP. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epworth Sleepiness Score CPAP Compliance.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epworth Sleepiness Score CPAP Compliance. The cornerstone of management involves advising patient with excessive daytime sleepiness affecting driving to notify DVLA and cease driving until symptoms controlled on CPAP. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epworth Sleepiness Score CPAP Compliance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Obstructive Sleep Apnoea DVLA Driving Notification Rules Epworth Sleepiness Score CPAP Compliance."
+    ],
+    "references": [
+      {
+        "label": "DVLA Assessing Fitness to Drive Guidelines and BTS",
+        "url": "https://www.gov.uk/dvla"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33993",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria Age 55 Weight Loss Dysphagia. Clinical examination and investigative review confirm referring patient aged 55 and over with unexplained weight loss and upper abdominal pain for urgent direct-access 2-week-wait gastroscopy. Vitals reveal blood pressure of 121/81 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine dyspepsia nice ng12 urgent two-week wait endoscopy criteria age 55 weight loss dysphagia. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Referring patient aged 55 and over with unexplained weight loss and upper abdominal pain for urgent direct-access 2-week-wait gastroscopy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring patient aged 55 and over with unexplained weight loss and upper abdominal pain for urgent direct-access 2-week-wait gastroscopy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria Age 55 Weight Loss Dysphagia.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria Age 55 Weight Loss Dysphagia. The cornerstone of management involves referring patient aged 55 and over with unexplained weight loss and upper abdominal pain for urgent direct-access 2-week-wait gastroscopy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria Age 55 Weight Loss Dysphagia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Dyspepsia NICE NG12 Urgent Two-Week Wait Endoscopy Criteria Age 55 Weight Loss Dysphagia."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG12] Suspected Cancer: Recognition and Referral",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33994",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase Total IgA Gluten Containing Diet. Clinical examination and investigative review confirm advising patient to continue eating gluten-containing foods in more than one meal daily for 6 weeks prior to celiac serology testing. Vitals reveal blood pressure of 122/82 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine coeliac disease bsg guidelines iga tissue transglutaminase total iga gluten containing diet. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Advising patient to continue eating gluten-containing foods in more than one meal daily for 6 weeks prior to celiac serology testing",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising patient to continue eating gluten-containing foods in more than one meal daily for 6 weeks prior to celiac serology testing. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase Total IgA Gluten Containing Diet.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase Total IgA Gluten Containing Diet. The cornerstone of management involves advising patient to continue eating gluten-containing foods in more than one meal daily for 6 weeks prior to celiac serology testing. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase Total IgA Gluten Containing Diet.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Coeliac Disease BSG Guidelines IgA Tissue Transglutaminase Total IgA Gluten Containing Diet."
+    ],
+    "references": [
+      {
+        "label": "British Society of Gastroenterology (BSG) Coeliac Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33995",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria Intravenous Hydrocortisone Day 3 Rescue Infliximab. Clinical examination and investigative review confirm assessing stool frequency and CRP on day 3 of IV hydrocortisone to determine need for rescue medical therapy with infliximab or ciclosporin. Vitals reveal blood pressure of 123/83 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute severe ulcerative colitis truelove and witts criteria intravenous hydrocortisone day 3 rescue infliximab. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Assessing stool frequency and CRP on day 3 of IV hydrocortisone to determine need for rescue medical therapy with infliximab or ciclosporin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is assessing stool frequency and CRP on day 3 of IV hydrocortisone to determine need for rescue medical therapy with infliximab or ciclosporin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria Intravenous Hydrocortisone Day 3 Rescue Infliximab.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria Intravenous Hydrocortisone Day 3 Rescue Infliximab. The cornerstone of management involves assessing stool frequency and CRP on day 3 of IV hydrocortisone to determine need for rescue medical therapy with infliximab or ciclosporin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria Intravenous Hydrocortisone Day 3 Rescue Infliximab.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Severe Ulcerative Colitis Truelove and Witts Criteria Intravenous Hydrocortisone Day 3 Rescue Infliximab."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG130] Ulcerative Colitis: Management",
+        "url": "https://www.nice.org.uk/guidance/ng130"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33996",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Cortico",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Corticosteroids vs Budesonide Azathioprine Maintenance. Clinical examination and investigative review confirm prescribing oral prednisolone to induce remission in active Crohn disease and co-prescribing azathioprine or mercaptopurine for maintenance. Vitals reveal blood pressure of 124/84 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine crohn disease nice ng129 inducing remission systemic corticosteroids vs budesonide azathioprine maintenance. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Prescribing oral prednisolone to induce remission in active Crohn disease and co-prescribing azathioprine or mercaptopurine for maintenance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral prednisolone to induce remission in active Crohn disease and co-prescribing azathioprine or mercaptopurine for maintenance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Corticosteroids vs Budesonide Azathioprine Maintenance.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Corticosteroids vs Budesonide Azathioprine Maintenance. The cornerstone of management involves prescribing oral prednisolone to induce remission in active Crohn disease and co-prescribing azathioprine or mercaptopurine for maintenance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Corticosteroids vs Budesonide Azathioprine Maintenance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Crohn Disease NICE NG129 Inducing Remission Systemic Corticosteroids vs Budesonide Azathioprine Maintenance."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG129] Crohn's Disease: Management",
+        "url": "https://www.nice.org.uk/guidance/ng129"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33997",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP First-Line Antispasmodics. Clinical examination and investigative review confirm prescribing antispasmodic hyoscine butylbromide or mebeverine alongside soluble fiber supplementation for IBS with abdominal cramping. Vitals reveal blood pressure of 125/85 mm Hg, heart rate of 83/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine irritable bowel syndrome nice cg61 dietary advice low fodmap first-line antispasmodics. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Prescribing antispasmodic hyoscine butylbromide or mebeverine alongside soluble fiber supplementation for IBS with abdominal cramping",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing antispasmodic hyoscine butylbromide or mebeverine alongside soluble fiber supplementation for IBS with abdominal cramping. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP First-Line Antispasmodics.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP First-Line Antispasmodics. The cornerstone of management involves prescribing antispasmodic hyoscine butylbromide or mebeverine alongside soluble fiber supplementation for IBS with abdominal cramping. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP First-Line Antispasmodics.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Irritable Bowel Syndrome NICE CG61 Dietary Advice Low FODMAP First-Line Antispasmodics."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG61] Irritable Bowel Syndrome in Adults",
+        "url": "https://www.nice.org.uk/guidance/cg61"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33998",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enha",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enhanced Liver Fibrosis ELF Blood Test. Clinical examination and investigative review confirm ordering Enhanced Liver Fibrosis (ELF) blood test to test for advanced liver fibrosis in NAFLD when non-invasive FIB-4 is intermediate or high. Vitals reveal blood pressure of 126/86 mm Hg, heart rate of 84/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine non-alcoholic fatty liver disease nice ng49 fib-4 score enhanced liver fibrosis elf blood test. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Ordering Enhanced Liver Fibrosis (ELF) blood test to test for advanced liver fibrosis in NAFLD when non-invasive FIB-4 is intermediate or high",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering Enhanced Liver Fibrosis (ELF) blood test to test for advanced liver fibrosis in NAFLD when non-invasive FIB-4 is intermediate or high. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enhanced Liver Fibrosis ELF Blood Test.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enhanced Liver Fibrosis ELF Blood Test. The cornerstone of management involves ordering Enhanced Liver Fibrosis (ELF) blood test to test for advanced liver fibrosis in NAFLD when non-invasive FIB-4 is intermediate or high. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enhanced Liver Fibrosis ELF Blood Test.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Non-Alcoholic Fatty Liver Disease NICE NG49 FIB-4 Score Enhanced Liver Fibrosis ELF Blood Test."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG49] Non-Alcoholic Fatty Liver Disease: Assessment",
+        "url": "https://www.nice.org.uk/guidance/ng49"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-33999",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acet",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acetylcysteine King's College Criteria. Clinical examination and investigative review confirm initiating intravenous N-acetylcysteine infusion immediately according to TOXBASE nomogram and monitoring INR and creatinine for acute liver failure. Vitals reveal blood pressure of 127/87 mm Hg, heart rate of 85/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine paracetamol toxicity nhs toxbase nomogram intravenous n-acetylcysteine king's college criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Initiating intravenous N-acetylcysteine infusion immediately according to TOXBASE nomogram and monitoring INR and creatinine for acute liver failure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating intravenous N-acetylcysteine infusion immediately according to TOXBASE nomogram and monitoring INR and creatinine for acute liver failure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acetylcysteine King's College Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acetylcysteine King's College Criteria. The cornerstone of management involves initiating intravenous N-acetylcysteine infusion immediately according to TOXBASE nomogram and monitoring INR and creatinine for acute liver failure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acetylcysteine King's College Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Paracetamol Toxicity NHS TOXBASE Nomogram Intravenous N-Acetylcysteine King's College Criteria."
+    ],
+    "references": [
+      {
+        "label": "UK TOXBASE and Commission on Human Medicines Guidelines",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34000",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Cort",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Corticosteroids Prednisolone Glasgow Score. Clinical examination and investigative review confirm prescribing oral prednisolone 40 mg daily for 28 days for severe alcoholic hepatitis with Maddrey discriminant function score of 32 or greater. Vitals reveal blood pressure of 128/72 mm Hg, heart rate of 86/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute alcoholic hepatitis maddrey discriminant function corticosteroids prednisolone glasgow score. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing oral prednisolone 40 mg daily for 28 days for severe alcoholic hepatitis with Maddrey discriminant function score of 32 or greater",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral prednisolone 40 mg daily for 28 days for severe alcoholic hepatitis with Maddrey discriminant function score of 32 or greater. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Corticosteroids Prednisolone Glasgow Score.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Corticosteroids Prednisolone Glasgow Score. The cornerstone of management involves prescribing oral prednisolone 40 mg daily for 28 days for severe alcoholic hepatitis with Maddrey discriminant function score of 32 or greater. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Corticosteroids Prednisolone Glasgow Score.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Alcoholic Hepatitis Maddrey Discriminant Function Corticosteroids Prednisolone Glasgow Score."
+    ],
+    "references": [
+      {
+        "label": "British Society of Gastroenterology Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34001",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-L",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-Line Oral Vancomycin Recurrence. Clinical examination and investigative review confirm prescribing oral fidaxomicin 200 mg twice daily for 10 days as first-line treatment for healthcare-associated Clostridioides difficile infection. Vitals reveal blood pressure of 129/73 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine clostridioides difficile nice ng199 oral fidaxomicin first-line oral vancomycin recurrence. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Prescribing oral fidaxomicin 200 mg twice daily for 10 days as first-line treatment for healthcare-associated Clostridioides difficile infection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral fidaxomicin 200 mg twice daily for 10 days as first-line treatment for healthcare-associated Clostridioides difficile infection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-Line Oral Vancomycin Recurrence.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-Line Oral Vancomycin Recurrence. The cornerstone of management involves prescribing oral fidaxomicin 200 mg twice daily for 10 days as first-line treatment for healthcare-associated Clostridioides difficile infection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-Line Oral Vancomycin Recurrence.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Clostridioides Difficile NICE NG199 Oral Fidaxomicin First-Line Oral Vancomycin Recurrence."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG199] Clostridioides Difficile Infection",
+        "url": "https://www.nice.org.uk/guidance/ng199"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34002",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score Rockall Score Endoscopic Hemostasis. Clinical examination and investigative review confirm utilizing pre-endoscopy Glasgow-Blatchford score to identify low-risk patients suitable for outpatient management of upper GI bleeding. Vitals reveal blood pressure of 130/74 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute upper gi bleeding nice cg141 glasgow-blatchford score rockall score endoscopic hemostasis. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Utilizing pre-endoscopy Glasgow-Blatchford score to identify low-risk patients suitable for outpatient management of upper GI bleeding",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is utilizing pre-endoscopy Glasgow-Blatchford score to identify low-risk patients suitable for outpatient management of upper GI bleeding. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score Rockall Score Endoscopic Hemostasis.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score Rockall Score Endoscopic Hemostasis. The cornerstone of management involves utilizing pre-endoscopy Glasgow-Blatchford score to identify low-risk patients suitable for outpatient management of upper GI bleeding. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score Rockall Score Endoscopic Hemostasis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Upper GI Bleeding NICE CG141 Glasgow-Blatchford Score Rockall Score Endoscopic Hemostasis."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG141] Acute Upper Gastrointestinal Bleeding",
+        "url": "https://www.nice.org.uk/guidance/cg141"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34003",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspendi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspending Nephrotoxic Medications ACEi ARB. Clinical examination and investigative review confirm temporarily withholding ACE inhibitors angiotensin receptor blockers and NSAIDs in dehydrated patient presenting with stage 2 AKI. Vitals reveal blood pressure of 131/75 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine acute kidney injury nice ng148 prevention hydration suspending nephrotoxic medications acei arb. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Temporarily withholding ACE inhibitors angiotensin receptor blockers and NSAIDs in dehydrated patient presenting with stage 2 AKI",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is temporarily withholding ACE inhibitors angiotensin receptor blockers and NSAIDs in dehydrated patient presenting with stage 2 AKI. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspending Nephrotoxic Medications ACEi ARB.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspending Nephrotoxic Medications ACEi ARB. The cornerstone of management involves temporarily withholding ACE inhibitors angiotensin receptor blockers and NSAIDs in dehydrated patient presenting with stage 2 AKI. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspending Nephrotoxic Medications ACEi ARB.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Acute Kidney Injury NICE NG148 Prevention Hydration Suspending Nephrotoxic Medications ACEi ARB."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG148] Acute Kidney Injury: Prevention, Detection and Management",
+        "url": "https://www.nice.org.uk/guidance/ng148"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34004",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to-Creatinine Ratio ACR SGLT2 Inhibitor. Clinical examination and investigative review confirm offering dapagliflozin to patients with CKD and persistent urine ACR 25 mg per mmol or greater regardless of diabetic status. Vitals reveal blood pressure of 132/76 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine chronic kidney disease nice ng203 egfr categories albumin-to-creatinine ratio acr sglt2 inhibitor. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Offering dapagliflozin to patients with CKD and persistent urine ACR 25 mg per mmol or greater regardless of diabetic status",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering dapagliflozin to patients with CKD and persistent urine ACR 25 mg per mmol or greater regardless of diabetic status. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to-Creatinine Ratio ACR SGLT2 Inhibitor.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to-Creatinine Ratio ACR SGLT2 Inhibitor. The cornerstone of management involves offering dapagliflozin to patients with CKD and persistent urine ACR 25 mg per mmol or greater regardless of diabetic status. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to-Creatinine Ratio ACR SGLT2 Inhibitor.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Chronic Kidney Disease NICE NG203 eGFR Categories Albumin-to-Creatinine Ratio ACR SGLT2 Inhibitor."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG203] Chronic Kidney Disease: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34005",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percut",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percutaneous Renal Biopsy Corticosteroids. Clinical examination and investigative review confirm referring adult presenting with nephrotic-range proteinuria and hypoalbuminemia for urgent ultrasound-guided percutaneous renal biopsy. Vitals reveal blood pressure of 133/77 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine adult nephrotic syndrome bsg renal association urgent percutaneous renal biopsy corticosteroids. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Referring adult presenting with nephrotic-range proteinuria and hypoalbuminemia for urgent ultrasound-guided percutaneous renal biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring adult presenting with nephrotic-range proteinuria and hypoalbuminemia for urgent ultrasound-guided percutaneous renal biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percutaneous Renal Biopsy Corticosteroids.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percutaneous Renal Biopsy Corticosteroids. The cornerstone of management involves referring adult presenting with nephrotic-range proteinuria and hypoalbuminemia for urgent ultrasound-guided percutaneous renal biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percutaneous Renal Biopsy Corticosteroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Adult Nephrotic Syndrome BSG Renal Association Urgent Percutaneous Renal Biopsy Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association Clinical Practice Guidelines",
+        "url": "https://ukkidney.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34006",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT2 Inhibitor Targeted-Release Budesonide. Clinical examination and investigative review confirm initiating optimized supportive therapy with maximally tolerated ACE inhibitor and SGLT2 inhibitor for biopsy-proven primary IgA nephropathy. Vitals reveal blood pressure of 134/78 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine iga nephropathy kdigo guidelines persistent proteinuria sglt2 inhibitor targeted-release budesonide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Initiating optimized supportive therapy with maximally tolerated ACE inhibitor and SGLT2 inhibitor for biopsy-proven primary IgA nephropathy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating optimized supportive therapy with maximally tolerated ACE inhibitor and SGLT2 inhibitor for biopsy-proven primary IgA nephropathy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT2 Inhibitor Targeted-Release Budesonide.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT2 Inhibitor Targeted-Release Budesonide. The cornerstone of management involves initiating optimized supportive therapy with maximally tolerated ACE inhibitor and SGLT2 inhibitor for biopsy-proven primary IgA nephropathy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT2 Inhibitor Targeted-Release Budesonide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine IgA Nephropathy KDIGO Guidelines Persistent Proteinuria SGLT2 Inhibitor Targeted-Release Budesonide."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association and KDIGO Guidelines",
+        "url": "https://ukkidney.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34007",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Cal",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Calcium Gluconate Insulin-Dextrose Infusion. Clinical examination and investigative review confirm administering 10 mL of 10 percent calcium gluconate IV over 5 to 10 minutes followed by 10 units actrapid in 50 mL 50 percent dextrose. Vitals reveal blood pressure of 135/79 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine severe hyperkalaemia resuscitation council uk 10 percent calcium gluconate insulin-dextrose infusion. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Administering 10 mL of 10 percent calcium gluconate IV over 5 to 10 minutes followed by 10 units actrapid in 50 mL 50 percent dextrose",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 10 mL of 10 percent calcium gluconate IV over 5 to 10 minutes followed by 10 units actrapid in 50 mL 50 percent dextrose. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Calcium Gluconate Insulin-Dextrose Infusion.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Calcium Gluconate Insulin-Dextrose Infusion. The cornerstone of management involves administering 10 mL of 10 percent calcium gluconate IV over 5 to 10 minutes followed by 10 units actrapid in 50 mL 50 percent dextrose. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Calcium Gluconate Insulin-Dextrose Infusion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Hyperkalaemia Resuscitation Council UK 10 Percent Calcium Gluconate Insulin-Dextrose Infusion."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK and UK Kidney Association Hyperkalaemia Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34008",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association Guidelines Bolus 150 mL 3 Percent Hypertonic Saline. Clinical examination and investigative review confirm administering 150 mL intravenous bolus of 3 percent hypertonic saline over 20 minutes for hyponatremia with severe acute neurocognitive symptoms. Vitals reveal blood pressure of 136/80 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine severe symptomatic hyponatraemia european renal association guidelines bolus 150 ml 3 percent hypertonic saline. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Administering 150 mL intravenous bolus of 3 percent hypertonic saline over 20 minutes for hyponatremia with severe acute neurocognitive symptoms",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 150 mL intravenous bolus of 3 percent hypertonic saline over 20 minutes for hyponatremia with severe acute neurocognitive symptoms. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association Guidelines Bolus 150 mL 3 Percent Hypertonic Saline.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association Guidelines Bolus 150 mL 3 Percent Hypertonic Saline. The cornerstone of management involves administering 150 mL intravenous bolus of 3 percent hypertonic saline over 20 minutes for hyponatremia with severe acute neurocognitive symptoms. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association Guidelines Bolus 150 mL 3 Percent Hypertonic Saline.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Severe Symptomatic Hyponatraemia European Renal Association Guidelines Bolus 150 mL 3 Percent Hypertonic Saline."
+    ],
+    "references": [
+      {
+        "label": "European Renal Association Clinical Practice Guidelines",
+        "url": "https://ukkidney.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34009",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KU",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KUB First-Line Imaging NSAID Analgesia. Clinical examination and investigative review confirm ordering urgent non-contrast low-dose CT KUB within 14 hours and administering intramuscular diclofenac as first-line analgesia. Vitals reveal blood pressure of 137/81 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine suspected renal colic nice ng118 non-contrast low-dose ct kub first-line imaging nsaid analgesia. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Ordering urgent non-contrast low-dose CT KUB within 14 hours and administering intramuscular diclofenac as first-line analgesia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering urgent non-contrast low-dose CT KUB within 14 hours and administering intramuscular diclofenac as first-line analgesia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KUB First-Line Imaging NSAID Analgesia.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KUB First-Line Imaging NSAID Analgesia. The cornerstone of management involves ordering urgent non-contrast low-dose CT KUB within 14 hours and administering intramuscular diclofenac as first-line analgesia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KUB First-Line Imaging NSAID Analgesia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Suspected Renal Colic NICE NG118 Non-Contrast Low-Dose CT KUB First-Line Imaging NSAID Analgesia."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG118] Renal and Ureteric Stones: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng118"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34010",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolv",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolvaptan Chronic Kidney Disease Stage 2-3 Criteria. Clinical examination and investigative review confirm recommending tolvaptan for adult patients with ADPKD CKD stage 2 or 3 and evidence of rapidly progressing disease per NICE TA358. Vitals reveal blood pressure of 138/82 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine autosomal dominant polycystic kidney disease nice ta358 tolvaptan chronic kidney disease stage 2-3 criteria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Recommending tolvaptan for adult patients with ADPKD CKD stage 2 or 3 and evidence of rapidly progressing disease per NICE TA358",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending tolvaptan for adult patients with ADPKD CKD stage 2 or 3 and evidence of rapidly progressing disease per NICE TA358. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolvaptan Chronic Kidney Disease Stage 2-3 Criteria.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolvaptan Chronic Kidney Disease Stage 2-3 Criteria. The cornerstone of management involves recommending tolvaptan for adult patients with ADPKD CKD stage 2 or 3 and evidence of rapidly progressing disease per NICE TA358. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolvaptan Chronic Kidney Disease Stage 2-3 Criteria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Autosomal Dominant Polycystic Kidney Disease NICE TA358 Tolvaptan Chronic Kidney Disease Stage 2-3 Criteria."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal [TA358] Tolvaptan for Autosomal Dominant Polycystic Kidney Disease",
+        "url": "https://www.nice.org.uk/guidance/ta358"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34011",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin Firs",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin First-Line eGFR 45 Pivmecillinam Trimethoprim. Clinical examination and investigative review confirm prescribing oral nitrofurantoin 100 mg modified-release twice daily for 3 days as first-line treatment for uncomplicated female cystitis. Vitals reveal blood pressure of 139/83 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine lower urinary tract infection nice ng109 nitrofurantoin first-line egfr 45 pivmecillinam trimethoprim. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Prescribing oral nitrofurantoin 100 mg modified-release twice daily for 3 days as first-line treatment for uncomplicated female cystitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral nitrofurantoin 100 mg modified-release twice daily for 3 days as first-line treatment for uncomplicated female cystitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin First-Line eGFR 45 Pivmecillinam Trimethoprim.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin First-Line eGFR 45 Pivmecillinam Trimethoprim. The cornerstone of management involves prescribing oral nitrofurantoin 100 mg modified-release twice daily for 3 days as first-line treatment for uncomplicated female cystitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin First-Line eGFR 45 Pivmecillinam Trimethoprim.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Lower Urinary Tract Infection NICE NG109 Nitrofurantoin First-Line eGFR 45 Pivmecillinam Trimethoprim."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG109] Urinary Tract Infection (Lower): Antimicrobial Prescribing",
+        "url": "https://www.nice.org.uk/guidance/ng109"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34012",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenolate Mofetil vs Cyclophosphamide. Clinical examination and investigative review confirm initiating oral mycophenolate mofetil combined with high-dose corticosteroid as induction therapy for class IV proliferative lupus nephritis. Vitals reveal blood pressure of 118/84 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine lupus nephritis proliferative class iv nice ta397 mycophenolate mofetil vs cyclophosphamide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Initiating oral mycophenolate mofetil combined with high-dose corticosteroid as induction therapy for class IV proliferative lupus nephritis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral mycophenolate mofetil combined with high-dose corticosteroid as induction therapy for class IV proliferative lupus nephritis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenolate Mofetil vs Cyclophosphamide.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenolate Mofetil vs Cyclophosphamide. The cornerstone of management involves initiating oral mycophenolate mofetil combined with high-dose corticosteroid as induction therapy for class IV proliferative lupus nephritis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenolate Mofetil vs Cyclophosphamide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Lupus Nephritis Proliferative Class IV NICE TA397 Mycophenolate Mofetil vs Cyclophosphamide."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal and UK Kidney Association",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34013",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT2 Inhibitor with Atherosclerotic CVD. Clinical examination and investigative review confirm initiating metformin with an SGLT2 inhibitor with proven cardiovascular benefit for adults with type 2 diabetes and chronic cardiovascular disease. Vitals reveal blood pressure of 119/85 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine type 2 diabetes mellitus nice ng28 first-line metformin sglt2 inhibitor with atherosclerotic cvd. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Initiating metformin with an SGLT2 inhibitor with proven cardiovascular benefit for adults with type 2 diabetes and chronic cardiovascular disease",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating metformin with an SGLT2 inhibitor with proven cardiovascular benefit for adults with type 2 diabetes and chronic cardiovascular disease. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT2 Inhibitor with Atherosclerotic CVD.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT2 Inhibitor with Atherosclerotic CVD. The cornerstone of management involves initiating metformin with an SGLT2 inhibitor with proven cardiovascular benefit for adults with type 2 diabetes and chronic cardiovascular disease. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT2 Inhibitor with Atherosclerotic CVD.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Type 2 Diabetes Mellitus NICE NG28 First-Line Metformin SGLT2 Inhibitor with Atherosclerotic CVD."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG28] Type 2 Diabetes in Adults: Management",
+        "url": "https://www.nice.org.uk/guidance/ng28"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34014",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS Fixed Rate Intravenous Insulin Infusion FRIII. Clinical examination and investigative review confirm commencing fixed-rate IV insulin infusion at 0.1 units per kg per hour alongside 0.9 percent saline and potassium replacement in DKA. Vitals reveal blood pressure of 120/86 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine diabetic ketoacidosis joint british diabetes societies jbds fixed rate intravenous insulin infusion friii. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Commencing fixed-rate IV insulin infusion at 0.1 units per kg per hour alongside 0.9 percent saline and potassium replacement in DKA",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is commencing fixed-rate IV insulin infusion at 0.1 units per kg per hour alongside 0.9 percent saline and potassium replacement in DKA. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS Fixed Rate Intravenous Insulin Infusion FRIII.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS Fixed Rate Intravenous Insulin Infusion FRIII. The cornerstone of management involves commencing fixed-rate IV insulin infusion at 0.1 units per kg per hour alongside 0.9 percent saline and potassium replacement in DKA. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS Fixed Rate Intravenous Insulin Infusion FRIII.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Diabetic Ketoacidosis Joint British Diabetes Societies JBDS Fixed Rate Intravenous Insulin Infusion FRIII."
+    ],
+    "references": [
+      {
+        "label": "Joint British Diabetes Societies (JBDS) for Inpatient Care DKA Guideline",
+        "url": "https://www.abcd.care/jbds-ip"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34015",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percent Normal Saline Fluid Deficit Calculation. Clinical examination and investigative review confirm initiating prompt intravenous 0.9 percent sodium chloride fluid resuscitation aiming for positive fluid balance of 2 to 3 liters in first 6 hours in HHS. Vitals reveal blood pressure of 121/87 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine hyperosmolar hyperglycaemic state jbds guidelines 0.9 percent normal saline fluid deficit calculation. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Initiating prompt intravenous 0.9 percent sodium chloride fluid resuscitation aiming for positive fluid balance of 2 to 3 liters in first 6 hours in HHS",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating prompt intravenous 0.9 percent sodium chloride fluid resuscitation aiming for positive fluid balance of 2 to 3 liters in first 6 hours in HHS. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percent Normal Saline Fluid Deficit Calculation.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percent Normal Saline Fluid Deficit Calculation. The cornerstone of management involves initiating prompt intravenous 0.9 percent sodium chloride fluid resuscitation aiming for positive fluid balance of 2 to 3 liters in first 6 hours in HHS. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percent Normal Saline Fluid Deficit Calculation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hyperosmolar Hyperglycaemic State JBDS Guidelines 0.9 Percent Normal Saline Fluid Deficit Calculation."
+    ],
+    "references": [
+      {
+        "label": "Joint British Diabetes Societies (JBDS) HHS Management Guideline",
+        "url": "https://www.abcd.care/jbds-ip"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34016",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titrat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titration Regimen Agranulocytosis Warning. Clinical examination and investigative review confirm prescribing carbimazole and advising patient to seek urgent full blood count if they develop sore throat mouth ulcers or unexplained fever. Vitals reveal blood pressure of 122/72 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine hyperthyroidism graves disease nice ng145 carbimazole titration regimen agranulocytosis warning. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Prescribing carbimazole and advising patient to seek urgent full blood count if they develop sore throat mouth ulcers or unexplained fever",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing carbimazole and advising patient to seek urgent full blood count if they develop sore throat mouth ulcers or unexplained fever. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titration Regimen Agranulocytosis Warning.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titration Regimen Agranulocytosis Warning. The cornerstone of management involves prescribing carbimazole and advising patient to seek urgent full blood count if they develop sore throat mouth ulcers or unexplained fever. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titration Regimen Agranulocytosis Warning.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Hyperthyroidism Graves Disease NICE NG145 Carbimazole Titration Regimen Agranulocytosis Warning."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG145] Thyroid Disease: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng145"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34017",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morni",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morning Fasting TSH Monitoring Target. Clinical examination and investigative review confirm titrating oral levothyroxine taken with water 30 to 60 minutes before breakfast to achieve normal serum TSH level in primary hypothyroidism. Vitals reveal blood pressure of 123/73 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine primary hypothyroidism nice ng145 levothyroxine dosing morning fasting tsh monitoring target. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Titrating oral levothyroxine taken with water 30 to 60 minutes before breakfast to achieve normal serum TSH level in primary hypothyroidism",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is titrating oral levothyroxine taken with water 30 to 60 minutes before breakfast to achieve normal serum TSH level in primary hypothyroidism. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morning Fasting TSH Monitoring Target.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morning Fasting TSH Monitoring Target. The cornerstone of management involves titrating oral levothyroxine taken with water 30 to 60 minutes before breakfast to achieve normal serum TSH level in primary hypothyroidism. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morning Fasting TSH Monitoring Target.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Hypothyroidism NICE NG145 Levothyroxine Dosing Morning Fasting TSH Monitoring Target."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG145] Thyroid Disease: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng145"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34018",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Em",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Emergency Card Hydrocortisone Sick Day Rules. Clinical examination and investigative review confirm issuing NHS Steroid Emergency Card and instructing patient to double oral hydrocortisone doses during febrile illnesses or minor surgery. Vitals reveal blood pressure of 124/74 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine primary adrenal insufficiency addison disease nhs steroid emergency card hydrocortisone sick day rules. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Issuing NHS Steroid Emergency Card and instructing patient to double oral hydrocortisone doses during febrile illnesses or minor surgery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is issuing NHS Steroid Emergency Card and instructing patient to double oral hydrocortisone doses during febrile illnesses or minor surgery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Emergency Card Hydrocortisone Sick Day Rules.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Emergency Card Hydrocortisone Sick Day Rules. The cornerstone of management involves issuing NHS Steroid Emergency Card and instructing patient to double oral hydrocortisone doses during febrile illnesses or minor surgery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Emergency Card Hydrocortisone Sick Day Rules.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Adrenal Insufficiency Addison Disease NHS Steroid Emergency Card Hydrocortisone Sick Day Rules."
+    ],
+    "references": [
+      {
+        "label": "NICE and Society for Endocrinology Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34019",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dex",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dexamethasone Suppression Test First-Line. Clinical examination and investigative review confirm ordering overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol to screen for hypercortisolemia. Vitals reveal blood pressure of 125/75 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine suspected cushing syndrome nice guidelines overnight 1mg dexamethasone suppression test first-line. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Ordering overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol to screen for hypercortisolemia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol to screen for hypercortisolemia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dexamethasone Suppression Test First-Line.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dexamethasone Suppression Test First-Line. The cornerstone of management involves ordering overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol to screen for hypercortisolemia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dexamethasone Suppression Test First-Line.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Suspected Cushing Syndrome NICE Guidelines Overnight 1mg Dexamethasone Suppression Test First-Line."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Endocrine Emergency and Clinical Guidance",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34020",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surge",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surgery Serum Calcium Kidney Stones Osteoporosis. Clinical examination and investigative review confirm referring for parathyroidectomy when corrected calcium exceeds 2.85 mmol per L or in presence of nephrolithiasis or fragility fracture. Vitals reveal blood pressure of 126/76 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine primary hyperparathyroidism nice ng132 indications for surgery serum calcium kidney stones osteoporosis. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Referring for parathyroidectomy when corrected calcium exceeds 2.85 mmol per L or in presence of nephrolithiasis or fragility fracture",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring for parathyroidectomy when corrected calcium exceeds 2.85 mmol per L or in presence of nephrolithiasis or fragility fracture. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surgery Serum Calcium Kidney Stones Osteoporosis.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surgery Serum Calcium Kidney Stones Osteoporosis. The cornerstone of management involves referring for parathyroidectomy when corrected calcium exceeds 2.85 mmol per L or in presence of nephrolithiasis or fragility fracture. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surgery Serum Calcium Kidney Stones Osteoporosis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Primary Hyperparathyroidism NICE NG132 Indications for Surgery Serum Calcium Kidney Stones Osteoporosis."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG132] Hyperparathyroidism (Primary): Diagnosis, Assessment and Initial Management",
+        "url": "https://www.nice.org.uk/guidance/ng132"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34021",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Bloc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Blockade Preoperative Fluid Loading. Clinical examination and investigative review confirm initiating non-competitive alpha-blocker phenoxybenzamine prior to adding beta-blocker to prevent hypertensive crisis before tumor resection. Vitals reveal blood pressure of 127/77 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine pheochromocytoma nice guidelines phenoxybenzamine alpha blockade preoperative fluid loading. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Initiating non-competitive alpha-blocker phenoxybenzamine prior to adding beta-blocker to prevent hypertensive crisis before tumor resection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating non-competitive alpha-blocker phenoxybenzamine prior to adding beta-blocker to prevent hypertensive crisis before tumor resection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Blockade Preoperative Fluid Loading.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Blockade Preoperative Fluid Loading. The cornerstone of management involves initiating non-competitive alpha-blocker phenoxybenzamine prior to adding beta-blocker to prevent hypertensive crisis before tumor resection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Blockade Preoperative Fluid Loading.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Pheochromocytoma NICE Guidelines Phenoxybenzamine Alpha Blockade Preoperative Fluid Loading."
+    ],
+    "references": [
+      {
+        "label": "British Society of Endocrine and Thyroid Surgeons Guidelines",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34022",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine Agonist Cardiac Valvular Surveillance. Clinical examination and investigative review confirm initiating cabergoline for macroprolactinoma and organizing baseline echocardiogram if high doses are anticipated to monitor valve fibrosis. Vitals reveal blood pressure of 128/78 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine prolactinoma society for endocrinology cabergoline dopamine agonist cardiac valvular surveillance. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Initiating cabergoline for macroprolactinoma and organizing baseline echocardiogram if high doses are anticipated to monitor valve fibrosis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating cabergoline for macroprolactinoma and organizing baseline echocardiogram if high doses are anticipated to monitor valve fibrosis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine Agonist Cardiac Valvular Surveillance.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine Agonist Cardiac Valvular Surveillance. The cornerstone of management involves initiating cabergoline for macroprolactinoma and organizing baseline echocardiogram if high doses are anticipated to monitor valve fibrosis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine Agonist Cardiac Valvular Surveillance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Prolactinoma Society for Endocrinology Cabergoline Dopamine Agonist Cardiac Valvular Surveillance."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34023",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score Methotrexate Combination DMARD. Clinical examination and investigative review confirm initiating oral methotrexate with short-term bridging corticosteroid within 3 months of symptom onset in active rheumatoid arthritis. Vitals reveal blood pressure of 129/79 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine rheumatoid arthritis nice ng100 treat to target das28 score methotrexate combination dmard. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Initiating oral methotrexate with short-term bridging corticosteroid within 3 months of symptom onset in active rheumatoid arthritis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral methotrexate with short-term bridging corticosteroid within 3 months of symptom onset in active rheumatoid arthritis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score Methotrexate Combination DMARD.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score Methotrexate Combination DMARD. The cornerstone of management involves initiating oral methotrexate with short-term bridging corticosteroid within 3 months of symptom onset in active rheumatoid arthritis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score Methotrexate Combination DMARD.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Rheumatoid Arthritis NICE NG100 Treat to Target DAS28 Score Methotrexate Combination DMARD."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG100] Rheumatoid Arthritis in Adults: Management",
+        "url": "https://www.nice.org.uk/guidance/ng100"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34024",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Ther",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Therapy Adalimumab NSAID Refractoriness. Clinical examination and investigative review confirm offering anti-TNF biologic therapy for severe axial spondyloarthritis with persistent BASDAI of 4 or more failing conventional NSAIDs. Vitals reveal blood pressure of 130/80 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine axial spondyloarthritis nice ng65 basdai score anti-tnf therapy adalimumab nsaid refractoriness. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Offering anti-TNF biologic therapy for severe axial spondyloarthritis with persistent BASDAI of 4 or more failing conventional NSAIDs",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering anti-TNF biologic therapy for severe axial spondyloarthritis with persistent BASDAI of 4 or more failing conventional NSAIDs. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Therapy Adalimumab NSAID Refractoriness.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Therapy Adalimumab NSAID Refractoriness. The cornerstone of management involves offering anti-TNF biologic therapy for severe axial spondyloarthritis with persistent BASDAI of 4 or more failing conventional NSAIDs. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Therapy Adalimumab NSAID Refractoriness.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Axial Spondyloarthritis NICE NG65 BASDAI Score Anti-TNF Therapy Adalimumab NSAID Refractoriness."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG65] Spondyloarthritis in Over 16s: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng65"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34025",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Managemen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Management Supervised Exercise Weight Loss Topical NSAID. Clinical examination and investigative review confirm recommending therapeutic exercise and topical non-steroidal anti-inflammatory gel before considering oral paracetamol or opioids. Vitals reveal blood pressure of 131/81 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine knee osteoarthritis nice ng226 non-pharmacological management supervised exercise weight loss topical nsaid. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Recommending therapeutic exercise and topical non-steroidal anti-inflammatory gel before considering oral paracetamol or opioids",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending therapeutic exercise and topical non-steroidal anti-inflammatory gel before considering oral paracetamol or opioids. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Management Supervised Exercise Weight Loss Topical NSAID.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Management Supervised Exercise Weight Loss Topical NSAID. The cornerstone of management involves recommending therapeutic exercise and topical non-steroidal anti-inflammatory gel before considering oral paracetamol or opioids. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Management Supervised Exercise Weight Loss Topical NSAID.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Knee Osteoarthritis NICE NG226 Non-Pharmacological Management Supervised Exercise Weight Loss Topical NSAID."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG226] Osteoarthritis: Care and Management",
+        "url": "https://www.nice.org.uk/guidance/ng226"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34026",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Tar",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Target Allopurinol Serum Urate Below 300. Clinical examination and investigative review confirm titrating allopurinol treat-to-target aiming for serum urate below 300 micromol per liter alongside low-dose colchicine flare prophylaxis. Vitals reveal blood pressure of 132/82 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine gout flare british society for rheumatology bsr treat to target allopurinol serum urate below 300. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Titrating allopurinol treat-to-target aiming for serum urate below 300 micromol per liter alongside low-dose colchicine flare prophylaxis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is titrating allopurinol treat-to-target aiming for serum urate below 300 micromol per liter alongside low-dose colchicine flare prophylaxis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Target Allopurinol Serum Urate Below 300.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Target Allopurinol Serum Urate Below 300. The cornerstone of management involves titrating allopurinol treat-to-target aiming for serum urate below 300 micromol per liter alongside low-dose colchicine flare prophylaxis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Target Allopurinol Serum Urate Below 300.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Gout Flare British Society for Rheumatology BSR Treat to Target Allopurinol Serum Urate Below 300."
+    ],
+    "references": [
+      {
+        "label": "British Society for Rheumatology (BSR) Guideline for the Management of Gout",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34027",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisolone Temporal Artery Biopsy Ultrasound. Clinical examination and investigative review confirm initiating immediate oral prednisolone 60 mg daily for suspected giant cell arteritis with visual symptoms prior to temporal artery biopsy. Vitals reveal blood pressure of 133/83 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine giant cell arteritis bsr guidelines high-dose oral prednisolone temporal artery biopsy ultrasound. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Initiating immediate oral prednisolone 60 mg daily for suspected giant cell arteritis with visual symptoms prior to temporal artery biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating immediate oral prednisolone 60 mg daily for suspected giant cell arteritis with visual symptoms prior to temporal artery biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisolone Temporal Artery Biopsy Ultrasound.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisolone Temporal Artery Biopsy Ultrasound. The cornerstone of management involves initiating immediate oral prednisolone 60 mg daily for suspected giant cell arteritis with visual symptoms prior to temporal artery biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisolone Temporal Artery Biopsy Ultrasound.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Giant Cell Arteritis BSR Guidelines High-Dose Oral Prednisolone Temporal Artery Biopsy Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "British Society for Rheumatology Guideline on Giant Cell Arteritis",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34028",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vitamin D Analogue Once Daily. Clinical examination and investigative review confirm prescribing once-daily topical combination of potent corticosteroid and calcipotriol for up to 4 weeks for chronic trunk and limb plaque psoriasis. Vitals reveal blood pressure of 134/84 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine plaque psoriasis nice cg153 topical potent corticosteroid vitamin d analogue once daily. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Prescribing once-daily topical combination of potent corticosteroid and calcipotriol for up to 4 weeks for chronic trunk and limb plaque psoriasis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing once-daily topical combination of potent corticosteroid and calcipotriol for up to 4 weeks for chronic trunk and limb plaque psoriasis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vitamin D Analogue Once Daily.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vitamin D Analogue Once Daily. The cornerstone of management involves prescribing once-daily topical combination of potent corticosteroid and calcipotriol for up to 4 weeks for chronic trunk and limb plaque psoriasis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vitamin D Analogue Once Daily.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Plaque Psoriasis NICE CG153 Topical Potent Corticosteroid Vitamin D Analogue Once Daily."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG153] Psoriasis: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/cg153"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34029",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities To",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities Topical Corticosteroid Potency Ladder. Clinical examination and investigative review confirm prescribing liberal leave-on emollient therapy at 500 grams weekly and applying mild-to-moderate topical corticosteroid to active flares. Vitals reveal blood pressure of 135/85 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine atopic eczema nice cg57 stepped care emollient quantities topical corticosteroid potency ladder. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Prescribing liberal leave-on emollient therapy at 500 grams weekly and applying mild-to-moderate topical corticosteroid to active flares",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing liberal leave-on emollient therapy at 500 grams weekly and applying mild-to-moderate topical corticosteroid to active flares. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities Topical Corticosteroid Potency Ladder.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities Topical Corticosteroid Potency Ladder. The cornerstone of management involves prescribing liberal leave-on emollient therapy at 500 grams weekly and applying mild-to-moderate topical corticosteroid to active flares. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities Topical Corticosteroid Potency Ladder.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Atopic Eczema NICE CG57 Stepped Care Emollient Quantities Topical Corticosteroid Potency Ladder."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG57] Atopic Eczema in Under 12s",
+        "url": "https://www.nice.org.uk/guidance/cg57"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34030",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighte",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighted 7-Point Checklist Excisional Biopsy. Clinical examination and investigative review confirm referring suspicious pigmented skin lesion scoring 3 or more on weighted 7-point checklist via suspected cancer 2-week-wait pathway. Vitals reveal blood pressure of 136/86 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine cutaneous malignant melanoma nice ng12 two-week wait weighted 7-point checklist excisional biopsy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Referring suspicious pigmented skin lesion scoring 3 or more on weighted 7-point checklist via suspected cancer 2-week-wait pathway",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring suspicious pigmented skin lesion scoring 3 or more on weighted 7-point checklist via suspected cancer 2-week-wait pathway. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighted 7-Point Checklist Excisional Biopsy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighted 7-Point Checklist Excisional Biopsy. The cornerstone of management involves referring suspicious pigmented skin lesion scoring 3 or more on weighted 7-point checklist via suspected cancer 2-week-wait pathway. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighted 7-Point Checklist Excisional Biopsy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Cutaneous Malignant Melanoma NICE NG12 Two-Week Wait Weighted 7-Point Checklist Excisional Biopsy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG12] Suspected Cancer: Recognition and Referral",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34031",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Dir",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Direct Immunofluorescence High-Potency Topical Steroids. Clinical examination and investigative review confirm prescribing whole-body topical clobetasol propionate cream as effective first-line therapy with fewer adverse effects than oral steroids in bullous pemphigoid. Vitals reveal blood pressure of 137/87 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine bullous pemphigoid british association of dermatologists direct immunofluorescence high-potency topical steroids. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prescribing whole-body topical clobetasol propionate cream as effective first-line therapy with fewer adverse effects than oral steroids in bullous pemphigoid",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing whole-body topical clobetasol propionate cream as effective first-line therapy with fewer adverse effects than oral steroids in bullous pemphigoid. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Direct Immunofluorescence High-Potency Topical Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Direct Immunofluorescence High-Potency Topical Steroids. The cornerstone of management involves prescribing whole-body topical clobetasol propionate cream as effective first-line therapy with fewer adverse effects than oral steroids in bullous pemphigoid. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Direct Immunofluorescence High-Potency Topical Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Bullous Pemphigoid British Association of Dermatologists Direct Immunofluorescence High-Potency Topical Steroids."
+    ],
+    "references": [
+      {
+        "label": "British Association of Dermatologists (BAD) Guidelines for Bullous Pemphigoid",
+        "url": "https://www.bad.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34032",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarco",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarcoidosis Chest Radiograph Throat Swab. Clinical examination and investigative review confirm ordering chest radiograph and antistreptolysin O titer for young adult presenting with painful tender pretibial erythematous subcutaneous nodules. Vitals reveal blood pressure of 138/72 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla medicine erythema nodosum causes workup streptococcal infection sarcoidosis chest radiograph throat swab. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Ordering chest radiograph and antistreptolysin O titer for young adult presenting with painful tender pretibial erythematous subcutaneous nodules",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering chest radiograph and antistreptolysin O titer for young adult presenting with painful tender pretibial erythematous subcutaneous nodules. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarcoidosis Chest Radiograph Throat Swab.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarcoidosis Chest Radiograph Throat Swab. The cornerstone of management involves ordering chest radiograph and antistreptolysin O titer for young adult presenting with painful tender pretibial erythematous subcutaneous nodules. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarcoidosis Chest Radiograph Throat Swab.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Medicine Erythema Nodosum Causes Workup Streptococcal Infection Sarcoidosis Chest Radiograph Throat Swab."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries (CKS) Erythema Nodosum",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34033",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transcutaneous Bilirubinometer Phototherapy Threshold. Clinical examination and investigative review confirm measuring bilirubin level using transcutaneous bilirubinometer in baby older than 24 hours with jaundice and plotting on gestational age graph. Vitals reveal blood pressure of 139/73 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics neonatal jaundice nice cg98 hour-specific bilirubin transcutaneous bilirubinometer phototherapy threshold. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Measuring bilirubin level using transcutaneous bilirubinometer in baby older than 24 hours with jaundice and plotting on gestational age graph",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is measuring bilirubin level using transcutaneous bilirubinometer in baby older than 24 hours with jaundice and plotting on gestational age graph. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transcutaneous Bilirubinometer Phototherapy Threshold.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transcutaneous Bilirubinometer Phototherapy Threshold. The cornerstone of management involves measuring bilirubin level using transcutaneous bilirubinometer in baby older than 24 hours with jaundice and plotting on gestational age graph. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transcutaneous Bilirubinometer Phototherapy Threshold.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Neonatal Jaundice NICE CG98 Hour-Specific Bilirubin Transcutaneous Bilirubinometer Phototherapy Threshold."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG98] Jaundice in Newborn Babies Under 28 Days",
+        "url": "https://www.nice.org.uk/guidance/cg98"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34034",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Satur",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Saturation Under 92 Feeding Inadequacy. Clinical examination and investigative review confirm admitting infant with acute bronchiolitis presenting with oxygen saturation below 92 percent in air or taking less than 50 percent normal fluids. Vitals reveal blood pressure of 118/74 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics bronchiolitis nice ng9 criteria for admission oxygen saturation under 92 feeding inadequacy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Admitting infant with acute bronchiolitis presenting with oxygen saturation below 92 percent in air or taking less than 50 percent normal fluids",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is admitting infant with acute bronchiolitis presenting with oxygen saturation below 92 percent in air or taking less than 50 percent normal fluids. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Saturation Under 92 Feeding Inadequacy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Saturation Under 92 Feeding Inadequacy. The cornerstone of management involves admitting infant with acute bronchiolitis presenting with oxygen saturation below 92 percent in air or taking less than 50 percent normal fluids. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Saturation Under 92 Feeding Inadequacy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Bronchiolitis NICE NG9 Criteria for Admission Oxygen Saturation Under 92 Feeding Inadequacy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG9] Bronchiolitis in Children: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng9"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34035",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone Alternative Stridor. Clinical examination and investigative review confirm administering single dose of oral dexamethasone 0.15 mg per kg for any child presenting with mild moderate or severe acute laryngotracheobronchitis. Vitals reveal blood pressure of 119/75 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics croup nice cks single dose oral dexamethasone prednisolone alternative stridor. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering single dose of oral dexamethasone 0.15 mg per kg for any child presenting with mild moderate or severe acute laryngotracheobronchitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering single dose of oral dexamethasone 0.15 mg per kg for any child presenting with mild moderate or severe acute laryngotracheobronchitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone Alternative Stridor.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone Alternative Stridor. The cornerstone of management involves administering single dose of oral dexamethasone 0.15 mg per kg for any child presenting with mild moderate or severe acute laryngotracheobronchitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone Alternative Stridor.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Croup NICE CKS Single Dose Oral Dexamethasone Prednisolone Alternative Stridor."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries (CKS) Croup",
+        "url": "https://cks.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34036",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk St",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk Stratification Parental Advice. Clinical examination and investigative review confirm assessing febrile child using NICE traffic light clinical system to exclude underlying serious bacterial illness following brief convulsion. Vitals reveal blood pressure of 120/76 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics febrile convulsion nice ng143 traffic light system risk stratification parental advice. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Assessing febrile child using NICE traffic light clinical system to exclude underlying serious bacterial illness following brief convulsion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is assessing febrile child using NICE traffic light clinical system to exclude underlying serious bacterial illness following brief convulsion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk Stratification Parental Advice.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk Stratification Parental Advice. The cornerstone of management involves assessing febrile child using NICE traffic light clinical system to exclude underlying serious bacterial illness following brief convulsion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk Stratification Parental Advice.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Febrile Convulsion NICE NG143 Traffic Light System Risk Stratification Parental Advice."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG143] Fever in Under 5s: Assessment and Initial Management",
+        "url": "https://www.nice.org.uk/guidance/ng143"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34037",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal S",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal Septicaemia Urgent Intramuscular Benzylpenicillin. Clinical examination and investigative review confirm administering immediate intramuscular or intravenous benzylpenicillin in primary care for child with non-blanching petechial purpuric rash before hospital transfer. Vitals reveal blood pressure of 121/77 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics meningococcal disease nice ng240 suspected meningococcal septicaemia urgent intramuscular benzylpenicillin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Administering immediate intramuscular or intravenous benzylpenicillin in primary care for child with non-blanching petechial purpuric rash before hospital transfer",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering immediate intramuscular or intravenous benzylpenicillin in primary care for child with non-blanching petechial purpuric rash before hospital transfer. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal Septicaemia Urgent Intramuscular Benzylpenicillin.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal Septicaemia Urgent Intramuscular Benzylpenicillin. The cornerstone of management involves administering immediate intramuscular or intravenous benzylpenicillin in primary care for child with non-blanching petechial purpuric rash before hospital transfer. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal Septicaemia Urgent Intramuscular Benzylpenicillin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Meningococcal Disease NICE NG240 Suspected Meningococcal Septicaemia Urgent Intramuscular Benzylpenicillin."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG240] Meningitis and Meningococcal Sepsis",
+        "url": "https://www.nice.org.uk/guidance/ng240"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34038",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy Pathway High-Titer tTG-IgA. Clinical examination and investigative review confirm diagnosing pediatric celiac disease without small bowel biopsy when serum IgA tissue transglutaminase is 10 times upper limit of normal. Vitals reveal blood pressure of 122/78 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics coeliac disease espghan guidelines paediatric non-biopsy pathway high-titer ttg-iga. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Diagnosing pediatric celiac disease without small bowel biopsy when serum IgA tissue transglutaminase is 10 times upper limit of normal",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnosing pediatric celiac disease without small bowel biopsy when serum IgA tissue transglutaminase is 10 times upper limit of normal. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy Pathway High-Titer tTG-IgA.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy Pathway High-Titer tTG-IgA. The cornerstone of management involves diagnosing pediatric celiac disease without small bowel biopsy when serum IgA tissue transglutaminase is 10 times upper limit of normal. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy Pathway High-Titer tTG-IgA.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Coeliac Disease ESPGHAN Guidelines Paediatric Non-Biopsy Pathway High-Titer tTG-IgA."
+    ],
+    "references": [
+      {
+        "label": "ESPGHAN Guidelines for Diagnosing Coeliac Disease 2020",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34039",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag Fluid Resuscitation Protocol. Clinical examination and investigative review confirm calculating maintenance and deficit intravenous fluid volume over 48 hours to minimize cerebral edema risk during pediatric DKA management. Vitals reveal blood pressure of 123/79 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics type 1 diabetes mellitus nice ng18 paediatric dka two-bag fluid resuscitation protocol. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Calculating maintenance and deficit intravenous fluid volume over 48 hours to minimize cerebral edema risk during pediatric DKA management",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating maintenance and deficit intravenous fluid volume over 48 hours to minimize cerebral edema risk during pediatric DKA management. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag Fluid Resuscitation Protocol.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag Fluid Resuscitation Protocol. The cornerstone of management involves calculating maintenance and deficit intravenous fluid volume over 48 hours to minimize cerebral edema risk during pediatric DKA management. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag Fluid Resuscitation Protocol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Type 1 Diabetes Mellitus NICE NG18 Paediatric DKA Two-Bag Fluid Resuscitation Protocol."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG18] Diabetes (Type 1 and Type 2) in Children and Young People",
+        "url": "https://www.nice.org.uk/guidance/ng18"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34040",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dos",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dose Inhaled Steroid Spacer Technique. Clinical examination and investigative review confirm prescribing pressurized metered-dose inhaler with age-appropriate spacer device and facial mask for child under 5 with frequent viral-triggered wheeze. Vitals reveal blood pressure of 124/80 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics childhood asthma bts sign guidelines stepwise saba low-dose inhaled steroid spacer technique. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing pressurized metered-dose inhaler with age-appropriate spacer device and facial mask for child under 5 with frequent viral-triggered wheeze",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing pressurized metered-dose inhaler with age-appropriate spacer device and facial mask for child under 5 with frequent viral-triggered wheeze. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dose Inhaled Steroid Spacer Technique.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dose Inhaled Steroid Spacer Technique. The cornerstone of management involves prescribing pressurized metered-dose inhaler with age-appropriate spacer device and facial mask for child under 5 with frequent viral-triggered wheeze. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dose Inhaled Steroid Spacer Technique.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Childhood Asthma BTS SIGN Guidelines Stepwise SABA Low-Dose Inhaled Steroid Spacer Technique."
+    ],
+    "references": [
+      {
+        "label": "BTS/SIGN British Guideline on Asthma Management",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34041",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feedi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feeding Thickener Trial. Clinical examination and investigative review confirm reassuring parents of thriving infant with uncomplicated posseting and advising small frequent feeds without prescribing acid suppression. Vitals reveal blood pressure of 125/81 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics gastroesophageal reflux nice ng1 reassurance stepped feeding thickener trial. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Reassuring parents of thriving infant with uncomplicated posseting and advising small frequent feeds without prescribing acid suppression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reassuring parents of thriving infant with uncomplicated posseting and advising small frequent feeds without prescribing acid suppression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feeding Thickener Trial.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feeding Thickener Trial. The cornerstone of management involves reassuring parents of thriving infant with uncomplicated posseting and advising small frequent feeds without prescribing acid suppression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feeding Thickener Trial.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Gastroesophageal Reflux NICE NG1 Reassurance Stepped Feeding Thickener Trial."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG1] Gastro-Oesophageal Reflux Disease in Children",
+        "url": "https://www.nice.org.uk/guidance/ng1"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34042",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical Lymphadenopathy High-Dose IVIG Aspirin. Clinical examination and investigative review confirm treating Kawasaki disease with single infusion IVIG 2 g per kg and anti-inflammatory dose aspirin to prevent coronary artery aneurysm formation. Vitals reveal blood pressure of 126/82 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla pediatrics kawasaki disease nice guidelines persistent fever cervical lymphadenopathy high-dose ivig aspirin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Treating Kawasaki disease with single infusion IVIG 2 g per kg and anti-inflammatory dose aspirin to prevent coronary artery aneurysm formation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is treating Kawasaki disease with single infusion IVIG 2 g per kg and anti-inflammatory dose aspirin to prevent coronary artery aneurysm formation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical Lymphadenopathy High-Dose IVIG Aspirin.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical Lymphadenopathy High-Dose IVIG Aspirin. The cornerstone of management involves treating Kawasaki disease with single infusion IVIG 2 g per kg and anti-inflammatory dose aspirin to prevent coronary artery aneurysm formation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical Lymphadenopathy High-Dose IVIG Aspirin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Pediatrics Kawasaki Disease NICE Guidelines Persistent Fever Cervical Lymphadenopathy High-Dose IVIG Aspirin."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines and British Paediatric Surveillance Unit",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34043",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down Syndrome Anomaly Scan Timing. Clinical examination and investigative review confirm offering combined test (nuchal translucency beta-hCG PAPP-A) at 11 to 14 weeks and mid-trimester ultrasound anomaly scan at 18 to 20 weeks. Vitals reveal blood pressure of 127/83 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics antenatal care nice ng201 routine screening schedule down syndrome anomaly scan timing. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Offering combined test (nuchal translucency beta-hCG PAPP-A) at 11 to 14 weeks and mid-trimester ultrasound anomaly scan at 18 to 20 weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering combined test (nuchal translucency beta-hCG PAPP-A) at 11 to 14 weeks and mid-trimester ultrasound anomaly scan at 18 to 20 weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down Syndrome Anomaly Scan Timing.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down Syndrome Anomaly Scan Timing. The cornerstone of management involves offering combined test (nuchal translucency beta-hCG PAPP-A) at 11 to 14 weeks and mid-trimester ultrasound anomaly scan at 18 to 20 weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down Syndrome Anomaly Scan Timing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Antenatal Care NICE NG201 Routine Screening Schedule Down Syndrome Anomaly Scan Timing."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG201] Antenatal Care",
+        "url": "https://www.nice.org.uk/guidance/ng201"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34044",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg Aspirin Prophylaxis 12 Weeks. Clinical examination and investigative review confirm prescribing prophylactic oral aspirin 150 mg daily from 12 weeks of pregnancy until birth for woman with high-risk preeclampsia criteria. Vitals reveal blood pressure of 128/84 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics pre-eclampsia high-risk factors nice ng133 daily 75-150mg aspirin prophylaxis 12 weeks. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Prescribing prophylactic oral aspirin 150 mg daily from 12 weeks of pregnancy until birth for woman with high-risk preeclampsia criteria",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing prophylactic oral aspirin 150 mg daily from 12 weeks of pregnancy until birth for woman with high-risk preeclampsia criteria. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg Aspirin Prophylaxis 12 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg Aspirin Prophylaxis 12 Weeks. The cornerstone of management involves prescribing prophylactic oral aspirin 150 mg daily from 12 weeks of pregnancy until birth for woman with high-risk preeclampsia criteria. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg Aspirin Prophylaxis 12 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Pre-Eclampsia High-Risk Factors NICE NG133 Daily 75-150mg Aspirin Prophylaxis 12 Weeks."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG133] Hypertension in Pregnancy: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng133"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34045",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting 5.6 2-Hour 7.8 Thresholds. Clinical examination and investigative review confirm diagnosing gestational diabetes when fasting plasma glucose is 5.6 mmol per L or 2-hour plasma glucose is 7.8 mmol per L on 75-g OGTT. Vitals reveal blood pressure of 129/85 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics gestational diabetes nice ng3 diagnostic 75g ogtt fasting 5.6 2-hour 7.8 thresholds. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnosing gestational diabetes when fasting plasma glucose is 5.6 mmol per L or 2-hour plasma glucose is 7.8 mmol per L on 75-g OGTT",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnosing gestational diabetes when fasting plasma glucose is 5.6 mmol per L or 2-hour plasma glucose is 7.8 mmol per L on 75-g OGTT. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting 5.6 2-Hour 7.8 Thresholds.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting 5.6 2-Hour 7.8 Thresholds. The cornerstone of management involves diagnosing gestational diabetes when fasting plasma glucose is 5.6 mmol per L or 2-hour plasma glucose is 7.8 mmol per L on 75-g OGTT. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting 5.6 2-Hour 7.8 Thresholds.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Gestational Diabetes NICE NG3 Diagnostic 75g OGTT Fasting 5.6 2-Hour 7.8 Thresholds."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG3] Diabetes in Pregnancy: Management from Preconception to the Postnatal Period",
+        "url": "https://www.nice.org.uk/guidance/ng3"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34046",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medical vs Surgical Management Laparoscopy. Clinical examination and investigative review confirm performing laparoscopic salpingectomy for tubal ectopic pregnancy when serum beta-hCG exceeds 5000 or adnexal mass exceeds 35 mm. Vitals reveal blood pressure of 130/86 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics ectopic pregnancy nice ng126 ultrasound criteria for medical vs surgical management laparoscopy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Performing laparoscopic salpingectomy for tubal ectopic pregnancy when serum beta-hCG exceeds 5000 or adnexal mass exceeds 35 mm",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing laparoscopic salpingectomy for tubal ectopic pregnancy when serum beta-hCG exceeds 5000 or adnexal mass exceeds 35 mm. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medical vs Surgical Management Laparoscopy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medical vs Surgical Management Laparoscopy. The cornerstone of management involves performing laparoscopic salpingectomy for tubal ectopic pregnancy when serum beta-hCG exceeds 5000 or adnexal mass exceeds 35 mm. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medical vs Surgical Management Laparoscopy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Ectopic Pregnancy NICE NG126 Ultrasound Criteria for Medical vs Surgical Management Laparoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG126] Ectopic Pregnancy and Miscarriage",
+        "url": "https://www.nice.org.uk/guidance/ng126"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34047",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ult",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ultrasound Diagnosis Planned Elective Cesarean. Clinical examination and investigative review confirm performing transvaginal ultrasound at 32 and 36 weeks to confirm low-lying placenta or placenta previa and planning cesarean section. Vitals reveal blood pressure of 131/87 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics placenta praevia rcog green-top guideline transvaginal ultrasound diagnosis planned elective cesarean. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Performing transvaginal ultrasound at 32 and 36 weeks to confirm low-lying placenta or placenta previa and planning cesarean section",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing transvaginal ultrasound at 32 and 36 weeks to confirm low-lying placenta or placenta previa and planning cesarean section. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ultrasound Diagnosis Planned Elective Cesarean.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ultrasound Diagnosis Planned Elective Cesarean. The cornerstone of management involves performing transvaginal ultrasound at 32 and 36 weeks to confirm low-lying placenta or placenta previa and planning cesarean section. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ultrasound Diagnosis Planned Elective Cesarean.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Placenta Praevia RCOG Green-Top Guideline Transvaginal Ultrasound Diagnosis Planned Elective Cesarean."
+    ],
+    "references": [
+      {
+        "label": "RCOG Green-Top Guideline No. 27a Placenta Praevia and Placenta Accreta",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34048",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH U",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH Uterotonics Tranexamic Acid. Clinical examination and investigative review confirm administering 1 g intravenous tranexamic acid within 3 hours alongside oxytocin ergometrine carboprost for major postpartum hemorrhage. Vitals reveal blood pressure of 132/72 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics postpartum haemorrhage rcog green-top minor vs major pph uterotonics tranexamic acid. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Administering 1 g intravenous tranexamic acid within 3 hours alongside oxytocin ergometrine carboprost for major postpartum hemorrhage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 1 g intravenous tranexamic acid within 3 hours alongside oxytocin ergometrine carboprost for major postpartum hemorrhage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH Uterotonics Tranexamic Acid.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH Uterotonics Tranexamic Acid. The cornerstone of management involves administering 1 g intravenous tranexamic acid within 3 hours alongside oxytocin ergometrine carboprost for major postpartum hemorrhage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH Uterotonics Tranexamic Acid.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Postpartum Haemorrhage RCOG Green-Top Minor vs Major PPH Uterotonics Tranexamic Acid."
+    ],
+    "references": [
+      {
+        "label": "RCOG Green-Top Guideline No. 52 Postpartum Haemorrhage",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34049",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprot",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprotection Before 30 Weeks. Clinical examination and investigative review confirm administering intravenous magnesium sulfate for fetal neuroprotection to women in established preterm labor between 24 and 30 weeks gestation. Vitals reveal blood pressure of 133/73 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics preterm labour nice ng25 magnesium sulfate fetal neuroprotection before 30 weeks. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Administering intravenous magnesium sulfate for fetal neuroprotection to women in established preterm labor between 24 and 30 weeks gestation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous magnesium sulfate for fetal neuroprotection to women in established preterm labor between 24 and 30 weeks gestation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprotection Before 30 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprotection Before 30 Weeks. The cornerstone of management involves administering intravenous magnesium sulfate for fetal neuroprotection to women in established preterm labor between 24 and 30 weeks gestation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprotection Before 30 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Preterm Labour NICE NG25 Magnesium Sulfate Fetal Neuroprotection Before 30 Weeks."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG25] Preterm Labour and Birth",
+        "url": "https://www.nice.org.uk/guidance/ng25"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34050",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweep",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweeping Vaginal Prostaglandin E2. Clinical examination and investigative review confirm administering vaginal dinoprostone controlled-release pessary for cervical ripening when Bishop score is unfavorable (6 or less) for induction. Vitals reveal blood pressure of 134/74 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics induction of labour nice ng207 bishop score membrane sweeping vaginal prostaglandin e2. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering vaginal dinoprostone controlled-release pessary for cervical ripening when Bishop score is unfavorable (6 or less) for induction",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering vaginal dinoprostone controlled-release pessary for cervical ripening when Bishop score is unfavorable (6 or less) for induction. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweeping Vaginal Prostaglandin E2.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweeping Vaginal Prostaglandin E2. The cornerstone of management involves administering vaginal dinoprostone controlled-release pessary for cervical ripening when Bishop score is unfavorable (6 or less) for induction. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweeping Vaginal Prostaglandin E2.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Induction of Labour NICE NG207 Bishop Score Membrane Sweeping Vaginal Prostaglandin E2."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG207] Inducing Labour",
+        "url": "https://www.nice.org.uk/guidance/ng207"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34051",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal H",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal Height Serial Ultrasound Doppler Umbilical Artery. Clinical examination and investigative review confirm investigating suspected small-for-gestational-age fetus with umbilical artery Doppler to evaluate end-diastolic flow and placental insufficiency. Vitals reveal blood pressure of 135/75 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics fetal growth restriction rcog green-top symphysis-fundal height serial ultrasound doppler umbilical artery. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Investigating suspected small-for-gestational-age fetus with umbilical artery Doppler to evaluate end-diastolic flow and placental insufficiency",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is investigating suspected small-for-gestational-age fetus with umbilical artery Doppler to evaluate end-diastolic flow and placental insufficiency. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal Height Serial Ultrasound Doppler Umbilical Artery.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal Height Serial Ultrasound Doppler Umbilical Artery. The cornerstone of management involves investigating suspected small-for-gestational-age fetus with umbilical artery Doppler to evaluate end-diastolic flow and placental insufficiency. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal Height Serial Ultrasound Doppler Umbilical Artery.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Fetal Growth Restriction RCOG Green-Top Symphysis-Fundal Height Serial Ultrasound Doppler Umbilical Artery."
+    ],
+    "references": [
+      {
+        "label": "RCOG Green-Top Guideline No. 31 Investigation and Management of the Small-for-Gestational-Age Fetus",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34052",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenata",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenatal Anti-D Prophylaxis RAADP 28 Weeks. Clinical examination and investigative review confirm administering routine prophylactic intramuscular anti-D immunoglobulin at 28 weeks gestation to non-sensitized RhD-negative pregnant women. Vitals reveal blood pressure of 136/76 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla obstetrics rhesus negative pregnancy nice guidelines routine antenatal anti-d prophylaxis raadp 28 weeks. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Administering routine prophylactic intramuscular anti-D immunoglobulin at 28 weeks gestation to non-sensitized RhD-negative pregnant women",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering routine prophylactic intramuscular anti-D immunoglobulin at 28 weeks gestation to non-sensitized RhD-negative pregnant women. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenatal Anti-D Prophylaxis RAADP 28 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenatal Anti-D Prophylaxis RAADP 28 Weeks. The cornerstone of management involves administering routine prophylactic intramuscular anti-D immunoglobulin at 28 weeks gestation to non-sensitized RhD-negative pregnant women. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenatal Anti-D Prophylaxis RAADP 28 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Obstetrics Rhesus Negative Pregnancy NICE Guidelines Routine Antenatal Anti-D Prophylaxis RAADP 28 Weeks."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal [TA156] Routine Antenatal Anti-D Prophylaxis",
+        "url": "https://www.nice.org.uk/guidance/ta156"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34053",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Fema",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Females Diagnostic Laparoscopy. Clinical examination and investigative review confirm performing transabdominal and pelvic ultrasound to exclude gynecological pathology in young female with suspected acute appendicitis. Vitals reveal blood pressure of 137/77 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery acute appendicitis nice diagnostic imaging ultrasound in females diagnostic laparoscopy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Performing transabdominal and pelvic ultrasound to exclude gynecological pathology in young female with suspected acute appendicitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing transabdominal and pelvic ultrasound to exclude gynecological pathology in young female with suspected acute appendicitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Females Diagnostic Laparoscopy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Females Diagnostic Laparoscopy. The cornerstone of management involves performing transabdominal and pelvic ultrasound to exclude gynecological pathology in young female with suspected acute appendicitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Females Diagnostic Laparoscopy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Appendicitis NICE Diagnostic Imaging Ultrasound in Females Diagnostic Laparoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE and Association of Surgeons of Great Britain and Ireland Guidelines",
+        "url": "https://www.asgbi.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34054",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic Cholecystectomy Within One Week. Clinical examination and investigative review confirm offering early laparoscopic cholecystectomy within 1 week of diagnosis to patients presenting with acute calculous cholecystitis per NICE. Vitals reveal blood pressure of 138/78 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery acute cholecystitis nice cg188 hot gallbladder laparoscopic cholecystectomy within one week. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Offering early laparoscopic cholecystectomy within 1 week of diagnosis to patients presenting with acute calculous cholecystitis per NICE",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering early laparoscopic cholecystectomy within 1 week of diagnosis to patients presenting with acute calculous cholecystitis per NICE. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic Cholecystectomy Within One Week.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic Cholecystectomy Within One Week. The cornerstone of management involves offering early laparoscopic cholecystectomy within 1 week of diagnosis to patients presenting with acute calculous cholecystitis per NICE. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic Cholecystectomy Within One Week.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Cholecystitis NICE CG188 Hot Gallbladder Laparoscopic Cholecystectomy Within One Week."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG188] Gallstone Disease: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/cg188"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34055",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Wat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Water-Soluble Gastrografin Challenge. Clinical examination and investigative review confirm administering oral water-soluble contrast Gastrografin to differentiate resolving adhesive obstruction from need for exploratory laparotomy. Vitals reveal blood pressure of 139/79 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery small bowel obstruction nice emergency surgical care oral water-soluble gastrografin challenge. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering oral water-soluble contrast Gastrografin to differentiate resolving adhesive obstruction from need for exploratory laparotomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering oral water-soluble contrast Gastrografin to differentiate resolving adhesive obstruction from need for exploratory laparotomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Water-Soluble Gastrografin Challenge.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Water-Soluble Gastrografin Challenge. The cornerstone of management involves administering oral water-soluble contrast Gastrografin to differentiate resolving adhesive obstruction from need for exploratory laparotomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Water-Soluble Gastrografin Challenge.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Small Bowel Obstruction NICE Emergency Surgical Care Oral Water-Soluble Gastrografin Challenge."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines and Royal College of Surgeons of England",
+        "url": "https://www.rcseng.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34056",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical T",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical Testing FIT in Primary Care 10 Micrograms. Clinical examination and investigative review confirm offering quantitative fecal immunochemical test (FIT) in primary care for adults with unexplained bowel symptom changes without rectal bleeding. Vitals reveal blood pressure of 118/80 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery suspected colorectal cancer nice ng12 faecal immunochemical testing fit in primary care 10 micrograms. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Offering quantitative fecal immunochemical test (FIT) in primary care for adults with unexplained bowel symptom changes without rectal bleeding",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering quantitative fecal immunochemical test (FIT) in primary care for adults with unexplained bowel symptom changes without rectal bleeding. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical Testing FIT in Primary Care 10 Micrograms.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical Testing FIT in Primary Care 10 Micrograms. The cornerstone of management involves offering quantitative fecal immunochemical test (FIT) in primary care for adults with unexplained bowel symptom changes without rectal bleeding. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical Testing FIT in Primary Care 10 Micrograms.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Suspected Colorectal Cancer NICE NG12 Faecal Immunochemical Testing FIT in Primary Care 10 Micrograms."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG12] Suspected Cancer: Recognition and Referral",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34057",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultraso",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultrasound 5.5cm Elective Repair Threshold. Clinical examination and investigative review confirm referring men aged 65 with abdominal aortic aneurysm diameter 5.5 cm or greater for elective vascular surgical repair. Vitals reveal blood pressure of 119/81 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery abdominal aortic aneurysm nhs aaa screening programme ultrasound 5.5cm elective repair threshold. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Referring men aged 65 with abdominal aortic aneurysm diameter 5.5 cm or greater for elective vascular surgical repair",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring men aged 65 with abdominal aortic aneurysm diameter 5.5 cm or greater for elective vascular surgical repair. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultrasound 5.5cm Elective Repair Threshold.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultrasound 5.5cm Elective Repair Threshold. The cornerstone of management involves referring men aged 65 with abdominal aortic aneurysm diameter 5.5 cm or greater for elective vascular surgical repair. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultrasound 5.5cm Elective Repair Threshold.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Abdominal Aortic Aneurysm NHS AAA Screening Programme Ultrasound 5.5cm Elective Repair Threshold."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG156] Abdominal Aortic Aneurysm: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng156"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34058",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clini",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clinical Mammography Ultrasound Core Biopsy. Clinical examination and investigative review confirm referring woman aged 30 and over with unexplained breast lump via 2-week-wait cancer referral pathway for triple assessment. Vitals reveal blood pressure of 120/82 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery breast cancer nice ng12 two-week wait triple assessment clinical mammography ultrasound core biopsy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Referring woman aged 30 and over with unexplained breast lump via 2-week-wait cancer referral pathway for triple assessment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring woman aged 30 and over with unexplained breast lump via 2-week-wait cancer referral pathway for triple assessment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clinical Mammography Ultrasound Core Biopsy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clinical Mammography Ultrasound Core Biopsy. The cornerstone of management involves referring woman aged 30 and over with unexplained breast lump via 2-week-wait cancer referral pathway for triple assessment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clinical Mammography Ultrasound Core Biopsy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Breast Cancer NICE NG12 Two-Week Wait Triple Assessment Clinical Mammography Ultrasound Core Biopsy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG12] Suspected Cancer: Recognition and Referral",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34059",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionated Heparin Emergency Surgical Embolectomy. Clinical examination and investigative review confirm administering immediate systemic IV heparin bolus 5000 units and arranging emergency surgical revascularization for acutely ischemic leg. Vitals reveal blood pressure of 121/83 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery acute limb ischaemia 6 ps immediate intravenous unfractionated heparin emergency surgical embolectomy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Administering immediate systemic IV heparin bolus 5000 units and arranging emergency surgical revascularization for acutely ischemic leg",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering immediate systemic IV heparin bolus 5000 units and arranging emergency surgical revascularization for acutely ischemic leg. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionated Heparin Emergency Surgical Embolectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionated Heparin Emergency Surgical Embolectomy. The cornerstone of management involves administering immediate systemic IV heparin bolus 5000 units and arranging emergency surgical revascularization for acutely ischemic leg. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionated Heparin Emergency Surgical Embolectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Acute Limb Ischaemia 6 Ps Immediate Intravenous Unfractionated Heparin Emergency Surgical Embolectomy."
+    ],
+    "references": [
+      {
+        "label": "Vascular Society of Great Britain and Ireland Guidelines",
+        "url": "https://www.vascularsociety.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34060",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichten",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichtenstein Open vs Laparoscopic TEP TAPP. Clinical examination and investigative review confirm performing open Lichtenstein mesh hernioplasty for primary unilateral inguinal hernia under local or regional anesthesia. Vitals reveal blood pressure of 122/84 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery inguinal hernia royal college of surgeons mesh repair lichtenstein open vs laparoscopic tep tapp. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing open Lichtenstein mesh hernioplasty for primary unilateral inguinal hernia under local or regional anesthesia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing open Lichtenstein mesh hernioplasty for primary unilateral inguinal hernia under local or regional anesthesia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichtenstein Open vs Laparoscopic TEP TAPP.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichtenstein Open vs Laparoscopic TEP TAPP. The cornerstone of management involves performing open Lichtenstein mesh hernioplasty for primary unilateral inguinal hernia under local or regional anesthesia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichtenstein Open vs Laparoscopic TEP TAPP.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Inguinal Hernia Royal College of Surgeons Mesh Repair Lichtenstein Open vs Laparoscopic TEP TAPP."
+    ],
+    "references": [
+      {
+        "label": "Royal College of Surgeons of England Hernia Surgery Guidelines",
+        "url": "https://www.rcseng.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34061",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria Parkland Crystalloid Resuscitation. Clinical examination and investigative review confirm initiating Hartmann solution fluid resuscitation via Parkland formula and referring to specialized burn center for burns exceeding 10% TBSA. Vitals reveal blood pressure of 123/85 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery major burn injury british burn association referral criteria parkland crystalloid resuscitation. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Initiating Hartmann solution fluid resuscitation via Parkland formula and referring to specialized burn center for burns exceeding 10% TBSA",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating Hartmann solution fluid resuscitation via Parkland formula and referring to specialized burn center for burns exceeding 10% TBSA. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria Parkland Crystalloid Resuscitation.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria Parkland Crystalloid Resuscitation. The cornerstone of management involves initiating Hartmann solution fluid resuscitation via Parkland formula and referring to specialized burn center for burns exceeding 10% TBSA. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria Parkland Crystalloid Resuscitation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Major Burn Injury British Burn Association Referral Criteria Parkland Crystalloid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "British Burn Association Standards and National Burn Care Guidelines",
+        "url": "https://www.britishburnassociation.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34062",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchidopexy Within Six Hours Window. Clinical examination and investigative review confirm transferring patient directly to operating theater for scrotal exploration and bilateral 3-point orchidopexy without delaying for Doppler ultrasound. Vitals reveal blood pressure of 124/86 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla surgery testicular torsion urgent scrotal exploration bilateral orchidopexy within six hours window. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Transferring patient directly to operating theater for scrotal exploration and bilateral 3-point orchidopexy without delaying for Doppler ultrasound",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transferring patient directly to operating theater for scrotal exploration and bilateral 3-point orchidopexy without delaying for Doppler ultrasound. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchidopexy Within Six Hours Window.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchidopexy Within Six Hours Window. The cornerstone of management involves transferring patient directly to operating theater for scrotal exploration and bilateral 3-point orchidopexy without delaying for Doppler ultrasound. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchidopexy Within Six Hours Window.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Surgery Testicular Torsion Urgent Scrotal Exploration Bilateral Orchidopexy Within Six Hours Window."
+    ],
+    "references": [
+      {
+        "label": "British Association of Urological Surgeons (BAUS) Guidelines",
+        "url": "https://www.baus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34063",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Wa",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Waiting CBT SSRI Sertraline. Clinical examination and investigative review confirm offering guided self-help or digital CBT before antidepressant medication for mild depression, and SSRI combined with CBT for moderate-severe. Vitals reveal blood pressure of 125/87 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry depression nice ng222 stepped care model phq-9 watchful waiting cbt ssri sertraline. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Offering guided self-help or digital CBT before antidepressant medication for mild depression, and SSRI combined with CBT for moderate-severe",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering guided self-help or digital CBT before antidepressant medication for mild depression, and SSRI combined with CBT for moderate-severe. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Waiting CBT SSRI Sertraline.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Waiting CBT SSRI Sertraline. The cornerstone of management involves offering guided self-help or digital CBT before antidepressant medication for mild depression, and SSRI combined with CBT for moderate-severe. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Waiting CBT SSRI Sertraline.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Depression NICE NG222 Stepped Care Model PHQ-9 Watchful Waiting CBT SSRI Sertraline."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG222] Depression in Adults: Treatment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng222"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34064",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model Sertraline GAD-7 High-Intensity CBT. Clinical examination and investigative review confirm offering sertraline as first-line pharmacotherapy when psychological interventions are declined or ineffective in severe generalized anxiety. Vitals reveal blood pressure of 126/72 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry generalised anxiety disorder nice cg113 stepped-care model sertraline gad-7 high-intensity cbt. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Offering sertraline as first-line pharmacotherapy when psychological interventions are declined or ineffective in severe generalized anxiety",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering sertraline as first-line pharmacotherapy when psychological interventions are declined or ineffective in severe generalized anxiety. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model Sertraline GAD-7 High-Intensity CBT.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model Sertraline GAD-7 High-Intensity CBT. The cornerstone of management involves offering sertraline as first-line pharmacotherapy when psychological interventions are declined or ineffective in severe generalized anxiety. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model Sertraline GAD-7 High-Intensity CBT.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Generalised Anxiety Disorder NICE CG113 Stepped-Care Model Sertraline GAD-7 High-Intensity CBT."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG113] Generalised Anxiety Disorder and Panic Disorder in Adults",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34065",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Halo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Haloperidol Olanzapine Quetiapine Valproate. Clinical examination and investigative review confirm offering oral haloperidol olanzapine quetiapine or risperidone for acute mania and discontinuing antidepressant medication. Vitals reveal blood pressure of 127/73 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry bipolar disorder acute mania nice cg185 antipsychotic haloperidol olanzapine quetiapine valproate. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Offering oral haloperidol olanzapine quetiapine or risperidone for acute mania and discontinuing antidepressant medication",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is offering oral haloperidol olanzapine quetiapine or risperidone for acute mania and discontinuing antidepressant medication. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Haloperidol Olanzapine Quetiapine Valproate.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Haloperidol Olanzapine Quetiapine Valproate. The cornerstone of management involves offering oral haloperidol olanzapine quetiapine or risperidone for acute mania and discontinuing antidepressant medication. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Haloperidol Olanzapine Quetiapine Valproate.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Bipolar Disorder Acute Mania NICE CG185 Antipsychotic Haloperidol Olanzapine Quetiapine Valproate."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG185] Bipolar Disorder: Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/cg185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34066",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in P",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man undergoes consultant ward round assessment at Queen Elizabeth Hospital Birmingham with clinical findings indicative of PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in Psychosis Team EIP Oral Antipsychotic. Clinical examination and investigative review confirm referring patient urgently to early intervention in psychosis service within 2 weeks and selecting oral atypical antipsychotic with patient. Vitals reveal blood pressure of 128/74 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry first episode psychosis nice cg178 early intervention in psychosis team eip oral antipsychotic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Referring patient urgently to early intervention in psychosis service within 2 weeks and selecting oral atypical antipsychotic with patient",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring patient urgently to early intervention in psychosis service within 2 weeks and selecting oral atypical antipsychotic with patient. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in Psychosis Team EIP Oral Antipsychotic.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in Psychosis Team EIP Oral Antipsychotic. The cornerstone of management involves referring patient urgently to early intervention in psychosis service within 2 weeks and selecting oral atypical antipsychotic with patient. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in Psychosis Team EIP Oral Antipsychotic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry First Episode Psychosis NICE CG178 Early Intervention in Psychosis Team EIP Oral Antipsychotic."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG178] Psychosis and Schizophrenia in Adults",
+        "url": "https://www.nice.org.uk/guidance/cg178"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34067",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the ambulatory day assessment unit of John Radcliffe Hospital Oxford with clinical findings indicative of PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild to Moderate Alzheimer Disease. Clinical examination and investigative review confirm initiating acetylcholinesterase inhibitor monotherapy (donepezil galantamine or rivastigmine) for mild-to-moderate Alzheimer dementia. Vitals reveal blood pressure of 129/75 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry dementia nice ng97 donepezil galantamine rivastigmine mild to moderate alzheimer disease. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Initiating acetylcholinesterase inhibitor monotherapy (donepezil galantamine or rivastigmine) for mild-to-moderate Alzheimer dementia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating acetylcholinesterase inhibitor monotherapy (donepezil galantamine or rivastigmine) for mild-to-moderate Alzheimer dementia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild to Moderate Alzheimer Disease.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild to Moderate Alzheimer Disease. The cornerstone of management involves initiating acetylcholinesterase inhibitor monotherapy (donepezil galantamine or rivastigmine) for mild-to-moderate Alzheimer dementia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild to Moderate Alzheimer Disease.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Dementia NICE NG97 Donepezil Galantamine Rivastigmine Mild to Moderate Alzheimer Disease."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG97] Dementia: Assessment, Management and Support for People Living with Dementia",
+        "url": "https://www.nice.org.uk/guidance/ng97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34068",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicom",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is examined in the clinical simulation suite for UK Medical Licensing Assessment evaluation with clinical findings indicative of PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicomponent Non-Pharmacological Prevention. Clinical examination and investigative review confirm applying the 4AT rapid clinical tool to detect delirium and addressing underlying precipitating causes such as dehydration and infection. Vitals reveal blood pressure of 130/76 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry delirium nice cg103 4at screening assessment tool multicomponent non-pharmacological prevention. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Applying the 4AT rapid clinical tool to detect delirium and addressing underlying precipitating causes such as dehydration and infection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying the 4AT rapid clinical tool to detect delirium and addressing underlying precipitating causes such as dehydration and infection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicomponent Non-Pharmacological Prevention.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicomponent Non-Pharmacological Prevention. The cornerstone of management involves applying the 4AT rapid clinical tool to detect delirium and addressing underlying precipitating causes such as dehydration and infection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicomponent Non-Pharmacological Prevention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Delirium NICE CG103 4AT Screening Assessment Tool Multicomponent Non-Pharmacological Prevention."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG103] Delirium: Prevention, Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/cg103"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34069",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the acute medical admissions unit (AMU) of a regional NHS foundation trust teaching hospital in England with clinical findings indicative of PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment MARSIPAN Criteria Inpatient Admission. Clinical examination and investigative review confirm evaluating high-risk physical indicators using MARSIPAN framework including core temperature below 35 C and postural systolic drop over 20 mm Hg. Vitals reveal blood pressure of 131/77 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry anorexia nervosa nice ng69 physical health risk assessment marsipan criteria inpatient admission. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Evaluating high-risk physical indicators using MARSIPAN framework including core temperature below 35 C and postural systolic drop over 20 mm Hg",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating high-risk physical indicators using MARSIPAN framework including core temperature below 35 C and postural systolic drop over 20 mm Hg. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment MARSIPAN Criteria Inpatient Admission.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment MARSIPAN Criteria Inpatient Admission. The cornerstone of management involves evaluating high-risk physical indicators using MARSIPAN framework including core temperature below 35 C and postural systolic drop over 20 mm Hg. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment MARSIPAN Criteria Inpatient Admission.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Anorexia Nervosa NICE NG69 Physical Health Risk Assessment MARSIPAN Criteria Inpatient Admission."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG69] Eating Disorders: Recognition and Treatment",
+        "url": "https://www.nice.org.uk/guidance/ng69"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34070",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is evaluated in the general medical outpatient clinic at St Thomas' Hospital London with clinical findings indicative of PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal Chlordiazepoxide Fixed-Dose Regimen. Clinical examination and investigative review confirm prescribing reducing regimen of oral chlordiazepoxide alongside parenteral Pabrinex for planned medically assisted alcohol withdrawal. Vitals reveal blood pressure of 132/78 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry alcohol dependence nice cg115 assisted alcohol withdrawal chlordiazepoxide fixed-dose regimen. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing reducing regimen of oral chlordiazepoxide alongside parenteral Pabrinex for planned medically assisted alcohol withdrawal",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing reducing regimen of oral chlordiazepoxide alongside parenteral Pabrinex for planned medically assisted alcohol withdrawal. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal Chlordiazepoxide Fixed-Dose Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal Chlordiazepoxide Fixed-Dose Regimen. The cornerstone of management involves prescribing reducing regimen of oral chlordiazepoxide alongside parenteral Pabrinex for planned medically assisted alcohol withdrawal. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal Chlordiazepoxide Fixed-Dose Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Alcohol Dependence NICE CG115 Assisted Alcohol Withdrawal Chlordiazepoxide Fixed-Dose Regimen."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG115] Alcohol-Use Disorders: Diagnosis, Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/cg115"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34071",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psycho",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man presents to the emergency decision unit of Addenbrooke's Hospital Cambridge with clinical findings indicative of PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psychosocial Assessment Safety Planning. Clinical examination and investigative review confirm conducting collaborative comprehensive psychosocial risk assessment and establishing clear personalized safety plan without relying on risk scores. Vitals reveal blood pressure of 133/79 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry self-harm and suicide risk nice ng225 comprehensive psychosocial assessment safety planning. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Conducting collaborative comprehensive psychosocial risk assessment and establishing clear personalized safety plan without relying on risk scores",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is conducting collaborative comprehensive psychosocial risk assessment and establishing clear personalized safety plan without relying on risk scores. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psychosocial Assessment Safety Planning.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psychosocial Assessment Safety Planning. The cornerstone of management involves conducting collaborative comprehensive psychosocial risk assessment and establishing clear personalized safety plan without relying on risk scores. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psychosocial Assessment Safety Planning.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Self-Harm and Suicide Risk NICE NG225 Comprehensive Psychosocial Assessment Safety Planning."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines [NG225] Self-Harm: Assessment, Management and Preventing Recurrence",
+        "url": "https://www.nice.org.uk/guidance/ng225"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34072",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Expos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is admitted to the specialty inpatient medical ward of Manchester Royal Infirmary with clinical findings indicative of PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Exposure and Response Prevention ERP SSRI. Clinical examination and investigative review confirm initiating cognitive behavioral therapy including exposure and response prevention alongside high-dose SSRI for moderate functional impairment in OCD. Vitals reveal blood pressure of 134/80 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of plab ukmla psychiatry obsessive compulsive disorder nice cg31 stepped care exposure and response prevention erp ssri. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Initiating cognitive behavioral therapy including exposure and response prevention alongside high-dose SSRI for moderate functional impairment in OCD",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating cognitive behavioral therapy including exposure and response prevention alongside high-dose SSRI for moderate functional impairment in OCD. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Exposure and Response Prevention ERP SSRI.\\n\\nClinical Discussion: This clinical presentation corresponds to PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Exposure and Response Prevention ERP SSRI. The cornerstone of management involves initiating cognitive behavioral therapy including exposure and response prevention alongside high-dose SSRI for moderate functional impairment in OCD. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Exposure and Response Prevention ERP SSRI.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of PLAB UKMLA Psychiatry Obsessive Compulsive Disorder NICE CG31 Stepped Care Exposure and Response Prevention ERP SSRI."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guidelines [CG31] Obsessive-Compulsive Disorder and Body Dysmorphic Disorder",
+        "url": "https://www.nice.org.uk/guidance/cg31"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
