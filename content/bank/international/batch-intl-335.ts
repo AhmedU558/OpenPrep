@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-32573",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percut",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percutaneous Coronary Intervention 90 Min. Clinical examination and investigative review confirm activating emergency catheterization laboratory targeting door-to-balloon time < 90 minutes with dual antiplatelet and heparin. Vitals reveal blood pressure of 131/85 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology acute st-elevation myocardial infarction anterior primary percutaneous coronary intervention 90 min. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Activating emergency catheterization laboratory targeting door-to-balloon time < 90 minutes with dual antiplatelet and heparin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is activating emergency catheterization laboratory targeting door-to-balloon time < 90 minutes with dual antiplatelet and heparin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percutaneous Coronary Intervention 90 Min.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percutaneous Coronary Intervention 90 Min. The cornerstone of management involves activating emergency catheterization laboratory targeting door-to-balloon time < 90 minutes with dual antiplatelet and heparin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percutaneous Coronary Intervention 90 Min.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute ST-Elevation Myocardial Infarction Anterior Primary Percutaneous Coronary Intervention 90 Min."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association (SHA) ACS Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32574",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Da",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Dapagliflozin Mortality Benefit. Clinical examination and investigative review confirm initiating oral dapagliflozin 10 mg daily alongside sacubitril-valsartan, bisoprolol, and spironolactone for neurohormonal blockade. Vitals reveal blood pressure of 132/86 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology heart failure reduced ejection fraction quadruple gdmt sglt2i dapagliflozin mortality benefit. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Initiating oral dapagliflozin 10 mg daily alongside sacubitril-valsartan, bisoprolol, and spironolactone for neurohormonal blockade",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral dapagliflozin 10 mg daily alongside sacubitril-valsartan, bisoprolol, and spironolactone for neurohormonal blockade. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Dapagliflozin Mortality Benefit.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Dapagliflozin Mortality Benefit. The cornerstone of management involves initiating oral dapagliflozin 10 mg daily alongside sacubitril-valsartan, bisoprolol, and spironolactone for neurohormonal blockade. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Dapagliflozin Mortality Benefit.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Heart Failure Reduced Ejection Fraction Quadruple GDMT SGLT2i Dapagliflozin Mortality Benefit."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association Heart Failure Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32575",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic Valve Implantation TAVI. Clinical examination and investigative review confirm evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients. Vitals reveal blood pressure of 133/87 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology severe symptomatic aortic stenosis calcific transcatheter aortic valve implantation tavi. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic Valve Implantation TAVI.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic Valve Implantation TAVI. The cornerstone of management involves evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic Valve Implantation TAVI.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Severe Symptomatic Aortic Stenosis Calcific Transcatheter Aortic Valve Implantation TAVI."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association Structural Heart Disease Standards",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32576",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban 20 mg. Clinical examination and investigative review confirm prescribing oral direct factor Xa inhibitor rivaroxaban 20 mg once daily with evening meal for CHA2DS2-VASc score >= 2. Vitals reveal blood pressure of 134/72 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology non-valvular atrial fibrillation stroke prevention direct oral anticoagulant rivaroxaban 20 mg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Prescribing oral direct factor Xa inhibitor rivaroxaban 20 mg once daily with evening meal for CHA2DS2-VASc score >= 2",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral direct factor Xa inhibitor rivaroxaban 20 mg once daily with evening meal for CHA2DS2-VASc score >= 2. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban 20 mg.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban 20 mg. The cornerstone of management involves prescribing oral direct factor Xa inhibitor rivaroxaban 20 mg once daily with evening meal for CHA2DS2-VASc score >= 2. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban 20 mg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban 20 mg."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association Atrial Fibrillation Clinical Guidance",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32577",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-Dose Ibuprofen and Colchicine. Clinical examination and investigative review confirm prescribing oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences. Vitals reveal blood pressure of 135/73 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology acute pericarditis concave st elevation pr depression oral high-dose ibuprofen and colchicine. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Prescribing oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-Dose Ibuprofen and Colchicine.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-Dose Ibuprofen and Colchicine. The cornerstone of management involves prescribing oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-Dose Ibuprofen and Colchicine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute Pericarditis Concave ST Elevation PR Depression Oral High-Dose Ibuprofen and Colchicine."
+    ],
+    "references": [
+      {
+        "label": "SHA Pericardial Disease Protocols",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32578",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emer",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emergent Ascending Aorta Repair. Clinical examination and investigative review confirm arranging immediate emergency cardiothoracic surgical transfer for open synthetic ascending aortic graft replacement. Vitals reveal blood pressure of 136/74 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology stanford type a aortic dissection severe tearing chest pain emergent ascending aorta repair. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Arranging immediate emergency cardiothoracic surgical transfer for open synthetic ascending aortic graft replacement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is arranging immediate emergency cardiothoracic surgical transfer for open synthetic ascending aortic graft replacement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emergent Ascending Aorta Repair.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emergent Ascending Aorta Repair. The cornerstone of management involves arranging immediate emergency cardiothoracic surgical transfer for open synthetic ascending aortic graft replacement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emergent Ascending Aorta Repair.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Stanford Type A Aortic Dissection Severe Tearing Chest Pain Emergent Ascending Aorta Repair."
+    ],
+    "references": [
+      {
+        "label": "Saudi Commission for Health Specialties (SCFHS) Cardiology Standards",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32579",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm Hg Surgical Septal Myectomy. Clinical examination and investigative review confirm referring for transaortic surgical septal myectomy or percutaneous alcohol ablation for persistent drug-refractory LVOT gradient. Vitals reveal blood pressure of 137/75 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology hypertrophic obstructive cardiomyopathy resting gradient > 50 mm hg surgical septal myectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Referring for transaortic surgical septal myectomy or percutaneous alcohol ablation for persistent drug-refractory LVOT gradient",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring for transaortic surgical septal myectomy or percutaneous alcohol ablation for persistent drug-refractory LVOT gradient. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm Hg Surgical Septal Myectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm Hg Surgical Septal Myectomy. The cornerstone of management involves referring for transaortic surgical septal myectomy or percutaneous alcohol ablation for persistent drug-refractory LVOT gradient. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm Hg Surgical Septal Myectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Hypertrophic Obstructive Cardiomyopathy Resting Gradient > 50 mm Hg Surgical Septal Myectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association Cardiomyopathy Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32580",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intrave",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intravenous Flucloxacillin or Cefazolin. Clinical examination and investigative review confirm administering intravenous flucloxacillin 2 g every 4 hours for methicillin-susceptible Staphylococcus aureus native valve endocarditis. Vitals reveal blood pressure of 138/76 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology acute native valve infective endocarditis staphylococcal intravenous flucloxacillin or cefazolin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Administering intravenous flucloxacillin 2 g every 4 hours for methicillin-susceptible Staphylococcus aureus native valve endocarditis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous flucloxacillin 2 g every 4 hours for methicillin-susceptible Staphylococcus aureus native valve endocarditis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intravenous Flucloxacillin or Cefazolin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intravenous Flucloxacillin or Cefazolin. The cornerstone of management involves administering intravenous flucloxacillin 2 g every 4 hours for methicillin-susceptible Staphylococcus aureus native valve endocarditis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intravenous Flucloxacillin or Cefazolin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Acute Native Valve Infective Endocarditis Staphylococcal Intravenous Flucloxacillin or Cefazolin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Infectious Diseases Endocarditis Protocols",
+        "url": "https://ssideast.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32581",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous Nicardipine or Labetalol. Clinical examination and investigative review confirm titrating continuous IV infusion targeting a controlled 20-25% reduction in mean arterial pressure over the first 2 hours. Vitals reveal blood pressure of 139/77 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology hypertensive emergency severe retinopathy continuous intravenous nicardipine or labetalol. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Titrating continuous IV infusion targeting a controlled 20-25% reduction in mean arterial pressure over the first 2 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is titrating continuous IV infusion targeting a controlled 20-25% reduction in mean arterial pressure over the first 2 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous Nicardipine or Labetalol.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous Nicardipine or Labetalol. The cornerstone of management involves titrating continuous IV infusion targeting a controlled 20-25% reduction in mean arterial pressure over the first 2 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous Nicardipine or Labetalol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Hypertensive Emergency Severe Retinopathy Continuous Intravenous Nicardipine or Labetalol."
+    ],
+    "references": [
+      {
+        "label": "Saudi Hypertension Management Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32582",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoag",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoagulant Apixaban 10 mg BD Loading. Clinical examination and investigative review confirm prescribing oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for at least 3 to 6 months. Vitals reveal blood pressure of 118/78 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle cardiology deep vein thrombosis iliofemoral unprovoked direct oral anticoagulant apixaban 10 mg bd loading. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Prescribing oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for at least 3 to 6 months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for at least 3 to 6 months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoagulant Apixaban 10 mg BD Loading.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoagulant Apixaban 10 mg BD Loading. The cornerstone of management involves prescribing oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for at least 3 to 6 months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoagulant Apixaban 10 mg BD Loading.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Cardiology Deep Vein Thrombosis Iliofemoral Unprovoked Direct Oral Anticoagulant Apixaban 10 mg BD Loading."
+    ],
+    "references": [
+      {
+        "label": "Saudi Association for Venous Thromboembolism Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32583",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbut",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Prednisolone. Clinical examination and investigative review confirm administering nebulized salbutamol 5 mg back-to-back with ipratropium and oral prednisolone 40-50 mg daily for 5 days. Vitals reveal blood pressure of 119/79 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology acute severe asthma exacerbation peak flow < 50% inhaled salbutamol systemic prednisolone. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Administering nebulized salbutamol 5 mg back-to-back with ipratropium and oral prednisolone 40-50 mg daily for 5 days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering nebulized salbutamol 5 mg back-to-back with ipratropium and oral prednisolone 40-50 mg daily for 5 days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Prednisolone.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Prednisolone. The cornerstone of management involves administering nebulized salbutamol 5 mg back-to-back with ipratropium and oral prednisolone 40-50 mg daily for 5 days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Prednisolone.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Acute Severe Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society (STS) Asthma Guidelines",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32584",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Si",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy. Clinical examination and investigative review confirm prescribing single-device triple therapy with inhaled corticosteroid, LABA, and LAMA to significantly reduce hospitalizations. Vitals reveal blood pressure of 120/80 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology chronic obstructive pulmonary disease frequent exacerbations single-inhaler triple therapy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Prescribing single-device triple therapy with inhaled corticosteroid, LABA, and LAMA to significantly reduce hospitalizations",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing single-device triple therapy with inhaled corticosteroid, LABA, and LAMA to significantly reduce hospitalizations. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy. The cornerstone of management involves prescribing single-device triple therapy with inhaled corticosteroid, LABA, and LAMA to significantly reduce hospitalizations. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society COPD Guidelines",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32585",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient I",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient IV Ceftriaxone plus Azithromycin. Clinical examination and investigative review confirm initiating inpatient intravenous ceftriaxone 2 g daily plus oral or IV azithromycin 500 mg once daily with respiratory monitoring. Vitals reveal blood pressure of 121/81 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology community-acquired pneumonia severe curb-65 score 3 inpatient iv ceftriaxone plus azithromycin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating inpatient intravenous ceftriaxone 2 g daily plus oral or IV azithromycin 500 mg once daily with respiratory monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating inpatient intravenous ceftriaxone 2 g daily plus oral or IV azithromycin 500 mg once daily with respiratory monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient IV Ceftriaxone plus Azithromycin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient IV Ceftriaxone plus Azithromycin. The cornerstone of management involves initiating inpatient intravenous ceftriaxone 2 g daily plus oral or IV azithromycin 500 mg once daily with respiratory monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient IV Ceftriaxone plus Azithromycin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 3 Inpatient IV Ceftriaxone plus Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "STS Pneumonia Clinical Practice Guidelines",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32586",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Needle Aspiration. Clinical examination and investigative review confirm performing simple needle aspiration of up to 2.5 L using 16G cannula before considering small-bore intercostal chest drain. Vitals reveal blood pressure of 122/82 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology primary spontaneous pneumothorax large > 2 cm significant dyspnea simple needle aspiration. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Performing simple needle aspiration of up to 2.5 L using 16G cannula before considering small-bore intercostal chest drain",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing simple needle aspiration of up to 2.5 L using 16G cannula before considering small-bore intercostal chest drain. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Needle Aspiration.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Needle Aspiration. The cornerstone of management involves performing simple needle aspiration of up to 2.5 L using 16G cannula before considering small-bore intercostal chest drain. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Needle Aspiration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Needle Aspiration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society Pleural Guidelines",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32587",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alt",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alteplase 100 mg Thrombolysis. Clinical examination and investigative review confirm administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin. Vitals reveal blood pressure of 123/83 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology massive pulmonary embolism shock state systemic intravenous alteplase 100 mg thrombolysis. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alteplase 100 mg Thrombolysis.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alteplase 100 mg Thrombolysis. The cornerstone of management involves administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alteplase 100 mg Thrombolysis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Massive Pulmonary Embolism Shock State Systemic Intravenous Alteplase 100 mg Thrombolysis."
+    ],
+    "references": [
+      {
+        "label": "Saudi Critical Care Society VTE Guidelines",
+        "url": "https://sccs.med.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32588",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal Volume Lung-Protective Ventilation. Clinical examination and investigative review confirm instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning. Vitals reveal blood pressure of 124/84 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology acute respiratory distress syndrome severe hypoxemia low tidal volume lung-protective ventilation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal Volume Lung-Protective Ventilation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal Volume Lung-Protective Ventilation. The cornerstone of management involves instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal Volume Lung-Protective Ventilation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemia Low Tidal Volume Lung-Protective Ventilation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Critical Care Society ARDS Protocols",
+        "url": "https://sccs.med.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32589",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combina",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combination 2HRZE/4HR National Program. Clinical examination and investigative review confirm initiating 2 months of daily fixed-dose HRZE followed by 4 months of dual HR under national directly observed therapy (DOTS). Vitals reveal blood pressure of 125/85 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology pulmonary tuberculosis confirmed genexpert daily 4-drug combination 2hrze/4hr national program. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Initiating 2 months of daily fixed-dose HRZE followed by 4 months of dual HR under national directly observed therapy (DOTS)",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating 2 months of daily fixed-dose HRZE followed by 4 months of dual HR under national directly observed therapy (DOTS). This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combination 2HRZE/4HR National Program.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combination 2HRZE/4HR National Program. The cornerstone of management involves initiating 2 months of daily fixed-dose HRZE followed by 4 months of dual HR under national directly observed therapy (DOTS). Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combination 2HRZE/4HR National Program.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Pulmonary Tuberculosis Confirmed GeneXpert Daily 4-Drug Combination 2HRZE/4HR National Program."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health (MOH) National TB Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32590",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Antifibrotic Pirfenidone. Clinical examination and investigative review confirm confirming UIP pattern on high-resolution chest CT and initiating oral antifibrotic therapy with pirfenidone 801 mg TID. Vitals reveal blood pressure of 126/86 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology idiopathic pulmonary fibrosis hrct subpleural honeycombing oral antifibrotic pirfenidone. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Confirming UIP pattern on high-resolution chest CT and initiating oral antifibrotic therapy with pirfenidone 801 mg TID",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming UIP pattern on high-resolution chest CT and initiating oral antifibrotic therapy with pirfenidone 801 mg TID. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Antifibrotic Pirfenidone.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Antifibrotic Pirfenidone. The cornerstone of management involves confirming UIP pattern on high-resolution chest CT and initiating oral antifibrotic therapy with pirfenidone 801 mg TID. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Antifibrotic Pirfenidone.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Antifibrotic Pirfenidone."
+    ],
+    "references": [
+      {
+        "label": "STS Interstitial Lung Disease Consensus",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32591",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Som",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Somnolence Nocturnal CPAP Titration. Clinical examination and investigative review confirm confirming apnea-hypopnea index > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration. Vitals reveal blood pressure of 127/87 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology obstructive sleep apnea-hypopnea syndrome excessive daytime somnolence nocturnal cpap titration. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Confirming apnea-hypopnea index > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming apnea-hypopnea index > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Somnolence Nocturnal CPAP Titration.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Somnolence Nocturnal CPAP Titration. The cornerstone of management involves confirming apnea-hypopnea index > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Somnolence Nocturnal CPAP Titration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Excessive Daytime Somnolence Nocturnal CPAP Titration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Sleep Medicine Group Guidelines",
+        "url": "https://www.saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32592",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third-Generation Osimertinib. Clinical examination and investigative review confirm prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma. Vitals reveal blood pressure of 128/72 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pulmonology non-small cell lung cancer egfr mutation exon 19 deletion third-generation osimertinib. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third-Generation Osimertinib.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third-Generation Osimertinib. The cornerstone of management involves prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third-Generation Osimertinib.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion Third-Generation Osimertinib."
+    ],
+    "references": [
+      {
+        "label": "Saudi Oncology Society Clinical Guidelines",
+        "url": "https://sos.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32593",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding. Clinical examination and investigative review confirm administering IV terlipressin 2 mg stat, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours. Vitals reveal blood pressure of 129/73 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology bleeding esophageal varices cirrhotic portal hypertension iv terlipressin and banding. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Administering IV terlipressin 2 mg stat, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IV terlipressin 2 mg stat, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding. The cornerstone of management involves administering IV terlipressin 2 mg stat, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association (SGA) Variceal Bleeding Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32594",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 25",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime and Albumin. Clinical examination and investigative review confirm administering IV cefotaxime 2 g 8-hourly alongside IV 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 to prevent renal failure. Vitals reveal blood pressure of 130/74 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology spontaneous bacterial peritonitis ascitic neutrophils > 250 iv cefotaxime and albumin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Administering IV cefotaxime 2 g 8-hourly alongside IV 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 to prevent renal failure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IV cefotaxime 2 g 8-hourly alongside IV 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 to prevent renal failure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime and Albumin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime and Albumin. The cornerstone of management involves administering IV cefotaxime 2 g 8-hourly alongside IV 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 to prevent renal failure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime and Albumin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime and Albumin."
+    ],
+    "references": [
+      {
+        "label": "SGA Guidelines on Ascites and SBP",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32595",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA Oral Tenofovir Disoproxil. Clinical examination and investigative review confirm initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring. Vitals reveal blood pressure of 131/75 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology chronic hepatitis b virus infection elevated alt high dna oral tenofovir disoproxil. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA Oral Tenofovir Disoproxil.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA Oral Tenofovir Disoproxil. The cornerstone of management involves initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA Oral Tenofovir Disoproxil.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA Oral Tenofovir Disoproxil."
+    ],
+    "references": [
+      {
+        "label": "Saudi Association for the Study of Liver Diseases and Transplantation (SASLT)",
+        "url": "https://saslt.net/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32596",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir 12 Weeks. Clinical examination and investigative review confirm prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure. Vitals reveal blood pressure of 132/76 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology chronic hepatitis c virus infection pan-genotypic daa sofosbuvir and velpatasvir 12 weeks. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir 12 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir 12 Weeks. The cornerstone of management involves prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir 12 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir 12 Weeks."
+    ],
+    "references": [
+      {
+        "label": "SASLT HCV Elimination Guidelines",
+        "url": "https://saslt.net/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32597",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Dire",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Fluid Hydration Analgesia. Clinical examination and investigative review confirm administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate analgesia. Vitals reveal blood pressure of 133/77 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology severe acute pancreatitis atlanta classification goal-directed fluid hydration analgesia. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate analgesia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate analgesia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Fluid Hydration Analgesia.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Fluid Hydration Analgesia. The cornerstone of management involves administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate analgesia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Fluid Hydration Analgesia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Fluid Hydration Analgesia."
+    ],
+    "references": [
+      {
+        "label": "SGA Acute Pancreatitis Consensus",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32598",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple Eradication Regimen. Clinical examination and investigative review confirm prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days. Vitals reveal blood pressure of 134/78 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology helicobacter pylori peptic ulcer disease 14-day quadruple eradication regimen. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple Eradication Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple Eradication Regimen. The cornerstone of management involves prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple Eradication Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Quadruple Eradication Regimen."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association H. Pylori Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32599",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue. Clinical examination and investigative review confirm administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage infliximab. Vitals reveal blood pressure of 135/79 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology acute severe ulcerative colitis truelove and witts criteria iv methylprednisolone day 3 rescue. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage infliximab",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage infliximab. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue. The cornerstone of management involves administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage infliximab. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue."
+    ],
+    "references": [
+      {
+        "label": "SGA Inflammatory Bowel Disease Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32600",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-t",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy. Clinical examination and investigative review confirm measuring total serum IgA with anti-tTG IgA antibodies and performing upper endoscopy with multiple duodenal biopsies. Vitals reveal blood pressure of 136/80 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology celiac disease classical malabsorption positive iga anti-ttg confirmatory duodenal biopsy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Measuring total serum IgA with anti-tTG IgA antibodies and performing upper endoscopy with multiple duodenal biopsies",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is measuring total serum IgA with anti-tTG IgA antibodies and performing upper endoscopy with multiple duodenal biopsies. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy. The cornerstone of management involves measuring total serum IgA with anti-tTG IgA antibodies and performing upper endoscopy with multiple duodenal biopsies. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy."
+    ],
+    "references": [
+      {
+        "label": "SGA Celiac Disease Protocols",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32601",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Earl",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage. Vitals reveal blood pressure of 137/81 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology acute calculous cholecystitis sonographic murphy sign early laparoscopic cholecystectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy. The cornerstone of management involves performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Society Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32602",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quant",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quantitative FIT from Age 45. Clinical examination and investigative review confirm recommending annual or biennial fecal immunochemical test (FIT) or colonoscopy every 10 years starting at age 45 for average-risk adults. Vitals reveal blood pressure of 138/82 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gastroenterology colorectal cancer screening national bowel screening quantitative fit from age 45. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Recommending annual or biennial fecal immunochemical test (FIT) or colonoscopy every 10 years starting at age 45 for average-risk adults",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending annual or biennial fecal immunochemical test (FIT) or colonoscopy every 10 years starting at age 45 for average-risk adults. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quantitative FIT from Age 45.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quantitative FIT from Age 45. The cornerstone of management involves recommending annual or biennial fecal immunochemical test (FIT) or colonoscopy every 10 years starting at age 45 for average-risk adults. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quantitative FIT from Age 45.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gastroenterology Colorectal Cancer Screening National Bowel Screening Quantitative FIT from Age 45."
+    ],
+    "references": [
+      {
+        "label": "Saudi Oncology Society and SGA Screening Guidelines",
+        "url": "https://sos.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32603",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin Addition to Metformin. Clinical examination and investigative review confirm adding oral empagliflozin 10 mg daily to metformin to provide proven cardiovascular mortality reduction and renal protection. Vitals reveal blood pressure of 139/83 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology type 2 diabetes high ascvd risk sglt2 inhibitor empagliflozin addition to metformin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Adding oral empagliflozin 10 mg daily to metformin to provide proven cardiovascular mortality reduction and renal protection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is adding oral empagliflozin 10 mg daily to metformin to provide proven cardiovascular mortality reduction and renal protection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin Addition to Metformin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin Addition to Metformin. The cornerstone of management involves adding oral empagliflozin 10 mg daily to metformin to provide proven cardiovascular mortality reduction and renal protection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin Addition to Metformin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Type 2 Diabetes High ASCVD Risk SGLT2 Inhibitor Empagliflozin Addition to Metformin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Diabetes Group Guidelines",
+        "url": "https://saudidiabetes.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32604",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intrave",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intravenous Insulin Infusion. Clinical examination and investigative review confirm infusing regular insulin at 0.1 units/kg/hour alongside isotonic 0.9% saline rehydration and potassium replacement. Vitals reveal blood pressure of 118/84 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology diabetic ketoacidosis severe hyperglycemia fixed-rate intravenous insulin infusion. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Infusing regular insulin at 0.1 units/kg/hour alongside isotonic 0.9% saline rehydration and potassium replacement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is infusing regular insulin at 0.1 units/kg/hour alongside isotonic 0.9% saline rehydration and potassium replacement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intravenous Insulin Infusion.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intravenous Insulin Infusion. The cornerstone of management involves infusing regular insulin at 0.1 units/kg/hour alongside isotonic 0.9% saline rehydration and potassium replacement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intravenous Insulin Infusion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Diabetic Ketoacidosis Severe Hyperglycemia Fixed-Rate Intravenous Insulin Infusion."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society DKA Guidelines",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32605",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Fluid Resuscitation. Clinical examination and investigative review confirm infusing intravenous 0.9% normal saline over 24-48 hours targeting gradual plasma osmolality decline to prevent cerebral edema. Vitals reveal blood pressure of 119/85 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology hyperosmolar hyperglycemic state severe dehydration gradual isotonic fluid resuscitation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Infusing intravenous 0.9% normal saline over 24-48 hours targeting gradual plasma osmolality decline to prevent cerebral edema",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is infusing intravenous 0.9% normal saline over 24-48 hours targeting gradual plasma osmolality decline to prevent cerebral edema. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Fluid Resuscitation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Fluid Resuscitation. The cornerstone of management involves infusing intravenous 0.9% normal saline over 24-48 hours targeting gradual plasma osmolality decline to prevent cerebral edema. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Fluid Resuscitation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Fluid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Emergency Standards",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32606",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothyroxine 1.6 mcg per kg. Clinical examination and investigative review confirm prescribing oral levothyroxine 1.6 mcg/kg once daily on an empty stomach with plain water 30-60 minutes before breakfast. Vitals reveal blood pressure of 120/86 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology primary hypothyroidism elevated tsh weight-based oral levothyroxine 1.6 mcg per kg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prescribing oral levothyroxine 1.6 mcg/kg once daily on an empty stomach with plain water 30-60 minutes before breakfast",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral levothyroxine 1.6 mcg/kg once daily on an empty stomach with plain water 30-60 minutes before breakfast. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothyroxine 1.6 mcg per kg.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothyroxine 1.6 mcg per kg. The cornerstone of management involves prescribing oral levothyroxine 1.6 mcg/kg once daily on an empty stomach with plain water 30-60 minutes before breakfast. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothyroxine 1.6 mcg per kg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Primary Hypothyroidism Elevated TSH Weight-Based Oral Levothyroxine 1.6 mcg per kg."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Thyroid Guidelines",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32607",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole a",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole and Propranolol. Clinical examination and investigative review confirm prescribing oral carbimazole 20-30 mg daily alongside propranolol for adrenergic symptom control, monitoring WBC count. Vitals reveal blood pressure of 121/87 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology graves disease hyperthyroidism oral antithyroid carbimazole and propranolol. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Prescribing oral carbimazole 20-30 mg daily alongside propranolol for adrenergic symptom control, monitoring WBC count",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral carbimazole 20-30 mg daily alongside propranolol for adrenergic symptom control, monitoring WBC count. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole and Propranolol.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole and Propranolol. The cornerstone of management involves prescribing oral carbimazole 20-30 mg daily alongside propranolol for adrenergic symptom control, monitoring WBC count. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole and Propranolol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Graves Disease Hyperthyroidism Oral Antithyroid Carbimazole and Propranolol."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Thyrotoxicosis Standards",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32608",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Min",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy. Clinical examination and investigative review confirm localizing adenoma with sestamibi SPECT-CT followed by targeted minimally invasive parathyroidectomy under local anesthesia. Vitals reveal blood pressure of 122/72 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology primary hyperparathyroidism hypercalcemia 99mtc-sestamibi minimally invasive parathyroidectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Localizing adenoma with sestamibi SPECT-CT followed by targeted minimally invasive parathyroidectomy under local anesthesia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is localizing adenoma with sestamibi SPECT-CT followed by targeted minimally invasive parathyroidectomy under local anesthesia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy. The cornerstone of management involves localizing adenoma with sestamibi SPECT-CT followed by targeted minimally invasive parathyroidectomy under local anesthesia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Surgical Guidelines",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32609",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous Hydrocortisone 100 mg. Clinical examination and investigative review confirm administering immediate IV hydrocortisone 100 mg bolus followed by 50-100 mg 6-hourly combined with rapid saline resuscitation. Vitals reveal blood pressure of 123/73 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology acute adrenal crisis hypotensive shock immediate intravenous hydrocortisone 100 mg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Administering immediate IV hydrocortisone 100 mg bolus followed by 50-100 mg 6-hourly combined with rapid saline resuscitation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering immediate IV hydrocortisone 100 mg bolus followed by 50-100 mg 6-hourly combined with rapid saline resuscitation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous Hydrocortisone 100 mg.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous Hydrocortisone 100 mg. The cornerstone of management involves administering immediate IV hydrocortisone 100 mg bolus followed by 50-100 mg 6-hourly combined with rapid saline resuscitation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous Hydrocortisone 100 mg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Acute Adrenal Crisis Hypotensive Shock Immediate Intravenous Hydrocortisone 100 mg."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Emergency Adrenal Guidelines",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32610",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transs",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transsphenoidal Resection. Clinical examination and investigative review confirm performing endoscopic transsphenoidal microadenomectomy and assessing postoperative early morning serum cortisol levels. Vitals reveal blood pressure of 124/74 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology cushing disease pituitary acth microadenoma endoscopic transsphenoidal resection. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing endoscopic transsphenoidal microadenomectomy and assessing postoperative early morning serum cortisol levels",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing endoscopic transsphenoidal microadenomectomy and assessing postoperative early morning serum cortisol levels. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transsphenoidal Resection.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transsphenoidal Resection. The cornerstone of management involves performing endoscopic transsphenoidal microadenomectomy and assessing postoperative early morning serum cortisol levels. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transsphenoidal Resection.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Cushing Disease Pituitary ACTH Microadenoma Endoscopic Transsphenoidal Resection."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Pituitary Consensus",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32611",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral P",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral Phenoxybenzamine Alpha-Blockade. Clinical examination and investigative review confirm administering oral non-selective alpha-blocker phenoxybenzamine for 10-14 days before introducing propranolol prior to laparoscopy. Vitals reveal blood pressure of 125/75 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology phaeochromocytoma paroxysmal hypertension preoperative oral phenoxybenzamine alpha-blockade. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Administering oral non-selective alpha-blocker phenoxybenzamine for 10-14 days before introducing propranolol prior to laparoscopy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering oral non-selective alpha-blocker phenoxybenzamine for 10-14 days before introducing propranolol prior to laparoscopy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral Phenoxybenzamine Alpha-Blockade.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral Phenoxybenzamine Alpha-Blockade. The cornerstone of management involves administering oral non-selective alpha-blocker phenoxybenzamine for 10-14 days before introducing propranolol prior to laparoscopy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral Phenoxybenzamine Alpha-Blockade.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Oral Phenoxybenzamine Alpha-Blockade."
+    ],
+    "references": [
+      {
+        "label": "Saudi Hypertension and Endocrine Guidelines",
+        "url": "https://ses.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32612",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous Teriparatide 20 mcg Daily. Clinical examination and investigative review confirm prescribing daily subcutaneous teriparatide 20 ug for 24 months followed by oral or IV bisphosphonate consolidation. Vitals reveal blood pressure of 126/76 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle endocrinology severe postmenopausal osteoporosis t-score -3.2 subcutaneous teriparatide 20 mcg daily. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Prescribing daily subcutaneous teriparatide 20 ug for 24 months followed by oral or IV bisphosphonate consolidation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing daily subcutaneous teriparatide 20 ug for 24 months followed by oral or IV bisphosphonate consolidation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous Teriparatide 20 mcg Daily.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous Teriparatide 20 mcg Daily. The cornerstone of management involves prescribing daily subcutaneous teriparatide 20 ug for 24 months followed by oral or IV bisphosphonate consolidation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous Teriparatide 20 mcg Daily.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Endocrinology Severe Postmenopausal Osteoporosis T-Score -3.2 Subcutaneous Teriparatide 20 mcg Daily."
+    ],
+    "references": [
+      {
+        "label": "Saudi Osteoporosis Society Guidelines",
+        "url": "https://saudiosteoporosis.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32613",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolate Mofetil and Pulse Steroids. Clinical examination and investigative review confirm initiating oral mycophenolate mofetil 2-3 g daily combined with pulse IV methylprednisolone for organ-threatening nephritis. Vitals reveal blood pressure of 127/77 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology lupus nephritis class iv diffuse proliferative oral mycophenolate mofetil and pulse steroids. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Initiating oral mycophenolate mofetil 2-3 g daily combined with pulse IV methylprednisolone for organ-threatening nephritis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral mycophenolate mofetil 2-3 g daily combined with pulse IV methylprednisolone for organ-threatening nephritis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolate Mofetil and Pulse Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolate Mofetil and Pulse Steroids. The cornerstone of management involves initiating oral mycophenolate mofetil 2-3 g daily combined with pulse IV methylprednisolone for organ-threatening nephritis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolate Mofetil and Pulse Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Lupus Nephritis Class IV Diffuse Proliferative Oral Mycophenolate Mofetil and Pulse Steroids."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Nephrology and Transplantation (SSN&T)",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32614",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflozin Dual Organ Protection. Clinical examination and investigative review confirm adding oral dapagliflozin 10 mg daily to maximally tolerated ACEi/ARB to retard renal progression and lower cardiovascular risk. Vitals reveal blood pressure of 128/78 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology diabetic nephropathy macroalbuminuria sglt2 inhibitor dapagliflozin dual organ protection. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Adding oral dapagliflozin 10 mg daily to maximally tolerated ACEi/ARB to retard renal progression and lower cardiovascular risk",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is adding oral dapagliflozin 10 mg daily to maximally tolerated ACEi/ARB to retard renal progression and lower cardiovascular risk. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflozin Dual Organ Protection.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflozin Dual Organ Protection. The cornerstone of management involves adding oral dapagliflozin 10 mg daily to maximally tolerated ACEi/ARB to retard renal progression and lower cardiovascular risk. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflozin Dual Organ Protection.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor Dapagliflozin Dual Organ Protection."
+    ],
+    "references": [
+      {
+        "label": "SSN&T Diabetic Kidney Disease Guidelines",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32615",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression O",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist. Clinical examination and investigative review confirm prescribing oral tolvaptan split-dose for progressive ADPKD with frequent monthly hepatic transaminase monitoring. Vitals reveal blood pressure of 129/79 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology autosomal dominant polycystic kidney disease rapid progression oral tolvaptan v2 antagonist. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral tolvaptan split-dose for progressive ADPKD with frequent monthly hepatic transaminase monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral tolvaptan split-dose for progressive ADPKD with frequent monthly hepatic transaminase monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist. The cornerstone of management involves prescribing oral tolvaptan split-dose for progressive ADPKD with frequent monthly hepatic transaminase monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist."
+    ],
+    "references": [
+      {
+        "label": "SSN&T Rare Renal Disease Protocols",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32616",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Bre",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Brescia-Cimino Creation. Clinical examination and investigative review confirm constructing autologous end-to-side radiocephalic fistula at the non-dominant wrist 6 months prior to hemodialysis. Vitals reveal blood pressure of 130/80 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology end-stage kidney disease radiocephalic arteriovenous fistula brescia-cimino creation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Constructing autologous end-to-side radiocephalic fistula at the non-dominant wrist 6 months prior to hemodialysis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is constructing autologous end-to-side radiocephalic fistula at the non-dominant wrist 6 months prior to hemodialysis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Brescia-Cimino Creation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Brescia-Cimino Creation. The cornerstone of management involves constructing autologous end-to-side radiocephalic fistula at the non-dominant wrist 6 months prior to hemodialysis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Brescia-Cimino Creation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology End-Stage Kidney Disease Radiocephalic Arteriovenous Fistula Brescia-Cimino Creation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Organ Transplantation (SCOT) Vascular Access Guidelines",
+        "url": "https://scot.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32617",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephroli",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephrolithotomy PCNL Complete Clearance. Clinical examination and investigative review confirm performing prone percutaneous nephrolithotomy with ultrasonic or laser lithotripsy to achieve stone clearance and sterilize urine. Vitals reveal blood pressure of 131/81 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology staghorn renal calculus struvite infection percutaneous nephrolithotomy pcnl complete clearance. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Performing prone percutaneous nephrolithotomy with ultrasonic or laser lithotripsy to achieve stone clearance and sterilize urine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing prone percutaneous nephrolithotomy with ultrasonic or laser lithotripsy to achieve stone clearance and sterilize urine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephrolithotomy PCNL Complete Clearance.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephrolithotomy PCNL Complete Clearance. The cornerstone of management involves performing prone percutaneous nephrolithotomy with ultrasonic or laser lithotripsy to achieve stone clearance and sterilize urine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephrolithotomy PCNL Complete Clearance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Staghorn Renal Calculus Struvite Infection Percutaneous Nephrolithotomy PCNL Complete Clearance."
+    ],
+    "references": [
+      {
+        "label": "Saudi Urological Association (SUA) Guidelines",
+        "url": "https://sua.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32618",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparosco",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparoscopic Partial Nephrectomy. Clinical examination and investigative review confirm performing robot-assisted partial nephrectomy with warm ischemia time < 20 minutes to preserve renal parenchymal function. Vitals reveal blood pressure of 132/82 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology localized renal cell carcinoma t1a 3 cm robot-assisted laparoscopic partial nephrectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Performing robot-assisted partial nephrectomy with warm ischemia time < 20 minutes to preserve renal parenchymal function",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing robot-assisted partial nephrectomy with warm ischemia time < 20 minutes to preserve renal parenchymal function. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparoscopic Partial Nephrectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparoscopic Partial Nephrectomy. The cornerstone of management involves performing robot-assisted partial nephrectomy with warm ischemia time < 20 minutes to preserve renal parenchymal function. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparoscopic Partial Nephrectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Localized Renal Cell Carcinoma T1a 3 cm Robot-Assisted Laparoscopic Partial Nephrectomy."
+    ],
+    "references": [
+      {
+        "label": "SUA Renal Oncology Standards",
+        "url": "https://sua.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32619",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% Muddy Brown Casts. Clinical examination and investigative review confirm discontinuing gentamicin immediately, ensuring euvolemia, and monitoring creatinine recovery with supportive care. Vitals reveal blood pressure of 133/83 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology acute kidney injury aminoglycoside gentamicin induced fena > 2% muddy brown casts. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Discontinuing gentamicin immediately, ensuring euvolemia, and monitoring creatinine recovery with supportive care",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is discontinuing gentamicin immediately, ensuring euvolemia, and monitoring creatinine recovery with supportive care. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% Muddy Brown Casts.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% Muddy Brown Casts. The cornerstone of management involves discontinuing gentamicin immediately, ensuring euvolemia, and monitoring creatinine recovery with supportive care. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% Muddy Brown Casts.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Acute Kidney Injury Aminoglycoside Gentamicin Induced FeNa > 2% Muddy Brown Casts."
+    ],
+    "references": [
+      {
+        "label": "SSN&T AKI Working Group",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32620",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluconate Myocardial Stabilization. Clinical examination and investigative review confirm administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose. Vitals reveal blood pressure of 134/84 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology acute severe hyperkalemia 7.2 meq/l intravenous 10% calcium gluconate myocardial stabilization. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluconate Myocardial Stabilization.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluconate Myocardial Stabilization. The cornerstone of management involves administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluconate Myocardial Stabilization.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Acute Severe Hyperkalemia 7.2 mEq/L Intravenous 10% Calcium Gluconate Myocardial Stabilization."
+    ],
+    "references": [
+      {
+        "label": "Saudi Critical Care and Nephrology Protocols",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32621",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Cal",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Calcimimetic Cinacalcet. Clinical examination and investigative review confirm prescribing oral cinacalcet 30 mg daily titrated against intact PTH and calcium-phosphate product in hemodialysis patients. Vitals reveal blood pressure of 135/85 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology secondary hyperparathyroidism ckd mineral bone disorder oral calcimimetic cinacalcet. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Prescribing oral cinacalcet 30 mg daily titrated against intact PTH and calcium-phosphate product in hemodialysis patients",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral cinacalcet 30 mg daily titrated against intact PTH and calcium-phosphate product in hemodialysis patients. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Calcimimetic Cinacalcet.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Calcimimetic Cinacalcet. The cornerstone of management involves prescribing oral cinacalcet 30 mg daily titrated against intact PTH and calcium-phosphate product in hemodialysis patients. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Calcimimetic Cinacalcet.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Secondary Hyperparathyroidism CKD Mineral Bone Disorder Oral Calcimimetic Cinacalcet."
+    ],
+    "references": [
+      {
+        "label": "SSN&T Mineral Metabolism Guidelines",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32622",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy Oral Tamsulosin 0.4 mg. Clinical examination and investigative review confirm prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and oral NSAID analgesia. Vitals reveal blood pressure of 136/86 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle nephrology renal colic distal ureteric stone 6 mm medical expulsive therapy oral tamsulosin 0.4 mg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and oral NSAID analgesia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and oral NSAID analgesia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy Oral Tamsulosin 0.4 mg.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy Oral Tamsulosin 0.4 mg. The cornerstone of management involves prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and oral NSAID analgesia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy Oral Tamsulosin 0.4 mg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Nephrology Renal Colic Distal Ureteric Stone 6 mm Medical Expulsive Therapy Oral Tamsulosin 0.4 mg."
+    ],
+    "references": [
+      {
+        "label": "SUA Urolithiasis Standards",
+        "url": "https://sua.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32623",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechani",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechanical Thrombectomy 24 Hours. Clinical examination and investigative review confirm performing emergent mechanical thrombectomy following CT perfusion evidence of salvageable penumbra up to 24 hours. Vitals reveal blood pressure of 137/87 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology acute ischemic stroke large vessel occlusion endovascular mechanical thrombectomy 24 hours. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Performing emergent mechanical thrombectomy following CT perfusion evidence of salvageable penumbra up to 24 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing emergent mechanical thrombectomy following CT perfusion evidence of salvageable penumbra up to 24 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechanical Thrombectomy 24 Hours.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechanical Thrombectomy 24 Hours. The cornerstone of management involves performing emergent mechanical thrombectomy following CT perfusion evidence of salvageable penumbra up to 24 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechanical Thrombectomy 24 Hours.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Acute Ischemic Stroke Large Vessel Occlusion Endovascular Mechanical Thrombectomy 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "Saudi Stroke Association Guidelines",
+        "url": "https://saudistroke.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32624",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by IV Levetiracetam. Clinical examination and investigative review confirm administering IV lorazepam 0.1 mg/kg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg over 10 minutes. Vitals reveal blood pressure of 138/72 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology status epilepticus seizures > 5 minutes iv lorazepam followed by iv levetiracetam. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Administering IV lorazepam 0.1 mg/kg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg over 10 minutes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IV lorazepam 0.1 mg/kg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg over 10 minutes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by IV Levetiracetam.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by IV Levetiracetam. The cornerstone of management involves administering IV lorazepam 0.1 mg/kg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg over 10 minutes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by IV Levetiracetam.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Status Epilepticus Seizures > 5 Minutes IV Lorazepam followed by IV Levetiracetam."
+    ],
+    "references": [
+      {
+        "label": "Saudi Epilepsy Society Standards",
+        "url": "https://saudiepilepsy.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32625",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti-CD20 Ocrelizumab. Clinical examination and investigative review confirm initiating humanized anti-CD20 monoclonal antibody ocrelizumab 600 mg every 6 months to reduce relapses and disability progression. Vitals reveal blood pressure of 139/73 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology relapsing-remitting multiple sclerosis high disease activity anti-cd20 ocrelizumab. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating humanized anti-CD20 monoclonal antibody ocrelizumab 600 mg every 6 months to reduce relapses and disability progression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating humanized anti-CD20 monoclonal antibody ocrelizumab 600 mg every 6 months to reduce relapses and disability progression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti-CD20 Ocrelizumab.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti-CD20 Ocrelizumab. The cornerstone of management involves initiating humanized anti-CD20 monoclonal antibody ocrelizumab 600 mg every 6 months to reduce relapses and disability progression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti-CD20 Ocrelizumab.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Relapsing-Remitting Multiple Sclerosis High Disease Activity Anti-CD20 Ocrelizumab."
+    ],
+    "references": [
+      {
+        "label": "Saudi Multiple Sclerosis Advisory Group",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32626",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeut",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeutic Plasma Exchange. Clinical examination and investigative review confirm initiating 5 alternate-day sessions of therapeutic plasma exchange alongside ICU respiratory monitoring, withholding pyridostigmine. Vitals reveal blood pressure of 118/74 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology myasthenia gravis crisis dropping forced vital capacity therapeutic plasma exchange. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Initiating 5 alternate-day sessions of therapeutic plasma exchange alongside ICU respiratory monitoring, withholding pyridostigmine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating 5 alternate-day sessions of therapeutic plasma exchange alongside ICU respiratory monitoring, withholding pyridostigmine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeutic Plasma Exchange.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeutic Plasma Exchange. The cornerstone of management involves initiating 5 alternate-day sessions of therapeutic plasma exchange alongside ICU respiratory monitoring, withholding pyridostigmine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeutic Plasma Exchange.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Myasthenia Gravis Crisis Dropping Forced Vital Capacity Therapeutic Plasma Exchange."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurological Society Guidelines",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32627",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intraven",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intravenous Immunoglobulin 2 g per kg. Clinical examination and investigative review confirm administering IVIg 0.4 g/kg/day for 5 consecutive days with continuous bedside forced vital capacity assessments. Vitals reveal blood pressure of 119/75 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology guillain-barre syndrome acute inflammatory demyelinating intravenous immunoglobulin 2 g per kg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Administering IVIg 0.4 g/kg/day for 5 consecutive days with continuous bedside forced vital capacity assessments",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IVIg 0.4 g/kg/day for 5 consecutive days with continuous bedside forced vital capacity assessments. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intravenous Immunoglobulin 2 g per kg.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intravenous Immunoglobulin 2 g per kg. The cornerstone of management involves administering IVIg 0.4 g/kg/day for 5 consecutive days with continuous bedside forced vital capacity assessments. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intravenous Immunoglobulin 2 g per kg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Intravenous Immunoglobulin 2 g per kg."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurological Society Neuromuscular Group",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32628",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subthalamic Nucleus. Clinical examination and investigative review confirm referring for bilateral subthalamic nucleus deep brain stimulation for disabling levodopa-induced dyskinesias and wearing-off. Vitals reveal blood pressure of 120/76 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology parkinson disease motor fluctuations deep brain stimulation subthalamic nucleus. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Referring for bilateral subthalamic nucleus deep brain stimulation for disabling levodopa-induced dyskinesias and wearing-off",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referring for bilateral subthalamic nucleus deep brain stimulation for disabling levodopa-induced dyskinesias and wearing-off. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subthalamic Nucleus.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subthalamic Nucleus. The cornerstone of management involves referring for bilateral subthalamic nucleus deep brain stimulation for disabling levodopa-induced dyskinesias and wearing-off. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subthalamic Nucleus.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Parkinson Disease Motor Fluctuations Deep Brain Stimulation Subthalamic Nucleus."
+    ],
+    "references": [
+      {
+        "label": "Saudi Movement Disorders Chapter",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32629",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture Oral Acetazolamide. Clinical examination and investigative review confirm measuring elevated opening pressure > 25 cm H2O and starting high-dose oral acetazolamide 1-2 g daily alongside weight reduction. Vitals reveal blood pressure of 121/77 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology idiopathic intracranial hypertension papilledema lumbar puncture oral acetazolamide. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Measuring elevated opening pressure > 25 cm H2O and starting high-dose oral acetazolamide 1-2 g daily alongside weight reduction",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is measuring elevated opening pressure > 25 cm H2O and starting high-dose oral acetazolamide 1-2 g daily alongside weight reduction. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture Oral Acetazolamide.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture Oral Acetazolamide. The cornerstone of management involves measuring elevated opening pressure > 25 cm H2O and starting high-dose oral acetazolamide 1-2 g daily alongside weight reduction. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture Oral Acetazolamide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Idiopathic Intracranial Hypertension Papilledema Lumbar Puncture Oral Acetazolamide."
+    ],
+    "references": [
+      {
+        "label": "Saudi Headache Society Protocols",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32630",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular Platinum Coil Embolization. Clinical examination and investigative review confirm performing emergent digital subtraction angiography and endovascular coil embolization within 24 hours under oral nimodipine. Vitals reveal blood pressure of 122/78 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology subarachnoid hemorrhage ruptured saccular aneurysm endovascular platinum coil embolization. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing emergent digital subtraction angiography and endovascular coil embolization within 24 hours under oral nimodipine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing emergent digital subtraction angiography and endovascular coil embolization within 24 hours under oral nimodipine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular Platinum Coil Embolization.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular Platinum Coil Embolization. The cornerstone of management involves performing emergent digital subtraction angiography and endovascular coil embolization within 24 hours under oral nimodipine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular Platinum Coil Embolization.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Subarachnoid Hemorrhage Ruptured Saccular Aneurysm Endovascular Platinum Coil Embolization."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurosurgical Society Guidelines",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32631",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF Tap Test. Clinical examination and investigative review confirm performing 30-50 mL CSF lumbar tap test with pre- and post-tap timed 10-meter walk test before considering VP shunt. Vitals reveal blood pressure of 123/79 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology normal pressure hydrocephalus hakim triad high-volume lumbar csf tap test. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Performing 30-50 mL CSF lumbar tap test with pre- and post-tap timed 10-meter walk test before considering VP shunt",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing 30-50 mL CSF lumbar tap test with pre- and post-tap timed 10-meter walk test before considering VP shunt. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF Tap Test.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF Tap Test. The cornerstone of management involves performing 30-50 mL CSF lumbar tap test with pre- and post-tap timed 10-meter walk test before considering VP shunt. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF Tap Test.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Normal Pressure Hydrocephalus Hakim Triad High-Volume Lumbar CSF Tap Test."
+    ],
+    "references": [
+      {
+        "label": "Saudi Cognitive Neurology Working Group",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32632",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifyi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifying Oral Riluzole 50 mg BID. Clinical examination and investigative review confirm prescribing oral riluzole 50 mg twice daily with baseline and monthly liver function monitoring and early PEG tube evaluation. Vitals reveal blood pressure of 124/80 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle neurology amyotrophic lateral sclerosis bulbar presentation disease-modifying oral riluzole 50 mg bid. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Prescribing oral riluzole 50 mg twice daily with baseline and monthly liver function monitoring and early PEG tube evaluation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral riluzole 50 mg twice daily with baseline and monthly liver function monitoring and early PEG tube evaluation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifying Oral Riluzole 50 mg BID.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifying Oral Riluzole 50 mg BID. The cornerstone of management involves prescribing oral riluzole 50 mg twice daily with baseline and monthly liver function monitoring and early PEG tube evaluation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifying Oral Riluzole 50 mg BID.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Neurology Amyotrophic Lateral Sclerosis Bulbar Presentation Disease-Modifying Oral Riluzole 50 mg BID."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurological Society ALS Standards",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32633",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabiliza",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabilization Low Protein. Clinical examination and investigative review confirm initiating low-protein, low-sodium F-75 starter diet to stabilize electrolyte pumps and prevent fatal refeeding syndrome. Vitals reveal blood pressure of 125/81 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics severe acute malnutrition sam who f-75 starter formula stabilization low protein. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Initiating low-protein, low-sodium F-75 starter diet to stabilize electrolyte pumps and prevent fatal refeeding syndrome",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating low-protein, low-sodium F-75 starter diet to stabilize electrolyte pumps and prevent fatal refeeding syndrome. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabilization Low Protein.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabilization Low Protein. The cornerstone of management involves initiating low-protein, low-sodium F-75 starter diet to stabilize electrolyte pumps and prevent fatal refeeding syndrome. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabilization Low Protein.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Severe Acute Malnutrition SAM WHO F-75 Starter Formula Stabilization Low Protein."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association Guidelines",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32634",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g per kg and Oral Aspirin. Clinical examination and investigative review confirm administering single-dose IVIg 2 g/kg over 10-12 hours combined with oral aspirin 80-100 mg/kg/day within 10 days of fever onset. Vitals reveal blood pressure of 126/82 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics kawasaki disease coronary aneurysm prevention high-dose ivig 2 g per kg and oral aspirin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Administering single-dose IVIg 2 g/kg over 10-12 hours combined with oral aspirin 80-100 mg/kg/day within 10 days of fever onset",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering single-dose IVIg 2 g/kg over 10-12 hours combined with oral aspirin 80-100 mg/kg/day within 10 days of fever onset. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g per kg and Oral Aspirin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g per kg and Oral Aspirin. The cornerstone of management involves administering single-dose IVIg 2 g/kg over 10-12 hours combined with oral aspirin 80-100 mg/kg/day within 10 days of fever onset. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g per kg and Oral Aspirin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Kawasaki Disease Coronary Aneurysm Prevention High-Dose IVIg 2 g per kg and Oral Aspirin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association Cardiology Section",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32635",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surf",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surface Intensive Phototherapy. Clinical examination and investigative review confirm initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy. Vitals reveal blood pressure of 127/83 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics neonatal hyperbilirubinemia term infant age 36 hours double-surface intensive phototherapy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surface Intensive Phototherapy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surface Intensive Phototherapy. The cornerstone of management involves initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surface Intensive Phototherapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Neonatal Hyperbilirubinemia Term Infant Age 36 Hours Double-Surface Intensive Phototherapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neonatology Society Guidelines",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32636",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Na",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Nasal Cannula Supportive Care. Clinical examination and investigative review confirm providing supportive humidified oxygen therapy via high-flow nasal cannula and maintaining hydration while avoiding routine bronchodilators. Vitals reveal blood pressure of 128/84 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics acute bronchiolitis infant rsv infection humidified high-flow nasal cannula supportive care. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Providing supportive humidified oxygen therapy via high-flow nasal cannula and maintaining hydration while avoiding routine bronchodilators",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is providing supportive humidified oxygen therapy via high-flow nasal cannula and maintaining hydration while avoiding routine bronchodilators. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Nasal Cannula Supportive Care.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Nasal Cannula Supportive Care. The cornerstone of management involves providing supportive humidified oxygen therapy via high-flow nasal cannula and maintaining hydration while avoiding routine bronchodilators. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Nasal Cannula Supportive Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Acute Bronchiolitis Infant RSV Infection Humidified High-Flow Nasal Cannula Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Pulmonology Working Group",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32637",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Am",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Ampicillin and Gentamicin. Clinical examination and investigative review confirm initiating empirical intravenous ampicillin 100 mg/kg/day divided 12-hourly plus IV gentamicin 5 mg/kg once daily for confirmed blood culture. Vitals reveal blood pressure of 129/85 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics neonatal sepsis early-onset group b streptococcus intravenous ampicillin and gentamicin. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Initiating empirical intravenous ampicillin 100 mg/kg/day divided 12-hourly plus IV gentamicin 5 mg/kg once daily for confirmed blood culture",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating empirical intravenous ampicillin 100 mg/kg/day divided 12-hourly plus IV gentamicin 5 mg/kg once daily for confirmed blood culture. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Ampicillin and Gentamicin.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Ampicillin and Gentamicin. The cornerstone of management involves initiating empirical intravenous ampicillin 100 mg/kg/day divided 12-hourly plus IV gentamicin 5 mg/kg once daily for confirmed blood culture. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Ampicillin and Gentamicin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus Intravenous Ampicillin and Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neonatal Infection Guidelines",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32638",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T4 High TSH Oral Levothyroxine. Clinical examination and investigative review confirm initiating daily oral levothyroxine 10-15 mcg/kg within first 2 weeks of life to ensure optimal neurodevelopment and prevent cretinism. Vitals reveal blood pressure of 130/86 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics congenital hypothyroidism newborn bloodspot screening low free t4 high tsh oral levothyroxine. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Initiating daily oral levothyroxine 10-15 mcg/kg within first 2 weeks of life to ensure optimal neurodevelopment and prevent cretinism",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating daily oral levothyroxine 10-15 mcg/kg within first 2 weeks of life to ensure optimal neurodevelopment and prevent cretinism. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T4 High TSH Oral Levothyroxine.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T4 High TSH Oral Levothyroxine. The cornerstone of management involves initiating daily oral levothyroxine 10-15 mcg/kg within first 2 weeks of life to ensure optimal neurodevelopment and prevent cretinism. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T4 High TSH Oral Levothyroxine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Congenital Hypothyroidism Newborn Bloodspot Screening Low Free T4 High TSH Oral Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "Saudi Paediatric Endocrine Group Guidelines",
+        "url": "https://saudiped.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32639",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive Hydration Opioids Hydroxyurea. Clinical examination and investigative review confirm administering intravenous hydration, scheduled opioid analgesia, and long-term oral hydroxyurea to induce HbF and prevent crises. Vitals reveal blood pressure of 131/87 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics sickle cell disease acute vaso-occlusive pain crisis aggressive hydration opioids hydroxyurea. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Administering intravenous hydration, scheduled opioid analgesia, and long-term oral hydroxyurea to induce HbF and prevent crises",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering intravenous hydration, scheduled opioid analgesia, and long-term oral hydroxyurea to induce HbF and prevent crises. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive Hydration Opioids Hydroxyurea.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive Hydration Opioids Hydroxyurea. The cornerstone of management involves administering intravenous hydration, scheduled opioid analgesia, and long-term oral hydroxyurea to induce HbF and prevent crises. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive Hydration Opioids Hydroxyurea.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Aggressive Hydration Opioids Hydroxyurea."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Hematology Sickle Cell Guidelines",
+        "url": "https://saudihematology.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32640",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral Deferasirox Chelation. Clinical examination and investigative review confirm prescribing oral deferasirox 20-30 mg/kg daily when serum ferritin exceeds 1000 ug/L to prevent secondary hemochromatosis. Vitals reveal blood pressure of 132/72 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics beta-thalassemia major transfusion-dependent iron overload oral deferasirox chelation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral deferasirox 20-30 mg/kg daily when serum ferritin exceeds 1000 ug/L to prevent secondary hemochromatosis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral deferasirox 20-30 mg/kg daily when serum ferritin exceeds 1000 ug/L to prevent secondary hemochromatosis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral Deferasirox Chelation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral Deferasirox Chelation. The cornerstone of management involves prescribing oral deferasirox 20-30 mg/kg daily when serum ferritin exceeds 1000 ug/L to prevent secondary hemochromatosis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral Deferasirox Chelation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Beta-Thalassemia Major Transfusion-Dependent Iron Overload Oral Deferasirox Chelation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Hematology Protocols",
+        "url": "https://saudihematology.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32641",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Sal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Saline or Air Enema Reduction. Clinical examination and investigative review confirm performing ultrasound-guided hydrostatic saline enema or pneumatic fluoroscopic reduction in hemodynamically stable infant without perforation. Vitals reveal blood pressure of 133/73 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics intussusception infant colicky pain sausage mass hydrostatic saline or air enema reduction. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Performing ultrasound-guided hydrostatic saline enema or pneumatic fluoroscopic reduction in hemodynamically stable infant without perforation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing ultrasound-guided hydrostatic saline enema or pneumatic fluoroscopic reduction in hemodynamically stable infant without perforation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Saline or Air Enema Reduction.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Saline or Air Enema Reduction. The cornerstone of management involves performing ultrasound-guided hydrostatic saline enema or pneumatic fluoroscopic reduction in hemodynamically stable infant without perforation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Saline or Air Enema Reduction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Intussusception Infant Colicky Pain Sausage Mass Hydrostatic Saline or Air Enema Reduction."
+    ],
+    "references": [
+      {
+        "label": "Saudi Association of Pediatric Surgeons (SAPS)",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32642",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urgent In-Situ Cannulated Screw. Clinical examination and investigative review confirm placing patient on strict non-weight-bearing bed rest and performing urgent fluoroscopy-guided single percutaneous cannulated screw fixation. Vitals reveal blood pressure of 134/74 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle pediatrics slipped capital femoral epiphysis scfe obese adolescent limp urgent in-situ cannulated screw. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Placing patient on strict non-weight-bearing bed rest and performing urgent fluoroscopy-guided single percutaneous cannulated screw fixation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is placing patient on strict non-weight-bearing bed rest and performing urgent fluoroscopy-guided single percutaneous cannulated screw fixation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urgent In-Situ Cannulated Screw.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urgent In-Situ Cannulated Screw. The cornerstone of management involves placing patient on strict non-weight-bearing bed rest and performing urgent fluoroscopy-guided single percutaneous cannulated screw fixation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urgent In-Situ Cannulated Screw.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Pediatrics Slipped Capital Femoral Epiphysis SCFE Obese Adolescent Limp Urgent In-Situ Cannulated Screw."
+    ],
+    "references": [
+      {
+        "label": "Saudi Orthopaedic Association Pediatric Section",
+        "url": "https://saudiorthopedic.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32643",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol. Clinical examination and investigative review confirm administering IV magnesium sulfate 4 g loading followed by 1-2 g/hour continuous infusion alongside IV labetalol to prevent eclamptic seizures. Vitals reveal blood pressure of 135/75 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle obstetrics severe preeclampsia blood pressure > 160/110 iv magnesium sulfate pritchard regimen and labetalol. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Administering IV magnesium sulfate 4 g loading followed by 1-2 g/hour continuous infusion alongside IV labetalol to prevent eclamptic seizures",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IV magnesium sulfate 4 g loading followed by 1-2 g/hour continuous infusion alongside IV labetalol to prevent eclamptic seizures. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol. The cornerstone of management involves administering IV magnesium sulfate 4 g loading followed by 1-2 g/hour continuous infusion alongside IV labetalol to prevent eclamptic seizures. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Severe Preeclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol."
+    ],
+    "references": [
+      {
+        "label": "Saudi Obstetrics and Gynaecology Society (SOGS)",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32644",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytoci",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytocin and Tranexamic Acid. Clinical examination and investigative review confirm administering 10 IU IM oxytocin, controlled cord traction, uterine massage, and 1 g IV tranexamic acid within 3 hours of delivery. Vitals reveal blood pressure of 136/76 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle obstetrics postpartum hemorrhage uterine atony active management im oxytocin and tranexamic acid. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Administering 10 IU IM oxytocin, controlled cord traction, uterine massage, and 1 g IV tranexamic acid within 3 hours of delivery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 10 IU IM oxytocin, controlled cord traction, uterine massage, and 1 g IV tranexamic acid within 3 hours of delivery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytocin and Tranexamic Acid.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytocin and Tranexamic Acid. The cornerstone of management involves administering 10 IU IM oxytocin, controlled cord traction, uterine massage, and 1 g IV tranexamic acid within 3 hours of delivery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytocin and Tranexamic Acid.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Postpartum Hemorrhage Uterine Atony Active Management IM Oxytocin and Tranexamic Acid."
+    ],
+    "references": [
+      {
+        "label": "SOGS Postpartum Hemorrhage Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32645",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Eme",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Emergency Laparotomy Salpingectomy. Clinical examination and investigative review confirm initiating immediate fluid and blood resuscitation and performing emergency surgical laparotomy with ipsilateral total salpingectomy. Vitals reveal blood pressure of 137/77 mm Hg, heart rate of 83/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle obstetrics ruptured tubal ectopic pregnancy hemoperitoneum severe shock emergency laparotomy salpingectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating immediate fluid and blood resuscitation and performing emergency surgical laparotomy with ipsilateral total salpingectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating immediate fluid and blood resuscitation and performing emergency surgical laparotomy with ipsilateral total salpingectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Emergency Laparotomy Salpingectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Emergency Laparotomy Salpingectomy. The cornerstone of management involves initiating immediate fluid and blood resuscitation and performing emergency surgical laparotomy with ipsilateral total salpingectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Emergency Laparotomy Salpingectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Severe Shock Emergency Laparotomy Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "SOGS Early Pregnancy Loss Standards",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32646",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed Elective Cesarean Delivery 36 Weeks. Clinical examination and investigative review confirm avoiding digital vaginal examination, cross-matching 4 units packed red cells, and scheduling elective cesarean section at 36-37 weeks. Vitals reveal blood pressure of 138/78 mm Hg, heart rate of 84/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle obstetrics complete placenta previa third trimester painless vaginal bleed elective cesarean delivery 36 weeks. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Avoiding digital vaginal examination, cross-matching 4 units packed red cells, and scheduling elective cesarean section at 36-37 weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is avoiding digital vaginal examination, cross-matching 4 units packed red cells, and scheduling elective cesarean section at 36-37 weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed Elective Cesarean Delivery 36 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed Elective Cesarean Delivery 36 Weeks. The cornerstone of management involves avoiding digital vaginal examination, cross-matching 4 units packed red cells, and scheduling elective cesarean section at 36-37 weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed Elective Cesarean Delivery 36 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Complete Placenta Previa Third Trimester Painless Vaginal Bleed Elective Cesarean Delivery 36 Weeks."
+    ],
+    "references": [
+      {
+        "label": "SOGS Clinical Practice Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32647",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous Suprapubic Pressure. Clinical examination and investigative review confirm hyperflexing and abducting maternal hips against abdomen (McRoberts) and delivering firm continuous suprapubic pressure without fundal pressure. Vitals reveal blood pressure of 139/79 mm Hg, heart rate of 85/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle obstetrics shoulder dystocia turtle sign mcroberts maneuver and continuous suprapubic pressure. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Hyperflexing and abducting maternal hips against abdomen (McRoberts) and delivering firm continuous suprapubic pressure without fundal pressure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is hyperflexing and abducting maternal hips against abdomen (McRoberts) and delivering firm continuous suprapubic pressure without fundal pressure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous Suprapubic Pressure.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous Suprapubic Pressure. The cornerstone of management involves hyperflexing and abducting maternal hips against abdomen (McRoberts) and delivering firm continuous suprapubic pressure without fundal pressure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous Suprapubic Pressure.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Obstetrics Shoulder Dystocia Turtle Sign McRoberts Maneuver and Continuous Suprapubic Pressure."
+    ],
+    "references": [
+      {
+        "label": "SOGS Intrapartum Care Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32648",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line L",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line Letrozole Ovulation Induction. Clinical examination and investigative review confirm prescribing oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3 to 7 demonstrating superior cumulative live birth rates. Vitals reveal blood pressure of 118/80 mm Hg, heart rate of 86/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gynecology polycystic ovarian syndrome infertility anovulation first-line letrozole ovulation induction. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Prescribing oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3 to 7 demonstrating superior cumulative live birth rates",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3 to 7 demonstrating superior cumulative live birth rates. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line Letrozole Ovulation Induction.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line Letrozole Ovulation Induction. The cornerstone of management involves prescribing oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3 to 7 demonstrating superior cumulative live birth rates. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line Letrozole Ovulation Induction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Polycystic Ovarian Syndrome Infertility Anovulation First-Line Letrozole Ovulation Induction."
+    ],
+    "references": [
+      {
+        "label": "SOGS Reproductive Endocrinology Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32649",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial Pipelle Biopsy. Clinical examination and investigative review confirm performing outpatient Pipelle endometrial biopsy to histologically rule out endometrial hyperplasia or adenocarcinoma prior to hormone therapy. Vitals reveal blood pressure of 119/81 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gynecology dysfunctional uterine bleeding perimenopausal woman endometrial pipelle biopsy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Performing outpatient Pipelle endometrial biopsy to histologically rule out endometrial hyperplasia or adenocarcinoma prior to hormone therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing outpatient Pipelle endometrial biopsy to histologically rule out endometrial hyperplasia or adenocarcinoma prior to hormone therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial Pipelle Biopsy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial Pipelle Biopsy. The cornerstone of management involves performing outpatient Pipelle endometrial biopsy to histologically rule out endometrial hyperplasia or adenocarcinoma prior to hormone therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial Pipelle Biopsy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Dysfunctional Uterine Bleeding Perimenopausal Woman Endometrial Pipelle Biopsy."
+    ],
+    "references": [
+      {
+        "label": "SOGS Heavy Menstrual Bleeding Protocols",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32650",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic or Abdominal Myomectomy. Clinical examination and investigative review confirm performing uterine-sparing myomectomy with multilayered myometrial reconstruction for symptomatic women desiring future fertility. Vitals reveal blood pressure of 120/82 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gynecology uterine fibroids intramural symptomatic menorrhagia laparoscopic or abdominal myomectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing uterine-sparing myomectomy with multilayered myometrial reconstruction for symptomatic women desiring future fertility",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing uterine-sparing myomectomy with multilayered myometrial reconstruction for symptomatic women desiring future fertility. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic or Abdominal Myomectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic or Abdominal Myomectomy. The cornerstone of management involves performing uterine-sparing myomectomy with multilayered myometrial reconstruction for symptomatic women desiring future fertility. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic or Abdominal Myomectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Uterine Fibroids Intramural Symptomatic Menorrhagia Laparoscopic or Abdominal Myomectomy."
+    ],
+    "references": [
+      {
+        "label": "SOGS Benign Gynecology Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32651",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Lapa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Laparoscopic Ovarian Cystectomy. Clinical examination and investigative review confirm performing emergency laparoscopy, untwisting ischemic pedicle, and enucleating dermoid cyst while conserving normal ovarian cortical parenchyma. Vitals reveal blood pressure of 121/83 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gynecology ovarian dermoid cyst mature teratoma acute torsion emergent laparoscopic ovarian cystectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Performing emergency laparoscopy, untwisting ischemic pedicle, and enucleating dermoid cyst while conserving normal ovarian cortical parenchyma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing emergency laparoscopy, untwisting ischemic pedicle, and enucleating dermoid cyst while conserving normal ovarian cortical parenchyma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Laparoscopic Ovarian Cystectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Laparoscopic Ovarian Cystectomy. The cornerstone of management involves performing emergency laparoscopy, untwisting ischemic pedicle, and enucleating dermoid cyst while conserving normal ovarian cortical parenchyma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Laparoscopic Ovarian Cystectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Ovarian Dermoid Cyst Mature Teratoma Acute Torsion Emergent Laparoscopic Ovarian Cystectomy."
+    ],
+    "references": [
+      {
+        "label": "SOGS Acute Gynecological Emergencies",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32652",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definitive Concurrent Chemoradiotherapy. Clinical examination and investigative review confirm initiating definitive external beam radiotherapy with concurrent weekly cisplatin chemotherapy followed by intracavitary brachytherapy. Vitals reveal blood pressure of 122/84 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle gynecology carcinoma cervix figo stage iib parametrial infiltration definitive concurrent chemoradiotherapy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Initiating definitive external beam radiotherapy with concurrent weekly cisplatin chemotherapy followed by intracavitary brachytherapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating definitive external beam radiotherapy with concurrent weekly cisplatin chemotherapy followed by intracavitary brachytherapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definitive Concurrent Chemoradiotherapy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definitive Concurrent Chemoradiotherapy. The cornerstone of management involves initiating definitive external beam radiotherapy with concurrent weekly cisplatin chemotherapy followed by intracavitary brachytherapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definitive Concurrent Chemoradiotherapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Gynecology Carcinoma Cervix FIGO Stage IIB Parametrial Infiltration Definitive Concurrent Chemoradiotherapy."
+    ],
+    "references": [
+      {
+        "label": "SOGS Gynecologic Oncology Protocols",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32653",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy Preoperative Antibiotics. Clinical examination and investigative review confirm performing diagnostic confirmation and early laparoscopic appendectomy with single-dose preoperative broad-spectrum antibiotic prophylaxis. Vitals reveal blood pressure of 123/85 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle surgery acute appendicitis alvarado score 8 early laparoscopic appendectomy preoperative antibiotics. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Performing diagnostic confirmation and early laparoscopic appendectomy with single-dose preoperative broad-spectrum antibiotic prophylaxis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing diagnostic confirmation and early laparoscopic appendectomy with single-dose preoperative broad-spectrum antibiotic prophylaxis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy Preoperative Antibiotics.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy Preoperative Antibiotics. The cornerstone of management involves performing diagnostic confirmation and early laparoscopic appendectomy with single-dose preoperative broad-spectrum antibiotic prophylaxis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy Preoperative Antibiotics.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Acute Appendicitis Alvarado Score 8 Early Laparoscopic Appendectomy Preoperative Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Society Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32654",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resus",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resuscitation Titration. Clinical examination and investigative review confirm administering 4 mL x weight (kg) x %TBSA burned of Ringer lactate over first 24 hours, giving half in the first 8 hours. Vitals reveal blood pressure of 124/86 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle surgery major burn injury atls parkland formula lactated ringer fluid resuscitation titration. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Administering 4 mL x weight (kg) x %TBSA burned of Ringer lactate over first 24 hours, giving half in the first 8 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering 4 mL x weight (kg) x %TBSA burned of Ringer lactate over first 24 hours, giving half in the first 8 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resuscitation Titration.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resuscitation Titration. The cornerstone of management involves administering 4 mL x weight (kg) x %TBSA burned of Ringer lactate over first 24 hours, giving half in the first 8 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resuscitation Titration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Major Burn Injury ATLS Parkland Formula Lactated Ringer Fluid Resuscitation Titration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Burn Care Standards",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32655",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whipple Pancreaticoduodenectomy. Clinical examination and investigative review confirm performing classic or pylorus-preserving pancreaticoduodenectomy with regional lymphadenectomy and retroperitoneal reconstruction. Vitals reveal blood pressure of 125/87 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle surgery obstructive jaundice periampullary pancreatic head mass classic whipple pancreaticoduodenectomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing classic or pylorus-preserving pancreaticoduodenectomy with regional lymphadenectomy and retroperitoneal reconstruction",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing classic or pylorus-preserving pancreaticoduodenectomy with regional lymphadenectomy and retroperitoneal reconstruction. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whipple Pancreaticoduodenectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whipple Pancreaticoduodenectomy. The cornerstone of management involves performing classic or pylorus-preserving pancreaticoduodenectomy with regional lymphadenectomy and retroperitoneal reconstruction. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whipple Pancreaticoduodenectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Obstructive Jaundice Periampullary Pancreatic Head Mass Classic Whipple Pancreaticoduodenectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Society HPB Section",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32656",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparot",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparotomy Graham Patch Omentopexy. Clinical examination and investigative review confirm performing thorough peritoneal toilet, identifying anterior duodenal perforation, and securing closure with pedicled vascularized omental patch. Vitals reveal blood pressure of 126/72 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle surgery perforated duodenal ulcer generalized peritonitis emergency laparotomy graham patch omentopexy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Performing thorough peritoneal toilet, identifying anterior duodenal perforation, and securing closure with pedicled vascularized omental patch",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing thorough peritoneal toilet, identifying anterior duodenal perforation, and securing closure with pedicled vascularized omental patch. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparotomy Graham Patch Omentopexy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparotomy Graham Patch Omentopexy. The cornerstone of management involves performing thorough peritoneal toilet, identifying anterior duodenal perforation, and securing closure with pedicled vascularized omental patch. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparotomy Graham Patch Omentopexy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Perforated Duodenal Ulcer Generalized Peritonitis Emergency Laparotomy Graham Patch Omentopexy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Society Emergency Standards",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32657",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exploration Lichtenstein Mesh Repair. Clinical examination and investigative review confirm performing groin exploration, assessing bowel loop viability, reducing viable gut, and repairing posterior wall with tension-free polypropylene mesh. Vitals reveal blood pressure of 127/73 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle surgery inguinal hernia obstructed irreducible groin swelling emergency exploration lichtenstein mesh repair. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Performing groin exploration, assessing bowel loop viability, reducing viable gut, and repairing posterior wall with tension-free polypropylene mesh",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing groin exploration, assessing bowel loop viability, reducing viable gut, and repairing posterior wall with tension-free polypropylene mesh. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exploration Lichtenstein Mesh Repair.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exploration Lichtenstein Mesh Repair. The cornerstone of management involves performing groin exploration, assessing bowel loop viability, reducing viable gut, and repairing posterior wall with tension-free polypropylene mesh. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exploration Lichtenstein Mesh Repair.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Surgery Inguinal Hernia Obstructed Irreducible Groin Swelling Emergency Exploration Lichtenstein Mesh Repair."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Society Hernia Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32658",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound Debridement External Fixation. Clinical examination and investigative review confirm administering IV cefazolin and gentamicin, performing formal wound debridement in OR within 6 hours, and applying spanning external fixator. Vitals reveal blood pressure of 128/74 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle orthopedics open fracture tibia gustilo-anderson grade iiia emergent wound debridement external fixation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Administering IV cefazolin and gentamicin, performing formal wound debridement in OR within 6 hours, and applying spanning external fixator",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering IV cefazolin and gentamicin, performing formal wound debridement in OR within 6 hours, and applying spanning external fixator. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound Debridement External Fixation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound Debridement External Fixation. The cornerstone of management involves administering IV cefazolin and gentamicin, performing formal wound debridement in OR within 6 hours, and applying spanning external fixator. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound Debridement External Fixation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Open Fracture Tibia Gustilo-Anderson Grade IIIA Emergent Wound Debridement External Fixation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Orthopaedic Association (SOA) Trauma Guidelines",
+        "url": "https://saudiorthopedic.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32659",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar H",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar Hemiarthroplasty. Clinical examination and investigative review confirm performing cemented modular bipolar hemiarthroplasty to allow immediate postoperative full weight-bearing and prevent avascular necrosis. Vitals reveal blood pressure of 129/75 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle orthopedics femoral neck fracture garden type iv elderly cemented bipolar hemiarthroplasty. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Performing cemented modular bipolar hemiarthroplasty to allow immediate postoperative full weight-bearing and prevent avascular necrosis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing cemented modular bipolar hemiarthroplasty to allow immediate postoperative full weight-bearing and prevent avascular necrosis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar Hemiarthroplasty.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar Hemiarthroplasty. The cornerstone of management involves performing cemented modular bipolar hemiarthroplasty to allow immediate postoperative full weight-bearing and prevent avascular necrosis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar Hemiarthroplasty.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Femoral Neck Fracture Garden Type IV Elderly Cemented Bipolar Hemiarthroplasty."
+    ],
+    "references": [
+      {
+        "label": "SOA Arthroplasty Guidelines",
+        "url": "https://saudiorthopedic.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32660",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent Dual-Incision 4-Compartment Fasciotomy. Clinical examination and investigative review confirm performing emergency anterolateral and posteromedial dual-incision fasciotomy of all four compartments to prevent irreversible muscle ischemia. Vitals reveal blood pressure of 130/76 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle orthopedics acute compartment syndrome leg pain on passive stretch emergent dual-incision 4-compartment fasciotomy. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing emergency anterolateral and posteromedial dual-incision fasciotomy of all four compartments to prevent irreversible muscle ischemia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing emergency anterolateral and posteromedial dual-incision fasciotomy of all four compartments to prevent irreversible muscle ischemia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent Dual-Incision 4-Compartment Fasciotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent Dual-Incision 4-Compartment Fasciotomy. The cornerstone of management involves performing emergency anterolateral and posteromedial dual-incision fasciotomy of all four compartments to prevent irreversible muscle ischemia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent Dual-Incision 4-Compartment Fasciotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Acute Compartment Syndrome Leg Pain on Passive Stretch Emergent Dual-Incision 4-Compartment Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "SOA Emergency Trauma Protocols",
+        "url": "https://saudiorthopedic.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32661",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Les",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Lesion Kocher Reduction. Clinical examination and investigative review confirm performing gentle closed reduction using traction-countertraction under conscious sedation, verifying axillary nerve sensory integrity, and sling support. Vitals reveal blood pressure of 131/77 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle orthopedics anterior shoulder dislocation subcoracoid traumatic bankart lesion kocher reduction. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Performing gentle closed reduction using traction-countertraction under conscious sedation, verifying axillary nerve sensory integrity, and sling support",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing gentle closed reduction using traction-countertraction under conscious sedation, verifying axillary nerve sensory integrity, and sling support. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Lesion Kocher Reduction.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Lesion Kocher Reduction. The cornerstone of management involves performing gentle closed reduction using traction-countertraction under conscious sedation, verifying axillary nerve sensory integrity, and sling support. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Lesion Kocher Reduction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Anterior Shoulder Dislocation Subcoracoid Traumatic Bankart Lesion Kocher Reduction."
+    ],
+    "references": [
+      {
+        "label": "SOA Upper Extremity Guidelines",
+        "url": "https://saudiorthopedic.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32662",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Ant",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Anterior Decompression Fusion. Clinical examination and investigative review confirm initiating 4-drug anti-tubercular therapy (HRZE) and performing anterior transthoracic spinal canal decompression, bone grafting, and instrumentation. Vitals reveal blood pressure of 132/78 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle orthopedics pott disease tuberculosis spine thoracic paraparesis direct anterior decompression fusion. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Initiating 4-drug anti-tubercular therapy (HRZE) and performing anterior transthoracic spinal canal decompression, bone grafting, and instrumentation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating 4-drug anti-tubercular therapy (HRZE) and performing anterior transthoracic spinal canal decompression, bone grafting, and instrumentation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Anterior Decompression Fusion.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Anterior Decompression Fusion. The cornerstone of management involves initiating 4-drug anti-tubercular therapy (HRZE) and performing anterior transthoracic spinal canal decompression, bone grafting, and instrumentation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Anterior Decompression Fusion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Orthopedics Pott Disease Tuberculosis Spine Thoracic Paraparesis Direct Anterior Decompression Fusion."
+    ],
+    "references": [
+      {
+        "label": "Saudi Spine Society Guidelines",
+        "url": "https://saudispine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32663",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact Real-Time RT-PCR Testing. Clinical examination and investigative review confirm performing dual-target RT-PCR on lower respiratory secretions alongside negative-pressure airborne isolation for suspected MERS. Vitals reveal blood pressure of 133/79 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases middle east respiratory syndrome mers-cov camel contact real-time rt-pcr testing. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Performing dual-target RT-PCR on lower respiratory secretions alongside negative-pressure airborne isolation for suspected MERS",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing dual-target RT-PCR on lower respiratory secretions alongside negative-pressure airborne isolation for suspected MERS. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact Real-Time RT-PCR Testing.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact Real-Time RT-PCR Testing. The cornerstone of management involves performing dual-target RT-PCR on lower respiratory secretions alongside negative-pressure airborne isolation for suspected MERS. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact Real-Time RT-PCR Testing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Middle East Respiratory Syndrome MERS-CoV Camel Contact Real-Time RT-PCR Testing."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health MERS-CoV Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32664",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral Doxycycline and Rifampicin 6 Weeks. Clinical examination and investigative review confirm prescribing oral doxycycline 100 mg twice daily plus rifampicin 600-900 mg daily for 6 weeks to prevent chronic osteoarticular relapse. Vitals reveal blood pressure of 134/80 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases brucellosis brucella melitensis raw dairy products oral doxycycline and rifampicin 6 weeks. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Prescribing oral doxycycline 100 mg twice daily plus rifampicin 600-900 mg daily for 6 weeks to prevent chronic osteoarticular relapse",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral doxycycline 100 mg twice daily plus rifampicin 600-900 mg daily for 6 weeks to prevent chronic osteoarticular relapse. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral Doxycycline and Rifampicin 6 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral Doxycycline and Rifampicin 6 Weeks. The cornerstone of management involves prescribing oral doxycycline 100 mg twice daily plus rifampicin 600-900 mg daily for 6 weeks to prevent chronic osteoarticular relapse. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral Doxycycline and Rifampicin 6 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Brucellosis Brucella Melitensis Raw Dairy Products Oral Doxycycline and Rifampicin 6 Weeks."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Medical Microbiology and Infectious Diseases (SSMMID)",
+        "url": "https://ssmmid.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32665",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lumefantrine First-Line Regimen. Clinical examination and investigative review confirm prescribing weight-based oral artemether-lumefantrine 6-dose regimen over 3 days under national malaria elimination protocols. Vitals reveal blood pressure of 135/81 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases malaria plasmodium falciparum jazan region artemether-lumefantrine first-line regimen. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Prescribing weight-based oral artemether-lumefantrine 6-dose regimen over 3 days under national malaria elimination protocols",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing weight-based oral artemether-lumefantrine 6-dose regimen over 3 days under national malaria elimination protocols. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lumefantrine First-Line Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lumefantrine First-Line Regimen. The cornerstone of management involves prescribing weight-based oral artemether-lumefantrine 6-dose regimen over 3 days under national malaria elimination protocols. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lumefantrine First-Line Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Malaria Plasmodium Falciparum Jazan Region Artemether-Lumefantrine First-Line Regimen."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH National Malaria Control Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32666",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isoto",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man undergoes specialist evaluation at King Fahd Hospital of the University in Al-Khobar with clinical findings indicative of SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isotonic Crystalloid Resuscitation. Clinical examination and investigative review confirm administering titrated IV isotonic crystalloid 10-20 mL/kg/hour bolus with continuous hematocrit and vital signs monitoring. Vitals reveal blood pressure of 136/82 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases dengue shock syndrome severe plasma leakage graded isotonic crystalloid resuscitation. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Administering titrated IV isotonic crystalloid 10-20 mL/kg/hour bolus with continuous hematocrit and vital signs monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering titrated IV isotonic crystalloid 10-20 mL/kg/hour bolus with continuous hematocrit and vital signs monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isotonic Crystalloid Resuscitation.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isotonic Crystalloid Resuscitation. The cornerstone of management involves administering titrated IV isotonic crystalloid 10-20 mL/kg/hour bolus with continuous hematocrit and vital signs monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isotonic Crystalloid Resuscitation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Dengue Shock Syndrome Severe Plasma Leakage Graded Isotonic Crystalloid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH Dengue Clinical Management Protocols",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32667",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Ora",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the specialized ambulatory medical clinic at Prince Sultan Military Medical City with clinical findings indicative of SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Oral Fidaxomicin 200 mg BID. Clinical examination and investigative review confirm prescribing oral fidaxomicin 200 mg twice daily for 10 days to achieve high cure rates and reduce recurrence compared to vancomycin. Vitals reveal blood pressure of 137/83 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases clostridioides difficile infection severe recurrence oral fidaxomicin 200 mg bid. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Prescribing oral fidaxomicin 200 mg twice daily for 10 days to achieve high cure rates and reduce recurrence compared to vancomycin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral fidaxomicin 200 mg twice daily for 10 days to achieve high cure rates and reduce recurrence compared to vancomycin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Oral Fidaxomicin 200 mg BID.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Oral Fidaxomicin 200 mg BID. The cornerstone of management involves prescribing oral fidaxomicin 200 mg twice daily for 10 days to achieve high cure rates and reduce recurrence compared to vancomycin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Oral Fidaxomicin 200 mg BID.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Clostridioides Difficile Infection Severe Recurrence Oral Fidaxomicin 200 mg BID."
+    ],
+    "references": [
+      {
+        "label": "SSMMID Healthcare-Associated Infections Guidelines",
+        "url": "https://ssmmid.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32668",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is examined at the tertiary university teaching hospital accredited by SCFHS with clinical findings indicative of SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazole Therapeutic Drug Monitoring. Clinical examination and investigative review confirm initiating oral or IV voriconazole targeting serum trough levels 1.5-4.5 mg/L to ensure efficacy and avoid neurotoxicity. Vitals reveal blood pressure of 138/84 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases invasive aspergillosis immunocompromised host voriconazole therapeutic drug monitoring. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Initiating oral or IV voriconazole targeting serum trough levels 1.5-4.5 mg/L to ensure efficacy and avoid neurotoxicity",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral or IV voriconazole targeting serum trough levels 1.5-4.5 mg/L to ensure efficacy and avoid neurotoxicity. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazole Therapeutic Drug Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazole Therapeutic Drug Monitoring. The cornerstone of management involves initiating oral or IV voriconazole targeting serum trough levels 1.5-4.5 mg/L to ensure efficacy and avoid neurotoxicity. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazole Therapeutic Drug Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Invasive Aspergillosis Immunocompromised Host Voriconazole Therapeutic Drug Monitoring."
+    ],
+    "references": [
+      {
+        "label": "SSMMID Fungal Infection Protocols",
+        "url": "https://ssmmid.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32669",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaqui",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man attends the outpatient consultative clinic of King Faisal Specialist Hospital in Riyadh with clinical findings indicative of SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaquiline Pretomanid Linezolid Regimen. Clinical examination and investigative review confirm initiating 6-month all-oral BPaL regimen under national MDR-TB expert advisory committee review. Vitals reveal blood pressure of 139/85 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle infectiousdiseases multidrug-resistant tuberculosis mdr-tb all-oral bedaquiline pretomanid linezolid regimen. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Initiating 6-month all-oral BPaL regimen under national MDR-TB expert advisory committee review",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating 6-month all-oral BPaL regimen under national MDR-TB expert advisory committee review. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaquiline Pretomanid Linezolid Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaquiline Pretomanid Linezolid Regimen. The cornerstone of management involves initiating 6-month all-oral BPaL regimen under national MDR-TB expert advisory committee review. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaquiline Pretomanid Linezolid Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE InfectiousDiseases Multidrug-Resistant Tuberculosis MDR-TB All-Oral Bedaquiline Pretomanid Linezolid Regimen."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH National TB Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32670",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes A",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is evaluated in the emergency care department of King Saud Medical City in Riyadh with clinical findings indicative of SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes Apnea Test Confirmatory EEG. Clinical examination and investigative review confirm performing two independent clinical brainstem examinations separated by mandated observation period followed by formal apnea test. Vitals reveal blood pressure of 118/86 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle ethics brain death determination saudi medical council brainstem reflexes apnea test confirmatory eeg. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing two independent clinical brainstem examinations separated by mandated observation period followed by formal apnea test",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing two independent clinical brainstem examinations separated by mandated observation period followed by formal apnea test. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes Apnea Test Confirmatory EEG.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes Apnea Test Confirmatory EEG. The cornerstone of management involves performing two independent clinical brainstem examinations separated by mandated observation period followed by formal apnea test. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes Apnea Test Confirmatory EEG.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Brain Death Determination Saudi Medical Council Brainstem Reflexes Apnea Test Confirmatory EEG."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Organ Transplantation (SCOT) Regulations",
+        "url": "https://scot.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32671",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law M",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man presents to the academic consultative suite of King Abdulaziz University Hospital in Jeddah with clinical findings indicative of SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law Medical Liability. Clinical examination and investigative review confirm respecting an informed autonomous refusal of treatment by a competent adult patient in accordance with Saudi Medical Liability Law. Vitals reveal blood pressure of 119/87 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle ethics informed consent autonomous adult right to refuse saudi health law medical liability. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Respecting an informed autonomous refusal of treatment by a competent adult patient in accordance with Saudi Medical Liability Law",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is respecting an informed autonomous refusal of treatment by a competent adult patient in accordance with Saudi Medical Liability Law. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law Medical Liability.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law Medical Liability. The cornerstone of management involves respecting an informed autonomous refusal of treatment by a competent adult patient in accordance with Saudi Medical Liability Law. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law Medical Liability.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Informed Consent Autonomous Adult Right to Refuse Saudi Health Law Medical Liability."
+    ],
+    "references": [
+      {
+        "label": "Saudi Commission for Health Specialties Code of Ethics",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-32672",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the acute inpatient medical service of King Fahad Medical City in Riyadh with clinical findings indicative of SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable Disease Public Health Authority. Clinical examination and investigative review confirm submitting mandatory notification of statutory infectious conditions to the Public Health Authority (Weqaya) without patient consent. Vitals reveal blood pressure of 120/72 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of smle ethics patient confidentiality mandatory reporting notifiable communicable disease public health authority. Which of the following clinical actions best aligns with Saudi national clinical consensus guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Submitting mandatory notification of statutory infectious conditions to the Public Health Authority (Weqaya) without patient consent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is submitting mandatory notification of statutory infectious conditions to the Public Health Authority (Weqaya) without patient consent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable Disease Public Health Authority.\\n\\nClinical Discussion: This clinical presentation corresponds to SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable Disease Public Health Authority. The cornerstone of management involves submitting mandatory notification of statutory infectious conditions to the Public Health Authority (Weqaya) without patient consent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable Disease Public Health Authority.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of SMLE Ethics Patient Confidentiality Mandatory Reporting Notifiable Communicable Disease Public Health Authority."
+    ],
+    "references": [
+      {
+        "label": "Public Health Authority (Weqaya) Regulations Saudi Arabia",
+        "url": "https://weqaya.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

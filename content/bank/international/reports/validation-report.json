@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-23T14:35:46.247Z",
-  "totalQuestions": 32172,
+  "validatedAt": "2026-11-23T15:15:36.497Z",
+  "totalQuestions": 32672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1981,6 +1981,36 @@
       "count": 100,
       "digest": "67c471aec0d9460e3c3319cb27ed481e1f88919a2434b8450b84ca081fd01394",
       "errors": []
+    },
+    {
+      "name": "batch-intl-331",
+      "count": 100,
+      "digest": "c097dcd3d66f25683fa6a922609d4ad2bd6725fd5b6bcee50d31b94b26484c0e",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-332",
+      "count": 100,
+      "digest": "834f1f984f52fda07513bdf321aa361c2082b5b399a3e1350cc7dccf4d729151",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-333",
+      "count": 100,
+      "digest": "be3ef0adc13df1ee6e951abf06f1e6ed53cc3dcc87c346d6e8fafbc72a44695a",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-334",
+      "count": 100,
+      "digest": "97b2f22cbb29043bb3fa007c14644d70e4b688d81df76fe2b670190b6a03a54e",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-335",
+      "count": 100,
+      "digest": "76e02a269f65c3ee27b3c6fc219824a5eef440748361245a144eb3f82a3e2198",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -2003,20 +2033,20 @@
     "Anatomy": 149,
     "Biochemistry": 217,
     "Biostatistics": 204,
-    "Ethics": 1038,
+    "Ethics": 1052,
     "Genetics": 422,
     "Geriatrics": 186,
     "Immunology": 271,
-    "Medicine": 11212,
-    "Microbiology": 704,
-    "Neurology": 835,
-    "Obstetrics": 2193,
-    "Pathology": 1218,
-    "Pediatrics": 2712,
-    "Pharmacology": 4037,
+    "Medicine": 11283,
+    "Microbiology": 706,
+    "Neurology": 836,
+    "Obstetrics": 2199,
+    "Pathology": 1225,
+    "Pediatrics": 2742,
+    "Pharmacology": 4269,
     "Physiology": 452,
-    "Psychiatry": 861,
-    "Surgery": 5461
+    "Psychiatry": 867,
+    "Surgery": 5592
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
