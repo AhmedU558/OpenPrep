@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-34573",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines Amlodipine First-Line. Clinical examination and investigative review confirm initiating once-daily oral amlodipine 5 mg and counseling on dietary salt restriction for primary stage 1 essential hypertension. Vitals reveal blood pressure of 129/85 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care essential hypertension primary care screening jnc-8 guidelines amlodipine first-line. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Initiating once-daily oral amlodipine 5 mg and counseling on dietary salt restriction for primary stage 1 essential hypertension",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating once-daily oral amlodipine 5 mg and counseling on dietary salt restriction for primary stage 1 essential hypertension. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines Amlodipine First-Line.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines Amlodipine First-Line. The cornerstone of management involves initiating once-daily oral amlodipine 5 mg and counseling on dietary salt restriction for primary stage 1 essential hypertension. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines Amlodipine First-Line.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Essential Hypertension Primary Care Screening JNC-8 Guidelines Amlodipine First-Line."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council (PMDC) NLE Blueprint",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34574",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First-Line HbA1c Monitoring. Clinical examination and investigative review confirm prescribing oral metformin 500 mg with evening meal alongside dietary counseling and structured exercise for newly diagnosed type 2 diabetes. Vitals reveal blood pressure of 130/86 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care type 2 diabetes mellitus lifestyle modification metformin first-line hba1c monitoring. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Prescribing oral metformin 500 mg with evening meal alongside dietary counseling and structured exercise for newly diagnosed type 2 diabetes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral metformin 500 mg with evening meal alongside dietary counseling and structured exercise for newly diagnosed type 2 diabetes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First-Line HbA1c Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First-Line HbA1c Monitoring. The cornerstone of management involves prescribing oral metformin 500 mg with evening meal alongside dietary counseling and structured exercise for newly diagnosed type 2 diabetes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First-Line HbA1c Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Type 2 Diabetes Mellitus Lifestyle Modification Metformin First-Line HbA1c Monitoring."
+    ],
+    "references": [
+      {
+        "label": "PMDC Family Medicine Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34575",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular R",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular Risk Assessment Atorvastatin. Clinical examination and investigative review confirm initiating oral atorvastatin 20 mg daily for primary cardiovascular prevention in adult with elevated calculated 10-year risk. Vitals reveal blood pressure of 131/87 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care primary prevention dyslipidemia statin therapy cardiovascular risk assessment atorvastatin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Initiating oral atorvastatin 20 mg daily for primary cardiovascular prevention in adult with elevated calculated 10-year risk",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating oral atorvastatin 20 mg daily for primary cardiovascular prevention in adult with elevated calculated 10-year risk. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular Risk Assessment Atorvastatin.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular Risk Assessment Atorvastatin. The cornerstone of management involves initiating oral atorvastatin 20 mg daily for primary cardiovascular prevention in adult with elevated calculated 10-year risk. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular Risk Assessment Atorvastatin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Prevention Dyslipidemia Statin Therapy Cardiovascular Risk Assessment Atorvastatin."
+    ],
+    "references": [
+      {
+        "label": "PMDC Internal Medicine Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34576",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxici",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxicillin 500mg Thrice Daily. Clinical examination and investigative review confirm prescribing oral amoxicillin 500 mg three times daily for 5 days for uncomplicated community-acquired pneumonia in primary care. Vitals reveal blood pressure of 132/72 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care community-acquired pneumonia outpatient management oral amoxicillin 500mg thrice daily. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Prescribing oral amoxicillin 500 mg three times daily for 5 days for uncomplicated community-acquired pneumonia in primary care",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral amoxicillin 500 mg three times daily for 5 days for uncomplicated community-acquired pneumonia in primary care. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxicillin 500mg Thrice Daily.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxicillin 500mg Thrice Daily. The cornerstone of management involves prescribing oral amoxicillin 500 mg three times daily for 5 days for uncomplicated community-acquired pneumonia in primary care. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxicillin 500mg Thrice Daily.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Community-Acquired Pneumonia Outpatient Management Oral Amoxicillin 500mg Thrice Daily."
+    ],
+    "references": [
+      {
+        "label": "PMDC Clinical Practice Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34577",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoida",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoidance of Unnecessary Antibiotics. Clinical examination and investigative review confirm providing supportive counseling and honey with warm fluids while explicitly explaining that antibiotics do not benefit viral bronchitis. Vitals reveal blood pressure of 133/73 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute viral bronchitis reassurance symptomatic treatment avoidance of unnecessary antibiotics. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Providing supportive counseling and honey with warm fluids while explicitly explaining that antibiotics do not benefit viral bronchitis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is providing supportive counseling and honey with warm fluids while explicitly explaining that antibiotics do not benefit viral bronchitis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoidance of Unnecessary Antibiotics.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoidance of Unnecessary Antibiotics. The cornerstone of management involves providing supportive counseling and honey with warm fluids while explicitly explaining that antibiotics do not benefit viral bronchitis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoidance of Unnecessary Antibiotics.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Viral Bronchitis Reassurance Symptomatic Treatment Avoidance of Unnecessary Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "PMDC General Practice Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34578",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test Trial of Proton Pump Inhibitor. Clinical examination and investigative review confirm ordering non-invasive H. pylori stool antigen test or initiating an empiric 4-week trial of once-daily oral omeprazole for dyspepsia. Vitals reveal blood pressure of 134/74 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care uncomplicated dyspepsia helicobacter pylori stool antigen test trial of proton pump inhibitor. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Ordering non-invasive H. pylori stool antigen test or initiating an empiric 4-week trial of once-daily oral omeprazole for dyspepsia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering non-invasive H. pylori stool antigen test or initiating an empiric 4-week trial of once-daily oral omeprazole for dyspepsia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test Trial of Proton Pump Inhibitor.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test Trial of Proton Pump Inhibitor. The cornerstone of management involves ordering non-invasive H. pylori stool antigen test or initiating an empiric 4-week trial of once-daily oral omeprazole for dyspepsia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test Trial of Proton Pump Inhibitor.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Uncomplicated Dyspepsia Helicobacter Pylori Stool Antigen Test Trial of Proton Pump Inhibitor."
+    ],
+    "references": [
+      {
+        "label": "PMDC Family Medicine Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34579",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Anti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Antispasmodics Lifestyle. Clinical examination and investigative review confirm reassuring patient with recurrent post-prandial cramping and recommending dietary soluble fiber and antispasmodic therapy for IBS. Vitals reveal blood pressure of 135/75 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care irritable bowel syndrome rome iv reassurance dietary fiber antispasmodics lifestyle. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassuring patient with recurrent post-prandial cramping and recommending dietary soluble fiber and antispasmodic therapy for IBS",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reassuring patient with recurrent post-prandial cramping and recommending dietary soluble fiber and antispasmodic therapy for IBS. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Antispasmodics Lifestyle.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Antispasmodics Lifestyle. The cornerstone of management involves reassuring patient with recurrent post-prandial cramping and recommending dietary soluble fiber and antispasmodic therapy for IBS. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Antispasmodics Lifestyle.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Irritable Bowel Syndrome Rome IV Reassurance Dietary Fiber Antispasmodics Lifestyle."
+    ],
+    "references": [
+      {
+        "label": "PMDC General Practice Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34580",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral Ferrous Sulfate Ascorbic Acid. Clinical examination and investigative review confirm prescribing oral ferrous sulfate 200 mg daily taken with vitamin C on empty stomach and counseling on dietary iron-rich foods. Vitals reveal blood pressure of 136/76 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care iron deficiency anemia nutritional microcytic hypochromic oral ferrous sulfate ascorbic acid. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing oral ferrous sulfate 200 mg daily taken with vitamin C on empty stomach and counseling on dietary iron-rich foods",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral ferrous sulfate 200 mg daily taken with vitamin C on empty stomach and counseling on dietary iron-rich foods. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral Ferrous Sulfate Ascorbic Acid.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral Ferrous Sulfate Ascorbic Acid. The cornerstone of management involves prescribing oral ferrous sulfate 200 mg daily taken with vitamin C on empty stomach and counseling on dietary iron-rich foods. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral Ferrous Sulfate Ascorbic Acid.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Iron Deficiency Anemia Nutritional Microcytic Hypochromic Oral Ferrous Sulfate Ascorbic Acid."
+    ],
+    "references": [
+      {
+        "label": "PMDC Internal Medicine Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34581",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral L",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral Loading Regimen Sunlight Exposure. Clinical examination and investigative review confirm prescribing oral cholecalciferol 50,000 IU weekly for 8 weeks followed by monthly maintenance for documented nutritional vitamin D deficiency. Vitals reveal blood pressure of 137/77 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care vitamin d deficiency nutritional rickets cholecalciferol oral loading regimen sunlight exposure. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prescribing oral cholecalciferol 50,000 IU weekly for 8 weeks followed by monthly maintenance for documented nutritional vitamin D deficiency",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral cholecalciferol 50,000 IU weekly for 8 weeks followed by monthly maintenance for documented nutritional vitamin D deficiency. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral Loading Regimen Sunlight Exposure.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral Loading Regimen Sunlight Exposure. The cornerstone of management involves prescribing oral cholecalciferol 50,000 IU weekly for 8 weeks followed by monthly maintenance for documented nutritional vitamin D deficiency. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral Loading Regimen Sunlight Exposure.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitamin D Deficiency Nutritional Rickets Cholecalciferol Oral Loading Regimen Sunlight Exposure."
+    ],
+    "references": [
+      {
+        "label": "PMDC Family Medicine Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34582",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Rep",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Replacement Fasting Morning Dose. Clinical examination and investigative review confirm starting oral levothyroxine 50 mcg taken on an empty stomach with water 30 minutes before breakfast and repeating TSH in 6 weeks. Vitals reveal blood pressure of 138/78 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care primary hypothyroidism autoimmune thyroiditis levothyroxine replacement fasting morning dose. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Starting oral levothyroxine 50 mcg taken on an empty stomach with water 30 minutes before breakfast and repeating TSH in 6 weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is starting oral levothyroxine 50 mcg taken on an empty stomach with water 30 minutes before breakfast and repeating TSH in 6 weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Replacement Fasting Morning Dose.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Replacement Fasting Morning Dose. The cornerstone of management involves starting oral levothyroxine 50 mcg taken on an empty stomach with water 30 minutes before breakfast and repeating TSH in 6 weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Replacement Fasting Morning Dose.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Hypothyroidism Autoimmune Thyroiditis Levothyroxine Replacement Fasting Morning Dose."
+    ],
+    "references": [
+      {
+        "label": "PMDC Internal Medicine Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34583",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOra",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOral Polio Pentavalent Vaccines. Clinical examination and investigative review confirm educating parents on completing routine EPI schedule including BCG at birth, pentavalent at 6, 10, 14 weeks, and measles at 9 and 15 months. Vitals reveal blood pressure of 139/79 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care expanded programme on immunization epi pakistan schedule bcgoral polio pentavalent vaccines. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Educating parents on completing routine EPI schedule including BCG at birth, pentavalent at 6, 10, 14 weeks, and measles at 9 and 15 months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is educating parents on completing routine EPI schedule including BCG at birth, pentavalent at 6, 10, 14 weeks, and measles at 9 and 15 months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOral Polio Pentavalent Vaccines.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOral Polio Pentavalent Vaccines. The cornerstone of management involves educating parents on completing routine EPI schedule including BCG at birth, pentavalent at 6, 10, 14 weeks, and measles at 9 and 15 months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOral Polio Pentavalent Vaccines.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Expanded Programme on Immunization EPI Pakistan Schedule BCGOral Polio Pentavalent Vaccines."
+    ],
+    "references": [
+      {
+        "label": "Federal Directorate of Immunization Pakistan and PMDC",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34584",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance o",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance of Pre-Lacteal Feeds Water. Clinical examination and investigative review confirm counseling mother on exclusive breastfeeding for first 6 months of life avoiding water ghutti or infant formula supplements. Vitals reveal blood pressure of 118/80 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care infant nutrition exclusive breastfeeding six months avoidance of pre-lacteal feeds water. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Counseling mother on exclusive breastfeeding for first 6 months of life avoiding water ghutti or infant formula supplements",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counseling mother on exclusive breastfeeding for first 6 months of life avoiding water ghutti or infant formula supplements. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance of Pre-Lacteal Feeds Water.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance of Pre-Lacteal Feeds Water. The cornerstone of management involves counseling mother on exclusive breastfeeding for first 6 months of life avoiding water ghutti or infant formula supplements. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance of Pre-Lacteal Feeds Water.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Infant Nutrition Exclusive Breastfeeding Six Months Avoidance of Pre-Lacteal Feeds Water."
+    ],
+    "references": [
+      {
+        "label": "PMDC Child Health Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34585",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khichdi Egg Banana Transition. Clinical examination and investigative review confirm advising timely introduction of clean, energy-dense complementary foods such as porridge, lentils, and mashed fruits starting at 6 completed months. Vitals reveal blood pressure of 119/81 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care complementary feeding timely introduction six months mashed khichdi egg banana transition. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Advising timely introduction of clean, energy-dense complementary foods such as porridge, lentils, and mashed fruits starting at 6 completed months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising timely introduction of clean, energy-dense complementary foods such as porridge, lentils, and mashed fruits starting at 6 completed months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khichdi Egg Banana Transition.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khichdi Egg Banana Transition. The cornerstone of management involves advising timely introduction of clean, energy-dense complementary foods such as porridge, lentils, and mashed fruits starting at 6 completed months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khichdi Egg Banana Transition.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Complementary Feeding Timely Introduction Six Months Mashed Khichdi Egg Banana Transition."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34586",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydrati",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydration Salts Low-Osmolarity Zinc. Clinical examination and investigative review confirm instructing caregiver to administer low-osmolarity ORS after every loose stool with daily 20 mg oral zinc for 14 days in acute diarrhea. Vitals reveal blood pressure of 120/82 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care pediatric acute diarrhea who plan a home therapy oral rehydration salts low-osmolarity zinc. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Instructing caregiver to administer low-osmolarity ORS after every loose stool with daily 20 mg oral zinc for 14 days in acute diarrhea",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instructing caregiver to administer low-osmolarity ORS after every loose stool with daily 20 mg oral zinc for 14 days in acute diarrhea. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydration Salts Low-Osmolarity Zinc.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydration Salts Low-Osmolarity Zinc. The cornerstone of management involves instructing caregiver to administer low-osmolarity ORS after every loose stool with daily 20 mg oral zinc for 14 days in acute diarrhea. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydration Salts Low-Osmolarity Zinc.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pediatric Acute Diarrhea WHO Plan A Home Therapy Oral Rehydration Salts Low-Osmolarity Zinc."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Primary Child Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34587",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Am",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Amoxicillin Dispersible Tablets. Clinical examination and investigative review confirm counting respiratory rate over 1 full minute and prescribing oral dispersible amoxicillin for fast breathing pneumonia without chest indrawing. Vitals reveal blood pressure of 121/83 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute respiratory infection who imci fast breathing counting amoxicillin dispersible tablets. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Counting respiratory rate over 1 full minute and prescribing oral dispersible amoxicillin for fast breathing pneumonia without chest indrawing",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counting respiratory rate over 1 full minute and prescribing oral dispersible amoxicillin for fast breathing pneumonia without chest indrawing. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Amoxicillin Dispersible Tablets.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Amoxicillin Dispersible Tablets. The cornerstone of management involves counting respiratory rate over 1 full minute and prescribing oral dispersible amoxicillin for fast breathing pneumonia without chest indrawing. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Amoxicillin Dispersible Tablets.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Respiratory Infection WHO IMCI Fast Breathing Counting Amoxicillin Dispersible Tablets."
+    ],
+    "references": [
+      {
+        "label": "Integrated Management of Neonatal and Childhood Illness (IMNCI) Pakistan",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34588",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Falt",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Faltering Early Intervention. Clinical examination and investigative review confirm plotting child weight on gender-specific growth chart and investigating failure to gain weight for subclinical infection or dietary insufficiency. Vitals reveal blood pressure of 122/84 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care child growth monitoring road to health growth chart weight faltering early intervention. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Plotting child weight on gender-specific growth chart and investigating failure to gain weight for subclinical infection or dietary insufficiency",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is plotting child weight on gender-specific growth chart and investigating failure to gain weight for subclinical infection or dietary insufficiency. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Faltering Early Intervention.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Faltering Early Intervention. The cornerstone of management involves plotting child weight on gender-specific growth chart and investigating failure to gain weight for subclinical infection or dietary insufficiency. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Faltering Early Intervention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Child Growth Monitoring Road to Health Growth Chart Weight Faltering Early Intervention."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34589",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabil",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabilitation Home Enriched Feeds. Clinical examination and investigative review confirm conducting detailed 3-day dietary intake recall and recommending energy-dense feeds with added oil or milk powder for non-organic growth failure. Vitals reveal blood pressure of 123/85 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care failure to thrive caloric intake assessment nutritional rehabilitation home enriched feeds. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Conducting detailed 3-day dietary intake recall and recommending energy-dense feeds with added oil or milk powder for non-organic growth failure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is conducting detailed 3-day dietary intake recall and recommending energy-dense feeds with added oil or milk powder for non-organic growth failure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabilitation Home Enriched Feeds.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabilitation Home Enriched Feeds. The cornerstone of management involves conducting detailed 3-day dietary intake recall and recommending energy-dense feeds with added oil or milk powder for non-organic growth failure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabilitation Home Enriched Feeds.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Failure to Thrive Caloric Intake Assessment Nutritional Rehabilitation Home Enriched Feeds."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34590",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Child Development Milestones 12 Months Walking With Support Sin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Child Development Milestones 12 Months Walking With Support Single Words Pincer Grasp. Clinical examination and investigative review confirm confirming normal developmental milestones including cruising, mature pincer grasp, and responding to name by 12 months of age. Vitals reveal blood pressure of 124/86 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care child development milestones 12 months walking with support single words pincer grasp. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Confirming normal developmental milestones including cruising, mature pincer grasp, and responding to name by 12 months of age",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is confirming normal developmental milestones including cruising, mature pincer grasp, and responding to name by 12 months of age. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Child Development Milestones 12 Months Walking With Support Single Words Pincer Grasp.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Child Development Milestones 12 Months Walking With Support Single Words Pincer Grasp. The cornerstone of management involves confirming normal developmental milestones including cruising, mature pincer grasp, and responding to name by 12 months of age. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Child Development Milestones 12 Months Walking With Support Single Words Pincer Grasp.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Child Development Milestones 12 Months Walking With Support Single Words Pincer Grasp."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric Licensing Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34591",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose Vitamin A Supplementation. Clinical examination and investigative review confirm administering immediate oral 200,000 IU vitamin A capsule repeated on day 2 and day 14 for triangular conjunctival Bitot spots and xerophthalmia. Vitals reveal blood pressure of 125/87 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care vitamin a deficiency bitot spots night blindness oral high-dose vitamin a supplementation. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Administering immediate oral 200,000 IU vitamin A capsule repeated on day 2 and day 14 for triangular conjunctival Bitot spots and xerophthalmia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering immediate oral 200,000 IU vitamin A capsule repeated on day 2 and day 14 for triangular conjunctival Bitot spots and xerophthalmia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose Vitamin A Supplementation.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose Vitamin A Supplementation. The cornerstone of management involves administering immediate oral 200,000 IU vitamin A capsule repeated on day 2 and day 14 for triangular conjunctival Bitot spots and xerophthalmia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose Vitamin A Supplementation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitamin A Deficiency Bitot Spots Night Blindness Oral High-Dose Vitamin A Supplementation."
+    ],
+    "references": [
+      {
+        "label": "PMDC Community Health Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34592",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists Oral Vitamin D Calcium. Clinical examination and investigative review confirm prescribing oral vitamin D 2000 IU daily with elemental calcium 500 mg daily for child showing frontal bossing and metaphyseal cupping. Vitals reveal blood pressure of 126/72 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care nutritional rickets craniotabes rachitic rosary widened wrists oral vitamin d calcium. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Prescribing oral vitamin D 2000 IU daily with elemental calcium 500 mg daily for child showing frontal bossing and metaphyseal cupping",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral vitamin D 2000 IU daily with elemental calcium 500 mg daily for child showing frontal bossing and metaphyseal cupping. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists Oral Vitamin D Calcium.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists Oral Vitamin D Calcium. The cornerstone of management involves prescribing oral vitamin D 2000 IU daily with elemental calcium 500 mg daily for child showing frontal bossing and metaphyseal cupping. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists Oral Vitamin D Calcium.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Nutritional Rickets Craniotabes Rachitic Rosary Widened Wrists Oral Vitamin D Calcium."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34593",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressure Urine Protein Hemoglobin. Clinical examination and investigative review confirm scheduling routine antenatal contacts to screen for maternal hypertension, gestational diabetes, proteinuria, and severe anemia. Vitals reveal blood pressure of 127/73 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care antenatal care routine visits who 8-contact model blood pressure urine protein hemoglobin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Scheduling routine antenatal contacts to screen for maternal hypertension, gestational diabetes, proteinuria, and severe anemia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is scheduling routine antenatal contacts to screen for maternal hypertension, gestational diabetes, proteinuria, and severe anemia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressure Urine Protein Hemoglobin.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressure Urine Protein Hemoglobin. The cornerstone of management involves scheduling routine antenatal contacts to screen for maternal hypertension, gestational diabetes, proteinuria, and severe anemia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressure Urine Protein Hemoglobin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Antenatal Care Routine Visits WHO 8-Contact Model Blood Pressure Urine Protein Hemoglobin."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Maternal Health Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34594",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritiona",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritional Anemia Prevention. Clinical examination and investigative review confirm prescribing daily oral elemental iron 60 mg and folic acid 400 mcg throughout second and third trimesters of pregnancy to prevent maternal anemia. Vitals reveal blood pressure of 128/74 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care routine iron and folic acid prophylaxis in pregnancy nutritional anemia prevention. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Prescribing daily oral elemental iron 60 mg and folic acid 400 mcg throughout second and third trimesters of pregnancy to prevent maternal anemia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing daily oral elemental iron 60 mg and folic acid 400 mcg throughout second and third trimesters of pregnancy to prevent maternal anemia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritional Anemia Prevention.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritional Anemia Prevention. The cornerstone of management involves prescribing daily oral elemental iron 60 mg and folic acid 400 mcg throughout second and third trimesters of pregnancy to prevent maternal anemia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritional Anemia Prevention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Routine Iron and Folic Acid Prophylaxis in Pregnancy Nutritional Anemia Prevention."
+    ],
+    "references": [
+      {
+        "label": "PMDC Obstetrics Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34595",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule Neonatal Tetanus Prevention. Clinical examination and investigative review confirm administering two doses of intramuscular tetanus toxoid vaccine at least 4 weeks apart during first pregnancy to protect neonate from tetanus. Vitals reveal blood pressure of 129/75 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care maternal tetanus toxoid immunization tt1 tt2 five-dose schedule neonatal tetanus prevention. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering two doses of intramuscular tetanus toxoid vaccine at least 4 weeks apart during first pregnancy to protect neonate from tetanus",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering two doses of intramuscular tetanus toxoid vaccine at least 4 weeks apart during first pregnancy to protect neonate from tetanus. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule Neonatal Tetanus Prevention.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule Neonatal Tetanus Prevention. The cornerstone of management involves administering two doses of intramuscular tetanus toxoid vaccine at least 4 weeks apart during first pregnancy to protect neonate from tetanus. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule Neonatal Tetanus Prevention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Maternal Tetanus Toxoid Immunization TT1 TT2 Five-Dose Schedule Neonatal Tetanus Prevention."
+    ],
+    "references": [
+      {
+        "label": "PMDC Maternal Health Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34596",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visual Disturbance Urgent Referral. Clinical examination and investigative review confirm counseling pregnant mother to immediately report to hospital for vaginal bleeding, persistent epigastric pain, or facial swelling. Vitals reveal blood pressure of 130/76 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care obstetric danger signs antepartum bleeding severe headache visual disturbance urgent referral. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Counseling pregnant mother to immediately report to hospital for vaginal bleeding, persistent epigastric pain, or facial swelling",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counseling pregnant mother to immediately report to hospital for vaginal bleeding, persistent epigastric pain, or facial swelling. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visual Disturbance Urgent Referral.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visual Disturbance Urgent Referral. The cornerstone of management involves counseling pregnant mother to immediately report to hospital for vaginal bleeding, persistent epigastric pain, or facial swelling. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visual Disturbance Urgent Referral.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Obstetric Danger Signs Antepartum Bleeding Severe Headache Visual Disturbance Urgent Referral."
+    ],
+    "references": [
+      {
+        "label": "PMDC Community Obstetrics Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34597",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Mod",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Moderate Anemia Iron Therapy. Clinical examination and investigative review confirm diagnosing anemia in pregnancy with venous hemoglobin below 11 g per dL and prescribing therapeutic oral iron twice daily. Vitals reveal blood pressure of 131/77 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care anemia in pregnancy hemoglobin screening cutoff 11 g per dl moderate anemia iron therapy. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Diagnosing anemia in pregnancy with venous hemoglobin below 11 g per dL and prescribing therapeutic oral iron twice daily",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnosing anemia in pregnancy with venous hemoglobin below 11 g per dL and prescribing therapeutic oral iron twice daily. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Moderate Anemia Iron Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Moderate Anemia Iron Therapy. The cornerstone of management involves diagnosing anemia in pregnancy with venous hemoglobin below 11 g per dL and prescribing therapeutic oral iron twice daily. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Moderate Anemia Iron Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Anemia in Pregnancy Hemoglobin Screening Cutoff 11 g per dL Moderate Anemia Iron Therapy."
+    ],
+    "references": [
+      {
+        "label": "PMDC Obstetrics Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34598",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Pr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Protein Albuminuria. Clinical examination and investigative review confirm measuring blood pressure using appropriate cuff size and checking urine dipstick for protein at every routine prenatal visit. Vitals reveal blood pressure of 132/78 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care preeclampsia screening routine blood pressure urine dipstick protein albuminuria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Measuring blood pressure using appropriate cuff size and checking urine dipstick for protein at every routine prenatal visit",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is measuring blood pressure using appropriate cuff size and checking urine dipstick for protein at every routine prenatal visit. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Protein Albuminuria.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Protein Albuminuria. The cornerstone of management involves measuring blood pressure using appropriate cuff size and checking urine dipstick for protein at every routine prenatal visit. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Protein Albuminuria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Preeclampsia Screening Routine Blood Pressure Urine Dipstick Protein Albuminuria."
+    ],
+    "references": [
+      {
+        "label": "PMDC Maternal Care Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34599",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line Timely Obstetric Referral. Clinical examination and investigative review confirm plotting cervical dilatation on labor partograph and transferring patient to comprehensive EmONC facility when progress crosses action line. Vitals reveal blood pressure of 133/79 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care intrapartum labor monitoring partograph alert line action line timely obstetric referral. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Plotting cervical dilatation on labor partograph and transferring patient to comprehensive EmONC facility when progress crosses action line",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is plotting cervical dilatation on labor partograph and transferring patient to comprehensive EmONC facility when progress crosses action line. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line Timely Obstetric Referral.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line Timely Obstetric Referral. The cornerstone of management involves plotting cervical dilatation on labor partograph and transferring patient to comprehensive EmONC facility when progress crosses action line. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line Timely Obstetric Referral.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intrapartum Labor Monitoring Partograph Alert Line Action Line Timely Obstetric Referral."
+    ],
+    "references": [
+      {
+        "label": "PMDC Obstetrics Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34600",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Ment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Mental Health Breastfeeding. Clinical examination and investigative review confirm evaluating maternal uterine involution, lochia, blood pressure, and establishing effective newborn latching during early postnatal visits. Vitals reveal blood pressure of 134/80 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care postnatal care visits within 24 hours day 3 day 7 maternal mental health breastfeeding. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Evaluating maternal uterine involution, lochia, blood pressure, and establishing effective newborn latching during early postnatal visits",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating maternal uterine involution, lochia, blood pressure, and establishing effective newborn latching during early postnatal visits. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Mental Health Breastfeeding.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Mental Health Breastfeeding. The cornerstone of management involves evaluating maternal uterine involution, lochia, blood pressure, and establishing effective newborn latching during early postnatal visits. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Mental Health Breastfeeding.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postnatal Care Visits Within 24 Hours Day 3 Day 7 Maternal Mental Health Breastfeeding."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34601",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Devic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Device Progestin-Only Pill. Clinical examination and investigative review confirm counseling on postpartum contraception options including lactational amenorrhea method (LAM), postpartum IUD, and progestin-only pills. Vitals reveal blood pressure of 135/81 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care postpartum family planning counseling copper intrauterine device progestin-only pill. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Counseling on postpartum contraception options including lactational amenorrhea method (LAM), postpartum IUD, and progestin-only pills",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counseling on postpartum contraception options including lactational amenorrhea method (LAM), postpartum IUD, and progestin-only pills. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Device Progestin-Only Pill.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Device Progestin-Only Pill. The cornerstone of management involves counseling on postpartum contraception options including lactational amenorrhea method (LAM), postpartum IUD, and progestin-only pills. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Device Progestin-Only Pill.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postpartum Family Planning Counseling Copper Intrauterine Device Progestin-Only Pill."
+    ],
+    "references": [
+      {
+        "label": "PMDC Reproductive Health Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34602",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sore Cracked Nipples Engorgement. Clinical examination and investigative review confirm assessing infant attachment with wide open mouth and flanged lips over areola to prevent nipple trauma and painful breast engorgement. Vitals reveal blood pressure of 136/82 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care breastfeeding technique proper latch position prevention of sore cracked nipples engorgement. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Assessing infant attachment with wide open mouth and flanged lips over areola to prevent nipple trauma and painful breast engorgement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is assessing infant attachment with wide open mouth and flanged lips over areola to prevent nipple trauma and painful breast engorgement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sore Cracked Nipples Engorgement.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sore Cracked Nipples Engorgement. The cornerstone of management involves assessing infant attachment with wide open mouth and flanged lips over areola to prevent nipple trauma and painful breast engorgement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sore Cracked Nipples Engorgement.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Breastfeeding Technique Proper Latch Position Prevention of Sore Cracked Nipples Engorgement."
+    ],
+    "references": [
+      {
+        "label": "PMDC Child and Maternal Health",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34603",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interrupted Suture Tetanus Toxoid. Clinical examination and investigative review confirm cleansing wound thoroughly with normal saline, performing minimal margin debridement, placing interrupted nylon sutures, and updating tetanus. Vitals reveal blood pressure of 137/83 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care superficial laceration cleaning wound debridement simple interrupted suture tetanus toxoid. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Cleansing wound thoroughly with normal saline, performing minimal margin debridement, placing interrupted nylon sutures, and updating tetanus",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is cleansing wound thoroughly with normal saline, performing minimal margin debridement, placing interrupted nylon sutures, and updating tetanus. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interrupted Suture Tetanus Toxoid.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interrupted Suture Tetanus Toxoid. The cornerstone of management involves cleansing wound thoroughly with normal saline, performing minimal margin debridement, placing interrupted nylon sutures, and updating tetanus. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interrupted Suture Tetanus Toxoid.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Superficial Laceration Cleaning Wound Debridement Simple Interrupted Suture Tetanus Toxoid."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34604",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap W",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap Water 20 Minutes Silver Sulfadiazine. Clinical examination and investigative review confirm irrigating thermal burn with cool running tap water for 20 minutes avoiding ice, and dressing with non-adherent silver sulfadiazine gauze. Vitals reveal blood pressure of 138/84 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care superficial thermal burn first aid immediate cool running tap water 20 minutes silver sulfadiazine. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Irrigating thermal burn with cool running tap water for 20 minutes avoiding ice, and dressing with non-adherent silver sulfadiazine gauze",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is irrigating thermal burn with cool running tap water for 20 minutes avoiding ice, and dressing with non-adherent silver sulfadiazine gauze. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap Water 20 Minutes Silver Sulfadiazine.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap Water 20 Minutes Silver Sulfadiazine. The cornerstone of management involves irrigating thermal burn with cool running tap water for 20 minutes avoiding ice, and dressing with non-adherent silver sulfadiazine gauze. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap Water 20 Minutes Silver Sulfadiazine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Superficial Thermal Burn First Aid Immediate Cool Running Tap Water 20 Minutes Silver Sulfadiazine."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Medicine Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34605",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate Incision Packing. Clinical examination and investigative review confirm performing formal incision and drainage under local field block using Hilton method with sinus forceps to break loculations and pack cavity. Vitals reveal blood pressure of 139/85 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care cutaneous abscess incision and drainage hilton method cruciate incision packing. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing formal incision and drainage under local field block using Hilton method with sinus forceps to break loculations and pack cavity",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing formal incision and drainage under local field block using Hilton method with sinus forceps to break loculations and pack cavity. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate Incision Packing.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate Incision Packing. The cornerstone of management involves performing formal incision and drainage under local field block using Hilton method with sinus forceps to break loculations and pack cavity. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate Incision Packing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Cutaneous Abscess Incision and Drainage Hilton Method Cruciate Incision Packing."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34606",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacil",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacillin Elevation Bed Rest. Clinical examination and investigative review confirm marking advancing erythematous border with surgical pen, elevating affected extremity, and prescribing oral flucloxacillin 500 mg 4 times daily. Vitals reveal blood pressure of 118/86 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care bacterial cellulitis lower limb margin marking oral flucloxacillin elevation bed rest. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Marking advancing erythematous border with surgical pen, elevating affected extremity, and prescribing oral flucloxacillin 500 mg 4 times daily",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is marking advancing erythematous border with surgical pen, elevating affected extremity, and prescribing oral flucloxacillin 500 mg 4 times daily. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacillin Elevation Bed Rest.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacillin Elevation Bed Rest. The cornerstone of management involves marking advancing erythematous border with surgical pen, elevating affected extremity, and prescribing oral flucloxacillin 500 mg 4 times daily. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacillin Elevation Bed Rest.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Bacterial Cellulitis Lower Limb Margin Marking Oral Flucloxacillin Elevation Bed Rest."
+    ],
+    "references": [
+      {
+        "label": "PMDC General Practice Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34607",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression Elevation Avoid Cast. Clinical examination and investigative review confirm advising early weight-bearing with supportive elastic bandage, ice application, and limb elevation while avoiding prolonged rigid immobilization. Vitals reveal blood pressure of 119/87 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute ankle inversion sprain rice protocol rest ice compression elevation avoid cast. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Advising early weight-bearing with supportive elastic bandage, ice application, and limb elevation while avoiding prolonged rigid immobilization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising early weight-bearing with supportive elastic bandage, ice application, and limb elevation while avoiding prolonged rigid immobilization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression Elevation Avoid Cast.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression Elevation Avoid Cast. The cornerstone of management involves advising early weight-bearing with supportive elastic bandage, ice application, and limb elevation while avoiding prolonged rigid immobilization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression Elevation Avoid Cast.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Ankle Inversion Sprain RICE Protocol Rest Ice Compression Elevation Avoid Cast."
+    ],
+    "references": [
+      {
+        "label": "PMDC Musculoskeletal Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34608",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fold Drainage. Clinical examination and investigative review confirm soaking finger in warm saline and gently elevating nail fold with number 11 scalpel blade to release localized purulent collection. Vitals reveal blood pressure of 120/72 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute paronychia warm soaks scalpel elevation of eponychial fold drainage. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Soaking finger in warm saline and gently elevating nail fold with number 11 scalpel blade to release localized purulent collection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is soaking finger in warm saline and gently elevating nail fold with number 11 scalpel blade to release localized purulent collection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fold Drainage.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fold Drainage. The cornerstone of management involves soaking finger in warm saline and gently elevating nail fold with number 11 scalpel blade to release localized purulent collection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fold Drainage.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Paronychia Warm Soaks Scalpel Elevation of Eponychial Fold Drainage."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34609",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact Capsule Removal. Clinical examination and investigative review confirm performing elliptical skin incision around punctum and meticulously dissecting cyst wall to remove capsule entirely without rupture. Vitals reveal blood pressure of 121/73 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care epidermoid sebaceous cyst excision elliptical incision intact capsule removal. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Performing elliptical skin incision around punctum and meticulously dissecting cyst wall to remove capsule entirely without rupture",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing elliptical skin incision around punctum and meticulously dissecting cyst wall to remove capsule entirely without rupture. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact Capsule Removal.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact Capsule Removal. The cornerstone of management involves performing elliptical skin incision around punctum and meticulously dissecting cyst wall to remove capsule entirely without rupture. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact Capsule Removal.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Epidermoid Sebaceous Cyst Excision Elliptical Incision Intact Capsule Removal."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34610",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle Warm Water Syringing. Clinical examination and investigative review confirm removing smooth foreign body from ear canal under direct visualization with Jobson Horne probe or gentle syringing if tympanic membrane intact. Vitals reveal blood pressure of 122/74 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care foreign body ear canal inert object alligator forceps vs gentle warm water syringing. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Removing smooth foreign body from ear canal under direct visualization with Jobson Horne probe or gentle syringing if tympanic membrane intact",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is removing smooth foreign body from ear canal under direct visualization with Jobson Horne probe or gentle syringing if tympanic membrane intact. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle Warm Water Syringing.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle Warm Water Syringing. The cornerstone of management involves removing smooth foreign body from ear canal under direct visualization with Jobson Horne probe or gentle syringing if tympanic membrane intact. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle Warm Water Syringing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Foreign Body Ear Canal Inert Object Alligator Forceps vs Gentle Warm Water Syringing."
+    ],
+    "references": [
+      {
+        "label": "PMDC ENT and Minor Surgery Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34611",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Press",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Pressure Chemical Silver Nitrate Cautery. Clinical examination and investigative review confirm applying firm continuous bilateral digital pressure over nasal cartilages for 10 minutes and performing silver nitrate cautery for visible bleeding point. Vitals reveal blood pressure of 123/75 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care anterior epistaxis kiesselbach little area direct digital pressure chemical silver nitrate cautery. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Applying firm continuous bilateral digital pressure over nasal cartilages for 10 minutes and performing silver nitrate cautery for visible bleeding point",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying firm continuous bilateral digital pressure over nasal cartilages for 10 minutes and performing silver nitrate cautery for visible bleeding point. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Pressure Chemical Silver Nitrate Cautery.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Pressure Chemical Silver Nitrate Cautery. The cornerstone of management involves applying firm continuous bilateral digital pressure over nasal cartilages for 10 minutes and performing silver nitrate cautery for visible bleeding point. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Pressure Chemical Silver Nitrate Cautery.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Anterior Epistaxis Kiesselbach Little Area Direct Digital Pressure Chemical Silver Nitrate Cautery."
+    ],
+    "references": [
+      {
+        "label": "PMDC ENT and Emergency Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34612",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-Fiber Diet Stool Softeners Sitz Baths. Clinical examination and investigative review confirm prescribing oral ispaghula husk fiber, liberal water intake, warm sitz baths, and avoiding prolonged toilet straining for bleeding hemorrhoids. Vitals reveal blood pressure of 124/76 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care first-degree internal hemorrhoids conservative management high-fiber diet stool softeners sitz baths. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Prescribing oral ispaghula husk fiber, liberal water intake, warm sitz baths, and avoiding prolonged toilet straining for bleeding hemorrhoids",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral ispaghula husk fiber, liberal water intake, warm sitz baths, and avoiding prolonged toilet straining for bleeding hemorrhoids. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-Fiber Diet Stool Softeners Sitz Baths.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-Fiber Diet Stool Softeners Sitz Baths. The cornerstone of management involves prescribing oral ispaghula husk fiber, liberal water intake, warm sitz baths, and avoiding prolonged toilet straining for bleeding hemorrhoids. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-Fiber Diet Stool Softeners Sitz Baths.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care First-Degree Internal Hemorrhoids Conservative Management High-Fiber Diet Stool Softeners Sitz Baths."
+    ],
+    "references": [
+      {
+        "label": "PMDC General Practice Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34613",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Micro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Microscopy Nikshay Registration. Clinical examination and investigative review confirm collecting spot and early morning sputum specimens for acid-fast bacilli staining and referring suspect to primary care DOTS center. Vitals reveal blood pressure of 125/77 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care pulmonary tuberculosis suspect chronic cough sputum smear microscopy nikshay registration. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Collecting spot and early morning sputum specimens for acid-fast bacilli staining and referring suspect to primary care DOTS center",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is collecting spot and early morning sputum specimens for acid-fast bacilli staining and referring suspect to primary care DOTS center. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Microscopy Nikshay Registration.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Microscopy Nikshay Registration. The cornerstone of management involves collecting spot and early morning sputum specimens for acid-fast bacilli staining and referring suspect to primary care DOTS center. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Microscopy Nikshay Registration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pulmonary Tuberculosis Suspect Chronic Cough Sputum Smear Microscopy Nikshay Registration."
+    ],
+    "references": [
+      {
+        "label": "National TB Control Program Pakistan and PMDC",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34614",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Arte",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Artemether-Lumefantrine G6PD. Clinical examination and investigative review confirm performing bedside blood rapid diagnostic test (RDT) and prescribing oral artemether-lumefantrine for confirmed Plasmodium falciparum. Vitals reveal blood pressure of 126/78 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care uncomplicated malaria rapid diagnostic test chloroquine vs artemether-lumefantrine g6pd. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Performing bedside blood rapid diagnostic test (RDT) and prescribing oral artemether-lumefantrine for confirmed Plasmodium falciparum",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing bedside blood rapid diagnostic test (RDT) and prescribing oral artemether-lumefantrine for confirmed Plasmodium falciparum. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Artemether-Lumefantrine G6PD.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Artemether-Lumefantrine G6PD. The cornerstone of management involves performing bedside blood rapid diagnostic test (RDT) and prescribing oral artemether-lumefantrine for confirmed Plasmodium falciparum. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Artemether-Lumefantrine G6PD.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Uncomplicated Malaria Rapid Diagnostic Test Chloroquine vs Artemether-Lumefantrine G6PD."
+    ],
+    "references": [
+      {
+        "label": "National Malaria Control Directorate Pakistan and PMDC",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34615",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxone vs Oral Azithromycin. Clinical examination and investigative review confirm sending blood culture during first week of step-ladder fever and initiating oral azithromycin or IV ceftriaxone for clinical enteric fever. Vitals reveal blood pressure of 127/79 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care enteric typhoid fever step-ladder fever blood culture ceftriaxone vs oral azithromycin. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Sending blood culture during first week of step-ladder fever and initiating oral azithromycin or IV ceftriaxone for clinical enteric fever",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is sending blood culture during first week of step-ladder fever and initiating oral azithromycin or IV ceftriaxone for clinical enteric fever. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxone vs Oral Azithromycin.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxone vs Oral Azithromycin. The cornerstone of management involves sending blood culture during first week of step-ladder fever and initiating oral azithromycin or IV ceftriaxone for clinical enteric fever. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxone vs Oral Azithromycin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Enteric Typhoid Fever Step-Ladder Fever Blood Culture Ceftriaxone vs Oral Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "PMDC Clinical Practice Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34616",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain Platelet Count Tracking. Clinical examination and investigative review confirm monitoring daily platelet count and counseling patient on warning signs including mucosal bleeding, severe vomiting, and abdominal pain. Vitals reveal blood pressure of 128/80 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care dengue fever outpatient monitoring warning signs abdominal pain platelet count tracking. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Monitoring daily platelet count and counseling patient on warning signs including mucosal bleeding, severe vomiting, and abdominal pain",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is monitoring daily platelet count and counseling patient on warning signs including mucosal bleeding, severe vomiting, and abdominal pain. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain Platelet Count Tracking.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain Platelet Count Tracking. The cornerstone of management involves monitoring daily platelet count and counseling patient on warning signs including mucosal bleeding, severe vomiting, and abdominal pain. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain Platelet Count Tracking.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Dengue Fever Outpatient Monitoring Warning Signs Abdominal Pain Platelet Count Tracking."
+    ],
+    "references": [
+      {
+        "label": "DEAG Punjab and PMDC Dengue Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34617",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permet",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permethrin 5 Percent Cream Whole Family. Clinical examination and investigative review confirm prescribing 5 percent permethrin dermal cream to be applied from neck to toes overnight for 8 to 14 hours and treating all household contacts. Vitals reveal blood pressure of 129/81 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care scabies infestation sarcoptes scabiei nocturnal pruritus permethrin 5 percent cream whole family. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Prescribing 5 percent permethrin dermal cream to be applied from neck to toes overnight for 8 to 14 hours and treating all household contacts",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing 5 percent permethrin dermal cream to be applied from neck to toes overnight for 8 to 14 hours and treating all household contacts. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permethrin 5 Percent Cream Whole Family.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permethrin 5 Percent Cream Whole Family. The cornerstone of management involves prescribing 5 percent permethrin dermal cream to be applied from neck to toes overnight for 8 to 14 hours and treating all household contacts. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permethrin 5 Percent Cream Whole Family.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Scabies Infestation Sarcoptes Scabiei Nocturnal Pruritus Permethrin 5 Percent Cream Whole Family."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34618",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethrin 1 Percent Lotion Repeat 7 Days. Clinical examination and investigative review confirm applying 1 percent permethrin lotion to dry hair for 10 minutes followed by mechanical nit removal and repeating treatment in 7 days. Vitals reveal blood pressure of 130/82 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care pediculosis capitis head lice infestation wet combing permethrin 1 percent lotion repeat 7 days. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Applying 1 percent permethrin lotion to dry hair for 10 minutes followed by mechanical nit removal and repeating treatment in 7 days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying 1 percent permethrin lotion to dry hair for 10 minutes followed by mechanical nit removal and repeating treatment in 7 days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethrin 1 Percent Lotion Repeat 7 Days.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethrin 1 Percent Lotion Repeat 7 Days. The cornerstone of management involves applying 1 percent permethrin lotion to dry hair for 10 minutes followed by mechanical nit removal and repeating treatment in 7 days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethrin 1 Percent Lotion Repeat 7 Days.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pediculosis Capitis Head Lice Infestation Wet Combing Permethrin 1 Percent Lotion Repeat 7 Days."
+    ],
+    "references": [
+      {
+        "label": "PMDC Community Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34619",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Bord",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Border Topical Clotrimazole Cream. Clinical examination and investigative review confirm prescribing topical clotrimazole 1 percent or terbinafine cream applied twice daily for 2 to 4 weeks extending 2 cm beyond advancing border. Vitals reveal blood pressure of 131/83 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care tinea corporis fungal ringworm annular plaque active scaly border topical clotrimazole cream. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Prescribing topical clotrimazole 1 percent or terbinafine cream applied twice daily for 2 to 4 weeks extending 2 cm beyond advancing border",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing topical clotrimazole 1 percent or terbinafine cream applied twice daily for 2 to 4 weeks extending 2 cm beyond advancing border. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Border Topical Clotrimazole Cream.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Border Topical Clotrimazole Cream. The cornerstone of management involves prescribing topical clotrimazole 1 percent or terbinafine cream applied twice daily for 2 to 4 weeks extending 2 cm beyond advancing border. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Border Topical Clotrimazole Cream.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Tinea Corporis Fungal Ringworm Annular Plaque Active Scaly Border Topical Clotrimazole Cream."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34620",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination Albendazole 400mg Single Dose. Clinical examination and investigative review confirm administering single oral dose of albendazole 400 mg with food to treat common soil-transmitted nematode roundworm and hookworm infection. Vitals reveal blood pressure of 132/84 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care intestinal helminthiasis ascaris lumbricoides stool examination albendazole 400mg single dose. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering single oral dose of albendazole 400 mg with food to treat common soil-transmitted nematode roundworm and hookworm infection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering single oral dose of albendazole 400 mg with food to treat common soil-transmitted nematode roundworm and hookworm infection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination Albendazole 400mg Single Dose.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination Albendazole 400mg Single Dose. The cornerstone of management involves administering single oral dose of albendazole 400 mg with food to treat common soil-transmitted nematode roundworm and hookworm infection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination Albendazole 400mg Single Dose.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intestinal Helminthiasis Ascaris Lumbricoides Stool Examination Albendazole 400mg Single Dose."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Primary Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34621",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Is",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Isolation Calamine Paracetamol. Clinical examination and investigative review confirm advising strict isolation until all cutaneous vesicles have crusted over and providing oral paracetamol with calamine lotion for pruritus. Vitals reveal blood pressure of 133/85 mm Hg, heart rate of 83/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care chickenpox varicella zoster virus dewdrop on rose petal rash isolation calamine paracetamol. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Advising strict isolation until all cutaneous vesicles have crusted over and providing oral paracetamol with calamine lotion for pruritus",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising strict isolation until all cutaneous vesicles have crusted over and providing oral paracetamol with calamine lotion for pruritus. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Isolation Calamine Paracetamol.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Isolation Calamine Paracetamol. The cornerstone of management involves advising strict isolation until all cutaneous vesicles have crusted over and providing oral paracetamol with calamine lotion for pruritus. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Isolation Calamine Paracetamol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Chickenpox Varicella Zoster Virus Dewdrop on Rose Petal Rash Isolation Calamine Paracetamol."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34622",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Proph",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Prophylaxis Supportive Care. Clinical examination and investigative review confirm diagnosing measles on presence of fever cough coryza conjunctivitis and Koplik spots and administering oral vitamin A to prevent complications. Vitals reveal blood pressure of 134/86 mm Hg, heart rate of 84/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care measles rubeola koplik spots maculopapular rash vitamin a prophylaxis supportive care. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Diagnosing measles on presence of fever cough coryza conjunctivitis and Koplik spots and administering oral vitamin A to prevent complications",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnosing measles on presence of fever cough coryza conjunctivitis and Koplik spots and administering oral vitamin A to prevent complications. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Prophylaxis Supportive Care.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Prophylaxis Supportive Care. The cornerstone of management involves diagnosing measles on presence of fever cough coryza conjunctivitis and Koplik spots and administering oral vitamin A to prevent complications. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Prophylaxis Supportive Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Measles Rubeola Koplik Spots Maculopapular Rash Vitamin A Prophylaxis Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Pediatric Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34623",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramus",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramuscular Adrenaline 1:1000 Mid-Thigh. Clinical examination and investigative review confirm administering immediate intramuscular adrenaline 1:1000 at 0.01 mg per kg (0.5 mL in adults) into mid-anterolateral thigh for anaphylactic shock. Vitals reveal blood pressure of 135/87 mm Hg, heart rate of 85/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute severe anaphylaxis stridor hypotension immediate intramuscular adrenaline 1:1000 mid-thigh. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Administering immediate intramuscular adrenaline 1:1000 at 0.01 mg per kg (0.5 mL in adults) into mid-anterolateral thigh for anaphylactic shock",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering immediate intramuscular adrenaline 1:1000 at 0.01 mg per kg (0.5 mL in adults) into mid-anterolateral thigh for anaphylactic shock. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramuscular Adrenaline 1:1000 Mid-Thigh.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramuscular Adrenaline 1:1000 Mid-Thigh. The cornerstone of management involves administering immediate intramuscular adrenaline 1:1000 at 0.01 mg per kg (0.5 mL in adults) into mid-anterolateral thigh for anaphylactic shock. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramuscular Adrenaline 1:1000 Mid-Thigh.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Severe Anaphylaxis Stridor Hypotension Immediate Intramuscular Adrenaline 1:1000 Mid-Thigh."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Medicine Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34624",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral Prednisolone Urgent Referral. Clinical examination and investigative review confirm administering oxygen-driven nebulized salbutamol 5 mg with oral prednisolone 40 mg and arranging urgent ambulance transfer for severe wheeze. Vitals reveal blood pressure of 136/72 mm Hg, heart rate of 86/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute severe asthma nebulized salbutamol high-flow oxygen oral prednisolone urgent referral. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Administering oxygen-driven nebulized salbutamol 5 mg with oral prednisolone 40 mg and arranging urgent ambulance transfer for severe wheeze",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering oxygen-driven nebulized salbutamol 5 mg with oral prednisolone 40 mg and arranging urgent ambulance transfer for severe wheeze. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral Prednisolone Urgent Referral.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral Prednisolone Urgent Referral. The cornerstone of management involves administering oxygen-driven nebulized salbutamol 5 mg with oral prednisolone 40 mg and arranging urgent ambulance transfer for severe wheeze. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral Prednisolone Urgent Referral.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Severe Asthma Nebulized Salbutamol High-Flow Oxygen Oral Prednisolone Urgent Referral."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34625",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral Glucose vs Unconscious IV 25 Percent Dextrose. Clinical examination and investigative review confirm administering oral fruit juice or glucose tablets in conscious patient or 50 mL intravenous 25 percent dextrose in stuporous hypoglycemic patient. Vitals reveal blood pressure of 137/73 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute symptomatic hypoglycemia diabetic patient conscious oral glucose vs unconscious iv 25 percent dextrose. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering oral fruit juice or glucose tablets in conscious patient or 50 mL intravenous 25 percent dextrose in stuporous hypoglycemic patient",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering oral fruit juice or glucose tablets in conscious patient or 50 mL intravenous 25 percent dextrose in stuporous hypoglycemic patient. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral Glucose vs Unconscious IV 25 Percent Dextrose.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral Glucose vs Unconscious IV 25 Percent Dextrose. The cornerstone of management involves administering oral fruit juice or glucose tablets in conscious patient or 50 mL intravenous 25 percent dextrose in stuporous hypoglycemic patient. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral Glucose vs Unconscious IV 25 Percent Dextrose.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Symptomatic Hypoglycemia Diabetic Patient Conscious Oral Glucose vs Unconscious IV 25 Percent Dextrose."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Clinical Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34626",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Solub",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Soluble Aspirin 300mg ECG 1122 Transfer. Clinical examination and investigative review confirm administering chewed soluble aspirin 300 mg, sublingual glyceryl trinitrate, recording 12-lead ECG, and mobilizing emergency 1122 ambulance. Vitals reveal blood pressure of 138/74 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute crushing chest pain suspected myocardial infarction soluble aspirin 300mg ecg 1122 transfer. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Administering chewed soluble aspirin 300 mg, sublingual glyceryl trinitrate, recording 12-lead ECG, and mobilizing emergency 1122 ambulance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering chewed soluble aspirin 300 mg, sublingual glyceryl trinitrate, recording 12-lead ECG, and mobilizing emergency 1122 ambulance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Soluble Aspirin 300mg ECG 1122 Transfer.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Soluble Aspirin 300mg ECG 1122 Transfer. The cornerstone of management involves administering chewed soluble aspirin 300 mg, sublingual glyceryl trinitrate, recording 12-lead ECG, and mobilizing emergency 1122 ambulance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Soluble Aspirin 300mg ECG 1122 Transfer.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Crushing Chest Pain Suspected Myocardial Infarction Soluble Aspirin 300mg ECG 1122 Transfer."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Cardiovascular Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34627",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universa",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universal Gastric Lavage Supportive Care. Clinical examination and investigative review confirm securing patent airway, providing supportive oxygen and intravenous fluids, and avoiding emetics or blind lavage in corrosive or petroleum ingestion. Vitals reveal blood pressure of 139/75 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute poisoning ingestion risk assessment avoidance of universal gastric lavage supportive care. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Securing patent airway, providing supportive oxygen and intravenous fluids, and avoiding emetics or blind lavage in corrosive or petroleum ingestion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is securing patent airway, providing supportive oxygen and intravenous fluids, and avoiding emetics or blind lavage in corrosive or petroleum ingestion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universal Gastric Lavage Supportive Care.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universal Gastric Lavage Supportive Care. The cornerstone of management involves securing patent airway, providing supportive oxygen and intravenous fluids, and avoiding emetics or blind lavage in corrosive or petroleum ingestion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universal Gastric Lavage Supportive Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Poisoning Ingestion Risk Assessment Avoidance of Universal Gastric Lavage Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "PMDC Toxicology Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34628",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoid Tourniquet Incision Rapid Transfer. Clinical examination and investigative review confirm splinting bitten limb at heart level, reassuring victim, strictly avoiding tight arterial tourniquets or cuts, and rushing to hospital for anti-snake venom. Vitals reveal blood pressure of 118/76 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care venomous snakebite first aid limb splinting immobilization avoid tourniquet incision rapid transfer. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Splinting bitten limb at heart level, reassuring victim, strictly avoiding tight arterial tourniquets or cuts, and rushing to hospital for anti-snake venom",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is splinting bitten limb at heart level, reassuring victim, strictly avoiding tight arterial tourniquets or cuts, and rushing to hospital for anti-snake venom. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoid Tourniquet Incision Rapid Transfer.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoid Tourniquet Incision Rapid Transfer. The cornerstone of management involves splinting bitten limb at heart level, reassuring victim, strictly avoiding tight arterial tourniquets or cuts, and rushing to hospital for anti-snake venom. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoid Tourniquet Incision Rapid Transfer.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Venomous Snakebite First Aid Limb Splinting Immobilization Avoid Tourniquet Incision Rapid Transfer."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34629",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soap Water 15 Minutes Vaccine RIG. Clinical examination and investigative review confirm washing animal bite under running tap water with soap for at least 15 minutes, infiltrating rabies immunoglobulin, and initiating cell-culture vaccine. Vitals reveal blood pressure of 119/77 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care category iii stray dog bite immediate copious wound washing soap water 15 minutes vaccine rig. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Washing animal bite under running tap water with soap for at least 15 minutes, infiltrating rabies immunoglobulin, and initiating cell-culture vaccine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is washing animal bite under running tap water with soap for at least 15 minutes, infiltrating rabies immunoglobulin, and initiating cell-culture vaccine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soap Water 15 Minutes Vaccine RIG.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soap Water 15 Minutes Vaccine RIG. The cornerstone of management involves washing animal bite under running tap water with soap for at least 15 minutes, infiltrating rabies immunoglobulin, and initiating cell-culture vaccine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soap Water 15 Minutes Vaccine RIG.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Category III Stray Dog Bite Immediate Copious Wound Washing Soap Water 15 Minutes Vaccine RIG."
+    ],
+    "references": [
+      {
+        "label": "NIH Islamabad and PMDC Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34630",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule R",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule Red Flags Vomiting Amnesia. Clinical examination and investigative review confirm evaluating GCS 15 patient and organizing non-contrast CT brain if there is retrograde amnesia over 30 minutes, suspected skull fracture, or two vomits. Vitals reveal blood pressure of 120/78 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care minor head injury glasgow coma scale 15 canadian ct head rule red flags vomiting amnesia. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Evaluating GCS 15 patient and organizing non-contrast CT brain if there is retrograde amnesia over 30 minutes, suspected skull fracture, or two vomits",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating GCS 15 patient and organizing non-contrast CT brain if there is retrograde amnesia over 30 minutes, suspected skull fracture, or two vomits. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule Red Flags Vomiting Amnesia.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule Red Flags Vomiting Amnesia. The cornerstone of management involves evaluating GCS 15 patient and organizing non-contrast CT brain if there is retrograde amnesia over 30 minutes, suspected skull fracture, or two vomits. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule Red Flags Vomiting Amnesia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Minor Head Injury Glasgow Coma Scale 15 Canadian CT Head Rule Red Flags Vomiting Amnesia."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency and Neurosurgery Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34631",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid Evaporative Water Spray Cooling. Clinical examination and investigative review confirm initiating rapid whole-body water misting with continuous fan aeration and cold IV fluid infusion to lower core temperature below 39 degrees Celsius. Vitals reveal blood pressure of 121/79 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care exertional heat stroke hyperthermia altered mental status rapid evaporative water spray cooling. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Initiating rapid whole-body water misting with continuous fan aeration and cold IV fluid infusion to lower core temperature below 39 degrees Celsius",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating rapid whole-body water misting with continuous fan aeration and cold IV fluid infusion to lower core temperature below 39 degrees Celsius. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid Evaporative Water Spray Cooling.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid Evaporative Water Spray Cooling. The cornerstone of management involves initiating rapid whole-body water misting with continuous fan aeration and cold IV fluid infusion to lower core temperature below 39 degrees Celsius. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid Evaporative Water Spray Cooling.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Exertional Heat Stroke Hyperthermia Altered Mental Status Rapid Evaporative Water Spray Cooling."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Medicine Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34632",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseline 12-Lead ECG Monitoring. Clinical examination and investigative review confirm ordering 12-lead electrocardiogram and monitoring cardiac rhythm for arrhythmias while evaluating deep tissue entry and exit electrical burns. Vitals reveal blood pressure of 122/80 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care domestic electrical injury hand contact entry exit burns baseline 12-lead ecg monitoring. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Ordering 12-lead electrocardiogram and monitoring cardiac rhythm for arrhythmias while evaluating deep tissue entry and exit electrical burns",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ordering 12-lead electrocardiogram and monitoring cardiac rhythm for arrhythmias while evaluating deep tissue entry and exit electrical burns. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseline 12-Lead ECG Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseline 12-Lead ECG Monitoring. The cornerstone of management involves ordering 12-lead electrocardiogram and monitoring cardiac rhythm for arrhythmias while evaluating deep tissue entry and exit electrical burns. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseline 12-Lead ECG Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Domestic Electrical Injury Hand Contact Entry Exit Burns Baseline 12-Lead ECG Monitoring."
+    ],
+    "references": [
+      {
+        "label": "PMDC Trauma and Surgery Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34633",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygie",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygiene Structured Physical Activity. Clinical examination and investigative review confirm providing supportive counseling, problem-solving techniques, and recommending daily 30-minute moderate physical exercise for mild depression. Vitals reveal blood pressure of 123/81 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care mild major depression primary care active listening sleep hygiene structured physical activity. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Providing supportive counseling, problem-solving techniques, and recommending daily 30-minute moderate physical exercise for mild depression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is providing supportive counseling, problem-solving techniques, and recommending daily 30-minute moderate physical exercise for mild depression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygiene Structured Physical Activity.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygiene Structured Physical Activity. The cornerstone of management involves providing supportive counseling, problem-solving techniques, and recommending daily 30-minute moderate physical exercise for mild depression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygiene Structured Physical Activity.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Mild Major Depression Primary Care Active Listening Sleep Hygiene Structured Physical Activity."
+    ],
+    "references": [
+      {
+        "label": "PMDC Mental Health in Primary Care",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34634",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphra",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphragmatic Breathing Relaxation SSRI. Clinical examination and investigative review confirm teaching slow diaphragmatic breathing and muscle relaxation techniques and initiating low-dose oral escitalopram for chronic anxiety. Vitals reveal blood pressure of 124/82 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care generalized anxiety disorder persistent excessive worry diaphragmatic breathing relaxation ssri. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Teaching slow diaphragmatic breathing and muscle relaxation techniques and initiating low-dose oral escitalopram for chronic anxiety",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is teaching slow diaphragmatic breathing and muscle relaxation techniques and initiating low-dose oral escitalopram for chronic anxiety. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphragmatic Breathing Relaxation SSRI.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphragmatic Breathing Relaxation SSRI. The cornerstone of management involves teaching slow diaphragmatic breathing and muscle relaxation techniques and initiating low-dose oral escitalopram for chronic anxiety. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphragmatic Breathing Relaxation SSRI.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Generalized Anxiety Disorder Persistent Excessive Worry Diaphragmatic Breathing Relaxation SSRI."
+    ],
+    "references": [
+      {
+        "label": "PMDC Psychiatry Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34635",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Scr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Screens Caffeine Sedative Avoidance. Clinical examination and investigative review confirm counseling on maintaining fixed wake times, removing electronic screens from bedroom, avoiding late caffeine, and avoiding chronic benzodiazepines. Vitals reveal blood pressure of 125/83 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care primary insomnia sleep hygiene rules regular schedule avoid screens caffeine sedative avoidance. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Counseling on maintaining fixed wake times, removing electronic screens from bedroom, avoiding late caffeine, and avoiding chronic benzodiazepines",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is counseling on maintaining fixed wake times, removing electronic screens from bedroom, avoiding late caffeine, and avoiding chronic benzodiazepines. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Screens Caffeine Sedative Avoidance.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Screens Caffeine Sedative Avoidance. The cornerstone of management involves counseling on maintaining fixed wake times, removing electronic screens from bedroom, avoiding late caffeine, and avoiding chronic benzodiazepines. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Screens Caffeine Sedative Avoidance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Primary Insomnia Sleep Hygiene Rules Regular Schedule Avoid Screens Caffeine Sedative Avoidance."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34636",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exerc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exercises Exclusion of Medical Causes. Clinical examination and investigative review confirm reassuring patient experiencing panic attacks that symptoms are non-fatal and coaching slow rhythmic nasal breathing to correct hypocapnia. Vitals reveal blood pressure of 126/84 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute hyperventilation panic attack reassurance breathing exercises exclusion of medical causes. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Reassuring patient experiencing panic attacks that symptoms are non-fatal and coaching slow rhythmic nasal breathing to correct hypocapnia",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reassuring patient experiencing panic attacks that symptoms are non-fatal and coaching slow rhythmic nasal breathing to correct hypocapnia. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exercises Exclusion of Medical Causes.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exercises Exclusion of Medical Causes. The cornerstone of management involves reassuring patient experiencing panic attacks that symptoms are non-fatal and coaching slow rhythmic nasal breathing to correct hypocapnia. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exercises Exclusion of Medical Causes.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Hyperventilation Panic Attack Reassurance Breathing Exercises Exclusion of Medical Causes."
+    ],
+    "references": [
+      {
+        "label": "PMDC Mental Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34637",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Asses",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Assess Assist Arrange Follow-Up. Clinical examination and investigative review confirm applying the 5 As brief smoking cessation intervention to assess readiness to quit and offering nicotine replacement gum or counseling. Vitals reveal blood pressure of 127/85 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care substance misuse tobacco dependence 5 as model ask advise assess assist arrange follow-up. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Applying the 5 As brief smoking cessation intervention to assess readiness to quit and offering nicotine replacement gum or counseling",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying the 5 As brief smoking cessation intervention to assess readiness to quit and offering nicotine replacement gum or counseling. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Assess Assist Arrange Follow-Up.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Assess Assist Arrange Follow-Up. The cornerstone of management involves applying the 5 As brief smoking cessation intervention to assess readiness to quit and offering nicotine replacement gum or counseling. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Assess Assist Arrange Follow-Up.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Substance Misuse Tobacco Dependence 5 As Model Ask Advise Assess Assist Arrange Follow-Up."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Tobacco Cessation Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34638",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical S",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical Symptoms Scheduled Brief Appointments. Clinical examination and investigative review confirm scheduling regular brief 15-minute consultations every 4 weeks to establish therapeutic rapport while avoiding unnecessary invasive testing. Vitals reveal blood pressure of 128/86 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care somatization disorder multiple medically unexplained physical symptoms scheduled brief appointments. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Scheduling regular brief 15-minute consultations every 4 weeks to establish therapeutic rapport while avoiding unnecessary invasive testing",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is scheduling regular brief 15-minute consultations every 4 weeks to establish therapeutic rapport while avoiding unnecessary invasive testing. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical Symptoms Scheduled Brief Appointments.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical Symptoms Scheduled Brief Appointments. The cornerstone of management involves scheduling regular brief 15-minute consultations every 4 weeks to establish therapeutic rapport while avoiding unnecessary invasive testing. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical Symptoms Scheduled Brief Appointments.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Somatization Disorder Multiple Medically Unexplained Physical Symptoms Scheduled Brief Appointments."
+    ],
+    "references": [
+      {
+        "label": "PMDC Family Medicine Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34639",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gum Counseling Withdrawal. Clinical examination and investigative review confirm prescribing combination nicotine transdermal patch with rapid-acting nicotine gum to manage cravings during planned quit attempt. Vitals reveal blood pressure of 129/87 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care tobacco smoking cessation nicotine replacement therapy patch gum counseling withdrawal. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Prescribing combination nicotine transdermal patch with rapid-acting nicotine gum to manage cravings during planned quit attempt",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing combination nicotine transdermal patch with rapid-acting nicotine gum to manage cravings during planned quit attempt. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gum Counseling Withdrawal.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gum Counseling Withdrawal. The cornerstone of management involves prescribing combination nicotine transdermal patch with rapid-acting nicotine gum to manage cravings during planned quit attempt. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gum Counseling Withdrawal.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Tobacco Smoking Cessation Nicotine Replacement Therapy Patch Gum Counseling Withdrawal."
+    ],
+    "references": [
+      {
+        "label": "PMDC Community Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34640",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiv",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiver Support Home Safety Assessment. Clinical examination and investigative review confirm performing baseline cognitive scoring with MMSE, assessing caregiver burnout, and advising home adaptations to prevent accidental falls or wandering. Vitals reveal blood pressure of 130/72 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care early dementia in elderly mini-mental state examination caregiver support home safety assessment. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing baseline cognitive scoring with MMSE, assessing caregiver burnout, and advising home adaptations to prevent accidental falls or wandering",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is performing baseline cognitive scoring with MMSE, assessing caregiver burnout, and advising home adaptations to prevent accidental falls or wandering. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiver Support Home Safety Assessment.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiver Support Home Safety Assessment. The cornerstone of management involves performing baseline cognitive scoring with MMSE, assessing caregiver burnout, and advising home adaptations to prevent accidental falls or wandering. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiver Support Home Safety Assessment.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Early Dementia in Elderly Mini-Mental State Examination Caregiver Support Home Safety Assessment."
+    ],
+    "references": [
+      {
+        "label": "PMDC Geriatric Care Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34641",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal Depression Scale EPDS Counseling. Clinical examination and investigative review confirm screening mother at 6-week postnatal visit with EPDS to differentiate transient mild postpartum blues from major postnatal depression. Vitals reveal blood pressure of 131/73 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care postpartum blues vs postpartum depression edinburgh postnatal depression scale epds counseling. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Screening mother at 6-week postnatal visit with EPDS to differentiate transient mild postpartum blues from major postnatal depression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is screening mother at 6-week postnatal visit with EPDS to differentiate transient mild postpartum blues from major postnatal depression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal Depression Scale EPDS Counseling.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal Depression Scale EPDS Counseling. The cornerstone of management involves screening mother at 6-week postnatal visit with EPDS to differentiate transient mild postpartum blues from major postnatal depression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal Depression Scale EPDS Counseling.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Postpartum Blues vs Postpartum Depression Edinburgh Postnatal Depression Scale EPDS Counseling."
+    ],
+    "references": [
+      {
+        "label": "PMDC Maternal Mental Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34642",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Famil",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Family Involvement Immediate Safety Plan. Clinical examination and investigative review confirm asking directly about suicidal thoughts and plans in empathetic manner, removing lethal means, and organizing urgent psychiatric evaluation. Vitals reveal blood pressure of 132/74 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care suicide risk assessment direct non-judgmental questioning family involvement immediate safety plan. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Asking directly about suicidal thoughts and plans in empathetic manner, removing lethal means, and organizing urgent psychiatric evaluation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is asking directly about suicidal thoughts and plans in empathetic manner, removing lethal means, and organizing urgent psychiatric evaluation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Family Involvement Immediate Safety Plan.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Family Involvement Immediate Safety Plan. The cornerstone of management involves asking directly about suicidal thoughts and plans in empathetic manner, removing lethal means, and organizing urgent psychiatric evaluation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Family Involvement Immediate Safety Plan.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Suicide Risk Assessment Direct Non-Judgmental Questioning Family Involvement Immediate Safety Plan."
+    ],
+    "references": [
+      {
+        "label": "PMDC Mental Health Practice Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34643",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Bor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Borne Diarrheal Epidemic Control. Clinical examination and investigative review confirm recommending rolling boil for 1 minute or adding chlorine disinfection tablets to eliminate bacterial and viral enteric pathogens from well water. Vitals reveal blood pressure of 133/75 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care safe drinking water chlorination boiling disinfection water-borne diarrheal epidemic control. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Recommending rolling boil for 1 minute or adding chlorine disinfection tablets to eliminate bacterial and viral enteric pathogens from well water",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending rolling boil for 1 minute or adding chlorine disinfection tablets to eliminate bacterial and viral enteric pathogens from well water. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Borne Diarrheal Epidemic Control.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Borne Diarrheal Epidemic Control. The cornerstone of management involves recommending rolling boil for 1 minute or adding chlorine disinfection tablets to eliminate bacterial and viral enteric pathogens from well water. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Borne Diarrheal Epidemic Control.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Safe Drinking Water Chlorination Boiling Disinfection Water-Borne Diarrheal Epidemic Control."
+    ],
+    "references": [
+      {
+        "label": "PMDC Public Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34644",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradica",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradication Fecal-Oral Disease Prevention. Clinical examination and investigative review confirm advocating community construction of covered pour-flush latrines to interrupt the transmission cycle of enteric pathogens and hookworms. Vitals reveal blood pressure of 134/76 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care sanitation and hygiene sanitary latrine open defecation eradication fecal-oral disease prevention. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Advocating community construction of covered pour-flush latrines to interrupt the transmission cycle of enteric pathogens and hookworms",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advocating community construction of covered pour-flush latrines to interrupt the transmission cycle of enteric pathogens and hookworms. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradication Fecal-Oral Disease Prevention.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradication Fecal-Oral Disease Prevention. The cornerstone of management involves advocating community construction of covered pour-flush latrines to interrupt the transmission cycle of enteric pathogens and hookworms. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradication Fecal-Oral Disease Prevention.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Sanitation and Hygiene Sanitary Latrine Open Defecation Eradication Fecal-Oral Disease Prevention."
+    ],
+    "references": [
+      {
+        "label": "PMDC Preventive Medicine Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34645",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times Food Preparation Child Care. Clinical examination and investigative review confirm educating community mothers on thorough handwashing with soap and clean water for at least 20 seconds before feeding and after defaecation. Vitals reveal blood pressure of 135/77 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care hand hygiene soap and water technique 20 seconds critical times food preparation child care. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Educating community mothers on thorough handwashing with soap and clean water for at least 20 seconds before feeding and after defaecation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is educating community mothers on thorough handwashing with soap and clean water for at least 20 seconds before feeding and after defaecation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times Food Preparation Child Care.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times Food Preparation Child Care. The cornerstone of management involves educating community mothers on thorough handwashing with soap and clean water for at least 20 seconds before feeding and after defaecation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times Food Preparation Child Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Hand Hygiene Soap and Water Technique 20 Seconds Critical Times Food Preparation Child Care."
+    ],
+    "references": [
+      {
+        "label": "PMDC Public Health Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34646",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapping Avoidance Incineration. Clinical examination and investigative review confirm disposing used disposable syringes directly into dedicated puncture-resistant yellow safety box without recapping or bending needles. Vitals reveal blood pressure of 136/78 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care medical sharps disposal puncture-proof safety box needle recapping avoidance incineration. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Disposing used disposable syringes directly into dedicated puncture-resistant yellow safety box without recapping or bending needles",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is disposing used disposable syringes directly into dedicated puncture-resistant yellow safety box without recapping or bending needles. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapping Avoidance Incineration.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapping Avoidance Incineration. The cornerstone of management involves disposing used disposable syringes directly into dedicated puncture-resistant yellow safety box without recapping or bending needles. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapping Avoidance Incineration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Medical Sharps Disposal Puncture-Proof Safety Box Needle Recapping Avoidance Incineration."
+    ],
+    "references": [
+      {
+        "label": "PMDC Infection Control Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34647",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Bi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Birth Attendant Lady Health Worker. Clinical examination and investigative review confirm promoting delivery by trained skilled birth attendants and utilizing community Lady Health Workers for timely identification of obstetric emergencies. Vitals reveal blood pressure of 137/79 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care maternal mortality reduction community interventions skilled birth attendant lady health worker. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Promoting delivery by trained skilled birth attendants and utilizing community Lady Health Workers for timely identification of obstetric emergencies",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is promoting delivery by trained skilled birth attendants and utilizing community Lady Health Workers for timely identification of obstetric emergencies. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Birth Attendant Lady Health Worker.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Birth Attendant Lady Health Worker. The cornerstone of management involves promoting delivery by trained skilled birth attendants and utilizing community Lady Health Workers for timely identification of obstetric emergencies. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Birth Attendant Lady Health Worker.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Maternal Mortality Reduction Community Interventions Skilled Birth Attendant Lady Health Worker."
+    ],
+    "references": [
+      {
+        "label": "PMDC Maternal and Child Health Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34648",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Applicati",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Application Kangaroo Mother Care. Clinical examination and investigative review confirm applying 7.1 percent chlorhexidine digluconate gel to umbilical cord stump once daily and practicing continuous skin-to-skin kangaroo mother care. Vitals reveal blood pressure of 138/80 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care essential newborn care chlorhexidine 7.1 percent cord application kangaroo mother care. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Applying 7.1 percent chlorhexidine digluconate gel to umbilical cord stump once daily and practicing continuous skin-to-skin kangaroo mother care",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying 7.1 percent chlorhexidine digluconate gel to umbilical cord stump once daily and practicing continuous skin-to-skin kangaroo mother care. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Application Kangaroo Mother Care.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Application Kangaroo Mother Care. The cornerstone of management involves applying 7.1 percent chlorhexidine digluconate gel to umbilical cord stump once daily and practicing continuous skin-to-skin kangaroo mother care. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Application Kangaroo Mother Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Essential Newborn Care Chlorhexidine 7.1 Percent Cord Application Kangaroo Mother Care."
+    ],
+    "references": [
+      {
+        "label": "PMDC Neonatal Care Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34649",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care National Health Programmes Lady Health Worker Programme Communi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care National Health Programmes Lady Health Worker Programme Community Mobilization Primary Healthcare. Clinical examination and investigative review confirm collaborating with local Lady Health Worker to monitor antenatal registrations, family planning supplies, and child immunization coverage. Vitals reveal blood pressure of 139/81 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care national health programmes lady health worker programme community mobilization primary healthcare. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Collaborating with local Lady Health Worker to monitor antenatal registrations, family planning supplies, and child immunization coverage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is collaborating with local Lady Health Worker to monitor antenatal registrations, family planning supplies, and child immunization coverage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care National Health Programmes Lady Health Worker Programme Community Mobilization Primary Healthcare.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care National Health Programmes Lady Health Worker Programme Community Mobilization Primary Healthcare. The cornerstone of management involves collaborating with local Lady Health Worker to monitor antenatal registrations, family planning supplies, and child immunization coverage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care National Health Programmes Lady Health Worker Programme Community Mobilization Primary Healthcare.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care National Health Programmes Lady Health Worker Programme Community Mobilization Primary Healthcare."
+    ],
+    "references": [
+      {
+        "label": "National LHW Programme and PMDC",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34650",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Ce",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Celsius Ice Packs Freeze-Sensitive. Clinical examination and investigative review confirm maintaining continuous temperature monitoring between +2 and +8 degrees Celsius in ILR refrigerator and checking shake test for frozen DTP. Vitals reveal blood pressure of 118/82 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care vaccine cold chain management temperature log 2 to 8 degrees celsius ice packs freeze-sensitive. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Maintaining continuous temperature monitoring between +2 and +8 degrees Celsius in ILR refrigerator and checking shake test for frozen DTP",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is maintaining continuous temperature monitoring between +2 and +8 degrees Celsius in ILR refrigerator and checking shake test for frozen DTP. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Celsius Ice Packs Freeze-Sensitive.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Celsius Ice Packs Freeze-Sensitive. The cornerstone of management involves maintaining continuous temperature monitoring between +2 and +8 degrees Celsius in ILR refrigerator and checking shake test for frozen DTP. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Celsius Ice Packs Freeze-Sensitive.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vaccine Cold Chain Management Temperature Log 2 to 8 Degrees Celsius Ice Packs Freeze-Sensitive."
+    ],
+    "references": [
+      {
+        "label": "EPI Pakistan Cold Chain Standards and PMDC",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34651",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroug",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroughly Safe Temperature Water. Clinical examination and investigative review confirm disseminating WHO 5 keys to safer food: keep clean, separate raw and cooked, cook thoroughly, keep food at safe temperatures, use safe water. Vitals reveal blood pressure of 119/83 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care food safety five keys to safer food clean separate cook thoroughly safe temperature water. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Disseminating WHO 5 keys to safer food: keep clean, separate raw and cooked, cook thoroughly, keep food at safe temperatures, use safe water",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is disseminating WHO 5 keys to safer food: keep clean, separate raw and cooked, cook thoroughly, keep food at safe temperatures, use safe water. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroughly Safe Temperature Water.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroughly Safe Temperature Water. The cornerstone of management involves disseminating WHO 5 keys to safer food: keep clean, separate raw and cooked, cook thoroughly, keep food at safe temperatures, use safe water. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroughly Safe Temperature Water.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Food Safety Five Keys to Safer Food Clean Separate Cook Thoroughly Safe Temperature Water."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Preventive Medicine",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34652",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Ac",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Activity Tobacco Cessation Community. Clinical examination and investigative review confirm implementing population-level primary prevention by educating on limiting dietary salt to under 5 g daily and engaging in 150 minutes weekly exercise. Vitals reveal blood pressure of 120/84 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care non-communicable diseases prevention salt reduction physical activity tobacco cessation community. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Implementing population-level primary prevention by educating on limiting dietary salt to under 5 g daily and engaging in 150 minutes weekly exercise",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is implementing population-level primary prevention by educating on limiting dietary salt to under 5 g daily and engaging in 150 minutes weekly exercise. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Activity Tobacco Cessation Community.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Activity Tobacco Cessation Community. The cornerstone of management involves implementing population-level primary prevention by educating on limiting dietary salt to under 5 g daily and engaging in 150 minutes weekly exercise. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Activity Tobacco Cessation Community.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Non-Communicable Diseases Prevention Salt Reduction Physical Activity Tobacco Cessation Community."
+    ],
+    "references": [
+      {
+        "label": "PMDC Preventive Health Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34653",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topical Chloramphenicol Eye Drops. Clinical examination and investigative review confirm prescribing broad-spectrum topical chloramphenicol 0.5 percent eye drops 4 times daily and counseling on hand hygiene to prevent spread. Vitals reveal blood pressure of 121/85 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute bacterial conjunctivitis purulent discharge matting topical chloramphenicol eye drops. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Prescribing broad-spectrum topical chloramphenicol 0.5 percent eye drops 4 times daily and counseling on hand hygiene to prevent spread",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing broad-spectrum topical chloramphenicol 0.5 percent eye drops 4 times daily and counseling on hand hygiene to prevent spread. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topical Chloramphenicol Eye Drops.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topical Chloramphenicol Eye Drops. The cornerstone of management involves prescribing broad-spectrum topical chloramphenicol 0.5 percent eye drops 4 times daily and counseling on hand hygiene to prevent spread. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topical Chloramphenicol Eye Drops.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Bacterial Conjunctivitis Purulent Discharge Matting Topical Chloramphenicol Eye Drops."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Eye Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34654",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral Azithromycin Facial Cleanliness. Clinical examination and investigative review confirm administering single dose of oral azithromycin 20 mg per kg and implementing WHO SAFE strategy to eliminate blinding endemic trachoma. Vitals reveal blood pressure of 122/86 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care trachoma chlamydia trachomatis follicles who safe strategy oral azithromycin facial cleanliness. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Administering single dose of oral azithromycin 20 mg per kg and implementing WHO SAFE strategy to eliminate blinding endemic trachoma",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is administering single dose of oral azithromycin 20 mg per kg and implementing WHO SAFE strategy to eliminate blinding endemic trachoma. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral Azithromycin Facial Cleanliness.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral Azithromycin Facial Cleanliness. The cornerstone of management involves administering single dose of oral azithromycin 20 mg per kg and implementing WHO SAFE strategy to eliminate blinding endemic trachoma. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral Azithromycin Facial Cleanliness.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Trachoma Chlamydia Trachomatis Follicles WHO SAFE Strategy Oral Azithromycin Facial Cleanliness."
+    ],
+    "references": [
+      {
+        "label": "WHO and PMDC Ophthalmology Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34655",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follicle Warm Compresses Antibiotic Ointment. Clinical examination and investigative review confirm applying warm moist compresses for 10 minutes 4 times daily to promote spontaneous drainage and prescribing topical polymyxin ointment. Vitals reveal blood pressure of 123/87 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care external hordeolum stye staphylococcal infection eyelash follicle warm compresses antibiotic ointment. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Applying warm moist compresses for 10 minutes 4 times daily to promote spontaneous drainage and prescribing topical polymyxin ointment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying warm moist compresses for 10 minutes 4 times daily to promote spontaneous drainage and prescribing topical polymyxin ointment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follicle Warm Compresses Antibiotic Ointment.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follicle Warm Compresses Antibiotic Ointment. The cornerstone of management involves applying warm moist compresses for 10 minutes 4 times daily to promote spontaneous drainage and prescribing topical polymyxin ointment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follicle Warm Compresses Antibiotic Ointment.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care External Hordeolum Stye Staphylococcal Infection Eyelash Follicle Warm Compresses Antibiotic Ointment."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Eye Care Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34656",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral Amoxicillin Analgesia. Clinical examination and investigative review confirm prescribing oral amoxicillin 80 mg per kg per day divided twice daily for 7 to 10 days alongside oral paracetamol for bulging infected eardrum. Vitals reveal blood pressure of 124/72 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute otitis media bulging erythematous tympanic membrane oral amoxicillin analgesia. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prescribing oral amoxicillin 80 mg per kg per day divided twice daily for 7 to 10 days alongside oral paracetamol for bulging infected eardrum",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing oral amoxicillin 80 mg per kg per day divided twice daily for 7 to 10 days alongside oral paracetamol for bulging infected eardrum. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral Amoxicillin Analgesia.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral Amoxicillin Analgesia. The cornerstone of management involves prescribing oral amoxicillin 80 mg per kg per day divided twice daily for 7 to 10 days alongside oral paracetamol for bulging infected eardrum. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral Amoxicillin Analgesia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Otitis Media Bulging Erythematous Tympanic Membrane Oral Amoxicillin Analgesia."
+    ],
+    "references": [
+      {
+        "label": "PMDC Pediatric ENT Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34657",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dul",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dull Retracted Drum Watchful Waiting. Clinical examination and investigative review confirm recommending 3-month watchful waiting and hearing assessment before considering tympanostomy grommet insertion for non-infected middle ear fluid. Vitals reveal blood pressure of 125/73 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care otitis media with effusion glue ear conductive hearing loss dull retracted drum watchful waiting. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Recommending 3-month watchful waiting and hearing assessment before considering tympanostomy grommet insertion for non-infected middle ear fluid",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending 3-month watchful waiting and hearing assessment before considering tympanostomy grommet insertion for non-infected middle ear fluid. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dull Retracted Drum Watchful Waiting.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dull Retracted Drum Watchful Waiting. The cornerstone of management involves recommending 3-month watchful waiting and hearing assessment before considering tympanostomy grommet insertion for non-infected middle ear fluid. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dull Retracted Drum Watchful Waiting.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Otitis Media With Effusion Glue Ear Conductive Hearing Loss Dull Retracted Drum Watchful Waiting."
+    ],
+    "references": [
+      {
+        "label": "PMDC ENT Practice Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34658",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever Adenopathy Penicillin V. Clinical examination and investigative review confirm calculating Centor score and prescribing oral phenoxymethylpenicillin (penicillin V) for 10 days for exudative feverish sore throat. Vitals reveal blood pressure of 126/74 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute streptococcal tonsillitis centor criteria exudate fever adenopathy penicillin v. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Calculating Centor score and prescribing oral phenoxymethylpenicillin (penicillin V) for 10 days for exudative feverish sore throat",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is calculating Centor score and prescribing oral phenoxymethylpenicillin (penicillin V) for 10 days for exudative feverish sore throat. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever Adenopathy Penicillin V.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever Adenopathy Penicillin V. The cornerstone of management involves calculating Centor score and prescribing oral phenoxymethylpenicillin (penicillin V) for 10 days for exudative feverish sore throat. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever Adenopathy Penicillin V.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Streptococcal Tonsillitis Centor Criteria Exudate Fever Adenopathy Penicillin V."
+    ],
+    "references": [
+      {
+        "label": "PMDC General Practice Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34659",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Sal",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Saline Spray Decongestant Symptomatic. Clinical examination and investigative review confirm recommending nasal saline irrigation, steam inhalation, and short-term oral paracetamol while avoiding antibiotics for sinusitis under 10 days. Vitals reveal blood pressure of 127/75 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute viral rhinosinusitis nasal congestion facial pressure saline spray decongestant symptomatic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Recommending nasal saline irrigation, steam inhalation, and short-term oral paracetamol while avoiding antibiotics for sinusitis under 10 days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending nasal saline irrigation, steam inhalation, and short-term oral paracetamol while avoiding antibiotics for sinusitis under 10 days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Saline Spray Decongestant Symptomatic.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Saline Spray Decongestant Symptomatic. The cornerstone of management involves recommending nasal saline irrigation, steam inhalation, and short-term oral paracetamol while avoiding antibiotics for sinusitis under 10 days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Saline Spray Decongestant Symptomatic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Viral Rhinosinusitis Nasal Congestion Facial Pressure Saline Spray Decongestant Symptomatic."
+    ],
+    "references": [
+      {
+        "label": "PMDC ENT Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34660",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Oliv",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Olive Oil Drops Warm Syringing. Clinical examination and investigative review confirm instilling olive oil or sodium bicarbonate ear drops for 3 to 5 days to soften cerumen plug prior to gentle warm water bulb syringe irrigation. Vitals reveal blood pressure of 128/76 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care cerumen impaction impacted ear wax conductive hearing loss olive oil drops warm syringing. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Instilling olive oil or sodium bicarbonate ear drops for 3 to 5 days to soften cerumen plug prior to gentle warm water bulb syringe irrigation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instilling olive oil or sodium bicarbonate ear drops for 3 to 5 days to soften cerumen plug prior to gentle warm water bulb syringe irrigation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Olive Oil Drops Warm Syringing.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Olive Oil Drops Warm Syringing. The cornerstone of management involves instilling olive oil or sodium bicarbonate ear drops for 3 to 5 days to soften cerumen plug prior to gentle warm water bulb syringe irrigation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Olive Oil Drops Warm Syringing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Cerumen Impaction Impacted Ear Wax Conductive Hearing Loss Olive Oil Drops Warm Syringing."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary ENT Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34661",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examinati",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examination Tongue Depressor Forceps. Clinical examination and investigative review confirm inspecting palatine tonsils and tongue base under good illumination and removing visible fish bone with fine Hartmann alligator forceps. Vitals reveal blood pressure of 129/77 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care foreign body ingestion fish bone throat oropharyngeal examination tongue depressor forceps. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Inspecting palatine tonsils and tongue base under good illumination and removing visible fish bone with fine Hartmann alligator forceps",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is inspecting palatine tonsils and tongue base under good illumination and removing visible fish bone with fine Hartmann alligator forceps. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examination Tongue Depressor Forceps.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examination Tongue Depressor Forceps. The cornerstone of management involves inspecting palatine tonsils and tongue base under good illumination and removing visible fish bone with fine Hartmann alligator forceps. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examination Tongue Depressor Forceps.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Foreign Body Ingestion Fish Bone Throat Oropharyngeal Examination Tongue Depressor Forceps."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery and ENT Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34662",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Clo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Cloudy Cornea Severe Headache Pilocarpine Urgent Referral. Clinical examination and investigative review confirm instilling topical 2 percent pilocarpine, oral acetazolamide 500 mg, and rushing patient for emergency ophthalmology laser peripheral iridotomy. Vitals reveal blood pressure of 130/78 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute angle-closure glaucoma mid-dilated non-reactive pupil cloudy cornea severe headache pilocarpine urgent referral. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Instilling topical 2 percent pilocarpine, oral acetazolamide 500 mg, and rushing patient for emergency ophthalmology laser peripheral iridotomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is instilling topical 2 percent pilocarpine, oral acetazolamide 500 mg, and rushing patient for emergency ophthalmology laser peripheral iridotomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Cloudy Cornea Severe Headache Pilocarpine Urgent Referral.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Cloudy Cornea Severe Headache Pilocarpine Urgent Referral. The cornerstone of management involves instilling topical 2 percent pilocarpine, oral acetazolamide 500 mg, and rushing patient for emergency ophthalmology laser peripheral iridotomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Cloudy Cornea Severe Headache Pilocarpine Urgent Referral.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Angle-Closure Glaucoma Mid-Dilated Non-Reactive Pupil Cloudy Cornea Severe Headache Pilocarpine Urgent Referral."
+    ],
+    "references": [
+      {
+        "label": "PMDC Emergency Eye Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34663",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retino",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retinoid Cream First-Line. Clinical examination and investigative review confirm prescribing topical benzoyl peroxide 5 percent gel combined with evening topical adapalene retinoid for mild-to-moderate inflammatory acne. Vitals reveal blood pressure of 131/79 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acne vulgaris comedones papules topical benzoyl peroxide retinoid cream first-line. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      },
+      {
+        "text": "Prescribing topical benzoyl peroxide 5 percent gel combined with evening topical adapalene retinoid for mild-to-moderate inflammatory acne",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing topical benzoyl peroxide 5 percent gel combined with evening topical adapalene retinoid for mild-to-moderate inflammatory acne. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retinoid Cream First-Line.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retinoid Cream First-Line. The cornerstone of management involves prescribing topical benzoyl peroxide 5 percent gel combined with evening topical adapalene retinoid for mild-to-moderate inflammatory acne. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retinoid Cream First-Line.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acne Vulgaris Comedones Papules Topical Benzoyl Peroxide Retinoid Cream First-Line."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Practice Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34664",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles Topical Hydrocortisone 1 Percent. Clinical examination and investigative review confirm identifying contact trigger, advising strict avoidance, and applying topical 1 percent hydrocortisone or betamethasone cream for localized flare. Vitals reveal blood pressure of 132/80 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care allergic contact dermatitis nickel poison ivy pruritic vesicles topical hydrocortisone 1 percent. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Identifying contact trigger, advising strict avoidance, and applying topical 1 percent hydrocortisone or betamethasone cream for localized flare",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is identifying contact trigger, advising strict avoidance, and applying topical 1 percent hydrocortisone or betamethasone cream for localized flare. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles Topical Hydrocortisone 1 Percent.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles Topical Hydrocortisone 1 Percent. The cornerstone of management involves identifying contact trigger, advising strict avoidance, and applying topical 1 percent hydrocortisone or betamethasone cream for localized flare. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles Topical Hydrocortisone 1 Percent.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Allergic Contact Dermatitis Nickel Poison Ivy Pruritic Vesicles Topical Hydrocortisone 1 Percent."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34665",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation An",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation Antihistamine Cetirizine 10mg. Clinical examination and investigative review confirm prescribing once-daily oral cetirizine 10 mg or fexofenadine 180 mg to relieve histamine-mediated pruritic hives without sedation. Vitals reveal blood pressure of 133/81 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care acute urticaria pruritic evanescent wheals second-generation antihistamine cetirizine 10mg. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing once-daily oral cetirizine 10 mg or fexofenadine 180 mg to relieve histamine-mediated pruritic hives without sedation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing once-daily oral cetirizine 10 mg or fexofenadine 180 mg to relieve histamine-mediated pruritic hives without sedation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation Antihistamine Cetirizine 10mg.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation Antihistamine Cetirizine 10mg. The cornerstone of management involves prescribing once-daily oral cetirizine 10 mg or fexofenadine 180 mg to relieve histamine-mediated pruritic hives without sedation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation Antihistamine Cetirizine 10mg.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Acute Urticaria Pruritic Evanescent Wheals Second-Generation Antihistamine Cetirizine 10mg."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Care Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34666",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man presents to the rural health center (RHC) outpatient consultation room in Sindh with clinical findings indicative of NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scaling Christmas Tree Pattern Reassurance. Clinical examination and investigative review confirm reassuring patient of benign self-limiting viral exanthem clearing spontaneously in 6 to 8 weeks without requiring aggressive medication. Vitals reveal blood pressure of 134/82 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care pityriasis rosea herald patch oval erythematous collarette scaling christmas tree pattern reassurance. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Reassuring patient of benign self-limiting viral exanthem clearing spontaneously in 6 to 8 weeks without requiring aggressive medication",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reassuring patient of benign self-limiting viral exanthem clearing spontaneously in 6 to 8 weeks without requiring aggressive medication. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scaling Christmas Tree Pattern Reassurance.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scaling Christmas Tree Pattern Reassurance. The cornerstone of management involves reassuring patient of benign self-limiting viral exanthem clearing spontaneously in 6 to 8 weeks without requiring aggressive medication. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scaling Christmas Tree Pattern Reassurance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Pityriasis Rosea Herald Patch Oval Erythematous Collarette Scaling Christmas Tree Pattern Reassurance."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34667",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconaz",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is admitted to the emergency observation ward of a District Headquarter (DHQ) hospital with clinical findings indicative of NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconazole 2 Percent Shampoo. Clinical examination and investigative review confirm recommending twice-weekly lathering with topical 2 percent ketoconazole or zinc pyrithione shampoo for greasy scaling erythema. Vitals reveal blood pressure of 135/83 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care seborrheic dermatitis dandruff scalp nasolabial folds ketoconazole 2 percent shampoo. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Recommending twice-weekly lathering with topical 2 percent ketoconazole or zinc pyrithione shampoo for greasy scaling erythema",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is recommending twice-weekly lathering with topical 2 percent ketoconazole or zinc pyrithione shampoo for greasy scaling erythema. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconazole 2 Percent Shampoo.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconazole 2 Percent Shampoo. The cornerstone of management involves recommending twice-weekly lathering with topical 2 percent ketoconazole or zinc pyrithione shampoo for greasy scaling erythema. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconazole 2 Percent Shampoo.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Seborrheic Dermatitis Dandruff Scalp Nasolabial Folds Ketoconazole 2 Percent Shampoo."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34668",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus To",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man undergoes primary medical assessment at a community health clinic in Khyber Pakhtunkhwa with clinical findings indicative of NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus Topical Salicylic Acid Occlusion. Clinical examination and investigative review confirm applying daily topical salicylic acid 17 percent paint following gentle pumice stone filing and covering with adhesive duct tape. Vitals reveal blood pressure of 136/84 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care verruca vulgaris common cutaneous warts human papillomavirus topical salicylic acid occlusion. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Applying daily topical salicylic acid 17 percent paint following gentle pumice stone filing and covering with adhesive duct tape",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying daily topical salicylic acid 17 percent paint following gentle pumice stone filing and covering with adhesive duct tape. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus Topical Salicylic Acid Occlusion.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus Topical Salicylic Acid Occlusion. The cornerstone of management involves applying daily topical salicylic acid 17 percent paint following gentle pumice stone filing and covering with adhesive duct tape. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus Topical Salicylic Acid Occlusion.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Verruca Vulgaris Common Cutaneous Warts Human Papillomavirus Topical Salicylic Acid Occlusion."
+    ],
+    "references": [
+      {
+        "label": "PMDC Minor Surgery and Dermatology",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34669",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Pro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the family practice medical center for routine clinical examination in Balochistan with clinical findings indicative of NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Protection High-Potency Topical Corticosteroid. Clinical examination and investigative review confirm prescribing potent topical corticosteroid cream for localized vitiligo lesions and counseling on strict broad-spectrum SPF 50 sunscreen use. Vitals reveal blood pressure of 137/85 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care vitiligo autoimmune melanocyte loss depigmented macules sun protection high-potency topical corticosteroid. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Prescribing potent topical corticosteroid cream for localized vitiligo lesions and counseling on strict broad-spectrum SPF 50 sunscreen use",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is prescribing potent topical corticosteroid cream for localized vitiligo lesions and counseling on strict broad-spectrum SPF 50 sunscreen use. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "correct": false,
+        "explanation": "Incorrect: Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Protection High-Potency Topical Corticosteroid.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Protection High-Potency Topical Corticosteroid. The cornerstone of management involves prescribing potent topical corticosteroid cream for localized vitiligo lesions and counseling on strict broad-spectrum SPF 50 sunscreen use. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Protection High-Potency Topical Corticosteroid.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Vitiligo Autoimmune Melanocyte Loss Depigmented Macules Sun Protection High-Potency Topical Corticosteroid."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Curriculum",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34670",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is examined at the outpatient general practice clinic for formal medical licensing evaluation with clinical findings indicative of NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscreen Topical Azelaic Acid 20 Percent. Clinical examination and investigative review confirm advising strict daily sun protection with mineral titanium-zinc sunscreen and prescribing topical 20 percent azelaic acid cream. Vitals reveal blood pressure of 138/86 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care facial melasma chloasma mask of pregnancy broad-spectrum sunscreen topical azelaic acid 20 percent. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Advising strict daily sun protection with mineral titanium-zinc sunscreen and prescribing topical 20 percent azelaic acid cream",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is advising strict daily sun protection with mineral titanium-zinc sunscreen and prescribing topical 20 percent azelaic acid cream. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "correct": false,
+        "explanation": "Incorrect: Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscreen Topical Azelaic Acid 20 Percent.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscreen Topical Azelaic Acid 20 Percent. The cornerstone of management involves advising strict daily sun protection with mineral titanium-zinc sunscreen and prescribing topical 20 percent azelaic acid cream. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscreen Topical Azelaic Acid 20 Percent.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Facial Melasma Chloasma Mask of Pregnancy Broad-Spectrum Sunscreen Topical Azelaic Acid 20 Percent."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Standards",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34671",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the basic health unit (BHU) in rural Punjab for primary care evaluation with clinical findings indicative of NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus Topical Mupirocin 2 Percent Ointment. Clinical examination and investigative review confirm soaking off crusts with warm water and applying topical mupirocin 2 percent ointment three times daily for 7 days for localized impetigo. Vitals reveal blood pressure of 139/87 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care impetigo contagiosa honey-colored crusted lesions staph aureus topical mupirocin 2 percent ointment. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Soaking off crusts with warm water and applying topical mupirocin 2 percent ointment three times daily for 7 days for localized impetigo",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is soaking off crusts with warm water and applying topical mupirocin 2 percent ointment three times daily for 7 days for localized impetigo. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus Topical Mupirocin 2 Percent Ointment.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus Topical Mupirocin 2 Percent Ointment. The cornerstone of management involves soaking off crusts with warm water and applying topical mupirocin 2 percent ointment three times daily for 7 days for localized impetigo. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus Topical Mupirocin 2 Percent Ointment.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Impetigo Contagiosa Honey-Colored Crusted Lesions Staph Aureus Topical Mupirocin 2 Percent Ointment."
+    ],
+    "references": [
+      {
+        "label": "PMDC Primary Care Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-34672",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules To",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is evaluated in the emergency triage room of a Tehsil Headquarter (THQ) hospital with clinical findings indicative of NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules Topical Clotrimazole Zinc Oxide Paste. Clinical examination and investigative review confirm applying topical clotrimazole 1 percent cream twice daily with keeping skin folds clean dry and exposed to air to clear candidal intertrigo. Vitals reveal blood pressure of 118/72 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nle primary care intertrigo submammary inguinal candidiasis satellite papules topical clotrimazole zinc oxide paste. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Applying topical clotrimazole 1 percent cream twice daily with keeping skin folds clean dry and exposed to air to clear candidal intertrigo",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is applying topical clotrimazole 1 percent cream twice daily with keeping skin folds clean dry and exposed to air to clear candidal intertrigo. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules Topical Clotrimazole Zinc Oxide Paste.\\n\\nClinical Discussion: This clinical presentation corresponds to NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules Topical Clotrimazole Zinc Oxide Paste. The cornerstone of management involves applying topical clotrimazole 1 percent cream twice daily with keeping skin folds clean dry and exposed to air to clear candidal intertrigo. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules Topical Clotrimazole Zinc Oxide Paste.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of NLE Primary Care Intertrigo Submammary Inguinal Candidiasis Satellite Papules Topical Clotrimazole Zinc Oxide Paste."
+    ],
+    "references": [
+      {
+        "label": "PMDC Dermatology Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
