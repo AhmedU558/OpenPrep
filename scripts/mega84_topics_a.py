@@ -1,0 +1,1607 @@
+# Auto-generated topics for Mega-Batch 84 Part A (MCCQE, NEET_PG)
+
+MCCQE_TOPICS = [
+  [
+    "Hypertension Canada 2024 Ambulatory Blood Pressure Thresholds",
+    "Medicine",
+    "Cardiovascular",
+    "awake mean ABP 135/85 mmHg or 24-hour mean 130/80 mmHg confirming essential hypertension diagnosis",
+    "Hypertension Canada Guidelines",
+    "https://hypertension.ca"
+  ],
+  [
+    "Diabetes Canada 2024 SGLT2 Inhibitor Cardiorenal Protection",
+    "Medicine",
+    "Renal",
+    "empagliflozin or dapagliflozin in patients with eGFR 20-60 mL/min/1.73m2 regardless of baseline HbA1c",
+    "Diabetes Canada Clinical Practice Guidelines",
+    "https://guidelines.diabetes.ca"
+  ],
+  [
+    "Thrombosis Canada Direct Oral Anticoagulant Non-Valvular Atrial Fibrillation",
+    "Medicine",
+    "Cardiovascular",
+    "apixaban 5 mg BID with CHADS-65 algorithm indication and dose reduction criteria",
+    "Thrombosis Canada Clinical Guides",
+    "https://thrombosiscanada.ca"
+  ],
+  [
+    "Canadian Cardiovascular Society Heart Failure Guideline 4 Pillars",
+    "Medicine",
+    "Cardiovascular",
+    "ARNI, beta-blocker, MRA, and SGLT2 inhibitor quadruple medical therapy initiation for HFrEF",
+    "Canadian Cardiovascular Society Guidelines",
+    "https://ccs.ca"
+  ],
+  [
+    "Osteoporosis Canada 2023 Fracture Risk Assessment Tool (CAROC)",
+    "Medicine",
+    "Musculoskeletal",
+    "10-year major osteoporotic fracture risk stratification guiding first-line oral zoledronic acid or denosumab",
+    "Osteoporosis Canada Guidelines",
+    "https://osteoporosis.ca"
+  ],
+  [
+    "SOGC Nuchal Translucency and First Trimester Combined Screening",
+    "Obstetrics",
+    "Pregnancy",
+    "fetal ultrasound NT measurement between 11+0 and 13+6 weeks combined with maternal PAPP-A and free beta-hCG",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "SOGC Postpartum Hemorrhage Active Medical Management Algorithm",
+    "Obstetrics",
+    "Pregnancy",
+    "rapid oxytocin infusion followed by ergonovine, carboprost, and bimanual uterine compression",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "SOGC Gestational Diabetes Screening 50g Glucose Challenge Test",
+    "Obstetrics",
+    "Pregnancy",
+    "1-hour plasma glucose threshold >= 7.8 mmol/L prompting formal 75g OGTT confirmation",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "Canadian Paediatric Society Febrile Infant 29 to 60 Days Risk Stratification",
+    "Pediatrics",
+    "General Principles",
+    "urinalysis, CBC, and inflammatory markers guiding outpatient ceftriaxone vs close home surveillance",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Croup Dexamethasone Monotherapy",
+    "Pediatrics",
+    "Respiratory",
+    "single oral dexamethasone 0.15 mg/kg with nebulized racemic epinephrine reserved for stridor at rest",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Bronchiolitis Supportive Care Focus",
+    "Pediatrics",
+    "Respiratory",
+    "supplemental oxygen, gentle nasal suctioning, and hydration avoiding routine bronchodilators or steroids",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "CMPA Medical Decision-Making Capacity and Substitute Decision Maker Hierarchy",
+    "Ethics",
+    "General Principles",
+    "hierarchy starting with court-appointed guardian, spouse/partner, adult child, parent, sibling",
+    "Canadian Medical Protective Association",
+    "https://cmpa-acpm.ca"
+  ],
+  [
+    "CMPA Disclosure of Adverse Events and Apology Act Protections",
+    "Ethics",
+    "General Principles",
+    "factual transparent disclosure of harm and remedial steps protected from liability admission",
+    "Canadian Medical Protective Association",
+    "https://cmpa-acpm.ca"
+  ],
+  [
+    "CAMH Alcohol Use Disorder Pharmacotherapy with Naltrexone and Acamprosate",
+    "Psychiatry",
+    "Behavioral Health",
+    "oral naltrexone for craving reduction and acamprosate for abstinence maintenance in detoxified patients",
+    "CAMH Clinical Practice Guidelines",
+    "https://camh.ca"
+  ],
+  [
+    "CAMH Major Depressive Disorder First-Line Escitalopram or Sertraline",
+    "Psychiatry",
+    "Behavioral Health",
+    "SSRI monotherapy with 4-to-6-week therapeutic trial and routine PHQ-9 symptom tracking",
+    "CANMAT Depression Guidelines",
+    "https://canmat.org"
+  ],
+  [
+    "CANMAT Bipolar I Disorder Acute Mania Lithium Plus Second-Gen Antipsychotic",
+    "Psychiatry",
+    "Behavioral Health",
+    "combination lithium carbonate and quetiapine or aripiprazole for severe acute manic episode",
+    "CANMAT Bipolar Guidelines",
+    "https://canmat.org"
+  ],
+  [
+    "Canadian Thoracic Society COPD Triple Inhalation Therapy Criteria",
+    "Medicine",
+    "Respiratory",
+    "LAMA/LABA/ICS single-inhaler triple therapy for frequent exacerbators with blood eosinophils >= 300 cells/uL",
+    "Canadian Thoracic Society Guidelines",
+    "https://cts-sct.ca"
+  ],
+  [
+    "Canadian Thoracic Society Asthma SMART Regimen Formoterol/Budesonide",
+    "Medicine",
+    "Respiratory",
+    "low-dose ICS-formoterol as both daily maintenance and as-needed reliever for mild to moderate asthma",
+    "Canadian Thoracic Society Guidelines",
+    "https://cts-sct.ca"
+  ],
+  [
+    "Choosing Wisely Canada Routine Preoperative Electrocardiogram Avoidance",
+    "Medicine",
+    "Cardiovascular",
+    "avoiding resting ECG in asymptomatic low-risk patients undergoing low-risk non-cardiac surgery",
+    "Choosing Wisely Canada",
+    "https://choosingwiselycanada.org"
+  ],
+  [
+    "Choosing Wisely Canada Acute Uncomplicated Low Back Pain Imaging Restriction",
+    "Medicine",
+    "Musculoskeletal",
+    "avoiding routine lumbar spine X-ray or MRI in the first 6 weeks absent red flag neurological signs",
+    "Choosing Wisely Canada",
+    "https://choosingwiselycanada.org"
+  ],
+  [
+    "Choosing Wisely Canada Asymptomatic Bacteriuria Treatment Avoidance",
+    "Medicine",
+    "Renal",
+    "withholding antibiotics for positive urine cultures in non-pregnant asymptomatic elderly patients",
+    "Choosing Wisely Canada",
+    "https://choosingwiselycanada.org"
+  ],
+  [
+    "Thrombosis Canada Heparin-Induced Thrombocytopenia 4Ts Score",
+    "Medicine",
+    "Hematology",
+    "high 4Ts score prompting immediate cessation of heparin and initiation of non-heparin direct thrombin inhibitor",
+    "Thrombosis Canada Clinical Guides",
+    "https://thrombosiscanada.ca"
+  ],
+  [
+    "Thrombosis Canada Cancer-Associated Thrombosis Apixaban vs LMWH",
+    "Medicine",
+    "Hematology",
+    "direct oral anticoagulant apixaban or rivaroxaban first-line unless high mucosal gastrointestinal bleeding risk",
+    "Thrombosis Canada Clinical Guides",
+    "https://thrombosiscanada.ca"
+  ],
+  [
+    "Canadian Association of Radiologists Head CT Rules for Minor Head Injury",
+    "Surgery",
+    "Nervous System",
+    "Canadian CT Head Rule high-risk criteria including GCS < 15 at 2h or suspected open/depressed skull fracture",
+    "Canadian Association of Radiologists",
+    "https://car.ca"
+  ],
+  [
+    "Ottawa Ankle and Foot Rules for Acute Inversion Injury Radiography",
+    "Surgery",
+    "Musculoskeletal",
+    "inability to bear weight 4 steps and malleolar/navicular tenderness mandating plain radiography",
+    "Canadian Association of Emergency Physicians",
+    "https://caep.ca"
+  ],
+  [
+    "Ottawa Knee Rule for Acute Post-Traumatic Knee Radiography",
+    "Surgery",
+    "Musculoskeletal",
+    "age >= 55, isolated patellar tenderness, fibular head tenderness, flexion < 90 degrees, or weight-bearing failure",
+    "Canadian Association of Emergency Physicians",
+    "https://caep.ca"
+  ],
+  [
+    "Canadian Clinical Practice Guidelines for Obesity Semaglutide 2.4 mg",
+    "Medicine",
+    "Endocrine",
+    "weekly GLP-1 receptor agonist combined with behavioral nutrition and physical activity interventions",
+    "Obesity Canada Guidelines",
+    "https://obesitycanada.ca"
+  ],
+  [
+    "Public Health Agency of Canada Lyme Disease Early Erythema Migrans",
+    "Microbiology",
+    "Dermatology",
+    "clinical recognition of expanding annular rash following tick bite and oral doxycycline for 10-14 days",
+    "Public Health Agency of Canada",
+    "https://canada.ca/public-health"
+  ],
+  [
+    "Public Health Agency of Canada Latent Tuberculosis Infection Rifampin 4 Months",
+    "Microbiology",
+    "Respiratory",
+    "daily oral rifampin for 4 months as preferred short-course regimen for latent TB infection",
+    "Canadian Tuberculosis Standards",
+    "https://canada.ca/public-health"
+  ],
+  [
+    "Canadian Stroke Best Practices Endovascular Thrombectomy Window up to 24 Hours",
+    "Neurology",
+    "Nervous System",
+    "EVT for large vessel anterior circulation occlusion selected with CT perfusion/MRI mismatch",
+    "Canadian Stroke Best Practices Guidelines",
+    "https://strokebestpractices.ca"
+  ],
+  [
+    "Canadian Stroke Best Practices Dual Antiplatelet Therapy for High-Risk TIA",
+    "Neurology",
+    "Nervous System",
+    "aspirin plus clopidogrel initiated within 24 hours for 21 days for ABCD2 score >= 4 or minor ischemic stroke",
+    "Canadian Stroke Best Practices Guidelines",
+    "https://strokebestpractices.ca"
+  ],
+  [
+    "Canadian Guidelines for Chronic Kidney Disease SGLT2i and Non-Steroidal MRA",
+    "Medicine",
+    "Renal",
+    "finerenone added to maximally tolerated ACEi/ARB for residual albuminuria in diabetic CKD",
+    "Kidney Foundation of Canada Guidelines",
+    "https://kidney.ca"
+  ],
+  [
+    "Canadian Rheumatology Association Early Rheumatoid Arthritis Methotrexate",
+    "Medicine",
+    "Musculoskeletal",
+    "rapid initiation of oral or subcutaneous methotrexate within 6 weeks of symptom onset with folic acid co-prescription",
+    "Canadian Rheumatology Association",
+    "https://rheum.ca"
+  ],
+  [
+    "Canadian Rheumatology Association Psoriatic Arthritis Interleukin-17 Inhibitor",
+    "Medicine",
+    "Musculoskeletal",
+    "secukinumab or ixekizumab for active peripheral arthritis and refractory plaque psoriasis",
+    "Canadian Rheumatology Association",
+    "https://rheum.ca"
+  ],
+  [
+    "Canadian Dermatology Association Atopic Dermatitis Dupilumab Biologic Therapy",
+    "Medicine",
+    "Dermatology",
+    "IL-4/IL-13 receptor alpha monoclonal antibody for moderate-to-severe eczema failing topical corticosteroids",
+    "Canadian Dermatology Association",
+    "https://dermatology.ca"
+  ],
+  [
+    "Canadian Task Force on Preventive Health Care Colorectal Cancer Screening",
+    "Medicine",
+    "Gastrointestinal",
+    "fecal immunochemical test (FIT) every 2 years in average-risk individuals aged 50 to 74 years",
+    "Canadian Task Force on Preventive Health Care",
+    "https://canadiantaskforce.ca"
+  ],
+  [
+    "Canadian Task Force on Preventive Health Care Cervical Cancer HPV Testing",
+    "Obstetrics",
+    "Pregnancy",
+    "primary high-risk human papillomavirus (HPV) molecular DNA screening replacing liquid cytology every 5 years",
+    "Canadian Task Force on Preventive Health Care",
+    "https://canadiantaskforce.ca"
+  ],
+  [
+    "Canadian Task Force on Preventive Health Care Breast Cancer Mammography",
+    "Medicine",
+    "General Principles",
+    "shared decision-making regarding biennial screening mammography in average-risk women aged 40 to 49 and 50 to 74",
+    "Canadian Task Force on Preventive Health Care",
+    "https://canadiantaskforce.ca"
+  ],
+  [
+    "Canadian Guideline for Safe Opioid Prescribing for Chronic Non-Cancer Pain",
+    "Pharmacology",
+    "Nervous System",
+    "restricting dose escalation to < 90 mg morphine milligram equivalents daily and avoiding concurrent benzodiazepines",
+    "National Opioid Use Guideline Group",
+    "https://fhs.mcmaster.ca/paininstitute"
+  ],
+  [
+    "Canadian Palliative Care Subcutaneous Hydromorphone for Breakthrough Cancer Pain",
+    "Medicine",
+    "General Principles",
+    "subcutaneous hydromorphone titrated at 10-15% of the total 24-hour baseline opioid dose as-needed",
+    "Canadian Hospice Palliative Care Association",
+    "https://chpca.ca"
+  ],
+  [
+    "Canadian Geriatrics Society Delirium 4Ms Age-Friendly Framework",
+    "Geriatrics",
+    "Nervous System",
+    "non-pharmacological bundle prioritizing reorientation, sleep hygiene, mobilization, and medication review",
+    "Canadian Geriatrics Society",
+    "https://canadiangeriatricssociety.org"
+  ],
+  [
+    "Canadian Geriatrics Society BPSD Non-Pharmacological First-Line Strategy",
+    "Geriatrics",
+    "Behavioral Health",
+    "identifying unmet physical needs, pain, and sensory impairment before cautious low-dose antipsychotic trial",
+    "Canadian Geriatrics Society",
+    "https://canadiangeriatricssociety.org"
+  ],
+  [
+    "Canadian Association of Gastroenterology Acute Lower GI Bleed Colonoscopy Timing",
+    "Medicine",
+    "Gastrointestinal",
+    "elective colonoscopy within 24-48 hours after hemodynamic stabilization and adequate oral bowel prep",
+    "Canadian Association of Gastroenterology",
+    "https://cag-acg.org"
+  ],
+  [
+    "Canadian Association of Gastroenterology Ulcerative Colitis Infliximab or Vedolizumab",
+    "Medicine",
+    "Gastrointestinal",
+    "biologic induction with gut-selective alpha-4-beta-7 integrin blocker or anti-TNF for moderate-severe pancolitis",
+    "Canadian Association of Gastroenterology",
+    "https://cag-acg.org"
+  ],
+  [
+    "Canadian Association of Gastroenterology Helicobacter pylori Quadruple Therapy",
+    "Medicine",
+    "Gastrointestinal",
+    "bismuth subsalicylate, metronidazole, tetracycline, and high-dose PPI for 14 days eradication",
+    "Canadian Association of Gastroenterology",
+    "https://cag-acg.org"
+  ],
+  [
+    "SOGC Recurrent Pregnancy Loss Thrombophilia and Karyotype Evaluation",
+    "Obstetrics",
+    "Pregnancy",
+    "parental balanced translocation cytogenetics and antiphospholipid antibody panel after 2 or more losses",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "SOGC Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria",
+    "Obstetrics",
+    "Pregnancy",
+    "serum beta-hCG < 5000 IU/L, gestational mass < 3.5 cm, absence of fetal cardiac activity, and normal liver/renal enzymes",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "SOGC Postmenopausal Bleeding Endometrial Stripe Thickness Threshold",
+    "Obstetrics",
+    "Pregnancy",
+    "transvaginal ultrasound endometrial echo > 4 mm necessitating pipelle endometrial biopsy",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "SOGC Placenta Previa Elective Cesarean Section Delivery Timing",
+    "Obstetrics",
+    "Pregnancy",
+    "planned delivery at 36+0 to 37+6 weeks gestation in stable asymptomatic complete placenta previa",
+    "SOGC Clinical Practice Guidelines",
+    "https://sogc.org"
+  ],
+  [
+    "Canadian Paediatric Society Urinary Tract Infection First-Line Oral Cefixime",
+    "Pediatrics",
+    "Renal",
+    "oral third-generation cephalosporin for 7-10 days in febrile infants followed by renal ultrasound",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Neonatal Jaundice Bilirubin Nomogram Management",
+    "Pediatrics",
+    "General Principles",
+    "total serum bilirubin plotted on hour-specific risk nomogram directing intensive blue-green phototherapy",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Acute Otitis Media Watchful Waiting Strategy",
+    "Pediatrics",
+    "General Principles",
+    "48-hour observation without antibiotics in mild unilateral AOM in children aged >= 6 months with reliable follow-up",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Kawasaki Disease IVIG and High-Dose Aspirin",
+    "Pediatrics",
+    "Cardiovascular",
+    "single infusion IVIG 2 g/kg within 10 days of fever onset to prevent coronary artery aneurysm formation",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Paediatric Society Anaphylaxis Intramuscular Epinephrine in Thigh",
+    "Pediatrics",
+    "General Principles",
+    "immediate anterolateral mid-thigh injection of epinephrine 0.01 mg/kg (max 0.3 mg) repeated at 5-15 min",
+    "Canadian Paediatric Society Guidelines",
+    "https://cps.ca"
+  ],
+  [
+    "Canadian Cardiovascular Society Syncope Risk Stratification San Francisco Rule",
+    "Medicine",
+    "Cardiovascular",
+    "identifying high-risk features: abnormal ECG, hematocrit < 30%, SOB, systolic BP < 90, or history of CHF",
+    "Canadian Cardiovascular Society Guidelines",
+    "https://ccs.ca"
+  ],
+  [
+    "Canadian Cardiovascular Society Hypertrophic Cardiomyopathy SCD Risk Calculator",
+    "Medicine",
+    "Cardiovascular",
+    "evaluating left ventricular wall thickness >= 30 mm, non-sustained VT, and unexplained syncope for ICD placement",
+    "Canadian Cardiovascular Society Guidelines",
+    "https://ccs.ca"
+  ],
+  [
+    "Canadian Cardiovascular Society Dyslipidemia Statin-Ezetimibe-PCSK9i Algorithm",
+    "Medicine",
+    "Cardiovascular",
+    "target LDL-C < 1.4 mmol/L in secondary prevention using rosuvastatin/atorvastatin escalated to evolocumab",
+    "Canadian Cardiovascular Society Guidelines",
+    "https://ccs.ca"
+  ],
+  [
+    "Choosing Wisely Canada Routine Asymptomatic Carotid Stenosis Screening",
+    "Medicine",
+    "Cardiovascular",
+    "avoiding carotid duplex ultrasound in asymptomatic patients without transient focal neurologic symptoms",
+    "Choosing Wisely Canada",
+    "https://choosingwiselycanada.org"
+  ],
+  [
+    "Canadian Thoracic Society Idiopathic Pulmonary Fibrosis Antifibrotic Agents",
+    "Medicine",
+    "Respiratory",
+    "nintedanib or pirfenidone to attenuate forced vital capacity decline in confirmed UIP pattern",
+    "Canadian Thoracic Society Guidelines",
+    "https://cts-sct.ca"
+  ],
+  [
+    "Canadian Thoracic Society Obstructive Sleep Apnea Home Sleep Apnea Testing",
+    "Medicine",
+    "Respiratory",
+    "level 3 portable sleep study in patients with high pretest probability of uncomplicated moderate-severe OSA",
+    "Canadian Thoracic Society Guidelines",
+    "https://cts-sct.ca"
+  ],
+  [
+    "Canadian Neurological Sciences Federation Migraine Monoclonal CGRP Antagonists",
+    "Neurology",
+    "Nervous System",
+    "monthly subcutaneous erenumab or fremanezumab for refractory episodic and chronic migraine prophylaxis",
+    "Canadian Neurological Sciences Federation",
+    "https://cnsf.org"
+  ],
+  [
+    "Canadian Neurological Sciences Federation Parkinson Disease Levodopa Initiation",
+    "Neurology",
+    "Nervous System",
+    "carbidopa-levodopa first-line for motor impairment in older adults balancing dyskinesia and motor benefits",
+    "Canadian Neurological Sciences Federation",
+    "https://cnsf.org"
+  ],
+  [
+    "Canadian Neurological Sciences Federation Multiple Sclerosis Ocrelizumab",
+    "Neurology",
+    "Nervous System",
+    "anti-CD20 monoclonal antibody infusion every 6 months for active relapsing and primary progressive MS",
+    "Canadian Neurological Sciences Federation",
+    "https://cnsf.org"
+  ],
+  [
+    "Canadian Neurological Sciences Federation Status Epilepticus IV Lorazepam",
+    "Neurology",
+    "Nervous System",
+    "rapid IV lorazepam 0.1 mg/kg followed by IV levetiracetam 60 mg/kg for refractory convulsive status",
+    "Canadian Neurological Sciences Federation",
+    "https://cnsf.org"
+  ],
+  [
+    "Canadian Association of General Surgeons Acute Appendicitis Alvarado Score",
+    "Surgery",
+    "Gastrointestinal",
+    "clinical score >= 7 directing urgent laparoscopic appendectomy without mandatory pre-op CT in young males",
+    "Canadian Association of General Surgeons",
+    "https://cags-accg.ca"
+  ],
+  [
+    "Canadian Association of General Surgeons Small Bowel Obstruction Gastrografin Challenge",
+    "Surgery",
+    "Gastrointestinal",
+    "water-soluble oral contrast challenge predicting adhesive SBO resolution and selecting operative candidates",
+    "Canadian Association of General Surgeons",
+    "https://cags-accg.ca"
+  ],
+  [
+    "Canadian Association of General Surgeons Acute Cholecystitis Tokyo Guidelines 2018",
+    "Surgery",
+    "Gastrointestinal",
+    "early laparoscopic cholecystectomy within 72 hours of symptom onset for grade I and II cholecystitis",
+    "Canadian Association of General Surgeons",
+    "https://cags-accg.ca"
+  ],
+  [
+    "Canadian Association of General Surgeons Diverticulitis Modified Hinchey Classification",
+    "Surgery",
+    "Gastrointestinal",
+    "percutaneous CT-guided catheter drainage for Hinchey Ib/II abscess > 4 cm with IV antibiotics",
+    "Canadian Association of General Surgeons",
+    "https://cags-accg.ca"
+  ],
+  [
+    "Canadian Urological Association Benign Prostatic Hyperplasia Combination Therapy",
+    "Surgery",
+    "Renal",
+    "alpha-blocker tamsulosin combined with 5-alpha reductase inhibitor dutasteride for prostate volume > 30 cc",
+    "Canadian Urological Association",
+    "https://cua.org"
+  ],
+  [
+    "Canadian Urological Association Kidney Stone Shock Wave Lithotripsy vs URS",
+    "Surgery",
+    "Renal",
+    "ureteroscopy with holmium laser lithotripsy for lower pole calculi > 10 mm and proximal ureteral stones",
+    "Canadian Urological Association",
+    "https://cua.org"
+  ],
+  [
+    "Canadian Urological Association Microscopic Hematuria Risk-Based Workup",
+    "Surgery",
+    "Renal",
+    "high-risk hematuria (> 25 RBC/HPF, smoking history) requiring flexible cystoscopy and multiphasic CT urography",
+    "Canadian Urological Association",
+    "https://cua.org"
+  ],
+  [
+    "Canadian Dermatology Association Melanoma Breslow Depth Excision Margins",
+    "Medicine",
+    "Dermatology",
+    "wide local excision with 1 cm margin for depth <= 1.0 mm and 2 cm margin for depth > 2.0 mm",
+    "Canadian Dermatology Association",
+    "https://dermatology.ca"
+  ],
+  [
+    "Canadian Dermatology Association Plaque Psoriasis Biologic IL-23 Inhibitors",
+    "Medicine",
+    "Dermatology",
+    "subcutaneous risankizumab or guselkumab targeting p19 subunit of IL-23 for clear skin maintenance",
+    "Canadian Dermatology Association",
+    "https://dermatology.ca"
+  ],
+  [
+    "Canadian Public Health HIV Post-Exposure Prophylaxis 28-Day Regimen",
+    "Microbiology",
+    "General Principles",
+    "tenofovir disoproxil fumarate, emtricitabine, plus dolutegravir or raltegravir started within 72 hours",
+    "Canadian Guidelines on HIV PEP",
+    "https://catie.ca"
+  ],
+  [
+    "Canadian Public Health Syphilis Benzathine Penicillin G Staging Regimens",
+    "Microbiology",
+    "General Principles",
+    "single dose 2.4 million units IM for primary/secondary and 3 weekly doses for late latent syphilis",
+    "Public Health Agency of Canada",
+    "https://canada.ca/public-health"
+  ],
+  [
+    "Canadian Public Health Chlamydia and Gonorrhea Dual Therapy Updates",
+    "Microbiology",
+    "General Principles",
+    "ceftriaxone 500 mg IM single dose plus oral doxycycline 100 mg BID for 7 days if chlamydia not excluded",
+    "Public Health Agency of Canada",
+    "https://canada.ca/public-health"
+  ],
+  [
+    "Canadian Cancer Society Colorectal Cancer Lynch Syndrome Mismatch Repair Testing",
+    "Pathology",
+    "Gastrointestinal",
+    "universal IHC screening for MLH1, MSH2, MSH6, and PMS2 in all newly diagnosed colorectal resections",
+    "Canadian Cancer Society",
+    "https://cancer.ca"
+  ],
+  [
+    "Canadian Association of Medical Oncologists Breast Cancer HER2-Low Trastuzumab Deruxtecan",
+    "Medicine",
+    "General Principles",
+    "antibody-drug conjugate directed therapy for metastatic HER2-low (IHC 1+ or 2+/ISH-) breast cancer",
+    "Canadian Association of Medical Oncologists",
+    "https://camo-aco.ca"
+  ],
+  [
+    "Canadian Association of Medical Oncologists Non-Small Cell Lung Cancer Osimertinib",
+    "Medicine",
+    "Respiratory",
+    "third-generation EGFR tyrosine kinase inhibitor for EGFR exon 19 deletion or L858R mutation",
+    "Canadian Association of Medical Oncologists",
+    "https://camo-aco.ca"
+  ],
+  [
+    "Canadian Psychiatric Association Schizophrenia Long-Acting Injectable Antipsychotics",
+    "Psychiatry",
+    "Behavioral Health",
+    "paliperidone palmitate or aripiprazole depot offered early to prevent treatment non-adherence and relapse",
+    "Canadian Psychiatric Association",
+    "https://cpa-apc.org"
+  ],
+  [
+    "Canadian Psychiatric Association Generalized Anxiety Disorder Venlafaxine XR or SSRI",
+    "Psychiatry",
+    "Behavioral Health",
+    "SNRI or SSRI first-line pharmacotherapy combined with cognitive behavioral therapy for chronic worry",
+    "Canadian Psychiatric Association",
+    "https://cpa-apc.org"
+  ],
+  [
+    "Canadian Psychiatric Association Clozapine Monitoring and Absolute Neutrophil Count",
+    "Psychiatry",
+    "Behavioral Health",
+    "weekly ANC monitoring for first 6 months with threshold >= 1.5 x 10^9/L required for dispensing",
+    "Canadian Psychiatric Association",
+    "https://cpa-apc.org"
+  ],
+  [
+    "Canadian Critical Care Society Sepsis-3 Shock Norepinephrine First-Line Vasopressor",
+    "Medicine",
+    "Cardiovascular",
+    "initial norepinephrine infusion targeting mean arterial pressure >= 65 mmHg with early crystalloid boluses",
+    "Canadian Critical Care Society",
+    "https://canadiancriticalcare.org"
+  ],
+  [
+    "Canadian Critical Care Society ARDS Lung-Protective Mechanical Ventilation",
+    "Medicine",
+    "Respiratory",
+    "low tidal volume ventilation 4-8 mL/kg predicted body weight and plateau pressure < 30 cmH2O",
+    "Canadian Critical Care Society",
+    "https://canadiancriticalcare.org"
+  ],
+  [
+    "Canadian Critical Care Society Stress Ulcer Prophylaxis in High-Risk ICU Patients",
+    "Medicine",
+    "Gastrointestinal",
+    "proton pump inhibitor or H2RA restricted to invasive ventilation > 48h or coagulopathy (INR > 1.5, Plt < 50k)",
+    "Canadian Critical Care Society",
+    "https://canadiancriticalcare.org"
+  ],
+  [
+    "Canadian Anesthesiologists' Society Preoperative Fasting Guidelines 2-4-6-8 Rule",
+    "Surgery",
+    "General Principles",
+    "clear liquids up to 2h, breast milk 4h, light meal 6h, and fatty/fried meal 8h before elective surgery",
+    "Canadian Anesthesiologists' Society",
+    "https://cas.ca"
+  ],
+  [
+    "Canadian Anesthesiologists' Society Malignant Hyperthermia IV Dantrolene Protocol",
+    "Surgery",
+    "Musculoskeletal",
+    "immediate cessation of triggering agents, hyperventilation with 100% O2, and IV dantrolene 2.5 mg/kg bolus",
+    "Canadian Anesthesiologists' Society",
+    "https://cas.ca"
+  ],
+  [
+    "Canadian Anesthesiologists' Society Local Anesthetic Systemic Toxicity Lipid Rescue",
+    "Surgery",
+    "Cardiovascular",
+    "20% intravenous lipid emulsion bolus 1.5 mL/kg followed by infusion 0.25 mL/kg/min for bupivacaine LAST",
+    "Canadian Anesthesiologists' Society",
+    "https://cas.ca"
+  ],
+  [
+    "Canadian Orthopaedic Association Hip Fracture Operative Fixation Timing < 48h",
+    "Surgery",
+    "Musculoskeletal",
+    "surgical repair within 48 hours to significantly reduce 30-day mortality, pressure ulcers, and pneumonia",
+    "Canadian Orthopaedic Association",
+    "https://coa-aco.org"
+  ],
+  [
+    "Canadian Orthopaedic Association Septic Arthritis Joint Aspiration Synovial Fluid",
+    "Surgery",
+    "Musculoskeletal",
+    "urgent needle arthrocentesis demonstrating synovial WBC > 50,000/uL with > 90% polymorphonuclears",
+    "Canadian Orthopaedic Association",
+    "https://coa-aco.org"
+  ],
+  [
+    "Canadian Ophthalmology Society Acute Angle-Closure Glaucoma Immediate Management",
+    "Surgery",
+    "Nervous System",
+    "topical timolol, apraclonidine, pilocarpine, and IV acetazolamide followed by laser peripheral iridotomy",
+    "Canadian Ophthalmological Society",
+    "https://cos-sco.ca"
+  ],
+  [
+    "Canadian Ophthalmology Society Age-Related Macular Degeneration Anti-VEGF Injections",
+    "Surgery",
+    "Nervous System",
+    "intravitreal aflibercept or ranibizumab monthly to treat subretinal choroidal neovascular membranes",
+    "Canadian Ophthalmological Society",
+    "https://cos-sco.ca"
+  ],
+  [
+    "Canadian Society of Otolaryngology Sudden Sensorineural Hearing Loss Oral Steroids",
+    "Surgery",
+    "Nervous System",
+    "high-dose oral prednisone 1 mg/kg/day for 10-14 days initiated within 72 hours of symptom onset",
+    "Canadian Society of Otolaryngology",
+    "https://entcanada.org"
+  ],
+  [
+    "Canadian Society of Otolaryngology Benign Paroxysmal Positional Vertigo Epley Maneuver",
+    "Neurology",
+    "Nervous System",
+    "particle repositioning canalith repositioning procedure for posterior semicircular canal canalithiasis",
+    "Canadian Society of Otolaryngology",
+    "https://entcanada.org"
+  ],
+  [
+    "Canadian Society of Otolaryngology Acute Epiglottitis Airway Management Priorities",
+    "Surgery",
+    "Respiratory",
+    "urgent securing of airway in controlled operating room setting prior to direct visualization or imaging",
+    "Canadian Society of Otolaryngology",
+    "https://entcanada.org"
+  ],
+  [
+    "Canadian Blood Services Massive Transfusion Protocol 1:1:1 Ratio Component Therapy",
+    "Medicine",
+    "Hematology",
+    "empiric balanced transfusion of 1 unit PRBC : 1 unit fresh frozen plasma : 1 adult dose platelets",
+    "Canadian Blood Services",
+    "https://blood.ca"
+  ],
+  [
+    "Canadian Blood Services Acute Hemolytic Transfusion Reaction Immediate Protocol",
+    "Medicine",
+    "Hematology",
+    "immediate cessation of transfusion, intravenous saline diuresis, and clerical check of donor unit unit-tag",
+    "Canadian Blood Services",
+    "https://blood.ca"
+  ],
+  [
+    "Health Canada Opioid Harm Reduction Take-Home Naloxone Intranasal Spray",
+    "Medicine",
+    "Behavioral Health",
+    "intranasal naloxone 4 mg single spray into one nostril repeated every 2-3 minutes for respiratory depression",
+    "Health Canada",
+    "https://canada.ca/health-canada"
+  ],
+  [
+    "Canadian Association for the Study of the Liver Hepatitis C Direct-Acting Antivirals",
+    "Medicine",
+    "Gastrointestinal",
+    "pangenotypic sofosbuvir/velpatasvir for 12 weeks achieving sustained virologic response > 95%",
+    "Canadian Association for the Study of the Liver",
+    "https://casl.ca"
+  ],
+  [
+    "Canadian Association for the Study of the Liver Spontaneous Bacterial Peritonitis",
+    "Medicine",
+    "Gastrointestinal",
+    "diagnostic paracentesis with ascitic fluid PMN count >= 250 cells/uL and IV cefotaxime with albumin infusion",
+    "Canadian Association for the Study of the Liver",
+    "https://casl.ca"
+  ]
+]
+
+NEET_PG_TOPICS = [
+  [
+    "National Medical Commission Scrub Typhus Doxycycline Therapy",
+    "Microbiology",
+    "General Principles",
+    "eschar visualization with systemic fever and oral doxycycline 100 mg twice daily for 7 days",
+    "NMC Guidelines India",
+    "https://nmc.org.in"
+  ],
+  [
+    "National Medical Commission Indian Visceral Leishmaniasis Liposomal Amphotericin B",
+    "Microbiology",
+    "Hematology",
+    "single-dose intravenous liposomal amphotericin B 10 mg/kg curative for Kala-azar in endemic Bihar",
+    "National Vector Borne Disease Control Programme",
+    "https://nvbdcp.gov.in"
+  ],
+  [
+    "National Tuberculosis Elimination Program (NTEP) Daily Fixed-Dose Combination FDC",
+    "Microbiology",
+    "Respiratory",
+    "2 months HRZE intensive phase followed by 4 months HRE continuation phase for drug-sensitive pulmonary TB",
+    "Central TB Division India",
+    "https://tbcindia.gov.in"
+  ],
+  [
+    "National Tuberculosis Elimination Program (NTEP) Multi-Drug Resistant TB BPaLM Regimen",
+    "Microbiology",
+    "Respiratory",
+    "bedaquiline, pretomanid, linezolid, and moxifloxacin all-oral 6-month regimen for MDR/RR pulmonary TB",
+    "Central TB Division India",
+    "https://tbcindia.gov.in"
+  ],
+  [
+    "National Leprosy Eradication Programme (NLEP) Multibacillary MDT 3-Drug Regimen",
+    "Microbiology",
+    "Dermatology",
+    "rifampicin 600 mg monthly, clofazimine 300 mg monthly plus 50 mg daily, and dapsone 100 mg daily for 12 months",
+    "NLEP Guidelines India",
+    "https://dghs.gov.in"
+  ],
+  [
+    "National Vector Borne Disease Malaria Chloroquine-Resistant Vivax and Falciparum ACT",
+    "Microbiology",
+    "Hematology",
+    "artemisinin-based combination therapy (artesunate-sulfadoxine-pyrimethamine or artemether-lumefantrine) plus primaquine",
+    "NVBDCP Guidelines India",
+    "https://nvbdcp.gov.in"
+  ],
+  [
+    "Rabies Post-Exposure Prophylaxis Category III Wound Intradermal Abbreviated Regimen",
+    "Microbiology",
+    "Nervous System",
+    "rabies immunoglobulin wound infiltration plus intradermal 2-site vaccine on days 0, 3, 7, and 28",
+    "National Centre for Disease Control India",
+    "https://ncdc.gov.in"
+  ],
+  [
+    "Japanese Encephalitis Acute Encephalitis Syndrome Fluid and Seizure Management",
+    "Microbiology",
+    "Nervous System",
+    "supportive airway protection, mannitol for elevated ICP, and levetiracetam without specific antiviral therapy",
+    "NCDC Guidelines India",
+    "https://ncdc.gov.in"
+  ],
+  [
+    "Kyasanur Forest Disease Monkey Fever Supportive Care and Tick Avoidance",
+    "Microbiology",
+    "General Principles",
+    "supportive hydration, blood transfusions for hemorrhagic complications, and killed formalin-inactivated vaccine",
+    "ICMR Guidelines India",
+    "https://icmr.gov.in"
+  ],
+  [
+    "Indian Guidelines on Hypertension (IGH-IV) Telmisartan and Amlodipine First-Line",
+    "Medicine",
+    "Cardiovascular",
+    "angiotensin receptor blocker plus calcium channel blocker dual single-pill combination for stage 2 hypertension",
+    "Cardiological Society of India",
+    "https://csi.org.in"
+  ],
+  [
+    "Research Society for Study of Diabetes in India (RSSDI) Metformin plus Teneligliptin",
+    "Medicine",
+    "Endocrine",
+    "metformin titrated to 2000 mg daily combined with affordable DPP-4i teneligliptin or SGLT2i dapagliflozin",
+    "RSSDI Clinical Practice Recommendations",
+    "https://rssdi.in"
+  ],
+  [
+    "Cardiological Society of India STEMI Primary PCI Door-to-Balloon Strategy",
+    "Medicine",
+    "Cardiovascular",
+    "primary percutaneous coronary intervention within 90 minutes or pharmaco-invasive tenecteplase if transport > 120 min",
+    "Cardiological Society of India",
+    "https://csi.org.in"
+  ],
+  [
+    "Indian Council of Medical Research (ICMR) Gestational Diabetes DIPSI Criteria",
+    "Obstetrics",
+    "Pregnancy",
+    "single 75g non-fasting oral glucose challenge with 2-hour plasma venous glucose >= 140 mg/dL",
+    "ICMR Diabetes Guidelines",
+    "https://icmr.gov.in"
+  ],
+  [
+    "Federation of Obstetric and Gynaecological Societies of India (FOGSI) PPH Oxytocin Plus Misoprostol",
+    "Obstetrics",
+    "Pregnancy",
+    "intravenous oxytocin 10-20 units infusion augmented with sublingual misoprostol 800 mcg for atonic uterus",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "FOGSI Severe Preeclampsia Magnesium Sulfate Pritchard Intramuscular Protocol",
+    "Obstetrics",
+    "Pregnancy",
+    "4g IV loading dose followed by 5g IM in each buttock, then 5g IM every 4 hours guided by patellar reflex and urine output",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "FOGSI Eclampsia Fits Management Calcium Gluconate Antidote Preparedness",
+    "Obstetrics",
+    "Pregnancy",
+    "10% calcium gluconate 10 mL IV push immediately available for magnesium sulfate toxicity respiratory depression",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "Indian Academy of Pediatrics (IAP) Acute Watery Diarrhea Low-Osmolarity ORS and Zinc",
+    "Pediatrics",
+    "Gastrointestinal",
+    "reduced-osmolarity WHO-ORS oral rehydration plus elemental zinc 20 mg daily for 14 days to reduce stool volume",
+    "Indian Academy of Pediatrics",
+    "https://iapindia.org"
+  ],
+  [
+    "Indian Academy of Pediatrics Severe Acute Malnutrition (SAM) F-75 Initial Stabilization",
+    "Pediatrics",
+    "General Principles",
+    "starter starter formula F-75 providing 75 kcal/100 mL without high protein to avoid refeeding fluid overload",
+    "IAP Nutrition Guidelines",
+    "https://iapindia.org"
+  ],
+  [
+    "Indian Academy of Pediatrics Neonatal Sepsis Empiric Ampicillin and Gentamicin",
+    "Pediatrics",
+    "General Principles",
+    "intravenous ampicillin plus aminoglycoside gentamicin as first-line empiric coverage for early-onset neonatal sepsis",
+    "IAP Neonatology Chapter",
+    "https://iapindia.org"
+  ],
+  [
+    "Indian Academy of Pediatrics Immunization Schedule Primary Pentavalent Vaccine",
+    "Pediatrics",
+    "General Principles",
+    "DTPw, hepatitis B, and Hib combination vaccine administered at 6, 10, and 14 weeks of age with oral polio vaccine",
+    "IAP Guidebook on Immunization",
+    "https://iapindia.org"
+  ],
+  [
+    "Indian Academy of Pediatrics Febrile Seizures Buccal Midazolam Emergency Abortive",
+    "Pediatrics",
+    "Nervous System",
+    "buccal midazolam 0.2 mg/kg or rectal diazepam for prolonged seizures lasting > 5 minutes with reassuring EEG avoidance",
+    "Indian Academy of Pediatrics",
+    "https://iapindia.org"
+  ],
+  [
+    "Association of Surgeons of India (ASI) Acute Calculus Cholecystitis Critical View of Safety",
+    "Surgery",
+    "Gastrointestinal",
+    "Strasberg critical view of safety dissecting hepatocystic triangle to expose cystic duct and artery before clipping",
+    "Association of Surgeons of India",
+    "https://asiindia.org"
+  ],
+  [
+    "Association of Surgeons of India Laparoscopic Inguinal Hernia TEP vs TAPP Repair",
+    "Surgery",
+    "Gastrointestinal",
+    "totally extraperitoneal (TEP) or transabdominal preperitoneal (TAPP) mesh placement for bilateral/recurrent hernias",
+    "Association of Surgeons of India",
+    "https://asiindia.org"
+  ],
+  [
+    "Association of Surgeons of India Acute Pancreatitis Revised Atlanta Criteria",
+    "Surgery",
+    "Gastrointestinal",
+    "contrast-enhanced CT at 72-96 hours identifying necrotizing collections and step-up percutaneous drainage approach",
+    "Association of Surgeons of India",
+    "https://asiindia.org"
+  ],
+  [
+    "Association of Surgeons of India Obstructive Jaundice Whipple Pancreaticoduodenectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "en bloc resection of pancreatic head, duodenum, proximal jejunum, gallbladder, and distal bile duct for adenocarcinoma",
+    "Association of Surgeons of India",
+    "https://asiindia.org"
+  ],
+  [
+    "Indian Society of Critical Care Medicine (ISCCM) Surviving Sepsis Dynamic Fluid Responsiveness",
+    "Medicine",
+    "Cardiovascular",
+    "passive leg raise test or stroke volume variation guiding fluid resuscitation beyond initial 30 mL/kg crystalloids",
+    "ISCCM Guidelines India",
+    "https://isccm.org"
+  ],
+  [
+    "Indian Society of Critical Care Medicine ARDS Prone Positioning >= 16 Hours Daily",
+    "Medicine",
+    "Respiratory",
+    "early prone positioning for PaO2/FiO2 < 150 mmHg in mechanically ventilated moderate-severe ARDS",
+    "ISCCM Guidelines India",
+    "https://isccm.org"
+  ],
+  [
+    "Indian Orthopaedic Association Intertrochanteric Femur Fracture Cephalomedullary Nail",
+    "Surgery",
+    "Musculoskeletal",
+    "proximal femoral nail (PFN) fixation providing load-sharing biomechanical stability for unstable fracture patterns",
+    "Indian Orthopaedic Association",
+    "https://ioaindia.org"
+  ],
+  [
+    "Indian Orthopaedic Association Open Tibia Fracture Gustilo-Anderson Antibiotic Protocol",
+    "Surgery",
+    "Musculoskeletal",
+    "immediate IV cephalosporin plus aminoglycoside with emergency wound debridement within 6-12 hours",
+    "Indian Orthopaedic Association",
+    "https://ioaindia.org"
+  ],
+  [
+    "Indian Orthopaedic Association Clubfoot Ponseti Serial Casting Technique",
+    "Surgery",
+    "Musculoskeletal",
+    "serial weekly plaster corrective manipulation correcting cavus, adductus, varus, followed by percutaneous Achilles tenotomy",
+    "Indian Orthopaedic Association",
+    "https://ioaindia.org"
+  ],
+  [
+    "Neurological Society of India Traumatic Intracranial Epidural Hematoma Craniotomy",
+    "Neurology",
+    "Nervous System",
+    "urgent emergent craniotomy and clot evacuation for epidural hematoma volume > 30 cm3 or midline shift > 5 mm",
+    "Neurological Society of India",
+    "https://neurosocietyindia.org"
+  ],
+  [
+    "Neurological Society of India Subarachnoid Hemorrhage Early Coil vs Clip within 72h",
+    "Neurology",
+    "Nervous System",
+    "endovascular aneurysm coiling or surgical clipping within 72 hours combined with oral nimodipine for vasospasm prevention",
+    "Neurological Society of India",
+    "https://neurosocietyindia.org"
+  ],
+  [
+    "Neurological Society of India Acute Ischemic Stroke IV Thrombolysis Alteplase Window 4.5h",
+    "Neurology",
+    "Nervous System",
+    "intravenous recombinant tissue plasminogen activator 0.9 mg/kg (max 90 mg) within 4.5 hours of last seen normal",
+    "Indian Stroke Association",
+    "https://stroke.org.in"
+  ],
+  [
+    "Indian Psychiatric Society Schizophrenia Olanzapine vs Risperidone Maintenance",
+    "Psychiatry",
+    "Behavioral Health",
+    "second-generation atypical antipsychotic monotherapy with regular metabolic monitoring for weight gain and hyperglycemia",
+    "Indian Psychiatric Society",
+    "https://indianpsychiatry.org"
+  ],
+  [
+    "Indian Psychiatric Society Delirium Tremens High-Dose Diazepam or Lorazepam",
+    "Psychiatry",
+    "Behavioral Health",
+    "symptom-triggered intravenous benzodiazepines titrated to CIWA-Ar score plus high-dose IV thiamine",
+    "Indian Psychiatric Society",
+    "https://indianpsychiatry.org"
+  ],
+  [
+    "Indian Psychiatric Society Obsessive-Compulsive Disorder High-Dose Fluoxetine or Sertraline",
+    "Psychiatry",
+    "Behavioral Health",
+    "high-dose SSRI sustained for at least 12 weeks combined with exposure and response prevention (ERP) therapy",
+    "Indian Psychiatric Society",
+    "https://indianpsychiatry.org"
+  ],
+  [
+    "Indian Association of Dermatologists, Venereologists and Leprologists (IADVL) Pemphigus Vulgaris Rituximab",
+    "Medicine",
+    "Dermatology",
+    "anti-CD20 monoclonal antibody rituximab as first-line corticosteroid-sparing therapy for severe mucosal-dominant pemphigus",
+    "IADVL Clinical Guidelines",
+    "https://iadvl.org"
+  ],
+  [
+    "IADVL Refractory Dermatophytosis Tinea Corporis Itraconazole Monotherapy",
+    "Microbiology",
+    "Dermatology",
+    "oral itraconazole 100-200 mg daily with strict avoidance of irrational topical corticosteroid combination creams",
+    "IADVL Task Force Against Recalcitrant Tinea",
+    "https://iadvl.org"
+  ],
+  [
+    "IADVL Severe Nodulocystic Acne Systemic Oral Isotretinoin Protocol",
+    "Medicine",
+    "Dermatology",
+    "oral isotretinoin 0.5-1.0 mg/kg/day to cumulative dose of 120-150 mg/kg with monthly liver enzymes and lipid monitoring",
+    "IADVL Clinical Guidelines",
+    "https://iadvl.org"
+  ],
+  [
+    "All India Ophthalmological Society (AIOS) Diabetic Macular Edema Intravitreal Ranibizumab",
+    "Surgery",
+    "Nervous System",
+    "intravitreal anti-VEGF monthly injections with optical coherence tomography (OCT) central subfield thickness guidance",
+    "All India Ophthalmological Society",
+    "https://aios.org"
+  ],
+  [
+    "AIOS Primary Open-Angle Glaucoma Topical Prostaglandin Analog First-Line",
+    "Surgery",
+    "Nervous System",
+    "once-daily nighttime latanoprost or bimatoprost eyedrops to achieve target intraocular pressure reduction >= 25-30%",
+    "All India Ophthalmological Society",
+    "https://aios.org"
+  ],
+  [
+    "AIOS Corneal Ulcer Bacterial vs Fungal (Natamycin 5%) Empiric Smear-Guided Therapy",
+    "Surgery",
+    "Nervous System",
+    "topical 5% natamycin suspension hourly for filamentous fungal keratitis confirmed by KOH wet mount scraping",
+    "All India Ophthalmological Society",
+    "https://aios.org"
+  ],
+  [
+    "Association of Otolaryngologists of India (AOI) Chronic Suppurative Otitis Media Tympanoplasty",
+    "Surgery",
+    "Nervous System",
+    "underlay temporalis fascia graft tympanoplasty with cortical mastoidectomy for safe-type tubotympanic disease",
+    "Association of Otolaryngologists of India",
+    "https://aoi.org.in"
+  ],
+  [
+    "AOI Rhinocerebral Mucormycosis Emergency Debridement and Liposomal Amphotericin B",
+    "Surgery",
+    "Respiratory",
+    "radical surgical debridement of necrotic paranasal tissues combined with high-dose IV liposomal amphotericin B 5-10 mg/kg",
+    "ICMR Mucormycosis Task Force",
+    "https://icmr.gov.in"
+  ],
+  [
+    "AOI Vocal Cord Polyp Microlaryngeal Phonosurgery and Voice Rest",
+    "Surgery",
+    "Respiratory",
+    "cold-instrument micro-flap excision of benign mucosal polyp preserving underlying vocal ligament and lamina propria",
+    "Association of Otolaryngologists of India",
+    "https://aoi.org.in"
+  ],
+  [
+    "Indian Society of Nephrology Glomerulonephritis Minimal Change Disease Prednisolone",
+    "Medicine",
+    "Renal",
+    "oral prednisolone 60 mg/m2/day or 1 mg/kg/day for 6 weeks followed by alternate day tapering in nephrotic syndrome",
+    "Indian Society of Nephrology",
+    "https://isn-india.org"
+  ],
+  [
+    "Indian Society of Nephrology Lupus Nephritis Class IV Mycophenolate Mofetil Induction",
+    "Medicine",
+    "Renal",
+    "oral MMF 2-3 g daily combined with pulse IV methylprednisolone followed by oral corticosteroid taper",
+    "Indian Society of Nephrology",
+    "https://isn-india.org"
+  ],
+  [
+    "Indian Society of Nephrology Hemodialysis Vascular Access Radiocephalic AV Fistula",
+    "Surgery",
+    "Renal",
+    "autogenous non-dominant distal radiocephalic arteriovenous fistula (Brescia-Cimino) placed 3-6 months prior to ESRD",
+    "Indian Society of Nephrology",
+    "https://isn-india.org"
+  ],
+  [
+    "Indian Society of Hematology and Blood Transfusion Aplastic Anemia Antithymocyte Globulin",
+    "Medicine",
+    "Hematology",
+    "horse anti-thymocyte globulin (ATG) combined with oral cyclosporine A and eltrombopag for non-transplant candidates",
+    "Indian Society of Hematology",
+    "https://ishbt.com"
+  ],
+  [
+    "Indian Society of Hematology Acute Promyelocytic Leukemia ATRA and Arsenic Trioxide",
+    "Medicine",
+    "Hematology",
+    "all-trans retinoic acid (ATRA) plus IV arsenic trioxide (ATO) dual chemotherapy-free curative induction for t(15;17)",
+    "Indian Society of Hematology",
+    "https://ishbt.com"
+  ],
+  [
+    "Indian Society of Hematology Immune Thrombocytopenic Purpura Short-Course Dexamethasone",
+    "Medicine",
+    "Hematology",
+    "high-dose oral dexamethasone 40 mg daily for 4 consecutive days achieving rapid platelet count recovery",
+    "Indian Society of Hematology",
+    "https://ishbt.com"
+  ],
+  [
+    "Indian National Association for Study of the Liver (INASL) Cirrhosis Ascites Diuretic Regimen",
+    "Medicine",
+    "Gastrointestinal",
+    "combination oral spironolactone 100 mg and furosemide 40 mg daily maintaining 100:40 ratio for normokalemia",
+    "INASL Guidelines India",
+    "https://inasl.org.in"
+  ],
+  [
+    "INASL Acute Variceal Bleeding Terlipressin and Endoscopic Variceal Ligation",
+    "Medicine",
+    "Gastrointestinal",
+    "intravenous terlipressin 2 mg every 4 hours, prophylactic IV ceftriaxone, and urgent band ligation within 12 hours",
+    "INASL Guidelines India",
+    "https://inasl.org.in"
+  ],
+  [
+    "INASL Hepatic Encephalopathy Oral Lactulose and Rifaximin Combination",
+    "Medicine",
+    "Gastrointestinal",
+    "oral lactulose titrated to 2-3 soft bowel movements daily plus rifaximin 550 mg twice daily for secondary prophylaxis",
+    "INASL Guidelines India",
+    "https://inasl.org.in"
+  ],
+  [
+    "National Medical Commission Medical Ethics Professional Misconduct and Consent",
+    "Ethics",
+    "General Principles",
+    "informed written valid consent before surgical interventions and strict adherence to patient confidentiality regulations",
+    "National Medical Commission Ethics Board",
+    "https://nmc.org.in"
+  ],
+  [
+    "NMC Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent",
+    "Ethics",
+    "General Principles",
+    "standard of ordinary skilled professional exercising reasonable competence rather than extraordinary highest skill",
+    "Supreme Court of India Legal Precedents",
+    "https://main.sci.gov.in"
+  ],
+  [
+    "Forensic Medicine India Hanging Mechanical Asphyxia Ligature Mark Differentiation",
+    "Pathology",
+    "General Principles",
+    "oblique, non-continuous, parchment-like ligature mark above thyroid cartilage distinguishing antemortem hanging from strangulation",
+    "Indian Academy of Forensic Medicine",
+    "https://iafm.in"
+  ],
+  [
+    "Forensic Medicine India Drowning Antemortem Froth and Diatom Bone Marrow Test",
+    "Pathology",
+    "General Principles",
+    "fine white persistent froth at nostrils/mouth and recovery of silicaceous diatoms from closed long bones verifying drowning",
+    "Indian Academy of Forensic Medicine",
+    "https://iafm.in"
+  ],
+  [
+    "Forensic Medicine India Firearm Entry vs Exit Wound Characteristics",
+    "Pathology",
+    "General Principles",
+    "inverted margins with abrasion collar, muzzle contusion, and tattooing indicating antemortem entry wound",
+    "Indian Academy of Forensic Medicine",
+    "https://iafm.in"
+  ],
+  [
+    "Forensic Medicine India Organophosphate Poisoning Atropinization and Pralidoxime",
+    "Pharmacology",
+    "Nervous System",
+    "intravenous atropine titrated to dry bronchial secretions and heart rate > 80 bpm combined with 2-PAM enzyme reactivator",
+    "National Poisons Information Centre India",
+    "https://aiims.edu"
+  ],
+  [
+    "Forensic Medicine India Aluminium Phosphide Celphos Poisoning Supportive Care",
+    "Pharmacology",
+    "General Principles",
+    "gastric lavage with potassium permanganate or coconut oil and IV magnesium sulfate for lethal phosphine gas shock",
+    "National Poisons Information Centre India",
+    "https://aiims.edu"
+  ],
+  [
+    "Forensic Medicine India Snake Envenomation Polyvalent Anti-Snake Venom (ASV)",
+    "Pharmacology",
+    "General Principles",
+    "intravenous polyvalent ASV neutralized against Big Four venomous snakes with repeat doses guided by 20-minute whole blood clotting test",
+    "National Snakebite Protocol India",
+    "https://ncdc.gov.in"
+  ],
+  [
+    "Indian Council of Medical Research (ICMR) Scrub Typhus Serology IgM ELISA",
+    "Microbiology",
+    "General Principles",
+    "optical density cutoff >= 0.5 on Orientia tsutsugamushi IgM ELISA confirming diagnosis in acute febrile illness",
+    "ICMR Guidelines India",
+    "https://icmr.gov.in"
+  ],
+  [
+    "Central Drugs Standard Control Organization (CDSCO) Banned Fixed Dose Combinations",
+    "Pharmacology",
+    "General Principles",
+    "elimination of irrational antibiotic-antibiotic or analgesics combinations to mitigate antimicrobial resistance and toxicity",
+    "CDSCO India",
+    "https://cdsco.gov.in"
+  ],
+  [
+    "NMC Clinical Pharmacology Adverse Drug Reaction Reporting under PvPI",
+    "Pharmacology",
+    "General Principles",
+    "spontaneous ADR reporting through Pharmacovigilance Programme of India using suspect ADR reporting yellow forms",
+    "Indian Pharmacopoeia Commission",
+    "https://ipc.gov.in"
+  ],
+  [
+    "All India Institute of Medical Sciences (AIIMS) Diabetic Ketoacidosis Fluid Replacement",
+    "Medicine",
+    "Endocrine",
+    "isotonic 0.9% normal saline 1-1.5 L in the first hour followed by regular insulin infusion 0.1 units/kg/h after potassium >= 3.3",
+    "AIIMS Clinical Protocols",
+    "https://aiims.edu"
+  ],
+  [
+    "AIIMS Hyperosmolar Hyperglycemic State Fluid Deficit and Potassium Correction",
+    "Medicine",
+    "Endocrine",
+    "slow intravenous hydration replacing 8-10 L fluid deficit over 48 hours to avoid cerebral edema with serial osmolarity tracking",
+    "AIIMS Clinical Protocols",
+    "https://aiims.edu"
+  ],
+  [
+    "AIIMS Hypoglycemic Coma 25% or 50% Dextrose Bolus Administration",
+    "Medicine",
+    "Endocrine",
+    "intravenous 25% dextrose 100 mL or 50% dextrose 50 mL push followed by 10% dextrose infusion maintaining glucose > 100 mg/dL",
+    "AIIMS Clinical Protocols",
+    "https://aiims.edu"
+  ],
+  [
+    "Cardiological Society of India Infective Endocarditis Duke Modified Criteria",
+    "Medicine",
+    "Cardiovascular",
+    "two major criteria (positive blood cultures for typical organism, echo vegetations) confirming definitive infective endocarditis",
+    "Cardiological Society of India",
+    "https://csi.org.in"
+  ],
+  [
+    "Cardiological Society of India Acute Pericarditis Colchicine plus NSAIDs",
+    "Medicine",
+    "Cardiovascular",
+    "high-dose ibuprofen 600 mg TID plus oral colchicine 0.5 mg daily for 3 months to prevent recurrent pericarditis",
+    "Cardiological Society of India",
+    "https://csi.org.in"
+  ],
+  [
+    "Indian Chest Society Community-Acquired Pneumonia CURB-65 Outpatient vs Ward Stratification",
+    "Medicine",
+    "Respiratory",
+    "CURB-65 score 0-1 for outpatient oral amoxicillin-clavulanate + azithromycin; >= 2 for hospital admission",
+    "Indian Chest Society",
+    "https://indianchestsociety.org"
+  ],
+  [
+    "Indian Chest Society Pleural Effusion Light's Criteria for Exudative vs Transudative",
+    "Medicine",
+    "Respiratory",
+    "pleural fluid protein/serum protein > 0.5 or pleural fluid LDH/serum LDH > 0.6 establishing exudative effusion",
+    "Indian Chest Society",
+    "https://indianchestsociety.org"
+  ],
+  [
+    "Indian Chest Society Bronchial Asthma Inhaled Corticosteroid Plus Formoterol SMART",
+    "Medicine",
+    "Respiratory",
+    "budesonide-formoterol DPI combination for both maintenance and immediate rescue relief across steps 1 to 4",
+    "Indian Chest Society",
+    "https://indianchestsociety.org"
+  ],
+  [
+    "Association of Physicians of India (API) Acute Liver Failure King's College Criteria",
+    "Medicine",
+    "Gastrointestinal",
+    "arterial pH < 7.30 or INR > 6.5, creatinine > 3.4 mg/dL, and encephalopathy grade III/IV prompting emergent liver transplant listing",
+    "Association of Physicians of India",
+    "https://apiindia.org"
+  ],
+  [
+    "Association of Physicians of India Alcoholic Hepatitis Maddrey's Discriminant Function",
+    "Medicine",
+    "Gastrointestinal",
+    "mDF score >= 32 directing 28-day course of oral prednisolone 40 mg daily or pentoxifylline in severe acute alcoholic hepatitis",
+    "Association of Physicians of India",
+    "https://apiindia.org"
+  ],
+  [
+    "Association of Physicians of India Wilson Disease Serum Ceruloplasmin and Penicillamine",
+    "Medicine",
+    "Gastrointestinal",
+    "reduced ceruloplasmin < 20 mg/dL, Kayser-Fleischer rings on slit-lamp, and oral copper chelator D-penicillamine therapy",
+    "Association of Physicians of India",
+    "https://apiindia.org"
+  ],
+  [
+    "Endocrine Society of India Primary Hyperparathyroidism Sestamibi Scan and Parathyroidectomy",
+    "Medicine",
+    "Endocrine",
+    "99mTc-sestamibi SPECT scan localization followed by minimally invasive parathyroidectomy for symptomatic hypercalcemia",
+    "Endocrine Society of India",
+    "https://endocrinesocietyindia.org"
+  ],
+  [
+    "Endocrine Society of India Cushing Syndrome 24-Hour Urinary Free Cortisol Screening",
+    "Medicine",
+    "Endocrine",
+    "elevated 24h UFC >= 3x ULN or failure to suppress serum cortisol < 1.8 mcg/dL on 1 mg overnight dexamethasone test",
+    "Endocrine Society of India",
+    "https://endocrinesocietyindia.org"
+  ],
+  [
+    "Endocrine Society of India Addison Disease Morning Serum Cortisol and ACTH Stimulation",
+    "Medicine",
+    "Endocrine",
+    "peak serum cortisol < 18 mcg/dL at 30/60 min following 250 mcg IV synthetic ACTH directing hydrocortisone and fludrocortisone",
+    "Endocrine Society of India",
+    "https://endocrinesocietyindia.org"
+  ],
+  [
+    "Indian Association of Surgical Oncology (IASO) Breast Cancer Modified Radical Mastectomy",
+    "Surgery",
+    "General Principles",
+    "resection of breast parenchyma, nipple-areola complex, and level I/II axillary lymph nodes for locally advanced carcinoma",
+    "Indian Association of Surgical Oncology",
+    "https://iasoindia.in"
+  ],
+  [
+    "IASO Papillary Thyroid Carcinoma Total Thyroidectomy with Central Neck Dissection",
+    "Surgery",
+    "Endocrine",
+    "total thyroidectomy plus level VI nodal clearance followed by radioiodine ablation (131-I) for high-risk tumors > 4 cm",
+    "Indian Association of Surgical Oncology",
+    "https://iasoindia.in"
+  ],
+  [
+    "IASO Oral Squamous Cell Carcinoma Wide Local Excision with Neck Dissection",
+    "Surgery",
+    "Gastrointestinal",
+    "composite resection with 1-1.5 cm microscopic clear margins and selective neck dissection level I-IV with free flap repair",
+    "Indian Association of Surgical Oncology",
+    "https://iasoindia.in"
+  ],
+  [
+    "IASO Gastric Adenocarcinoma D2 Lymphadenectomy Protocol",
+    "Surgery",
+    "Gastrointestinal",
+    "subtotal or total gastrectomy with systematic D2 nodal clearance harvesting >= 16 lymph nodes for accurate staging",
+    "Indian Association of Surgical Oncology",
+    "https://iasoindia.in"
+  ],
+  [
+    "Indian Academy of Neurology Guillain-Barr\u00e9 Syndrome IVIG vs Plasmapheresis",
+    "Neurology",
+    "Nervous System",
+    "intravenous immunoglobulin 0.4 g/kg/day for 5 days or 5 sessions of plasma exchange within 2 weeks of weakness onset",
+    "Indian Academy of Neurology",
+    "https://ian.org.in"
+  ],
+  [
+    "Indian Academy of Neurology Myasthenia Gravis Pyridostigmine and Thymectomy",
+    "Neurology",
+    "Nervous System",
+    "oral pyridostigmine bromide 60 mg every 4-6 hours plus transsternal or robotic thymectomy for generalized anti-AChR disease",
+    "Indian Academy of Neurology",
+    "https://ian.org.in"
+  ],
+  [
+    "Indian Academy of Neurology Idiopathic Intracranial Hypertension Acetazolamide and LP",
+    "Neurology",
+    "Nervous System",
+    "elevated opening pressure > 250 mmH2O with normal CSF composition treated with oral carbonic anhydrase inhibitor acetazolamide",
+    "Indian Academy of Neurology",
+    "https://ian.org.in"
+  ],
+  [
+    "Indian Rheumatology Association (IRA) Systemic Sclerosis Interstitial Lung Disease",
+    "Medicine",
+    "Musculoskeletal",
+    "high-resolution CT showing non-specific interstitial pneumonia treated with oral mycophenolate mofetil or cyclophosphamide",
+    "Indian Rheumatology Association",
+    "https://indianrheumatology.org"
+  ],
+  [
+    "Indian Rheumatology Association Ankylosing Spondylitis TNF Inhibitor Adalimumab",
+    "Medicine",
+    "Musculoskeletal",
+    "subcutaneous adalimumab or certolizumab for active radiographic axial spondyloarthritis failing oral NSAID therapy",
+    "Indian Rheumatology Association",
+    "https://indianrheumatology.org"
+  ],
+  [
+    "Indian Rheumatology Association Gout Acute Flare Colchicine vs Intra-Articular Steroid",
+    "Medicine",
+    "Musculoskeletal",
+    "low-dose oral colchicine 1.2 mg followed by 0.6 mg 1 hour later initiated within 12-24 hours of podagra onset",
+    "Indian Rheumatology Association",
+    "https://indianrheumatology.org"
+  ],
+  [
+    "Indian Association of Preventive and Social Medicine (IAPSM) EPI Cold Chain Maintenance",
+    "Biostatistics",
+    "General Principles",
+    "ice-lined refrigerators (ILR) and deep freezers maintaining temperature strictly between +2\u00b0C and +8\u00b0C with dial thermometer",
+    "IAPSM Public Health Guidelines",
+    "https://iapsm.org"
+  ],
+  [
+    "IAPSM Infant Mortality Rate and Maternal Mortality Ratio India Targets",
+    "Biostatistics",
+    "General Principles",
+    "tracking Sustainable Development Goal 3 targets (IMR <= 12 per 1000 live births, MMR <= 70 per 100,000 live births)",
+    "IAPSM Public Health Guidelines",
+    "https://iapsm.org"
+  ],
+  [
+    "IAPSM Janani Suraksha Yojana (JSY) Conditional Cash Transfer Scheme",
+    "Biostatistics",
+    "General Principles",
+    "incentivizing institutional deliveries in accredited public health facilities to reduce neonatal and maternal mortality",
+    "Ministry of Health and Family Welfare India",
+    "https://mohfw.gov.in"
+  ],
+  [
+    "IAPSM Integrated Child Development Services (ICDS) Supplementary Nutrition",
+    "Biostatistics",
+    "General Principles",
+    "anganwadi center delivered supplementary food rations, growth monitoring with WHO growth charts, and preschool education",
+    "Ministry of Women and Child Development India",
+    "https://wcd.nic.in"
+  ],
+  [
+    "All India Council of Sports Medicine Anterior Cruciate Ligament Lachman Test",
+    "Surgery",
+    "Musculoskeletal",
+    "anterior translation of tibia at 20-30 degrees knee flexion with soft end-point confirming acute ACL disruption",
+    "Indian Arthroscopy Society",
+    "https://iasonline.in"
+  ],
+  [
+    "Indian Society of Assisted Reproduction Infertility Semen Analysis WHO 6th Edition",
+    "Pathology",
+    "General Principles",
+    "reference lower limits: volume 1.4 mL, total motility 42%, progressive motility 30%, and normal forms >= 4%",
+    "Indian Society of Assisted Reproduction",
+    "https://isarindia.net"
+  ],
+  [
+    "Federation of Obstetric and Gynaecological Societies Polycystic Ovary Syndrome Rotterdam Criteria",
+    "Obstetrics",
+    "Pregnancy",
+    "two of three: oligo/anovulation, clinical/biochemical hyperandrogenism, and polycystic ovarian morphology on ultrasound",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "FOGSI Endometriosis Laparoscopic Excision and Oral Dienogest",
+    "Obstetrics",
+    "Pregnancy",
+    "conservative laparoscopic excision of endometrioma capsules followed by daily oral dienogest 2 mg for pelvic pain control",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "FOGSI Cervical Intraepithelial Neoplasia CIN III LLETZ Excision",
+    "Obstetrics",
+    "Pregnancy",
+    "large loop excision of transformation zone (LLETZ) or cold knife cone biopsy for high-grade squamous intraepithelial lesions",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "FOGSI Post-Molar Gestation Choriocarcinoma Serum Beta-hCG Monitoring",
+    "Obstetrics",
+    "Pregnancy",
+    "serial weekly serum beta-hCG until 3 normal values followed by monthly values for 6 months detecting persistent trophoblastic neoplasia",
+    "FOGSI Good Clinical Practice",
+    "https://fogsi.org"
+  ],
+  [
+    "Indian Academy of Pediatrics Congenital Hypothyroidism Neonatal Heel-Prick TSH Screening",
+    "Pediatrics",
+    "Endocrine",
+    "routine dried blood spot TSH at 48-72 hours of life with levothyroxine 10-15 mcg/kg/day started within 2 weeks of birth",
+    "Indian Academy of Pediatrics",
+    "https://iapindia.org"
+  ]
+]
