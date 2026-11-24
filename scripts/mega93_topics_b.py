@@ -1,0 +1,2410 @@
+# Auto-generated Mega-Batch 93 Part B topics (FCPS 100, NLE 100, MRCEM 100)
+
+FCPS_TOPICS = [
+  [
+    "Severe Community-Acquired Pneumonia with Septic Shock Early Norepinephrine Vasopressor and Hydrocortisone",
+    "Pharmacology",
+    "Respiratory",
+    "alpha-1 targeted vasoconstriction combined with stress-dose corticosteroid restoring mean arterial pressure",
+    "CPSP Clinical Practice Guidelines in Internal Medicine",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Coronary Syndrome STEMI Door-to-Balloon Primary PCI Within 90 Minutes",
+    "Medicine",
+    "Cardiovascular",
+    "emergent primary percutaneous coronary intervention achieving complete infarct-related artery TIMI-3 flow",
+    "CPSP Cardiology Fellowship Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "HFrEF Quadruple Medical Therapy Sacubitril-Valsartan, Bisoprolol, Empagliflozin, Spironolactone",
+    "Pharmacology",
+    "Cardiovascular",
+    "neurohormonal blockade and SGLT2 inhibition significantly reducing cardiovascular mortality and hospitalizations",
+    "CPSP Cardiology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Atrial Fibrillation Post-Ischemic Stroke Direct Factor Xa Inhibitor Apixaban 5 mg Twice Daily",
+    "Pharmacology",
+    "Cardiovascular",
+    "oral direct anticoagulation superior to warfarin with significantly lower intracranial hemorrhage risk",
+    "CPSP Neurology and Cardiology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Cirrhosis with Hepatorenal Syndrome Type 1 (HRS-AKI) Continuous Terlipressin Plus 20% IV Albumin",
+    "Pharmacology",
+    "Renal",
+    "splanchnic arterial vasoconstriction and oncotic volume expansion reversing functional renal failure",
+    "CPSP Gastroenterology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Variceal Bleeding Urgent Endoscopic Variceal Ligation (EVL) and Terlipressin Infusion",
+    "Medicine",
+    "Gastrointestinal",
+    "endoscopic mechanical band eradication within 12 hours combined with vasoactive splanchnic reduction",
+    "CPSP Gastroenterology Fellowship Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Celiac Disease Seropositive Anti-tTG IgA Endoscopic Distal Duodenal Biopsy Showing Villous Atrophy",
+    "Pathology",
+    "Gastrointestinal",
+    "Marsh III intraepithelial lymphocytosis and crypt hyperplasia confirming gluten-sensitive enteropathy",
+    "CPSP Gastroenterology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Ulcerative Colitis Acute Severe Truelove-Witts IV Hydrocortisone 100 mg 6-Hourly with Day 3 Assessment",
+    "Pharmacology",
+    "Gastrointestinal",
+    "high-dose systemic corticosteroid therapy with rescue infliximab or cyclosporine for non-responders",
+    "CPSP Gastroenterology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Crohn Disease Ileocecal Stricturing Laparoscopic Ileocecal Resection with Primary Anastomosis",
+    "Surgery",
+    "Gastrointestinal",
+    "bowel-preserving targeted resection of fibrotic obstructive segment relieving chronic subacute obstruction",
+    "CPSP General Surgery Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Diabetic Ketoacidosis (DKA) Continuous Regular Insulin Infusion 0.1 units/kg/hr Alongside 0.9% Saline",
+    "Pharmacology",
+    "Endocrine",
+    "steady suppression of lipolysis and ketogenesis with cautious hourly potassium replacement",
+    "CPSP Endocrinology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Respiratory Distress Syndrome (ARDS) Lung-Protective Ventilation 6 mL/kg PBW and High PEEP",
+    "Medicine",
+    "Respiratory",
+    "limiting end-inspiratory alveolar stretch and driving pressure reducing ventilator-induced lung injury",
+    "CPSP Critical Care Medicine Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Rapidly Progressive Glomerulonephritis (RPGN) Crescentic IV Pulse Methylprednisolone and Cyclophosphamide",
+    "Immunology",
+    "Renal",
+    "aggressive immunosuppression halting anti-GBM or ANCA-mediated glomerular capillary necrosis",
+    "CPSP Nephrology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil Plus Low-Dose Oral Steroids",
+    "Immunology",
+    "Renal",
+    "selective lymphocyte purine synthesis inhibition achieving high complete renal remission rates",
+    "CPSP Nephrology and Rheumatology Consensus",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Extensively Drug-Resistant (XDR) Salmonella Typhi Ceftriaxone Resistance Oral Azithromycin or IV Meropenem",
+    "Microbiology",
+    "Gastrointestinal",
+    "overcoming plasmid-mediated beta-lactamase resistance with macrolide or carbapenem monotherapy",
+    "National Institute of Health Pakistan Advisory",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Multidrug-Resistant Tuberculosis (MDR-TB) All-Oral BPaLM Regimen Bedaquiline, Pretomanid, Linezolid, Moxifloxacin",
+    "Pharmacology",
+    "Respiratory",
+    "6-month novel oral regimen achieving > 90% microbiological cure in rifampicin-resistant TB",
+    "National TB Control Programme Pakistan",
+    "https://ntp.gov.pk/"
+  ],
+  [
+    "Tuberculous Meningitis Stage II Four-Drug ATT Plus Adjunctive Dexamethasone Taper for 6-8 Weeks",
+    "Pharmacology",
+    "Nervous System",
+    "corticosteroid reduction of basal arachnoid exudate, hydrocephalus, and cerebral vasculitis mortality",
+    "CPSP Neurology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Cerebral Malaria Plasmodium falciparum Parasitemia IV Artesunate 2.4 mg/kg Boluses",
+    "Pharmacology",
+    "Hematology",
+    "rapid artemisinin clearance of circulating parasitized erythrocytes reducing neurocognitive mortality",
+    "WHO Severe Malaria Guidelines",
+    "https://www.who.int/"
+  ],
+  [
+    "Dengue Hemorrhagic Fever Critical Phase Plasma Leakage Guided Crystalloid Maintenance Therapy",
+    "Medicine",
+    "Hematology",
+    "titrated fluid infusion guided by hematocrit and urine output avoiding iatrogenic pulmonary edema",
+    "Punjab Dengue Control Programme SOPs",
+    "https://dengue.punjab.gov.pk/"
+  ],
+  [
+    "Crimean-Congo Hemorrhagic Fever (CCHF) Strict Isolation, Platelet Support, and Oral Ribavirin",
+    "Pharmacology",
+    "Hematology",
+    "early nucleoside analog therapy and strict barrier nursing preventing healthcare worker nosocomial transmission",
+    "NIH Pakistan CCHF Advisory",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Mucormycosis (Rhino-Orbital-Cerebral) Surgical Debridement Combined with IV Liposomal Amphotericin B",
+    "Surgery",
+    "Nervous System",
+    "urgent radical debridement of necrotic sino-nasal tissue and high-dose antifungal therapy",
+    "CPSP Infectious Diseases Consensus",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Appendicitis Alvarado Score 8 Laparoscopic Appendectomy Within 24 Hours",
+    "Surgery",
+    "Gastrointestinal",
+    "minimally invasive appendectomy preventing perforation, localized abscess, and diffuse peritonitis",
+    "CPSP General Surgery Fellowship Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Perforated Duodenal Ulcer 1 cm Defect Graham Omental Patch Repair with Saline Peritoneal Lavage",
+    "Surgery",
+    "Gastrointestinal",
+    "three-suture transfixing closure reinforced with viable vascularized greater omental pedicle",
+    "CPSP Operative Surgery Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Mechanical Small Bowel Obstruction Postoperative Adhesions Conservative Gastrografin Challenge",
+    "Surgery",
+    "Gastrointestinal",
+    "water-soluble hyperosmolar contrast stimulating transit and predicting need for adhesiolysis within 24 hours",
+    "CPSP Surgical Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Obstructing Carcinoma of Sigmoid Colon Stenting vs Hartmann Procedure with End-Colostomy",
+    "Surgery",
+    "Gastrointestinal",
+    "emergency resection of necrotic/perforated bowel with rectal stump closure avoiding toxic anastomosis",
+    "CPSP Surgical Oncology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Breast Carcinoma Invasive Ductal T2N0 Lumpectomy with Sentinel Lymph Node Biopsy and Radiotherapy",
+    "Surgery",
+    "General Principles",
+    "oncologically safe breast preservation with negative margins combined with adjuvant whole-breast radiation",
+    "CPSP Surgical Oncology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Thyroid Solitary Cold Nodule Bethesda V Fine-Needle Aspiration Diagnostic Hemithyroidectomy",
+    "Surgery",
+    "Endocrine",
+    "complete lobectomy and isthmusectomy providing definitive histological assessment for malignancy",
+    "CPSP General Surgery Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Major Blunt Trauma FAST Positive Hemodynamically Unstable Emergent Exploratory Laparotomy",
+    "Surgery",
+    "General Principles",
+    "four-quadrant abdominal packing, vascular control, and damage-control laparotomy principles",
+    "ATLS Guidelines for Trauma",
+    "https://www.facs.org/"
+  ],
+  [
+    "Femoral Shaft Fracture Closed in Adult Intramedullary Reamed Interlocking Nailing",
+    "Surgery",
+    "Musculoskeletal",
+    "load-sharing biological internal fixation allowing early mobilization and high union rates",
+    "CPSP Orthopedic Surgery Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Compartment Syndrome Lower Leg Post-Fracture Emergent Two-Incision Four-Compartment Fasciotomy",
+    "Surgery",
+    "Musculoskeletal",
+    "complete surgical decompression within 6 hours preventing irreversible ischemic neuromuscular contracture",
+    "CPSP Orthopedics Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Septic Arthritis Native Knee Urgent Diagnostic Arthrocentesis and Arthroscopic Joint Lavage",
+    "Surgery",
+    "Musculoskeletal",
+    "purulent synovial evacuation and intra-articular debridement preventing chondrocyte destruction",
+    "CPSP Orthopedics Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Severe Preeclampsia at 33 Weeks Magnesium Sulfate Seizure Prophylaxis and Antenatal Corticosteroids",
+    "Obstetrics",
+    "Pregnancy",
+    "intravenous magnesium sulfate neuroprotection alongside IM betamethasone promoting fetal lung maturity",
+    "CPSP Obstetrics & Gynecology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Primary Postpartum Hemorrhage Uterine Atony Medical Uterotonics Oxytocin, Ergometrine, and Misoprostol",
+    "Obstetrics",
+    "Pregnancy",
+    "stepwise pharmacological stimulation of myometrial contractility halting massive venous sinus bleeding",
+    "CPSP Obstetrics Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Ectopic Pregnancy Unruptured Low hCG < 1500 IU/L Intramuscular Methotrexate 50 mg/m2 Protocol",
+    "Pharmacology",
+    "Pregnancy",
+    "cytotoxic inhibition of dividing trophoblast avoiding surgical salpingectomy in compliant patients",
+    "CPSP Gynae Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Placenta Previa Major Complete Coverage of Internal Os Elective Cesarean Section at 37 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "planned abdominal delivery with multidisciplinary blood banking avoiding life-threatening antepartum hemorrhage",
+    "CPSP Obstetrics Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Preterm Prelabor Rupture of Membranes at 30 Weeks Oral Erythromycin and Antenatal Corticosteroids",
+    "Obstetrics",
+    "Pregnancy",
+    "latency antibiotic coverage reducing chorioamnionitis and neonatal sepsis before planned delivery",
+    "CPSP Maternal-Fetal Medicine Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Shoulder Dystocia HELPERR Protocol Immediate McRoberts Maneuver and Suprapubic Pressure",
+    "Obstetrics",
+    "Pregnancy",
+    "hyperflexion of maternal thighs and lateral suprapubic disimpaction of the anterior shoulder",
+    "CPSP Labor Ward Protocols",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Cervical Intraepithelial Neoplasia CIN-3 Large Loop Excision of the Transformation Zone (LLETZ)",
+    "Surgery",
+    "Pregnancy",
+    "complete surgical excision of dysplastic squamous metaplasia preventing progression to invasive carcinoma",
+    "CPSP Gynecologic Oncology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Polycystic Ovary Syndrome (PCOS) Anovulatory Infertility First-Line Letrozole 2.5 mg Daily for 5 Days",
+    "Pharmacology",
+    "Endocrine",
+    "selective aromatase inhibition inducing physiological FSH secretion with superior live-birth rates",
+    "CPSP Reproductive Endocrinology Consensus",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Endometrial Hyperplasia with Atypia Postmenopausal Total Abdominal Hysterectomy with Bilateral Salpingo-Oophorectomy",
+    "Surgery",
+    "Pregnancy",
+    "definitive surgical removal due to 30-40% concurrent occult invasive endometrial adenocarcinoma",
+    "CPSP Gynae Oncology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Ovarian Torsion Viable Ovary Laparoscopic Detorsion and Follicular Cystectomy",
+    "Surgery",
+    "Pregnancy",
+    "conservative detorsion preserving reproductive ovarian endocrine function and future fertility",
+    "CPSP Emergency Gynecology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Neonatal Respiratory Distress Syndrome Preterm Endotracheal Bovine/Porcine Surfactant Instillation",
+    "Pediatrics",
+    "Respiratory",
+    "exogenous surfactant replacing deficient dipalmitoylphosphatidylcholine reducing surface tension",
+    "CPSP Neonatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Neonatal Hyperbilirubinemia Unconjugated High Level Intensive Double-Surface LED Phototherapy",
+    "Pediatrics",
+    "Hematology",
+    "converting neurotoxic unconjugated bilirubin into water-soluble structural photoisomers for urinary excretion",
+    "CPSP Pediatrics Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Congenital Hypothyroidism Neonatal Screening Elevated TSH Oral Levothyroxine 10-15 mcg/kg/day Within 2 Weeks",
+    "Pediatrics",
+    "Endocrine",
+    "early thyroid hormone replacement preventing irreversible neurocognitive cretinism and growth stunting",
+    "CPSP Pediatric Endocrinology",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Severe Acute Malnutrition (SAM) Kwashiorkor WHO F-75 Starter Diet Avoiding High Protein Initially",
+    "Pediatrics",
+    "Endocrine",
+    "stabilization diet preventing catastrophic refeeding syndrome, electrolyte shift, and heart failure",
+    "CPSP Community Pediatrics Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Pediatric Dehydration Severe Diarrhea WHO Plan C IV Ringer Lactate 100 mL/kg Infusion",
+    "Pediatrics",
+    "Gastrointestinal",
+    "rapid crystalloid bolus restoring intravascular volume followed by oral zinc supplementation for 14 days",
+    "CPSP Pediatrics Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Kawasaki Disease Persistent High Fever IV Immunoglobulin 2 g/kg Single Infusion and High-Dose Aspirin",
+    "Pediatrics",
+    "Cardiovascular",
+    "early anti-inflammatory therapy within 10 days preventing coronary artery dilatation and aneurysms",
+    "CPSP Pediatric Cardiology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Bronchiolitis Infant < 12 Months Humidified Oxygen and Supportive Hydration",
+    "Pediatrics",
+    "Respiratory",
+    "maintaining oxygen saturation >= 90% while avoiding ineffective bronchodilators and antibiotics",
+    "CPSP Pediatric Pulmonology",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Congenital Talipes Equinovarus (Clubfoot) Serial Ponseti Manipulation, Weekly Casting, and Percutaneous Tenotomy",
+    "Surgery",
+    "Musculoskeletal",
+    "gradual anatomical correction of cavus, adductus, varus, and equinus deformities in infancy",
+    "CPSP Pediatric Orthopedics",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Infantile Hypertrophic Pyloric Stenosis Hypochloremic Metabolic Alkalosis Preoperative Fluid Optimization",
+    "Pediatrics",
+    "Gastrointestinal",
+    "0.9% saline with potassium repletion correcting electrolyte alkalosis before Ramstedt pyloromyotomy",
+    "CPSP Pediatric Surgery Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Hirschsprung Disease Delayed Meconium Suction Rectal Biopsy Showing Absent Ganglion Cells",
+    "Surgery",
+    "Gastrointestinal",
+    "histological confirmation of aganglionosis in submucosal plexus guiding definitive pull-through surgery",
+    "CPSP Pediatric Surgery Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Rapid Sequence Induction (RSI) Anesthesia IV Propofol, Suxamethonium, and Cricoid Pressure (Sellick)",
+    "Pharmacology",
+    "Respiratory",
+    "rapid neuromuscular paralysis minimizing aspiration risk in non-fasted emergency surgical patients",
+    "CPSP Anesthesia Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Local Anesthetic Systemic Toxicity (LAST) Bupivacaine Cardiac Arrest 20% IV Lipid Emulsion Bolus and Infusion",
+    "Pharmacology",
+    "Cardiovascular",
+    "lipid sink extracting lipophilic local anesthetic from myocardial membranes restoring conduction",
+    "CPSP Anesthesia Fellowship Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Malignant Hyperthermia Triggered by Volatile Anesthetics IV Dantrolene Sodium 2.5 mg/kg Rapid Bolus",
+    "Pharmacology",
+    "Musculoskeletal",
+    "ryanodine receptor-1 antagonism blocking sarcoplasmic calcium release halting hypermetabolism",
+    "CPSP Anesthesia Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Organophosphate Poisoning Atropinization Maintained Until Pulmonary Secretions Are Clear",
+    "Pharmacology",
+    "Nervous System",
+    "titrating antimuscarinic agent to reversal of bronchospasm, bronchorrhea, and bradycardia",
+    "CPSP Critical Care Toxicology",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Aluminum Phosphide (Wheat Pill) Poisoning Ingestion High Mortality Supportive Inotropes and Hemoperfusion",
+    "Pathology",
+    "General Principles",
+    "metabolic support against lethal phosphine gas-induced mitochondrial cytochrome oxidase inhibition",
+    "CPSP Medical Toxicology Review",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Snake Envenomation Russell Viper Coagulopathy Polyvalent Anti-Snake Venom (ASV) 10 Vials IV",
+    "Medicine",
+    "Hematology",
+    "antivenom neutralization of venom proteases reversing venom-induced consumption coagulopathy",
+    "CPSP Emergency Medicine Protocols",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Corrosive Acid Ingestion Deep Mucosal Burn Strict Prohibition of Gastric Lavage and Emetics",
+    "Surgery",
+    "Gastrointestinal",
+    "avoiding chemical re-exposure and transmural perforation followed by early endoscopic grading",
+    "CPSP Gastroenterology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Paracetamol Toxicity Delayed Presentation IV N-Acetylcysteine (NAC) Infusion Protocols",
+    "Pharmacology",
+    "Gastrointestinal",
+    "glutathione precursor synthesis detoxifying highly electrophilic reactive NAPQI metabolite",
+    "CPSP Clinical Pharmacology",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Beta-Blocker Overdose Severe Cardiogenic Shock High-Dose Insulin-Glucose Infusion and IV Glucagon",
+    "Pharmacology",
+    "Cardiovascular",
+    "activating myocardial adenylate cyclase independently of blocked beta-adrenergic receptors",
+    "CPSP Toxicology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Carbon Monoxide Toxicity Cherry-Red Cyanosis 100% High-Flow Normobaric or Hyperbaric Oxygen",
+    "Medicine",
+    "Respiratory",
+    "accelerating carboxyhemoglobin dissociation half-life preventing severe delayed neurocognitive injury",
+    "CPSP Critical Care Protocols",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Extranodal Marginal Zone B-Cell Lymphoma (MALT) Gastric Helicobacter pylori Eradication Quadruple Therapy",
+    "Pharmacology",
+    "Gastrointestinal",
+    "antibiotic clearance of antigenic stimulation achieving complete histological lymphoma regression",
+    "CPSP Hematology-Oncology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Chronic Myeloid Leukemia BCR-ABL1 Translocation First-Line Tyrosine Kinase Inhibitor Imatinib 400 mg",
+    "Pharmacology",
+    "Hematology",
+    "selective ATP-binding pocket inhibition inducing complete cytogenetic and major molecular remission",
+    "CPSP Hematology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Promyelocytic Leukemia PML-RARA Fusion All-Trans Retinoic Acid Plus Arsenic Trioxide",
+    "Pharmacology",
+    "Hematology",
+    "non-cytotoxic targeted oncoprotein degradation achieving durable complete cure > 90%",
+    "CPSP Hematology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Multiple Myeloma Newly Diagnosed Triplet Regimen Bortezomib, Lenalidomide, and Dexamethasone (VRd)",
+    "Pharmacology",
+    "Hematology",
+    "proteasome inhibition plus immunomodulation producing high rates of deep minimal residual disease negativity",
+    "CPSP Medical Oncology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Diffuse Large B-Cell Lymphoma (DLBCL) CD20 Positive Chemoimmunotherapy R-CHOP Six Cycles",
+    "Pharmacology",
+    "Hematology",
+    "anti-CD20 rituximab combined with cyclophosphamide, doxorubicin, vincristine, and prednisolone",
+    "CPSP Oncology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Immune Thrombocytopenia (ITP) Platelet Count 10 x 10^9/L with Epistaxis IVIG 1 g/kg Plus High-Dose Dexamethasone",
+    "Immunology",
+    "Hematology",
+    "macrophage Fc receptor saturation rapidly restoring hemostatic circulating platelet counts",
+    "CPSP Hematology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Beta Thalassemia Major Severe Microcytic Anemia Packed RBC Transfusions and Deferasirox Chelation",
+    "Pharmacology",
+    "Hematology",
+    "suppressing ineffective erythropoiesis while preventing systemic iron overload cardiomyopathy and cirrhosis",
+    "CPSP Hematology Fellowship Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Test (Coombs) Positive Oral Prednisolone 1 mg/kg/day",
+    "Immunology",
+    "Hematology",
+    "glucocorticoid suppression of splenic reticuloendothelial clearance of IgG-sensitized red cells",
+    "CPSP Hematology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Terminal Complement C5 Inhibitor Eculizumab",
+    "Pharmacology",
+    "Hematology",
+    "preventing membrane attack complex assembly on GPI-deficient erythrocyte membranes",
+    "CPSP Hematology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Heparin-Induced Thrombocytopenia (HIT) 4T Score 7 Cessation of Heparin and Direct Thrombin Inhibitor Argatroban",
+    "Pharmacology",
+    "Hematology",
+    "non-heparin parenteral direct thrombin inhibition preventing catastrophic arterial and venous thrombosis",
+    "CPSP Hematology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Angle-Closure Glaucoma Immediate Medical Lowering of IOP IV Mannitol, Acetazolamide, and Pilocarpine",
+    "Medicine",
+    "Nervous System",
+    "hyperosmotic and carbonic anhydrase intraocular pressure reduction opening drainage angle",
+    "CPSP Ophthalmology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Senile Cataract Visual Acuity < 6/18 Phacoemulsification with Foldable Posterior Chamber IOL",
+    "Surgery",
+    "Nervous System",
+    "microincision ultrasonic lens extraction restoring clear visual acuity with minimal rehabilitation",
+    "CPSP Ophthalmology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Rhegmatogenous Retinal Detachment Macula-On Emergent Pars Plana Vitrectomy and Gas Tamponade",
+    "Surgery",
+    "Nervous System",
+    "retinal reattachment preventing irreversible photoreceptor apoptosis and central visual loss",
+    "CPSP Ophthalmology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Atticoantral CSOM Cholesteatoma Keratin Mass Modified Radical Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "exteriorization of mastoid air cells preventing bone erosion into facial nerve and cranial cavity",
+    "CPSP Otolaryngology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Severe Anterior Epistaxis Kiesselbach Plexus Anterior Nasal Pack with Vaseline Gauze or Rapid Rhino",
+    "Surgery",
+    "Respiratory",
+    "direct mechanical tamponade of anterior septal bleeding vessels for 24-48 hours",
+    "CPSP ENT Fellowship Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Foreign Body Bronchus Child with Sudden Stridor Emergent Rigid Ventilating Bronchoscopic Extraction",
+    "Surgery",
+    "Respiratory",
+    "direct optical grasping and removal of aspirated peanut under general anesthesia",
+    "CPSP ENT Emergency Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Status Epilepticus First-Line IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg Infusion",
+    "Pharmacology",
+    "Nervous System",
+    "rapid GABAergic termination of status followed by non-sedating antiepileptic maintenance",
+    "CPSP Neurology Fellowship Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Acute Ischemic Stroke Within 4.5 Hours Window IV Tenecteplase 0.25 mg/kg Single Bolus Thrombolysis",
+    "Pharmacology",
+    "Nervous System",
+    "recombinant fibrinolytic achieving recanalization of occluded cerebral arteries without intracranial bleed",
+    "CPSP Stroke Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Guillain-Barre Syndrome Rapidly Ascending Paralysis IV Immunoglobulin 2 g/kg Over 5 Days",
+    "Immunology",
+    "Nervous System",
+    "neutralizing circulating ganglioside autoantibodies halting motor and diaphragmatic weakness",
+    "CPSP Neurology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Myasthenia Gravis Crisis Impending Respiratory Failure Therapeutic Plasma Exchange (Plasmapheresis)",
+    "Immunology",
+    "Nervous System",
+    "extracorporeal antibody removal rapidly restoring neuromuscular transmission at motor endplates",
+    "CPSP Neuromuscular Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Severe Major Depressive Disorder with Catatonia and Refusal to Eat Electroconvulsive Therapy (ECT)",
+    "Psychiatry",
+    "Behavioral Health",
+    "rapid suprathreshold therapeutic seizure induction reversing life-threatening catatonic stupor",
+    "CPSP Psychiatry Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Schizophrenia Treatment-Resistant Failing Two Adequate Antipsychotics Clozapine Monotherapy",
+    "Pharmacology",
+    "Behavioral Health",
+    "atypical dibenzodiazepine with superior efficacy requiring strict regular absolute neutrophil monitoring",
+    "CPSP Psychiatry Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Delirium Tremens Alcohol Withdrawal High-Dose IV Diazepam Titration Guided by CIWA Protocol",
+    "Pharmacology",
+    "Behavioral Health",
+    "GABA-A receptor enhancement suppressing hyperadrenergic sympathetic storm, seizures, and agitation",
+    "CPSP Psychiatry Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Bipolar I Disorder Acute Manic Episode Second-Generation Antipsychotic Olanzapine Plus Lithium",
+    "Pharmacology",
+    "Behavioral Health",
+    "rapid behavioral de-escalation combined with mood stabilization preventing manic exhaustion",
+    "CPSP Psychiatry Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Generalized Anxiety Disorder First-Line Pharmacotherapy SSRI Escitalopram or Sertraline",
+    "Pharmacology",
+    "Behavioral Health",
+    "selective serotonin reuptake inhibition providing long-term anxiolysis without dependency",
+    "CPSP Psychiatry Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Medical Ethics Informed Consent Incompetent Patient Surrogate Substituted Judgment Principle",
+    "Ethics",
+    "General Principles",
+    "surrogate decision-maker choosing what the patient would have desired based on known values",
+    "PM&DC Code of Ethics CPSP Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Medical Confidentiality Permissible Disclosure Imminent Threat of Severe Harm to Third Party",
+    "Ethics",
+    "General Principles",
+    "statutory ethical duty to protect overriding confidentiality when clear serious danger exists",
+    "PM&DC Code of Medical Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Randomized Controlled Trial Intention-to-Treat Analysis Preserving Prognostic Balance of Randomization",
+    "Biostatistics",
+    "General Principles",
+    "analyzing all randomized patients in their assigned groups preventing attrition and compliance bias",
+    "CPSP Research Methodology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Positive Predictive Value (PPV) Increase Directly Proportional to Population Disease Prevalence",
+    "Biostatistics",
+    "General Principles",
+    "higher prior probability of disease increasing the likelihood that a positive test is a true positive",
+    "CPSP Biostatistics Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Type I Error (Alpha) Erroneous Rejection of True Null Hypothesis P < 0.05 Conventional Threshold",
+    "Biostatistics",
+    "General Principles",
+    "probability of finding a false positive difference when no real therapeutic effect exists",
+    "CPSP Research Methodology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Pemphigus Vulgaris Extensive Flaccid Bullae Oral Prednisolone Plus Rituximab B-Cell Depletion",
+    "Immunology",
+    "Dermatology",
+    "anti-CD20 therapy targeting anti-desmoglein autoantibody-producing B-cells achieving rapid clinical remission",
+    "CPSP Dermatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Bullous Pemphigoid Tense Blisters in Elderly High-Potency Topical Corticosteroid Clobetasol Propionate",
+    "Pharmacology",
+    "Dermatology",
+    "superpotent topical glucocorticoid achieving disease control matching oral prednisolone with lower mortality",
+    "CPSP Dermatology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Systemic Sclerosis Scleroderma Renal Crisis ACE Inhibitor Captopril Rapid Dose Titration",
+    "Pharmacology",
+    "Renal",
+    "immediate reduction of hyperreninemic renal vasoconstriction preventing permanent dialysis dependence",
+    "CPSP Rheumatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Ankylosing Spondylitis Severe Axial Stiffness Biologic Anti-TNF Monoclonal Antibody Adalimumab",
+    "Pharmacology",
+    "Musculoskeletal",
+    "targeted tumor necrosis factor inhibition suppressing spinal enthesitis and preserving mobility",
+    "CPSP Rheumatology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Gout Chronic Tophaceous Arthritis Urate-Lowering Therapy Treat-to-Target Allopurinol",
+    "Pharmacology",
+    "Musculoskeletal",
+    "xanthine oxidase inhibition lowering serum uric acid < 6 mg/dL promoting complete tophus dissolution",
+    "CPSP Rheumatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Rheumatoid Arthritis Early Sero-Positive Methotrexate Anchor Conventional DMARD with Folic Acid",
+    "Pharmacology",
+    "Musculoskeletal",
+    "weekly oral methotrexate preventing irreversible radiographic joint destruction and disability",
+    "CPSP Rheumatology Curriculum",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Giant Cell Arteritis Temporal Artery Tender Immediate High-Dose Oral Prednisolone 60 mg Daily",
+    "Pharmacology",
+    "Cardiovascular",
+    "prompt systemic corticosteroid therapy preventing permanent ischemic anterior optic neuropathy",
+    "CPSP Rheumatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Severe Osteoporosis Multiple Fragility Fractures Anabolic Teriparatide for 24 Months",
+    "Pharmacology",
+    "Musculoskeletal",
+    "recombinant PTH fragment stimulating new osteoblastic bone formation prior to antiresorptive therapy",
+    "CPSP Endocrinology Guidelines",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Systemic Lupus Erythematosus Maintenance Therapy Long-Term Hydroxychloroquine 5 mg/kg/day",
+    "Pharmacology",
+    "Musculoskeletal",
+    "antimalarial lysosomal signaling blockade reducing flares, thrombotic events, and all-cause mortality",
+    "CPSP Rheumatology Fellowship",
+    "https://cpsp.edu.pk/"
+  ],
+  [
+    "Dermatomyositis Proximal Muscle Weakness and Heliotrope Rash Oral Prednisone Plus Azathioprine",
+    "Pharmacology",
+    "Musculoskeletal",
+    "immunosuppressive therapy suppressing inflammatory myositis and restoring functional muscle power",
+    "CPSP Neurology and Rheumatology Guidelines",
+    "https://cpsp.edu.pk/"
+  ]
+]
+
+NLE_TOPICS = [
+  [
+    "Extended Programme on Immunization (EPI) Pakistan Schedule BCG and Oral Polio at Birth",
+    "Pediatrics",
+    "General Principles",
+    "intradermal BCG preventing tuberculous meningitis alongside bOPV establishing gut immunity",
+    "Government of Pakistan EPI Guidelines",
+    "https://phc.punjab.gov.pk/"
+  ],
+  [
+    "EPI Pentavalent Vaccine Administered at 6, 10, and 14 Weeks DTwP-HepB-Hib Protection",
+    "Pediatrics",
+    "General Principles",
+    "combined protection against diphtheria, tetanus, pertussis, hepatitis B, and Haemophilus influenzae",
+    "PM&DC NLE Step 1 and Step 2 Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Watery Diarrhea in Child Moderate Dehydration Oral Rehydration Salts (ORS) and Zinc",
+    "Pediatrics",
+    "Gastrointestinal",
+    "low-osmolarity ORS restoring fluid-electrolyte balance and zinc 20 mg reducing diarrhea duration",
+    "WHO Guidelines Diarrhoeal Disease Management",
+    "https://www.who.int/"
+  ],
+  [
+    "Extensively Drug-Resistant (XDR) Typhoid Ceftriaxone Resistance Oral Azithromycin for 7-14 Days",
+    "Pharmacology",
+    "Gastrointestinal",
+    "macrolide tissue penetration achieving bactericidal clearance of resistant Salmonella Typhi",
+    "NIH Pakistan Clinical Advisory",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Pulmonary Tuberculosis Sputum Smear Positive NTEP Category 1 Fixed-Dose Combination 2HREZ/4HR",
+    "Pharmacology",
+    "Respiratory",
+    "standard 6-month short-course anti-tubercular chemotherapy with monthly sputum monitoring",
+    "National TB Control Programme Pakistan",
+    "https://ntp.gov.pk/"
+  ],
+  [
+    "Severe Falciparum Malaria Fever and Altered Consciousness First-Line IV Artesunate Infusion",
+    "Pharmacology",
+    "Hematology",
+    "parenteral artemisinin derivative rapidly reducing circulating ring-form parasites and mortality",
+    "National Malaria Control Guidelines Pakistan",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Dengue Fever Epidemic Thrombocytopenia Strict Avoidance of Aspirin and NSAIDs Paracetamol Only",
+    "Pharmacology",
+    "Hematology",
+    "preventing severe gastritis and platelet dysfunction in viral hemorrhagic fever",
+    "Punjab Dengue Control Programme Guidelines",
+    "https://dengue.punjab.gov.pk/"
+  ],
+  [
+    "Iron Deficiency Anemia in Pregnant Woman Oral Ferrous Sulfate 200 mg Daily with Folic Acid",
+    "Obstetrics",
+    "Pregnancy",
+    "preventing maternal anemia, preterm delivery, and fetal intrauterine growth restriction",
+    "WHO Maternal Nutrition Guidelines",
+    "https://www.who.int/"
+  ],
+  [
+    "Type 2 Diabetes Mellitus Primary Care First-Line Metformin 500 mg BD and Lifestyle Modification",
+    "Pharmacology",
+    "Endocrine",
+    "biguanide improving peripheral insulin sensitivity without hypoglycemia risk",
+    "PM&DC NLE Clinical Practice Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Hypertension Stage 1 in Young Pakistani Adult Lifestyle Optimization and Enalapril 5-10 mg Daily",
+    "Pharmacology",
+    "Cardiovascular",
+    "ACE inhibition reducing peripheral vascular resistance and conferring long-term renoprotection",
+    "PM&DC NLE Clinical Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Maternal Mortality Ratio (MMR) Primary Contributor Postpartum Hemorrhage Prevention with Skilled Birth Attendance",
+    "Obstetrics",
+    "Pregnancy",
+    "universal active third-stage management reducing maternal mortality towards SDG targets",
+    "WHO Trends in Maternal Mortality",
+    "https://www.who.int/"
+  ],
+  [
+    "Neonatal Tetanus Eradication Tetanus Toxoid (TT) Immunization of Women of Childbearing Age",
+    "Obstetrics",
+    "Pregnancy",
+    "maternal IgG antitoxin transplacental passage protecting newborn combined with sterile cord care",
+    "WHO Maternal and Neonatal Tetanus Elimination",
+    "https://www.who.int/"
+  ],
+  [
+    "Polio Eradication National Immunization Days (NIDs) Supplemental Bivalent Oral Polio Vaccine",
+    "Pediatrics",
+    "General Principles",
+    "door-to-door vaccination campaigns boosting mucosal herd immunity against wild poliovirus type 1",
+    "National Emergency Operations Centre Polio Pakistan",
+    "https://www.endpolio.com.pk/"
+  ],
+  [
+    "Drinking Water Chlorination Residual Free Chlorine 0.5 mg/L at Point of Delivery",
+    "Microbiology",
+    "General Principles",
+    "destroying water-borne pathogens including Vibrio cholerae and enteric pathogens",
+    "WHO Guidelines for Drinking-water Quality",
+    "https://www.who.int/"
+  ],
+  [
+    "Organophosphate Poisoning Rural Setting Emergency Atropine 2 mg IV Doubled Every 5 Minutes",
+    "Pharmacology",
+    "Nervous System",
+    "antagonizing muscarinic hypersecretion until chest is clear on auscultation",
+    "PM&DC Toxicology Core Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Aluminum Phosphide (Wheat Pill) Poisoning Ingestion Charcoal Administration and ICU Transfer",
+    "Pathology",
+    "General Principles",
+    "lethal phosphine gas cellular poisoning managed with supportive inotropes without specific antidote",
+    "PM&DC Forensic Medicine Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Snake Envenomation Viper Bite Incoagulable Blood Polyvalent Anti-Snake Venom (ASV) 10 Vials IV",
+    "Medicine",
+    "Hematology",
+    "neutralizing venom procoagulants reversing consumption coagulopathy and tissue necrosis",
+    "National Snakebite Guidelines Pakistan",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Corrosive Acid Ingestion Oral Sloughing Avoidance of Emetics and Emergent Endoscopic Evaluation",
+    "Surgery",
+    "Gastrointestinal",
+    "preventing chemical esophageal re-exposure and perforation with early surgical observation",
+    "PM&DC Forensic Pathology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Hanging Postmortem Features Oblique Incomplete Ligature Groove with Pale Base Above Thyroid Cartilage",
+    "Pathology",
+    "General Principles",
+    "classic necropsy features of suspension groove differentiating hanging from manual strangulation",
+    "PM&DC Forensic Medicine Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Firearm Injury Entrance Wound Inverted Margins, Collar of Abrasion, and Powder Stippling",
+    "Pathology",
+    "General Principles",
+    "forensic ballistics hallmarks of entrance defect absent in lacerated everted exit wounds",
+    "PM&DC Forensic Medicine Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Eclampsia Convulsion Pritchard Regimen Loading IV 4 g and IM 10 g Magnesium Sulfate",
+    "Obstetrics",
+    "Pregnancy",
+    "central NMDA blockade preventing further maternal seizures and intracerebral hemorrhage",
+    "PM&DC Obstetrics Clinical Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Postpartum Hemorrhage Uterine Atony Bimanual Uterine Compression and IV Oxytocin 20 Units Infusion",
+    "Obstetrics",
+    "Pregnancy",
+    "mechanical stimulation combined with high-dose uterotonic agent securing myometrial contractility",
+    "PM&DC Obstetrics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Obstructed Labor Prolonged Second Stage with Bandl Ring Urgent Emergency Cesarean Delivery",
+    "Obstetrics",
+    "Pregnancy",
+    "abdominal hysterotomy preventing impending uterine rupture and fetal asphyxia",
+    "PM&DC Obstetrics Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Placenta Previa Sudden Painless Bright Red Bleeding Strict Avoidance of Digital Vaginal Examination",
+    "Obstetrics",
+    "Pregnancy",
+    "avoiding digital disruption of low-lying placental cotyledons with urgent ultrasound confirmation",
+    "PM&DC Obstetrics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Ectopic Pregnancy Ruptured Acute Abdomen and Hemodynamic Shock Emergent Exploratory Laparotomy",
+    "Surgery",
+    "Pregnancy",
+    "immediate operative salpingectomy and peritoneal blood evacuation under active resuscitation",
+    "PM&DC Emergency Surgery Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Premature Rupture of Membranes at 34 Weeks Antibiotic Prophylaxis and Monitoring for Chorioamnionitis",
+    "Obstetrics",
+    "Pregnancy",
+    "oral erythromycin latency coverage with temperature and maternal pulse monitoring",
+    "PM&DC Obstetrics Clinical Standards",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure First-Line",
+    "Obstetrics",
+    "Pregnancy",
+    "maternal hip hyperflexion and lateral suprapubic disimpaction freeing the anterior fetal shoulder",
+    "PM&DC Labor Ward Standards",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Cervical Intraepithelial Neoplasia CIN-3 Colposcopically Directed LEEP Biopsy",
+    "Surgery",
+    "Pregnancy",
+    "complete excision of precancerous transformation zone preventing invasive squamous cell carcinoma",
+    "PM&DC Gynecology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Polycystic Ovary Syndrome (PCOS) Infertility Oral Letrozole 2.5 mg Daily for 5 Days",
+    "Pharmacology",
+    "Endocrine",
+    "aromatase inhibition stimulating hypothalamic-pituitary FSH release inducing ovulation",
+    "PM&DC Gynecology Consensus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Vesicovaginal Fistula (VVF) Post-Obstructed Labor Continuous Catheter Drainage vs Delayed Surgical Repair",
+    "Surgery",
+    "Pregnancy",
+    "bladder drainage allowing tissue maturation followed by formal transvaginal fistulectomy repair",
+    "PM&DC Operative Gynecology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Neonatal Sepsis Lethargy and Hypothermia Empiric IV Ampicillin and Gentamicin",
+    "Pediatrics",
+    "General Principles",
+    "broad-spectrum bactericidal coverage targeting Listeria, Group B Streptococcus, and coliforms",
+    "PM&DC Pediatrics Curriculum",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Neonatal Hyperbilirubinemia AAP Phototherapy Nomogram Threshold Intensive Phototherapy",
+    "Pediatrics",
+    "Hematology",
+    "photochemical conversion of lipophilic indirect bilirubin into water-soluble lumirubin",
+    "PM&DC Neonatology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Severe Acute Malnutrition (SAM) Kwashiorkor WHO F-75 Formula Stabilization Diet",
+    "Pediatrics",
+    "Endocrine",
+    "low-protein, low-sodium starter formula preventing cardiac overload and refeeding syndrome",
+    "WHO Management of SAM Pakistan Guidelines",
+    "https://www.who.int/"
+  ],
+  [
+    "Congenital Hypothyroidism Delayed Cord Separation Oral Levothyroxine 10-15 mcg/kg/day Within 2 Weeks",
+    "Pediatrics",
+    "Endocrine",
+    "early thyroid replacement preventing irreversible neurodevelopmental cretinism",
+    "PM&DC Pediatrics Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Kawasaki Disease High Fever for 5 Days IVIG 2 g/kg Single Infusion and High-Dose Aspirin",
+    "Pediatrics",
+    "Cardiovascular",
+    "immunomodulatory therapy within 10 days preventing coronary artery dilatation and aneurysm",
+    "PM&DC Pediatrics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Bronchiolitis Infant Wheeze and Tachypnea Minimal Handling and Supportive Nasal Oxygen",
+    "Pediatrics",
+    "Respiratory",
+    "humidified oxygen maintaining SaO2 >= 90% avoiding unnecessary bronchodilators and antibiotics",
+    "PM&DC Pediatrics Clinical Practice",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Croup (Laryngotracheobronchitis) Barking Cough Single Dose Oral Dexamethasone 0.15 mg/kg",
+    "Pharmacology",
+    "Respiratory",
+    "systemic glucocorticoid reducing subglottic laryngeal edema and hospital admission rates",
+    "PM&DC Pediatric Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Infantile Pyloric Stenosis Hypochloremic Metabolic Alkalosis IV 0.9% Saline Correction Before Pyloromyotomy",
+    "Pediatrics",
+    "Gastrointestinal",
+    "normalizing serum chloride and bicarbonate prior to general anesthesia and Ramstedt procedure",
+    "PM&DC Pediatric Surgery Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Intussusception Ileo-Colic in Infant Ultrasound Target Sign Pneumatic Air Enema Reduction",
+    "Surgery",
+    "Gastrointestinal",
+    "fluoroscopic air insufflation gently reducing telescoped bowel avoiding emergency laparotomy",
+    "PM&DC Pediatric Surgery Consensus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Foreign Body Ingestion Button Battery in Esophagus Emergent Rigid Endoscopic Removal Within 2 Hours",
+    "Surgery",
+    "Gastrointestinal",
+    "urgent removal preventing caustic liquefactive necrosis and fatal aortoesophageal fistula",
+    "PM&DC Emergency Pediatrics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Appendicitis Clinically Confirmed Alvarado >= 7 Laparoscopic or Open Appendectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "surgical excision within 24 hours preventing gangrenous perforation and generalized peritonitis",
+    "PM&DC General Surgery Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Perforated Peptic Ulcer Free Gas Under Diaphragm Graham Omentopexy Patch Repair",
+    "Surgery",
+    "Gastrointestinal",
+    "transfixing suture closure reinforced with pedicled vascularized greater omental patch",
+    "PM&DC Surgery Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Incarcerated Inguinal Hernia Non-Reducible Tender Swelling Emergent Surgical Exploration",
+    "Surgery",
+    "Gastrointestinal",
+    "operative viability assessment of trapped bowel loops and tension-free mesh repair",
+    "PM&DC Surgical Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Calculous Cholecystitis Tokyo Guidelines Index Admission Laparoscopic Cholecystectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "early gallbladder excision within 72 hours reducing recurrent biliary attacks and admissions",
+    "PM&DC Surgery Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Mechanical Small Bowel Obstruction Post-Adhesions Nasogastric Suction and Water-Soluble Contrast",
+    "Surgery",
+    "Gastrointestinal",
+    "nasogastric decompression tracking oral Gastrografin transit to cecum within 24 hours",
+    "PM&DC General Surgery Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Breast Carcinoma Stage II Infiltrating Ductal Lumpectomy with Sentinel Lymph Node Biopsy",
+    "Surgery",
+    "General Principles",
+    "breast-conserving surgery with clear histological margins followed by adjuvant radiotherapy",
+    "PM&DC Surgical Oncology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Thyroid Solitary Cold Nodule Bethesda V Diagnostic Hemithyroidectomy and Isthmusectomy",
+    "Surgery",
+    "Endocrine",
+    "complete lobar resection providing definitive histological evaluation for capsular breach",
+    "PM&DC Endocrine Surgery Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Major Trauma Hemoperitoneum FAST Positive with Shock Emergent Exploratory Laparotomy",
+    "Surgery",
+    "General Principles",
+    "four-quadrant packing, source control of hemorrhage, and damage-control surgical strategy",
+    "ATLS Trauma Protocols",
+    "https://www.facs.org/"
+  ],
+  [
+    "Distal Radius Colles Fracture Dorsal Displacement Closed Reduction and Below-Elbow Plaster Cast",
+    "Surgery",
+    "Musculoskeletal",
+    "anatomic reduction under hematoma block restoring radial height and palmar tilt",
+    "PM&DC Orthopedic Surgery Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Supracondylar Fracture Humerus in Child Gartland Type III Closed Reduction and Percutaneous Pinning",
+    "Surgery",
+    "Musculoskeletal",
+    "k-wire stabilization preventing brachial artery compromise and Volkmann ischemic contracture",
+    "PM&DC Pediatric Orthopedics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Myocardial Infarction STEMI Rural Health Centre Tenecteplase Thrombolysis Within 30 Minutes",
+    "Pharmacology",
+    "Cardiovascular",
+    "pre-hospital fibrinolytic administration when primary PCI transfer time exceeds 120 minutes",
+    "PM&DC Cardiology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Ischemic Stroke Within 4.5 Hours Non-Contrast Head CT and IV Tenecteplase Thrombolysis",
+    "Pharmacology",
+    "Nervous System",
+    "recombinant tPA restoring cerebral perfusion in non-hemorrhagic ischemic strokes",
+    "PM&DC Neurology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bacterial Meningitis Suspected Streptococcus pneumoniae IV Ceftriaxone Plus Dexamethasone",
+    "Pharmacology",
+    "Nervous System",
+    "corticosteroid given prior to or with first antibiotic dose reducing sensorineural hearing loss",
+    "PM&DC Infectious Diseases Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Chronic Kidney Disease with Albuminuria Enalapril or Losartan Initiation and Monitoring",
+    "Pharmacology",
+    "Renal",
+    "renin-angiotensin blockade reducing intraglomerular pressure and halting CKD progression",
+    "PM&DC Nephrology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Pyelonephritis in Female Outpatient Oral Ciprofloxacin 500 mg BD for 7 Days",
+    "Pharmacology",
+    "Renal",
+    "high renal tissue concentration fluoroquinolone eradicating coliform uropathogens",
+    "PM&DC Urology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Cutaneous Leishmaniasis Dry Urban Sore Intralesional Sodium Stibogluconate (Pentostam)",
+    "Pharmacology",
+    "Dermatology",
+    "pentavalent antimonial infiltration directly into indurated margin of the leishmania ulcer",
+    "PM&DC Dermatology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Scabies Infestation Intense Pruritus Topical Permethrin 5% Dermal Cream Whole Body Application",
+    "Pharmacology",
+    "Dermatology",
+    "synthetic pyrethroid applied neck-down for 8-12 hours treating patient and household contacts",
+    "PM&DC Dermatology Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Tinea Corporis Annular Scaly Plaque Topical Terbinafine 1% Cream Twice Daily for 2 Weeks",
+    "Pharmacology",
+    "Dermatology",
+    "squalene epoxidase inhibition clearing dermatophyte fungal infection without systemic toxicity",
+    "PM&DC Dermatology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Leprosy (Hansen Disease) Multibacillary WHO MDT Rifampicin, Dapsone, and Clofazimine for 12 Months",
+    "Pharmacology",
+    "Dermatology",
+    "triple-drug antimycobacterial chemotherapy curing infection and preventing peripheral nerve deformities",
+    "WHO Leprosy Elimination Guidelines",
+    "https://www.who.int/"
+  ],
+  [
+    "Rabies Suspected Dog Bite Category III Immediate Wound Washing with Soap and Water for 15 Minutes",
+    "Microbiology",
+    "General Principles",
+    "mechanical removal and viral envelope denaturation before rabies immunoglobulin and vaccination",
+    "National Rabies Guidelines Pakistan",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "Acute Angle-Closure Glaucoma Severe Eye Pain IV Acetazolamide and Topical Pilocarpine Drops",
+    "Medicine",
+    "Nervous System",
+    "rapid IOP reduction and pupil constriction opening the iridocorneal drainage angle",
+    "PM&DC Ophthalmology Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Senile Cataract Visual Impairment Phacoemulsification with Posterior Chamber IOL Implantation",
+    "Surgery",
+    "Nervous System",
+    "ultrasonic crystalline lens emulsification restoring functional visual acuity",
+    "PM&DC Ophthalmology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Atticoantral CSOM Cholesteatoma Bone Erosion Modified Radical Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "complete operative exteriorization of mastoid air cells preventing intracranial complications",
+    "PM&DC ENT Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Otitis Media Severe Earache Oral Amoxicillin 80-90 mg/kg/day for 7-10 Days",
+    "Pharmacology",
+    "Nervous System",
+    "high-dose beta-lactam bactericidal therapy eradicating Streptococcus pneumoniae",
+    "PM&DC ENT Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Severe Epistaxis Anterior Little Area Anterior Nasal Packing with Vaseline Gauze",
+    "Surgery",
+    "Respiratory",
+    "mechanical tamponade of Kiesselbach septal plexus halting brisk arterial hemorrhage",
+    "PM&DC ENT Clinical Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Major Depressive Disorder Moderate-to-Severe First-Line Oral Sertraline 50 mg Daily",
+    "Pharmacology",
+    "Behavioral Health",
+    "selective serotonin reuptake inhibition improving mood without anticholinergic sedation",
+    "PM&DC Psychiatry Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Generalized Anxiety Disorder Oral Escitalopram 10 mg Daily Alongside Cognitive Behavioral Therapy",
+    "Pharmacology",
+    "Behavioral Health",
+    "first-line SSRI therapy combined with psychotherapeutic coping strategies",
+    "PM&DC Psychiatry Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Schizophrenia Acute Psychosis Second-Generation Antipsychotic Risperidone 2-4 mg Daily",
+    "Pharmacology",
+    "Behavioral Health",
+    "dopamine D2 and 5-HT2A receptor antagonism reducing positive symptoms with low EPS risk",
+    "PM&DC Psychiatry Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bipolar I Disorder Acute Mania Oral Sodium Valproate or Lithium Carbonate Initiation",
+    "Pharmacology",
+    "Behavioral Health",
+    "mood stabilization suppressing manic hyperactivity and preventing depressive relapse",
+    "PM&DC Psychiatry Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Delirium in Hospitalized Inpatient Identifying and Reversing Acute Sepsis and Constipation",
+    "Medicine",
+    "Behavioral Health",
+    "multicomponent non-pharmacological care bundle addressing precipitating systemic medical causes",
+    "PM&DC General Medicine Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Informed Consent Competent Adult Right to Refuse Recommended Treatment",
+    "Ethics",
+    "General Principles",
+    "respecting patient autonomy provided the individual possesses capacity and understands risks",
+    "PM&DC Code of Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Medical Confidentiality Disclosure Permissible When Required by Law (Notifiable Infectious Disease)",
+    "Ethics",
+    "General Principles",
+    "statutory legal requirement to notify public health authorities of cholera, polio, or tuberculosis",
+    "PM&DC Code of Medical Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Randomized Controlled Trial Double-Blind Design Minimizing Information and Observer Bias",
+    "Biostatistics",
+    "General Principles",
+    "blinding both patient and investigator preventing biased assessment of clinical outcomes",
+    "PM&DC Research Methodology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Case-Control Study Odds Ratio (OR) Calculation Estimating Relative Risk in Rare Diseases",
+    "Biostatistics",
+    "General Principles",
+    "retrospective evaluation of exposure odds among cases versus matched healthy controls",
+    "PM&DC Biostatistics Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Sensitivity of a Diagnostic Test Proportion of Diseased Individuals Who Test Positive",
+    "Biostatistics",
+    "General Principles",
+    "high sensitivity test ideal for screening to rule out disease when negative (SnNOut)",
+    "PM&DC Biostatistics Curriculum",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Specificity of a Diagnostic Test Proportion of Disease-Free Individuals Who Test Negative",
+    "Biostatistics",
+    "General Principles",
+    "high specificity test ideal for confirmation to rule in disease when positive (SpPIn)",
+    "PM&DC Biostatistics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Incidence Rate New Cases Developing in a Population at Risk Over Specified Time Period",
+    "Biostatistics",
+    "General Principles",
+    "epidemiological measure of disease occurrence rate reflecting acute transmission dynamics",
+    "PM&DC Community Medicine Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Prevalence of Disease Existing Total Cases in a Defined Population at a Given Point in Time",
+    "Biostatistics",
+    "General Principles",
+    "proportion reflecting both incidence and duration of chronic clinical conditions",
+    "PM&DC Community Medicine Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Positive Predictive Value (PPV) True Positives Divided by All Positive Test Results",
+    "Biostatistics",
+    "General Principles",
+    "clinical utility metric directly dependent on underlying disease prevalence in the population",
+    "PM&DC Biostatistics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Type II Error (Beta) Failing to Reject False Null Hypothesis (False Negative Finding)",
+    "Biostatistics",
+    "General Principles",
+    "statistical power defined as 1 minus beta reflecting study ability to detect real treatment effect",
+    "PM&DC Research Methodology Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Viral Rhinosinusitis Persistent > 10 Days High-Dose Amoxicillin-Clavulanate",
+    "Pharmacology",
+    "Respiratory",
+    "broad antimicrobial coverage for secondary bacterial Streptococcus pneumoniae and Haemophilus influenzae",
+    "PM&DC Primary Care Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Allergic Rhinitis Moderate-to-Severe Daily Intranasal Fluticasone Propionate Spray",
+    "Pharmacology",
+    "Respiratory",
+    "topical glucocorticoid suppressing eosinophilic nasal mucosal inflammation and sneezing",
+    "PM&DC Outpatient Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bronchial Asthma Mild Persistent Inhaled Low-Dose Budesonide Plus As-Needed Salbutamol",
+    "Pharmacology",
+    "Respiratory",
+    "daily anti-inflammatory inhaled corticosteroid preventing recurrent bronchospastic exacerbations",
+    "PM&DC Pulmonology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Gastroesophageal Reflux Disease Typical Heartburn Oral Omeprazole 20 mg Daily for 4-8 Weeks",
+    "Pharmacology",
+    "Gastrointestinal",
+    "gastric acid suppression achieving mucosal healing in uncomplicated reflux esophagitis",
+    "PM&DC Gastroenterology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Peptic Ulcer Disease Helicobacter pylori Positive 14-Day Bismuth Quadruple Therapy",
+    "Pharmacology",
+    "Gastrointestinal",
+    "PPI, bismuth subsalicylate, metronidazole, and tetracycline overcoming widespread antibiotic resistance",
+    "PM&DC Gastroenterology Curriculum",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Chronic Functional Constipation in Child Osmotic Laxative Polyethylene Glycol (PEG 3350)",
+    "Pediatrics",
+    "Gastrointestinal",
+    "non-absorbable osmotic polymer softening stool and establishing painless regular evacuation",
+    "PM&DC Pediatrics Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Infantile Nutritional Rickets Craniotabes and Bowing High-Dose Oral Cholecalciferol (Vitamin D3)",
+    "Pediatrics",
+    "Musculoskeletal",
+    "vitamin D and dietary calcium replenishment promoting normal osteoid mineralization",
+    "PM&DC Pediatric Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Scurvy Vitamin C Deficiency Gingival Bleeding and Corkscrew Hairs Oral Ascorbic Acid 300 mg Daily",
+    "Medicine",
+    "Musculoskeletal",
+    "restoring proline and lysine hydroxylation for normal triple-helix collagen biosynthesis",
+    "PM&DC Nutritional Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Nutritional Night Blindness Bitot Spots High-Dose Oral Vitamin A 200,000 IU Capsule",
+    "Medicine",
+    "Nervous System",
+    "rhodopsin replenishment and epithelial keratinization reversal preventing keratomalacia and blindness",
+    "WHO Vitamin A Supplementation Guidelines",
+    "https://www.who.int/"
+  ],
+  [
+    "Beriberi Wet Cardiac Thiamine Deficiency High-Output Failure Immediate IV Thiamine 100 mg",
+    "Medicine",
+    "Cardiovascular",
+    "pyruvate dehydrogenase cofactor restoration reversing lactic acidosis and myocardial failure",
+    "PM&DC Medical Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pellagra 4 Ds Diarrhea, Dermatitis, Dementia, Death Oral Nicotinamide 300 mg Daily",
+    "Medicine",
+    "Dermatology",
+    "NAD/NADP coenzyme restoration rapidly clearing symmetric photosensitive casall necklace rash",
+    "PM&DC Nutritional Medicine",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Megaloblastic Anemia Folate Deficiency Oral Folic Acid 5 mg Daily After Excluding B12 Deficiency",
+    "Pharmacology",
+    "Hematology",
+    "preventing precipitating subacute combined degeneration of the spinal cord by ruling out B12 deficiency first",
+    "PM&DC Hematology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Vitamin B12 Deficiency Pernicious Anemia Intramuscular Hydroxocobalamin 1000 mcg Alternate Days",
+    "Pharmacology",
+    "Hematology",
+    "parenteral cobalamin reversing megaloblastic erythropoiesis and halting dorsal column myelinopathy",
+    "PM&DC Hematology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Scabies Infestation in Infant Permethrin 5% Dermal Cream Applied to Whole Body Including Head",
+    "Pediatrics",
+    "Dermatology",
+    "synthetic pyrethroid eradicating Sarcoptes scabiei mites and burrows across entire body surface",
+    "PM&DC Pediatric Dermatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pediculosis Capitis (Head Lice) Topical Permethrin 1% Lotion with Nit Combing",
+    "Pharmacology",
+    "Dermatology",
+    "neurotoxic pediculicide application followed by fine-tooth mechanical removal of nits",
+    "PM&DC Dermatology Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Tinea Capitis Scalp Ringworm Oral Griseofulvin 20-25 mg/kg/day with Fatty Meals for 6-8 Weeks",
+    "Pediatrics",
+    "Dermatology",
+    "systemic antifungal therapy required for dermatophyte hyphae penetrating hair follicles",
+    "PM&DC Pediatric Dermatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Impetigo Contagiosa Honey-Colored Crusts Topical Mupirocin 2% Ointment TDS for 5 Days",
+    "Pharmacology",
+    "Dermatology",
+    "bacterial isoleucyl-tRNA synthetase inhibition clearing localized Staphylococcus aureus infection",
+    "PM&DC Dermatology Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Furuncle (Boil) Fluctuant Erythematous Nodule Incision and Drainage Under Aseptic Precautions",
+    "Surgery",
+    "Dermatology",
+    "evacuating purulent core relieving pain and tissue tension without mandatory systemic antibiotics",
+    "PM&DC Minor Surgery Syllabus",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Lower Limb Erysipelas and Cellulitis Oral Amoxicillin-Clavulanate or Cephalexin for 7-10 Days",
+    "Pharmacology",
+    "Dermatology",
+    "broad-spectrum antistreptococcal and antistaphylococcal beta-lactam clearing dermal infection",
+    "PM&DC Outpatient Guidelines",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Dog Bite Wound Management Immediate Copious High-Pressure Saline Irrigation and Primary Non-Closure",
+    "Surgery",
+    "General Principles",
+    "mechanical bacterial load reduction leaving bite open to heal by secondary intention preventing rabies",
+    "PM&DC Emergency Guidelines",
+    "https://www.pmdc.pk/"
+  ]
+]
+
+MRCEM_TOPICS = [
+  [
+    "Cardiac Arrest Ventricular Fibrillation Immediate CPR and Defibrillation 150-200 J Biphasic Shock",
+    "Medicine",
+    "Cardiovascular",
+    "early unsynchronized electrical shock terminating chaotic ventricular dysrhythmia",
+    "RCUK Resuscitation Guidelines 2021",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Cardiac Arrest PEA/Asystole Reversible Causes 4 Hs and 4 Ts Systematic Review",
+    "Medicine",
+    "Cardiovascular",
+    "identifying hypoxia, hypovolemia, hypo/hyperkalemia, hypothermia, thrombosis, tension pneumo, tamponade, toxins",
+    "RCUK Adult Advanced Life Support",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Acute Coronary Syndrome STEMI Emergency Transfer for Primary PCI Within 120 Minutes",
+    "Medicine",
+    "Cardiovascular",
+    "emergent catheterization suite mobilization achieving immediate infarct-related coronary reperfusion",
+    "RCEM Best Practice Guideline Management of ACS",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Hemodynamically Unstable Broad Complex Tachycardia Synchronized DC Cardioversion 100 J",
+    "Medicine",
+    "Cardiovascular",
+    "synchronized electrical cardioversion terminating unstable ventricular tachycardia avoiding VF induction",
+    "RCUK Peri-Arrest Arrhythmia Guidelines",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Acute Pulmonary Edema Severe Cardiogenic Dyspnea CPAP and IV Furosemide with Nitrates",
+    "Pharmacology",
+    "Cardiovascular",
+    "positive airway pressure recruiting fluid-filled alveoli combined with venodilatory preload reduction",
+    "RCEM Guidelines Acute Heart Failure",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Cardiogenic Shock Post-Myocardial Infarction Norepinephrine Vasopressor and Emergent Revascularization",
+    "Pharmacology",
+    "Cardiovascular",
+    "restoring systemic mean arterial pressure while avoiding tachycardia-induced myocardial ischemia",
+    "RCEM Shock Protocols",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Aortic Dissection Acute Stanford Type A IV Labetalol or Esmolol Targeting SBP < 120 and HR < 60",
+    "Pharmacology",
+    "Cardiovascular",
+    "immediate negative inotropic and chronotropic beta-blockade minimizing aortic wall shear stress (dP/dt)",
+    "RCEM Best Practice Guideline Aortic Dissection",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Cardiac Tamponade Post-Trauma Beck Triad Immediate Ultrasound-Guided Subxiphoid Pericardiocentesis",
+    "Surgery",
+    "Cardiovascular",
+    "emergent needle aspiration of pericardial space restoring right ventricular diastolic filling",
+    "RCEM Resuscitation Procedures",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Symptomatic Bradycardia Hemodynamically Unstable IV Atropine 500 mcg Boluses Up to 3 mg",
+    "Pharmacology",
+    "Cardiovascular",
+    "antimuscarinic vagal blockade accelerating SA nodal rate and AV conduction",
+    "RCUK Bradycardia Algorithm",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Massive Pulmonary Embolism with Hypotension Systemic IV Thrombolysis Alteplase 50 mg Bolus",
+    "Pharmacology",
+    "Respiratory",
+    "emergent fibrinolytic infusion relieving acute right ventricular outflow obstruction and circulatory arrest",
+    "RCEM Best Practice Guideline PE",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Rapid Sequence Induction (RSI) in ED Ketamine, Rocuronium, and Video Laryngoscopy First-Pass Intubation",
+    "Pharmacology",
+    "Respiratory",
+    "hemodynamically stable induction agent and rapid-onset paralytic securing definitive airway",
+    "RCEM Airway Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Acute Asthma Near-Fatal Silent Chest Inhaled Salbutamol/Ipratropium, IV Magnesium, and Hydrocortisone",
+    "Pharmacology",
+    "Respiratory",
+    "intravenous bronchodilator smooth muscle relaxation and systemic glucocorticoid therapy",
+    "BTS/SIGN British Guideline on Asthma Management",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Acute Hypercapnic Respiratory Failure in COPD Exacerbation Non-Invasive Ventilation (NIV/BiPAP)",
+    "Medicine",
+    "Respiratory",
+    "bilevel ventilatory support reducing work of breathing, PaCO2, and intubation requirements",
+    "BTS Guideline for NIV in Acute Respiratory Failure",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Tension Pneumothorax Immediate Needle Thoracostomy 2nd Intercostal Space Midclavicular Line",
+    "Surgery",
+    "Respiratory",
+    "rapid needle decompression converting tension physiology to open pneumothorax prior to chest tube",
+    "ATLS Guidelines for Trauma",
+    "https://www.facs.org/"
+  ],
+  [
+    "Massive Hemothorax > 1500 mL Chest Drain Output Immediate Surgical Thoracotomy Call",
+    "Surgery",
+    "Respiratory",
+    "emergent operative exploration for persistent bleeding exceeding 200 mL/hr over 2-4 hours",
+    "RCEM Major Trauma Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Major Pelvic Fracture Hemodynamically Unstable Pelvic Binder Application and Massive Transfusion Protocol",
+    "Surgery",
+    "Musculoskeletal",
+    "mechanical pelvic ring stabilization reducing retroperitoneal venous bleeding",
+    "RCEM Major Trauma Best Practice",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Traumatic Brain Injury GCS <= 8 Immediate Endotracheal Intubation with Cervical In-Line Stabilization",
+    "Surgery",
+    "Nervous System",
+    "definitive airway protection preventing secondary hypoxic and hypercapnic brain injury",
+    "NICE Guideline CG176 Head Injury",
+    "https://www.nice.org.uk/guidance/cg176"
+  ],
+  [
+    "Open Tibial Fracture Gustilo Type IIIB Immediate IV Co-Amoxiclav and Orthoplastic Trauma Team Mobilization",
+    "Surgery",
+    "Musculoskeletal",
+    "early parenteral antibiotic prophylaxis within 1 hour followed by emergency joint debridement",
+    "BOA/BAPRAS Guidelines on Open Fractures",
+    "https://www.boa.ac.uk/"
+  ],
+  [
+    "Major Thermal Burn > 20% TBSA Parkland Formula 4 mL/kg/%TBSA Ringer Lactate in First 24 Hours",
+    "Surgery",
+    "General Principles",
+    "infusing half of total fluid over first 8 hours post-injury maintaining urine output > 0.5 mL/kg/hr",
+    "British Burn Association Resuscitation Guidelines",
+    "https://www.britishburnassociation.org/"
+  ],
+  [
+    "Blunt Abdominal Trauma FAST Positive Unstable Patient Immediate Transfer to Operating Theatre",
+    "Surgery",
+    "General Principles",
+    "avoiding delayed CT scanner transfer when free intraperitoneal fluid with uncorrectable shock is present",
+    "RCEM Trauma Care Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Septic Shock Sepsis Six Care Bundle Oxygen, Blood Cultures, IV Antibiotics, Fluid, Lactate, Urine Output",
+    "Medicine",
+    "General Principles",
+    "completing standardized bundle within 60 minutes significantly reducing in-hospital sepsis mortality",
+    "UK Sepsis Trust Clinical Toolkit",
+    "https://sepsistrust.org/"
+  ],
+  [
+    "Bacterial Meningitis Suspected Purpuric Rash Immediate IV Ceftriaxone 2 g Plus Dexamethasone 10 mg",
+    "Pharmacology",
+    "Nervous System",
+    "early parenteral antibiotic and glucocorticoid therapy reducing neurological sequelae",
+    "NICE Guideline CG102 Meningitis",
+    "https://www.nice.org.uk/guidance/cg102"
+  ],
+  [
+    "Status Epilepticus Refractory to IV Lorazepam 4 mg IV Levetiracetam 60 mg/kg or Sodium Valproate",
+    "Pharmacology",
+    "Nervous System",
+    "second-line non-sedating antiepileptic infusion over 10 minutes terminating persistent seizures",
+    "RCEM Clinical Practice Guideline Status Epilepticus",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Ischemic Stroke Within 4.5 Hours Door-to-Needle IV Thrombolysis Alteplase or Tenecteplase",
+    "Pharmacology",
+    "Nervous System",
+    "early fibrinolytic administration restoring ischemic penumbral perfusion in eligible patients",
+    "NICE Guideline NG128 Stroke Management",
+    "https://www.nice.org.uk/guidance/ng128"
+  ],
+  [
+    "Acute Large Vessel Occlusion Mechanical Thrombectomy Within 24 Hours Guided by CT Perfusion",
+    "Surgery",
+    "Nervous System",
+    "endovascular catheter retrieval of occluding intracranial embolus salvaging functional brain tissue",
+    "RCEM Stroke Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Subarachnoid Hemorrhage Sudden Thunderclap Headache Non-Contrast Head CT Within 6 Hours",
+    "Medicine",
+    "Nervous System",
+    "ultra-early CT possessing > 99% sensitivity for acute subarachnoid blood avoiding lumbar puncture",
+    "RCEM Thunderclap Headache Best Practice",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Opioid Overdose Pinpoint Pupils and Apnea IV/IM/IN Naloxone Titrated to Adequate Ventilation",
+    "Pharmacology",
+    "Nervous System",
+    "pure mu-opioid antagonist restoring respiratory drive without precipitating severe acute withdrawal",
+    "RCEM Clinical Guideline Opioid Overdose",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Paracetamol Poisoning 4-Hour Level Above Treatment Line IV N-Acetylcysteine (NAC) Infusion",
+    "Pharmacology",
+    "Gastrointestinal",
+    "glutathione replenishment neutralizing toxic electrophilic NAPQI metabolite within 8 hours",
+    "TOXBASE NPIS Paracetamol Clinical Guidelines",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Tricyclic Antidepressant Overdose QRS > 100 ms and Hypotension IV Sodium Bicarbonate 8.4% 100 mL Bolus",
+    "Pharmacology",
+    "Cardiovascular",
+    "sodium loading and serum alkalinization overcoming fast voltage-gated sodium channel myocardial blockade",
+    "NPIS TOXBASE Tricyclic Overdose Guidelines",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Carbon Monoxide Poisoning Unconscious with High COHb Normobaric 100% or Hyperbaric Oxygen Therapy",
+    "Medicine",
+    "Respiratory",
+    "accelerating carboxyhemoglobin dissociation half-life preventing delayed neurological demyelination",
+    "NPIS Carbon Monoxide Guidance",
+    "https://www.npis.org/"
+  ],
+  [
+    "Severe Accidental Hypothermia Core Temp < 28C Active Internal Rewarming with Warm IV Fluids and Gentle Handling",
+    "Medicine",
+    "General Principles",
+    "avoiding rough manipulation triggering fatal ventricular fibrillation during core temperature restoration",
+    "RCUK Environmental Resuscitation Guidelines",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Heat Stroke Severe Hyperthermia > 40C and Encephalopathy Immediate Evaporative or Cold Water Immersion",
+    "Medicine",
+    "General Principles",
+    "rapid core cooling at 0.15-0.2C/min terminating life-threatening rhabdomyolysis and multi-organ failure",
+    "RCEM Environmental Emergencies Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Hyperkalemia K > 6.5 mmol/L with Peaked T Waves IV Calcium Chloride or Gluconate First",
+    "Pharmacology",
+    "Renal",
+    "immediate cardiac myocyte membrane stabilization followed by insulin-dextrose intracellular shifting",
+    "RCUK Management of Hyperkalaemia",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Diabetic Ketoacidosis Severe High Anion Gap Fixed-Rate IV Insulin Infusion 0.1 units/kg/hr Alongside Saline",
+    "Pharmacology",
+    "Endocrine",
+    "steady suppression of ketogenesis and gradual glucose normalization avoiding rapid hypokalemia",
+    "JBDS Management of DKA in Adults",
+    "https://abcd.care/jbds-ip"
+  ],
+  [
+    "Acute Adrenal Crisis Severe Shock Refractory to Fluids IV Hydrocortisone 100 mg Bolus Immediately",
+    "Pharmacology",
+    "Endocrine",
+    "immediate parenteral steroid replenishment without awaiting confirmatory hormonal results",
+    "Society for Endocrinology Emergency Guidance",
+    "https://www.endocrinology.org/"
+  ],
+  [
+    "Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs Emergent CT Mesenteric Angiography",
+    "Surgery",
+    "Gastrointestinal",
+    "early vascular imaging identifying superior mesenteric artery occlusion prior to bowel necrosis",
+    "RCEM Acute Abdomen Best Practice",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Testicular Torsion Sudden Severe Scrotal Pain Emergent Surgical Scrotal Exploration Within 6 Hours",
+    "Surgery",
+    "Renal",
+    "surgical detorsion and bilateral orchiopexy preventing permanent ischemic testicular infarction",
+    "BAUS Guidelines on Acute Scrotum",
+    "https://www.baus.org.uk/"
+  ],
+  [
+    "Ruptured Abdominal Aortic Aneurysm (AAA) Permissive Hypotension SBP 70-90 mm Hg and Immediate Theatre",
+    "Surgery",
+    "Cardiovascular",
+    "restricting vigorous crystalloid infusion preventing clot disruption prior to vascular control",
+    "RCEM Ruptured AAA Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Angle-Closure Glaucoma Stiff Globe and Steamy Cornea IV Acetazolamide and Topical Pilocarpine",
+    "Medicine",
+    "Nervous System",
+    "rapid emergency intraocular pressure lowering and pupillary constriction opening drainage angle",
+    "College of Optometrists / RCEM Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Epistaxis Sphenopalatine Artery Bleed Anterior and Posterior Nasal Balloon Tamponade",
+    "Surgery",
+    "Respiratory",
+    "rapid pneumatic balloon compression of posterior bleeding vessel with airway protection",
+    "RCEM Epistaxis Clinical Guidance",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Cardiac Arrest PEA/Asystole Chest Compressions 15:2 Ratio and Epinephrine 10 mcg/kg",
+    "Pediatrics",
+    "Cardiovascular",
+    "high-quality CPR and early IV/IO epinephrine administration according to pediatric life support protocols",
+    "RCUK Pediatric Advanced Life Support (PALS)",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Pediatric Severe Sepsis Delayed Capillary Refill > 3s Rapid IV/IO Boluses of 10-20 mL/kg Balanced Crystalloid",
+    "Pediatrics",
+    "General Principles",
+    "titrated fluid boluses assessing for hepatomegaly and crackles to avoid volume overload",
+    "RCEM Pediatric Sepsis Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Anaphylaxis in Child Intramuscular Epinephrine (Adrenaline) 1:1000 into Mid-Anterolateral Thigh",
+    "Pharmacology",
+    "General Principles",
+    "weight-banded IM adrenaline reversing bronchospasm, laryngeal angioedema, and distributive shock",
+    "RCUK Anaphylaxis Guidelines",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Pediatric Status Epilepticus Seizure > 5 Minutes Buccal Midazolam or Rectal Diazepam First-Line",
+    "Pharmacology",
+    "Nervous System",
+    "rapid pre-hospital or emergency benzodiazepine terminating prolonged seizure activity",
+    "APLS Advanced Paediatric Life Support Protocols",
+    "https://www.alps-group.org/"
+  ],
+  [
+    "Croup (Laryngotracheobronchitis) Severe Stridor at Rest Nebulized Epinephrine and Oral Dexamethasone",
+    "Pharmacology",
+    "Respiratory",
+    "nebulized adrenaline vasoconstriction providing immediate relief while oral steroid sustains recovery",
+    "RCEM Pediatric Croup Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Foreign Body Airway Obstruction Conscious Choking 5 Back Blows Alternating with 5 Chest Thrusts",
+    "Pediatrics",
+    "Respiratory",
+    "mechanical relief of upper airway obstruction avoiding blind finger sweeps in infants",
+    "RCUK Pediatric Basic Life Support",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Suspected Meningococcal Sepsis Purpuric Rash Emergent IV/IM Ceftriaxone 50 mg/kg Within 15 Minutes",
+    "Pharmacology",
+    "Nervous System",
+    "door-to-needle third-generation cephalosporin administration significantly improving survival",
+    "NICE Guideline CG102 Meningococcal Disease",
+    "https://www.nice.org.uk/guidance/cg102"
+  ],
+  [
+    "Intussusception Ileo-Colic in Infant Ultrasound Doughnut Sign Pneumatic Air Enema Reduction",
+    "Surgery",
+    "Gastrointestinal",
+    "non-operative fluoroscopic air reduction avoiding laparotomy in non-perforated cases",
+    "RCEM Pediatric Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Neonatal Hypoglycemia Lethargic Infant Blood Glucose < 2.6 mmol/L IV 10% Dextrose 2 mL/kg Bolus",
+    "Pediatrics",
+    "Endocrine",
+    "rapid correction of neuroglycopenia followed by maintenance infusion preventing permanent brain injury",
+    "APLS Protocols Neonatal Hypoglycemia",
+    "https://www.alps-group.org/"
+  ],
+  [
+    "Non-Accidental Injury (NAI) Multiple Fractures of Different Ages Child Protection Safeguarding Referral",
+    "Pediatrics",
+    "General Principles",
+    "statutory duty to ensure immediate child safety and multidisciplinary safeguarding team evaluation",
+    "RCEM Safeguarding Children Guidance",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Eclampsia Active Generalized Seizure IV Magnesium Sulfate 4 g Loading Dose Over 5-10 Minutes",
+    "Obstetrics",
+    "Pregnancy",
+    "parenteral magnesium sulfate neuroprotection terminating seizures and preventing intracerebral hemorrhage",
+    "RCEM Obstetric Emergencies Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Postpartum Hemorrhage Blood Loss > 1000 mL Bimanual Compression, Oxytocin, and Tranexamic Acid",
+    "Obstetrics",
+    "Pregnancy",
+    "immediate mechanical stimulation, high-dose uterotonics, and early 1 g IV tranexamic acid",
+    "RCOG Green-top Guideline No. 52 PPH",
+    "https://www.rcog.org.uk/"
+  ],
+  [
+    "Ruptured Ectopic Pregnancy Hemoperitoneum Immediate O-Negative Blood Transfusion and Theatre Call",
+    "Surgery",
+    "Pregnancy",
+    "resuscitative blood transfusion and immediate emergent laparoscopic or open salpingectomy",
+    "RCEM Early Pregnancy Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Emergency Department Capacity Assessment Mental Capacity Act 2005 Presumption of Capacity",
+    "Ethics",
+    "General Principles",
+    "statutory test assessing patient ability to understand, retain, weigh information, and communicate decision",
+    "GMC Consent and Decision-Making Guidance",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Emergency Treatment in Incapacitated Patient Common Law / Mental Capacity Act Best Interests Decision",
+    "Ethics",
+    "General Principles",
+    "providing essential life-saving emergency medical interventions when the patient lacks capacity",
+    "GMC Good Medical Practice Guidelines",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Mental Health Act Section 136 Police Power to Remove Mentally Disordered Person to Place of Safety",
+    "Ethics",
+    "Behavioral Health",
+    "statutory legal detention in designated health-based place of safety for psychiatric assessment",
+    "UK Mental Health Act 1983 Code of Practice",
+    "https://www.legislation.gov.uk/"
+  ],
+  [
+    "Confidentiality Disclosure Permissible to Prevent Serious Crime or Serious Harm to Others",
+    "Ethics",
+    "General Principles",
+    "statutory exception to confidentiality permitting disclosure to police to prevent imminent violence",
+    "GMC Confidentiality Guidance",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Sudden Unexplained Infant Death (SUDI) Protocol Multi-Agency Joint Assessment and Coronial Notification",
+    "Ethics",
+    "General Principles",
+    "compassionate parental support alongside statutory death investigation and autopsy protocol",
+    "RCEM Sudden Unexplained Death in Childhood",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Needlestick Injury Blood-Borne Virus Exposure Post-Exposure Prophylaxis (PEP) Within 72 Hours",
+    "Pharmacology",
+    "General Principles",
+    "28-day antiretroviral combination therapy initiated immediately following high-risk sharps exposure",
+    "BASHH PEP Guidelines",
+    "https://www.bashh.org/"
+  ],
+  [
+    "Mass Casualty Incident Major Incident Declaration (METHANE Report) and Triage Sieve Protocol",
+    "Medicine",
+    "General Principles",
+    "standardized scene communication and rapid physiological triage categorizing P1, P2, P3, and dead",
+    "RCEM Major Incident Management Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Hypertensive Emergency with Acute Encephalopathy IV Labetalol or Nicardipine Titration",
+    "Pharmacology",
+    "Cardiovascular",
+    "controlled reduction of mean arterial pressure by no more than 20-25% in the first hour",
+    "RCEM Best Practice Guideline Hypertension",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Aortic Dissection Stanford Type B Uncomplicated Medical Beta-Blocker Heart Rate Control",
+    "Pharmacology",
+    "Cardiovascular",
+    "intravenous labetalol maintaining heart rate < 60 bpm and systolic BP < 120 mm Hg",
+    "RCEM Aortic Dissection Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Supraventricular Tachycardia (AVNRT) Refractory to Vagal Maneuvers IV Adenosine Rapid Bolus",
+    "Pharmacology",
+    "Cardiovascular",
+    "6 mg rapid IV push through antecubital vein followed by saline flush terminating AV nodal circuit",
+    "RCUK Peri-Arrest Arrhythmia Guidelines",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Atrial Fibrillation with Rapid Ventricular Rate Hemodynamically Stable IV Diltiazem or Metoprolol",
+    "Pharmacology",
+    "Cardiovascular",
+    "rate control reducing ventricular response rate < 110 bpm while evaluating thromboembolic risk",
+    "RCEM Atrial Fibrillation Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Lower Limb Ischemia 6 Ps Emergent Intravenous Unfractionated Heparin Bolus",
+    "Pharmacology",
+    "Cardiovascular",
+    "immediate systemic anticoagulation halting thrombus propagation before urgent surgical embolectomy",
+    "RCEM Acute Vascular Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Extensive Iliofemoral Deep Vein Thrombosis Direct Factor Xa Inhibitor Apixaban or Rivaroxaban",
+    "Pharmacology",
+    "Cardiovascular",
+    "immediate oral therapeutic anticoagulation with high bioavailability preventing pulmonary embolism",
+    "RCEM Venous Thromboembolism Guidance",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Extracranial Carotid Artery Dissection Post-Cervical Trauma Antiplatelet Therapy",
+    "Pharmacology",
+    "Cardiovascular",
+    "aspirin or clopidogrel preventing thromboembolic stroke from intimal flap pseudoaneurysm",
+    "RCEM Trauma Care Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Subclavian Steal Syndrome Post-Exercise Arm Ischemia Vascular Duplex and CT Angiography",
+    "Medicine",
+    "Cardiovascular",
+    "demonstrating retrograde vertebral arterial flow secondary to severe proximal subclavian stenosis",
+    "RCEM Vascular Review",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Infective Endocarditis Acute Severe Aortic Regurgitation with Pulmonary Edema Urgent Valve Replacement",
+    "Surgery",
+    "Cardiovascular",
+    "emergent cardiothoracic surgical intervention before irreversible cardiogenic circulatory collapse",
+    "RCEM/SCTS Cardiac Surgery Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Refractory Ventricular Tachycardia Electrical Storm IV Amiodarone Plus Stellate Ganglion Block",
+    "Pharmacology",
+    "Cardiovascular",
+    "antiarrhythmic loading combined with sympathetic autonomic denervation suppressing arrhythmia triggers",
+    "RCUK Resuscitation Guidelines",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Flail Chest with Paradoxical Chest Wall Movement Multi-Modal Analgesia with Thoracic Epidural",
+    "Medicine",
+    "Respiratory",
+    "aggressive pain control optimizing pulmonary mechanics and preventing atelectasis and pneumonia",
+    "RCEM Major Trauma Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Tracheobronchial Rupture with Massive Air Leak Emergent Fiberoptic Bronchoscopy and Thoracotomy",
+    "Surgery",
+    "Respiratory",
+    "direct airway visualization and selective single-lung ventilation followed by surgical repair",
+    "RCEM Thoracic Trauma Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Traumatic Diaphragmatic Herniation Post-Blunt Trauma Emergent Laparotomy and Suture Repair",
+    "Surgery",
+    "Respiratory",
+    "surgical reduction of herniated viscera and primary non-absorbable diaphragmatic suture closure",
+    "RCEM Trauma Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Blunt Cardiac Injury (Myocardial Contusion) Continuous 24-Hour Electrocardiographic Telemetry",
+    "Medicine",
+    "Cardiovascular",
+    "cardiac monitoring identifying life-threatening ventricular arrhythmias in first 24 hours post-trauma",
+    "RCEM Trauma Protocols",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pelvic Fracture Bleeding Angiographic Transcatheter Embolization for Arterial Extravasation",
+    "Surgery",
+    "Musculoskeletal",
+    "interventional radiologic coil or gelfoam embolization controlling internal iliac arterial bleeding",
+    "RCEM Pelvic Trauma Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Posterior Urethral Injury High-Riding Prostate Retrograde Urethrography Preceding Catheterization",
+    "Surgery",
+    "Renal",
+    "fluoroscopic fluorourethrogram establishing urethral disruption before blind Foley catheter placement",
+    "RCEM Urological Trauma Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Salicylate (Aspirin) Poisoning Tinnitus and Acidosis IV Sodium Bicarbonate Urinary Alkalinization",
+    "Pharmacology",
+    "General Principles",
+    "ion trapping of salicylate in alkaline urine (pH > 7.5) accelerating renal elimination",
+    "NPIS TOXBASE Salicylate Guidance",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Acute Iron Overdose Serum Iron > 500 mcg/dL with Shock Intravenous Deferoxamine Chelation",
+    "Pharmacology",
+    "General Principles",
+    "formation of water-soluble ferrioxamine complex excreted in urine resulting in vin rose appearance",
+    "NPIS TOXBASE Iron Toxicity Guidelines",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Calcium Channel Blocker Overdose High-Dose Insulin Euglycemia Therapy (HIET) Protocol",
+    "Pharmacology",
+    "Cardiovascular",
+    "regular insulin 1 unit/kg bolus with glucose infusion restoring myocyte carbohydrate uptake and inotropy",
+    "NPIS Toxicology Guidelines",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Toxic Alcohol Ingestion Methanol High Osmolal Gap Emergent IV Fomepizole and Hemodialysis",
+    "Pharmacology",
+    "General Principles",
+    "alcohol dehydrogenase inhibition combined with dialytic clearance of toxic formic acid metabolite",
+    "NPIS TOXBASE Toxic Alcohols",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Cauda Equina Syndrome Bilateral Sciatica and Urinary Retention Emergent Whole-Spine MRI",
+    "Surgery",
+    "Nervous System",
+    "urgent cross-sectional imaging within 4 hours followed by emergency decompressive laminectomy",
+    "RCEM Best Practice Cauda Equina",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pyogenic Brain Abscess with Mass Effect IV Ceftriaxone, Metronidazole, Vancomycin, and Drainage",
+    "Surgery",
+    "Nervous System",
+    "neurosurgical stereotactic aspiration combined with 6 weeks of targeted high-dose parenteral antibiotics",
+    "RCEM Neurosurgical Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Traumatic Subdural Hematoma Midline Shift > 5 mm Emergent Decompressive Craniotomy",
+    "Surgery",
+    "Nervous System",
+    "urgent hematoma evacuation and bone flap removal within 4 hours reducing mortality and brain herniation",
+    "RCEM Head Injury Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Cerebral Venous Sinus Thrombosis (CVST) Postpartum Headache Full-Dose Therapeutic LMWH Anticoagulation",
+    "Pharmacology",
+    "Nervous System",
+    "therapeutic low-molecular-weight heparin indicated even in the presence of venous hemorrhagic infarction",
+    "RCEM Neurological Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Guillain-Barre Syndrome Respiratory Muscle Weakness Forced Vital Capacity Serial Monitoring",
+    "Medicine",
+    "Nervous System",
+    "bedside spirometry triggering elective intubation when FVC drops < 15-20 mL/kg or negative inspiratory force < 30 cmH2O",
+    "RCEM Neuromuscular Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Severe Frostbite Peripheral Digit Freezing Rapid Rewarming in Water Bath at 37-39C for 30 Minutes",
+    "Medicine",
+    "General Principles",
+    "controlled thermal thawing without dry heat followed by aloe vera, elevation, and iloprost consideration",
+    "RCEM Environmental Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "High Altitude Pulmonary Edema (HAPE) Immediate Descent, Supplemental Oxygen, and Oral Nifedipine",
+    "Pharmacology",
+    "Respiratory",
+    "lowering pulmonary artery systolic pressure combined with urgent descent to lower elevation",
+    "RCEM Mountain Medicine Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "High Altitude Cerebral Edema (HACE) Immediate Descent, Supplemental Oxygen, and IV/Oral Dexamethasone",
+    "Pharmacology",
+    "Nervous System",
+    "high-dose corticosteroid 8 mg stat reducing vasogenic cerebral edema during emergent evacuation",
+    "RCEM Wilderness Medicine Protocols",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Decompression Sickness (The Bends) Post-Scuba Diving 100% High-Flow Oxygen and Hyperbaric Chamber Transfer",
+    "Medicine",
+    "General Principles",
+    "recompression shrinking intravascular nitrogen bubbles and restoring regional tissue microperfusion",
+    "RCEM Diving Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Near-Drowning Submersion Injury Hypoxemia High PEEP Mechanical Ventilation and Rewarming",
+    "Medicine",
+    "Respiratory",
+    "positive end-expiratory pressure alveolar recruitment counteracting washed-out pulmonary surfactant",
+    "RCEM Resuscitation Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Testicular Torsion Absent Cremasteric Reflex Emergent Bilateral Scrotal Orchidopexy Within 6 Hours",
+    "Surgery",
+    "Renal",
+    "urgent operative detorsion and three-point fixation preventing ischemic testicular necrosis",
+    "RCEM Acute Scrotum Best Practice",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Ischemic Low-Flow Priapism > 4 Hours Intracavernous Aspiration and Phenylephrine Irrigation",
+    "Pharmacology",
+    "Renal",
+    "alpha-1 adrenergic vasoconstriction restoring venous outflow preventing corporal cavernosal fibrosis",
+    "BAUS Guidelines for Management of Priapism",
+    "https://www.baus.org.uk/"
+  ],
+  [
+    "Paraphimosis Painful Constricting Preputial Ring Manual Compression and Dorsal Slit if Irreducible",
+    "Surgery",
+    "Renal",
+    "compression edema reduction followed by prepuce advancement over glans under local block",
+    "RCEM Urological Procedures",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Hinchey Stage IV Diverticulitis Purulent Peritonitis Emergent Laparotomy and Hartmann Procedure",
+    "Surgery",
+    "Gastrointestinal",
+    "sigmoid resection with end colostomy exteriorization controlling generalized intra-abdominal sepsis",
+    "RCEM Surgical Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Ascending Cholangitis Charcot Triad Urgent ERCP Endoscopic Biliary Sphincterotomy",
+    "Surgery",
+    "Gastrointestinal",
+    "decompression of obstructed infected biliary tree within 24 hours combined with broad-spectrum antibiotics",
+    "RCEM Gastroenterology Standards",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Ludwig Angina Submandibular Cellulitis Awake Fiberoptic Intubation and Surgical Fascial Decompression",
+    "Surgery",
+    "Respiratory",
+    "securing airway before complete supraglottic occlusion followed by submandibular drainage",
+    "RCEM Airway Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Adult Epiglottitis Airway Threat Immediate Fiberoptic Examination in Theatre Readiness",
+    "Surgery",
+    "Respiratory",
+    "controlled airway management with ENT/anesthetic team on standby followed by IV ceftriaxone",
+    "RCEM Airway Infection Protocols",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Retropharyngeal Abscess Trismus and Stridor Transoral or Lateral Cervical Surgical Drainage",
+    "Surgery",
+    "Respiratory",
+    "operative purulent evacuation under general anesthesia preventing downward descending mediastinitis",
+    "RCEM Head and Neck Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Peritonsillar Abscess (Quinsy) Uvular Deviation Needle Aspiration or Incision and Drainage",
+    "Surgery",
+    "Respiratory",
+    "evacuating pus from peritonsillar space combined with IV penicillin or co-amoxiclav",
+    "RCEM ENT Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Mastoiditis with Post-Auricular Erythema and Fluctuance IV Ceftriaxone and Urgent Cortical Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "surgical debridement of infected mastoid air cells preventing subperiosteal abscess and intracranial spread",
+    "RCEM ENT Clinical Guidance",
+    "https://rcem.ac.uk/"
+  ]
+]
