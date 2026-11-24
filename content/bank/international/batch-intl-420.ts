@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-41073",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement. Clinical examination and investigative review confirm wound exploration, drainage, culture-directed intravenous antibiotics, and removal of infected polypropylene mesh. Vitals reveal blood pressure of 139/73 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery inguinal hernia mesh infection wound debridement. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Wound exploration, drainage, culture-directed intravenous antibiotics, and removal of infected polypropylene mesh",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is wound exploration, drainage, culture-directed intravenous antibiotics, and removal of infected polypropylene mesh. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement. The cornerstone of management involves wound exploration, drainage, culture-directed intravenous antibiotics, and removal of infected polypropylene mesh. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Inguinal Hernia Mesh Infection Wound Debridement."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41074",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography. Clinical examination and investigative review confirm biphasic abdominal CT angiography demonstrating superior mesenteric artery thromboembolism before peritonitis develops. Vitals reveal blood pressure of 118/74 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery acute mesenteric ischemia biphasic ct angiography. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Biphasic abdominal CT angiography demonstrating superior mesenteric artery thromboembolism before peritonitis develops",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is biphasic abdominal CT angiography demonstrating superior mesenteric artery thromboembolism before peritonitis develops. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography. The cornerstone of management involves biphasic abdominal CT angiography demonstrating superior mesenteric artery thromboembolism before peritonitis develops. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Acute Mesenteric Ischemia Biphasic CT Angiography."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41075",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy. Clinical examination and investigative review confirm endoscopic retrograde cholangiopancreatography with sphincterotomy and stone extraction followed by elective cholecystectomy. Vitals reveal blood pressure of 119/75 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery choledocholithiasis preoperative ercp sphincterotomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic retrograde cholangiopancreatography with sphincterotomy and stone extraction followed by elective cholecystectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is endoscopic retrograde cholangiopancreatography with sphincterotomy and stone extraction followed by elective cholecystectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy. The cornerstone of management involves endoscopic retrograde cholangiopancreatography with sphincterotomy and stone extraction followed by elective cholecystectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Choledocholithiasis Preoperative ERCP Sphincterotomy."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41076",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol. Clinical examination and investigative review confirm puncture, aspiration, scolicidal agent injection (hypertonic saline), and re-aspiration under ultrasound guidance. Vitals reveal blood pressure of 120/76 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery hydatid cyst of liver pair technique protocol. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Puncture, aspiration, scolicidal agent injection (hypertonic saline), and re-aspiration under ultrasound guidance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is puncture, aspiration, scolicidal agent injection (hypertonic saline), and re-aspiration under ultrasound guidance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol. The cornerstone of management involves puncture, aspiration, scolicidal agent injection (hypertonic saline), and re-aspiration under ultrasound guidance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Hydatid Cyst of Liver PAIR Technique Protocol."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41077",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits. Clinical examination and investigative review confirm oral metronidazole 800 mg TID for 10 days with percutaneous aspiration for abscess > 5 cm or imminent rupture risk. Vitals reveal blood pressure of 121/77 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery amebic liver abscess metronidazole and aspiration limits. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Oral metronidazole 800 mg TID for 10 days with percutaneous aspiration for abscess > 5 cm or imminent rupture risk",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral metronidazole 800 mg TID for 10 days with percutaneous aspiration for abscess > 5 cm or imminent rupture risk. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits. The cornerstone of management involves oral metronidazole 800 mg TID for 10 days with percutaneous aspiration for abscess > 5 cm or imminent rupture risk. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Amebic Liver Abscess Metronidazole and Aspiration Limits."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41078",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair. Clinical examination and investigative review confirm emergency exploratory laparotomy and Graham omental patch closure with thorough peritoneal saline lavage. Vitals reveal blood pressure of 122/78 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery perforated peptic ulcer graham omental patch repair. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Emergency exploratory laparotomy and Graham omental patch closure with thorough peritoneal saline lavage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is emergency exploratory laparotomy and Graham omental patch closure with thorough peritoneal saline lavage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair. The cornerstone of management involves emergency exploratory laparotomy and Graham omental patch closure with thorough peritoneal saline lavage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Perforated Peptic Ulcer Graham Omental Patch Repair."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41079",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology. Clinical examination and investigative review confirm absence of ganglion cells in Meissner and Auerbach plexuses with hypertrophied nerve trunks on rectal biopsy. Vitals reveal blood pressure of 123/79 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery hirschsprung disease full-thickness rectal biopsy histology. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Absence of ganglion cells in Meissner and Auerbach plexuses with hypertrophied nerve trunks on rectal biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is absence of ganglion cells in Meissner and Auerbach plexuses with hypertrophied nerve trunks on rectal biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology. The cornerstone of management involves absence of ganglion cells in Meissner and Auerbach plexuses with hypertrophied nerve trunks on rectal biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Hirschsprung Disease Full-Thickness Rectal Biopsy Histology."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41080",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression. Clinical examination and investigative review confirm immediate 14G cannula decompression at 2nd intercostal space midclavicular line followed by chest tube placement. Vitals reveal blood pressure of 124/80 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery tension pneumothorax emergency needle cannula decompression. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate 14G cannula decompression at 2nd intercostal space midclavicular line followed by chest tube placement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate 14G cannula decompression at 2nd intercostal space midclavicular line followed by chest tube placement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression. The cornerstone of management involves immediate 14G cannula decompression at 2nd intercostal space midclavicular line followed by chest tube placement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Tension Pneumothorax Emergency Needle Cannula Decompression."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41081",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural. Clinical examination and investigative review confirm thoracic epidural analgesia and positive pressure ventilation for respiratory failure due to paradoxical chest wall movement. Vitals reveal blood pressure of 125/81 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery flail chest mechanical ventilation and thoracic epidural. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Thoracic epidural analgesia and positive pressure ventilation for respiratory failure due to paradoxical chest wall movement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is thoracic epidural analgesia and positive pressure ventilation for respiratory failure due to paradoxical chest wall movement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural. The cornerstone of management involves thoracic epidural analgesia and positive pressure ventilation for respiratory failure due to paradoxical chest wall movement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Flail Chest Mechanical Ventilation and Thoracic Epidural."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41082",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula. Clinical examination and investigative review confirm 4 mL x body weight (kg) x % total body surface area burned, giving half over the first 8 hours of burn injury. Vitals reveal blood pressure of 126/82 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery burn resuscitation modified parkland hartmann formula. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "4 mL x body weight (kg) x % total body surface area burned, giving half over the first 8 hours of burn injury",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is 4 mL x body weight (kg) x % total body surface area burned, giving half over the first 8 hours of burn injury. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula. The cornerstone of management involves 4 mL x body weight (kg) x % total body surface area burned, giving half over the first 8 hours of burn injury. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Burn Resuscitation Modified Parkland Hartmann Formula."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41083",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy. Clinical examination and investigative review confirm intracompartmental tissue pressure > 30 mmHg or delta pressure < 30 mmHg directing emergency two-incision four-compartment release. Vitals reveal blood pressure of 127/83 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery extremity compartment syndrome emergency fasciotomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Intracompartmental tissue pressure > 30 mmHg or delta pressure < 30 mmHg directing emergency two-incision four-compartment release",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intracompartmental tissue pressure > 30 mmHg or delta pressure < 30 mmHg directing emergency two-incision four-compartment release. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy. The cornerstone of management involves intracompartmental tissue pressure > 30 mmHg or delta pressure < 30 mmHg directing emergency two-incision four-compartment release. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Extremity Compartment Syndrome Emergency Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41084",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy. Clinical examination and investigative review confirm anthracycline-taxane combined with carboplatin and pembrolizumab prior to breast-conserving surgery or mastectomy. Vitals reveal blood pressure of 128/84 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery triple negative breast cancer neoadjuvant chemotherapy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Anthracycline-taxane combined with carboplatin and pembrolizumab prior to breast-conserving surgery or mastectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is anthracycline-taxane combined with carboplatin and pembrolizumab prior to breast-conserving surgery or mastectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy. The cornerstone of management involves anthracycline-taxane combined with carboplatin and pembrolizumab prior to breast-conserving surgery or mastectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Triple Negative Breast Cancer Neoadjuvant Chemotherapy."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41085",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC. Clinical examination and investigative review confirm Bethesda category IV (follicular neoplasm) mandating diagnostic hemithyroidectomy for histopathological examination. Vitals reveal blood pressure of 129/85 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery solitary cold thyroid nodule bethesda category iv fnac. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Bethesda category IV (follicular neoplasm) mandating diagnostic hemithyroidectomy for histopathological examination",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is Bethesda category IV (follicular neoplasm) mandating diagnostic hemithyroidectomy for histopathological examination. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC. The cornerstone of management involves Bethesda category IV (follicular neoplasm) mandating diagnostic hemithyroidectomy for histopathological examination. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Solitary Cold Thyroid Nodule Bethesda Category IV FNAC."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41086",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision. Clinical examination and investigative review confirm preoperative localization with dual-phase 99mTc-sestamibi scan followed by focused unilateral parathyroidectomy. Vitals reveal blood pressure of 130/86 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery parathyroid adenoma sestamibi spect focused excision. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Preoperative localization with dual-phase 99mTc-sestamibi scan followed by focused unilateral parathyroidectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is preoperative localization with dual-phase 99mTc-sestamibi scan followed by focused unilateral parathyroidectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision. The cornerstone of management involves preoperative localization with dual-phase 99mTc-sestamibi scan followed by focused unilateral parathyroidectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Parathyroid Adenoma Sestamibi SPECT Focused Excision."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41087",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blocka",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blockade. Clinical examination and investigative review confirm phenoxybenzamine 10-14 days prior to surgery followed by beta-blocker to prevent hypertensive crisis during tumor manipulation. Vitals reveal blood pressure of 131/87 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery pheochromocytoma preoperative phenoxybenzamine alpha-blockade. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Phenoxybenzamine 10-14 days prior to surgery followed by beta-blocker to prevent hypertensive crisis during tumor manipulation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is phenoxybenzamine 10-14 days prior to surgery followed by beta-blocker to prevent hypertensive crisis during tumor manipulation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blockade.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blockade. The cornerstone of management involves phenoxybenzamine 10-14 days prior to surgery followed by beta-blocker to prevent hypertensive crisis during tumor manipulation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blockade.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Pheochromocytoma Preoperative Phenoxybenzamine Alpha-Blockade."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41088",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm. Clinical examination and investigative review confirm infrarenal AAA diameter >= 5.5 cm in men or >= 5.0 cm in women or expansion > 1 cm/year prompting elective repair. Vitals reveal blood pressure of 132/72 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery abdominal aortic aneurysm repair threshold >= 5.5 cm. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Infrarenal AAA diameter >= 5.5 cm in men or >= 5.0 cm in women or expansion > 1 cm/year prompting elective repair",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is infrarenal AAA diameter >= 5.5 cm in men or >= 5.0 cm in women or expansion > 1 cm/year prompting elective repair. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm. The cornerstone of management involves infrarenal AAA diameter >= 5.5 cm in men or >= 5.0 cm in women or expansion > 1 cm/year prompting elective repair. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Abdominal Aortic Aneurysm Repair Threshold >= 5.5 cm."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41089",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing. Clinical examination and investigative review confirm emergency femoral arteriotomy and Fogarty balloon catheter thromboembolectomy within 6 hours of acute onset. Vitals reveal blood pressure of 133/73 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery acute lower limb ischemia fogarty embolectomy timing. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Emergency femoral arteriotomy and Fogarty balloon catheter thromboembolectomy within 6 hours of acute onset",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is emergency femoral arteriotomy and Fogarty balloon catheter thromboembolectomy within 6 hours of acute onset. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing. The cornerstone of management involves emergency femoral arteriotomy and Fogarty balloon catheter thromboembolectomy within 6 hours of acute onset. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Acute Lower Limb Ischemia Fogarty Embolectomy Timing."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41090",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%. Clinical examination and investigative review confirm endarterectomy indicated for symptomatic internal carotid artery stenosis 70-99% performed within 14 days of TIA/stroke. Vitals reveal blood pressure of 134/74 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery carotid endarterectomy symptomatic stenosis >= 70%. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endarterectomy indicated for symptomatic internal carotid artery stenosis 70-99% performed within 14 days of TIA/stroke",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is endarterectomy indicated for symptomatic internal carotid artery stenosis 70-99% performed within 14 days of TIA/stroke. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%. The cornerstone of management involves endarterectomy indicated for symptomatic internal carotid artery stenosis 70-99% performed within 14 days of TIA/stroke. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Carotid Endarterectomy Symptomatic Stenosis >= 70%."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41091",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation. Clinical examination and investigative review confirm radiofrequency or endovenous laser ablation of incompetent great saphenous vein under duplex ultrasound guidance. Vitals reveal blood pressure of 135/75 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery varicose veins radiofrequency thermal ablation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Radiofrequency or endovenous laser ablation of incompetent great saphenous vein under duplex ultrasound guidance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is radiofrequency or endovenous laser ablation of incompetent great saphenous vein under duplex ultrasound guidance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation. The cornerstone of management involves radiofrequency or endovenous laser ablation of incompetent great saphenous vein under duplex ultrasound guidance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Varicose Veins Radiofrequency Thermal Ablation."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41092",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Hematology",
+    "topic": "CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient. Clinical examination and investigative review confirm ICU monitoring, serial hematocrit measurements, and angioembolization for blush on CT in grade II/III splenic laceration. Vitals reveal blood pressure of 136/76 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp general surgery splenic trauma non-operative protocol in stable patient. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "ICU monitoring, serial hematocrit measurements, and angioembolization for blush on CT in grade II/III splenic laceration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ICU monitoring, serial hematocrit measurements, and angioembolization for blush on CT in grade II/III splenic laceration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient. The cornerstone of management involves ICU monitoring, serial hematocrit measurements, and angioembolization for blush on CT in grade II/III splenic laceration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP General Surgery Splenic Trauma Non-Operative Protocol in Stable Patient."
+    ],
+    "references": [
+      {
+        "label": "CPSP Surgery Curriculum Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41093",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks. Clinical examination and investigative review confirm intravenous meropenem or oral azithromycin 20 mg/kg/day for extensively drug-resistant Salmonella Typhi in Sindh. Vitals reveal blood pressure of 137/77 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine typhoid fever ceftriaxone vs azithromycin in xdr outbreaks. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous meropenem or oral azithromycin 20 mg/kg/day for extensively drug-resistant Salmonella Typhi in Sindh",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous meropenem or oral azithromycin 20 mg/kg/day for extensively drug-resistant Salmonella Typhi in Sindh. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks. The cornerstone of management involves intravenous meropenem or oral azithromycin 20 mg/kg/day for extensively drug-resistant Salmonella Typhi in Sindh. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Typhoid Fever Ceftriaxone vs Azithromycin in XDR Outbreaks."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology",
+        "url": "https://psg.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41094",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration. Clinical examination and investigative review confirm judicious isotonic crystalloid titration 5-7 mL/kg/h maintaining urine output 0.5 mL/kg/h and avoiding fluid overload. Vitals reveal blood pressure of 138/78 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine dengue hemorrhagic fever critical phase fluid titration. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Judicious isotonic crystalloid titration 5-7 mL/kg/h maintaining urine output 0.5 mL/kg/h and avoiding fluid overload",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is judicious isotonic crystalloid titration 5-7 mL/kg/h maintaining urine output 0.5 mL/kg/h and avoiding fluid overload. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration. The cornerstone of management involves judicious isotonic crystalloid titration 5-7 mL/kg/h maintaining urine output 0.5 mL/kg/h and avoiding fluid overload. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Dengue Hemorrhagic Fever Critical Phase Fluid Titration."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Internal Medicine",
+        "url": "https://psim.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41095",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy. Clinical examination and investigative review confirm intravenous dexamethasone 0.4 mg/kg/day tapered over 6-8 weeks combined with 4-drug HRZE anti-tuberculosis therapy. Vitals reveal blood pressure of 139/79 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine tuberculous meningitis dexamethasone adjuvant therapy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous dexamethasone 0.4 mg/kg/day tapered over 6-8 weeks combined with 4-drug HRZE anti-tuberculosis therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous dexamethasone 0.4 mg/kg/day tapered over 6-8 weeks combined with 4-drug HRZE anti-tuberculosis therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy. The cornerstone of management involves intravenous dexamethasone 0.4 mg/kg/day tapered over 6-8 weeks combined with 4-drug HRZE anti-tuberculosis therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Tuberculous Meningitis Dexamethasone Adjuvant Therapy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology",
+        "url": "https://psn.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41096",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On. Clinical examination and investigative review confirm low-dose mineralocorticoid receptor antagonist spironolactone added to triple therapy (ACEi/ARB + CCB + thiazide). Vitals reveal blood pressure of 118/80 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine resistant essential hypertension spironolactone add-on. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Low-dose mineralocorticoid receptor antagonist spironolactone added to triple therapy (ACEi/ARB + CCB + thiazide)",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is low-dose mineralocorticoid receptor antagonist spironolactone added to triple therapy (ACEi/ARB + CCB + thiazide). This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On. The cornerstone of management involves low-dose mineralocorticoid receptor antagonist spironolactone added to triple therapy (ACEi/ARB + CCB + thiazide). Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Resistant Essential Hypertension Spironolactone Add-On."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Hypertension League",
+        "url": "https://phl.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41097",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care. Clinical examination and investigative review confirm SGLT2 inhibitor therapy slowing CKD progression and reducing cardiovascular death in type 2 diabetes. Vitals reveal blood pressure of 119/81 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine diabetic kidney disease empagliflozin sglt2i cardiorenal care. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "SGLT2 inhibitor therapy slowing CKD progression and reducing cardiovascular death in type 2 diabetes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SGLT2 inhibitor therapy slowing CKD progression and reducing cardiovascular death in type 2 diabetes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care. The cornerstone of management involves SGLT2 inhibitor therapy slowing CKD progression and reducing cardiovascular death in type 2 diabetes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Diabetic Kidney Disease Empagliflozin SGLT2i Cardiorenal Care."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Endocrine Society",
+        "url": "https://pakendocrinesociety.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41098",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen. Clinical examination and investigative review confirm continuous IV terlipressin 2-4 mg/day with 20% human albumin 1 g/kg (max 100g) on day 1 followed by 20-40 g/day. Vitals reveal blood pressure of 120/82 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine hepatorenal syndrome terlipressin and albumin dual regimen. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Continuous IV terlipressin 2-4 mg/day with 20% human albumin 1 g/kg (max 100g) on day 1 followed by 20-40 g/day",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is continuous IV terlipressin 2-4 mg/day with 20% human albumin 1 g/kg (max 100g) on day 1 followed by 20-40 g/day. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen. The cornerstone of management involves continuous IV terlipressin 2-4 mg/day with 20% human albumin 1 g/kg (max 100g) on day 1 followed by 20-40 g/day. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Hepatorenal Syndrome Terlipressin and Albumin Dual Regimen."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology",
+        "url": "https://psg.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41099",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap. Clinical examination and investigative review confirm intravenous cefotaxime 2g every 8h combined with IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3. Vitals reveal blood pressure of 121/83 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine spontaneous bacterial peritonitis pmn >= 250 diagnostic tap. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Intravenous cefotaxime 2g every 8h combined with IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous cefotaxime 2g every 8h combined with IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap. The cornerstone of management involves intravenous cefotaxime 2g every 8h combined with IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Spontaneous Bacterial Peritonitis PMN >= 250 Diagnostic Tap."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology",
+        "url": "https://psg.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41100",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy. Clinical examination and investigative review confirm TAF or entecavir high genetic barrier monotherapy for immune-active HBeAg positive or negative hepatitis B. Vitals reveal blood pressure of 122/84 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine chronic hepatitis b entecavir or taf high-barrier monotherapy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "TAF or entecavir high genetic barrier monotherapy for immune-active HBeAg positive or negative hepatitis B",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is TAF or entecavir high genetic barrier monotherapy for immune-active HBeAg positive or negative hepatitis B. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy. The cornerstone of management involves TAF or entecavir high genetic barrier monotherapy for immune-active HBeAg positive or negative hepatitis B. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Chronic Hepatitis B Entecavir or TAF High-Barrier Monotherapy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology",
+        "url": "https://psg.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41101",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol. Clinical examination and investigative review confirm 36-hour washout period after stopping ACE inhibitor before starting low-dose sacubitril/valsartan 24/26 mg BID. Vitals reveal blood pressure of 123/85 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine decompensated hfref sacubitril-valsartan arni switch protocol. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "36-hour washout period after stopping ACE inhibitor before starting low-dose sacubitril/valsartan 24/26 mg BID",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is 36-hour washout period after stopping ACE inhibitor before starting low-dose sacubitril/valsartan 24/26 mg BID. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol. The cornerstone of management involves 36-hour washout period after stopping ACE inhibitor before starting low-dose sacubitril/valsartan 24/26 mg BID. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Decompensated HFrEF Sacubitril-Valsartan ARNI Switch Protocol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society",
+        "url": "https://pcs.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41102",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation. Clinical examination and investigative review confirm therapeutic oral anticoagulation for at least 3 weeks prior and 4 weeks following electrical synchronized cardioversion. Vitals reveal blood pressure of 124/86 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine atrial fibrillation dc cardioversion pre-anticoagulation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Therapeutic oral anticoagulation for at least 3 weeks prior and 4 weeks following electrical synchronized cardioversion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is therapeutic oral anticoagulation for at least 3 weeks prior and 4 weeks following electrical synchronized cardioversion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation. The cornerstone of management involves therapeutic oral anticoagulation for at least 3 weeks prior and 4 weeks following electrical synchronized cardioversion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Atrial Fibrillation DC Cardioversion Pre-Anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society",
+        "url": "https://pcs.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41103",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base. Clinical examination and investigative review confirm hydroxychloroquine <= 5 mg/kg actual body weight daily with annual ophthalmological screening after 5 years. Vitals reveal blood pressure of 125/87 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine systemic lupus erythematosus hydroxychloroquine universal base. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Hydroxychloroquine <= 5 mg/kg actual body weight daily with annual ophthalmological screening after 5 years",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is hydroxychloroquine <= 5 mg/kg actual body weight daily with annual ophthalmological screening after 5 years. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base. The cornerstone of management involves hydroxychloroquine <= 5 mg/kg actual body weight daily with annual ophthalmological screening after 5 years. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Systemic Lupus Erythematosus Hydroxychloroquine Universal Base."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for Rheumatology",
+        "url": "https://pakrheumatology.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41104",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring. Clinical examination and investigative review confirm baseline and 3-monthly ALT/AST and CBC monitoring with weekly folic acid 5 mg supplementation on non-MTX days. Vitals reveal blood pressure of 126/72 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine rheumatoid arthritis methotrexate liver toxicity monitoring. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Baseline and 3-monthly ALT/AST and CBC monitoring with weekly folic acid 5 mg supplementation on non-MTX days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is baseline and 3-monthly ALT/AST and CBC monitoring with weekly folic acid 5 mg supplementation on non-MTX days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring. The cornerstone of management involves baseline and 3-monthly ALT/AST and CBC monitoring with weekly folic acid 5 mg supplementation on non-MTX days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Rheumatoid Arthritis Methotrexate Liver Toxicity Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for Rheumatology",
+        "url": "https://pakrheumatology.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41105",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow. Clinical examination and investigative review confirm subchondral bone marrow edema on short tau inversion recovery (STIR) sequence MRI confirming early axial spondyloarthritis. Vitals reveal blood pressure of 127/73 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine ankylosing spondylitis sacroiliitis mri stir sequence bone marrow. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Subchondral bone marrow edema on short tau inversion recovery (STIR) sequence MRI confirming early axial spondyloarthritis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is subchondral bone marrow edema on short tau inversion recovery (STIR) sequence MRI confirming early axial spondyloarthritis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow. The cornerstone of management involves subchondral bone marrow edema on short tau inversion recovery (STIR) sequence MRI confirming early axial spondyloarthritis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Ankylosing Spondylitis Sacroiliitis MRI STIR Sequence Bone Marrow."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for Rheumatology",
+        "url": "https://pakrheumatology.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41106",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy. Clinical examination and investigative review confirm oral thrombopoietin receptor agonist eltrombopag 50 mg daily for chronic refractory ITP with platelet count < 30 x 10^9/L. Vitals reveal blood pressure of 128/74 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine immune thrombocytopenia second-line eltrombopag tpo-ra therapy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Oral thrombopoietin receptor agonist eltrombopag 50 mg daily for chronic refractory ITP with platelet count < 30 x 10^9/L",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral thrombopoietin receptor agonist eltrombopag 50 mg daily for chronic refractory ITP with platelet count < 30 x 10^9/L. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy. The cornerstone of management involves oral thrombopoietin receptor agonist eltrombopag 50 mg daily for chronic refractory ITP with platelet count < 30 x 10^9/L. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Immune Thrombocytopenia Second-Line Eltrombopag TPO-RA Therapy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Haematology",
+        "url": "https://psh.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41107",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation. Clinical examination and investigative review confirm once-daily dispersible oral deferasirox 20-40 mg/kg/day maintaining serum ferritin < 1000 ng/mL and cardiac T2* > 20 ms. Vitals reveal blood pressure of 129/75 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine beta thalassemia major oral deferasirox iron chelation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Once-daily dispersible oral deferasirox 20-40 mg/kg/day maintaining serum ferritin < 1000 ng/mL and cardiac T2* > 20 ms",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is once-daily dispersible oral deferasirox 20-40 mg/kg/day maintaining serum ferritin < 1000 ng/mL and cardiac T2* > 20 ms. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation. The cornerstone of management involves once-daily dispersible oral deferasirox 20-40 mg/kg/day maintaining serum ferritin < 1000 ng/mL and cardiac T2* > 20 ms. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Beta Thalassemia Major Oral Deferasirox Iron Chelation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Haematology",
+        "url": "https://psh.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41108",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance. Clinical examination and investigative review confirm oral lenalidomide 10 mg daily continuously until disease progression following autologous stem cell transplantation. Vitals reveal blood pressure of 130/76 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine multiple myeloma lenalidomide post-transplant maintenance. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral lenalidomide 10 mg daily continuously until disease progression following autologous stem cell transplantation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral lenalidomide 10 mg daily continuously until disease progression following autologous stem cell transplantation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance. The cornerstone of management involves oral lenalidomide 10 mg daily continuously until disease progression following autologous stem cell transplantation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Multiple Myeloma Lenalidomide Post-Transplant Maintenance."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Haematology",
+        "url": "https://psh.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41109",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring. Clinical examination and investigative review confirm serial bedside forced vital capacity < 20 mL/kg or negative inspiratory force < 30 cmH2O prompting elective intubation. Vitals reveal blood pressure of 131/77 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine guillain-barre syndrome fvc bedside neurological monitoring. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Serial bedside forced vital capacity < 20 mL/kg or negative inspiratory force < 30 cmH2O prompting elective intubation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is serial bedside forced vital capacity < 20 mL/kg or negative inspiratory force < 30 cmH2O prompting elective intubation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring. The cornerstone of management involves serial bedside forced vital capacity < 20 mL/kg or negative inspiratory force < 30 cmH2O prompting elective intubation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Guillain-Barre Syndrome FVC Bedside Neurological Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology",
+        "url": "https://psn.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41110",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG. Clinical examination and investigative review confirm urgent plasma exchange (5 exchanges over 10 days) or IVIG 2 g/kg over 2-5 days with temporary cessation of pyridostigmine. Vitals reveal blood pressure of 132/78 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine myasthenia gravis crisis plasma exchange vs ivig. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Urgent plasma exchange (5 exchanges over 10 days) or IVIG 2 g/kg over 2-5 days with temporary cessation of pyridostigmine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent plasma exchange (5 exchanges over 10 days) or IVIG 2 g/kg over 2-5 days with temporary cessation of pyridostigmine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG. The cornerstone of management involves urgent plasma exchange (5 exchanges over 10 days) or IVIG 2 g/kg over 2-5 days with temporary cessation of pyridostigmine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Myasthenia Gravis Crisis Plasma Exchange vs IVIG."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology",
+        "url": "https://psn.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41111",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam. Clinical examination and investigative review confirm IV lorazepam 0.1 mg/kg over 2 minutes followed by IV levetiracetam 60 mg/kg (max 4500 mg) over 10 minutes. Vitals reveal blood pressure of 133/79 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine status epilepticus protocol iv lorazepam and levetiracetam. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "IV lorazepam 0.1 mg/kg over 2 minutes followed by IV levetiracetam 60 mg/kg (max 4500 mg) over 10 minutes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is IV lorazepam 0.1 mg/kg over 2 minutes followed by IV levetiracetam 60 mg/kg (max 4500 mg) over 10 minutes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam. The cornerstone of management involves IV lorazepam 0.1 mg/kg over 2 minutes followed by IV levetiracetam 60 mg/kg (max 4500 mg) over 10 minutes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Status Epilepticus Protocol IV Lorazepam and Levetiracetam."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology",
+        "url": "https://psn.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41112",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis. Clinical examination and investigative review confirm lowering blood pressure to < 185/110 mmHg with IV labetalol or nicardipine before IV alteplase administration. Vitals reveal blood pressure of 134/80 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp medicine acute ischemic stroke blood pressure limits pre-thrombolysis. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Lowering blood pressure to < 185/110 mmHg with IV labetalol or nicardipine before IV alteplase administration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is lowering blood pressure to < 185/110 mmHg with IV labetalol or nicardipine before IV alteplase administration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis. The cornerstone of management involves lowering blood pressure to < 185/110 mmHg with IV labetalol or nicardipine before IV alteplase administration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Medicine Acute Ischemic Stroke Blood Pressure Limits Pre-Thrombolysis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology",
+        "url": "https://psn.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41113",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation. Clinical examination and investigative review confirm intrauterine Bakri balloon inflated with 300-500 mL sterile saline to arrest persistent atonic hemorrhage. Vitals reveal blood pressure of 135/81 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics postpartum hemorrhage bakri balloon tamponade inflation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Intrauterine Bakri balloon inflated with 300-500 mL sterile saline to arrest persistent atonic hemorrhage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intrauterine Bakri balloon inflated with 300-500 mL sterile saline to arrest persistent atonic hemorrhage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation. The cornerstone of management involves intrauterine Bakri balloon inflated with 300-500 mL sterile saline to arrest persistent atonic hemorrhage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Postpartum Hemorrhage Bakri Balloon Tamponade Inflation."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41114",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard. Clinical examination and investigative review confirm 4g IV over 10-15 minutes combined with 10g IM (5g in each buttock) followed by 5g IM every 4 hours. Vitals reveal blood pressure of 136/82 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics eclampsia seizure prophylaxis magnesium sulfate pritchard. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "4g IV over 10-15 minutes combined with 10g IM (5g in each buttock) followed by 5g IM every 4 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is 4g IV over 10-15 minutes combined with 10g IM (5g in each buttock) followed by 5g IM every 4 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard. The cornerstone of management involves 4g IV over 10-15 minutes combined with 10g IM (5g in each buttock) followed by 5g IM every 4 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Eclampsia Seizure Prophylaxis Magnesium Sulfate Pritchard."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41115",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen. Clinical examination and investigative review confirm basal-bolus insulin detemir or NPH plus rapid-acting aspart targeting fasting plasma glucose < 95 mg/dL. Vitals reveal blood pressure of 137/83 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics gestational diabetes basal-bolus insulin regimen. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Basal-bolus insulin detemir or NPH plus rapid-acting aspart targeting fasting plasma glucose < 95 mg/dL",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is basal-bolus insulin detemir or NPH plus rapid-acting aspart targeting fasting plasma glucose < 95 mg/dL. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen. The cornerstone of management involves basal-bolus insulin detemir or NPH plus rapid-acting aspart targeting fasting plasma glucose < 95 mg/dL. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Gestational Diabetes Basal-Bolus Insulin Regimen."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41116",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids. Clinical examination and investigative review confirm oral erythromycin 250 mg QDS for 10 days plus single course IM betamethasone for fetal lung maturity. Vitals reveal blood pressure of 138/84 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics pprom latency oral erythromycin and antenatal steroids. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral erythromycin 250 mg QDS for 10 days plus single course IM betamethasone for fetal lung maturity",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral erythromycin 250 mg QDS for 10 days plus single course IM betamethasone for fetal lung maturity. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids. The cornerstone of management involves oral erythromycin 250 mg QDS for 10 days plus single course IM betamethasone for fetal lung maturity. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics PPROM Latency Oral Erythromycin and Antenatal Steroids."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41117",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy. Clinical examination and investigative review confirm planned delivery at 34+0 to 35+6 weeks without attempting placental detachment followed by cesarean hysterectomy. Vitals reveal blood pressure of 139/85 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics placenta accreta spectrum planned cesarean hysterectomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Planned delivery at 34+0 to 35+6 weeks without attempting placental detachment followed by cesarean hysterectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is planned delivery at 34+0 to 35+6 weeks without attempting placental detachment followed by cesarean hysterectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy. The cornerstone of management involves planned delivery at 34+0 to 35+6 weeks without attempting placental detachment followed by cesarean hysterectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Placenta Accreta Spectrum Planned Cesarean Hysterectomy."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41118",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy. Clinical examination and investigative review confirm laparoscopic salpingectomy preferred for ruptured ectopic pregnancy or uncontrolled tubal hemorrhage. Vitals reveal blood pressure of 118/86 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics ruptured ectopic pregnancy emergency laparoscopic salpingectomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Laparoscopic salpingectomy preferred for ruptured ectopic pregnancy or uncontrolled tubal hemorrhage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is laparoscopic salpingectomy preferred for ruptured ectopic pregnancy or uncontrolled tubal hemorrhage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy. The cornerstone of management involves laparoscopic salpingectomy preferred for ruptured ectopic pregnancy or uncontrolled tubal hemorrhage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Ruptured Ectopic Pregnancy Emergency Laparoscopic Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41119",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation. Clinical examination and investigative review confirm ultrasound score x menopausal score x serum CA-125 level, with RMI > 200 directing referral to gynecologic oncologist. Vitals reveal blood pressure of 119/87 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics ovarian neoplasm risk of malignancy index rmi calculation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Ultrasound score x menopausal score x serum CA-125 level, with RMI > 200 directing referral to gynecologic oncologist",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ultrasound score x menopausal score x serum CA-125 level, with RMI > 200 directing referral to gynecologic oncologist. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation. The cornerstone of management involves ultrasound score x menopausal score x serum CA-125 level, with RMI > 200 directing referral to gynecologic oncologist. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Ovarian Neoplasm Risk of Malignancy Index RMI Calculation."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41120",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes. Clinical examination and investigative review confirm total abdominal hysterectomy, bilateral salpingo-oophorectomy, and sentinel lymph node mapping using indocyanine green. Vitals reveal blood pressure of 120/72 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics endometrial carcinoma surgical staging and pelvic nodes. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Total abdominal hysterectomy, bilateral salpingo-oophorectomy, and sentinel lymph node mapping using indocyanine green",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is total abdominal hysterectomy, bilateral salpingo-oophorectomy, and sentinel lymph node mapping using indocyanine green. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes. The cornerstone of management involves total abdominal hysterectomy, bilateral salpingo-oophorectomy, and sentinel lymph node mapping using indocyanine green. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Endometrial Carcinoma Surgical Staging and Pelvic Nodes."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41121",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing. Clinical examination and investigative review confirm primary oncogenic HPV DNA testing identifying types 16 and 18 requiring immediate colposcopy referral. Vitals reveal blood pressure of 121/73 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics cervical precancer screening oncogenic hpv dna testing. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Primary oncogenic HPV DNA testing identifying types 16 and 18 requiring immediate colposcopy referral",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is primary oncogenic HPV DNA testing identifying types 16 and 18 requiring immediate colposcopy referral. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing. The cornerstone of management involves primary oncogenic HPV DNA testing identifying types 16 and 18 requiring immediate colposcopy referral. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Cervical Precancer Screening Oncogenic HPV DNA Testing."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41122",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole. Clinical examination and investigative review confirm oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3-7 achieving higher live birth rates than clomiphene. Vitals reveal blood pressure of 122/74 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp obstetrics polycystic ovary syndrome ovulation induction letrozole. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3-7 achieving higher live birth rates than clomiphene",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3-7 achieving higher live birth rates than clomiphene. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole. The cornerstone of management involves oral aromatase inhibitor letrozole 2.5 mg daily from cycle days 3-7 achieving higher live birth rates than clomiphene. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Obstetrics Polycystic Ovary Syndrome Ovulation Induction Letrozole."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists Pakistan",
+        "url": "https://sogp.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41123",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet. Clinical examination and investigative review confirm F-75 milk diet providing 75 kcal and 0.9 g protein/100 mL preventing electrolyte and fluid cardiopulmonary overload. Vitals reveal blood pressure of 123/75 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics severe acute malnutrition kwashiorkor f-75 starter diet. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "F-75 milk diet providing 75 kcal and 0.9 g protein/100 mL preventing electrolyte and fluid cardiopulmonary overload",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is F-75 milk diet providing 75 kcal and 0.9 g protein/100 mL preventing electrolyte and fluid cardiopulmonary overload. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet. The cornerstone of management involves F-75 milk diet providing 75 kcal and 0.9 g protein/100 mL preventing electrolyte and fluid cardiopulmonary overload. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Severe Acute Malnutrition Kwashiorkor F-75 Starter Diet."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41124",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP. Clinical examination and investigative review confirm bubble CPAP 5-6 cmH2O in delivery room with LISA (less invasive surfactant administration) for persistent FiO2 > 0.30. Vitals reveal blood pressure of 124/76 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics neonatal respiratory distress syndrome delivery room cpap. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Bubble CPAP 5-6 cmH2O in delivery room with LISA (less invasive surfactant administration) for persistent FiO2 > 0.30",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is bubble CPAP 5-6 cmH2O in delivery room with LISA (less invasive surfactant administration) for persistent FiO2 > 0.30. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP. The cornerstone of management involves bubble CPAP 5-6 cmH2O in delivery room with LISA (less invasive surfactant administration) for persistent FiO2 > 0.30. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Neonatal Respiratory Distress Syndrome Delivery Room CPAP."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41125",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position. Clinical examination and investigative review confirm knee-chest position, high-flow oxygen, subcutaneous morphine 0.1-0.2 mg/kg, and IV fluid bolus. Vitals reveal blood pressure of 125/77 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics tetralogy of fallot hypercyanotic spell knee-chest position. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Knee-chest position, high-flow oxygen, subcutaneous morphine 0.1-0.2 mg/kg, and IV fluid bolus",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is knee-chest position, high-flow oxygen, subcutaneous morphine 0.1-0.2 mg/kg, and IV fluid bolus. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position. The cornerstone of management involves knee-chest position, high-flow oxygen, subcutaneous morphine 0.1-0.2 mg/kg, and IV fluid bolus. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Tetralogy of Fallot Hypercyanotic Spell Knee-Chest Position."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41126",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction. Clinical examination and investigative review confirm fluid restriction to insensible losses plus urine output, loop diuretic furosemide, and oral amlodipine for hypertension. Vitals reveal blood pressure of 126/78 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics post-streptococcal glomerulonephritis fluid and salt restriction. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Fluid restriction to insensible losses plus urine output, loop diuretic furosemide, and oral amlodipine for hypertension",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is fluid restriction to insensible losses plus urine output, loop diuretic furosemide, and oral amlodipine for hypertension. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction. The cornerstone of management involves fluid restriction to insensible losses plus urine output, loop diuretic furosemide, and oral amlodipine for hypertension. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Post-Streptococcal Glomerulonephritis Fluid and Salt Restriction."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41127",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone. Clinical examination and investigative review confirm oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 on alternate days for 6 weeks. Vitals reveal blood pressure of 127/79 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics idiopathic nephrotic syndrome high-dose oral prednisolone. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 on alternate days for 6 weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 on alternate days for 6 weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone. The cornerstone of management involves oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 on alternate days for 6 weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Idiopathic Nephrotic Syndrome High-Dose Oral Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41128",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin. Clinical examination and investigative review confirm IV ceftriaxone 100 mg/kg/day divided BD plus IV vancomycin 60 mg/kg/day divided QDS with IV dexamethasone 0.15 mg/kg. Vitals reveal blood pressure of 128/80 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics pyogenic bacterial meningitis ceftriaxone and vancomycin. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "IV ceftriaxone 100 mg/kg/day divided BD plus IV vancomycin 60 mg/kg/day divided QDS with IV dexamethasone 0.15 mg/kg",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is IV ceftriaxone 100 mg/kg/day divided BD plus IV vancomycin 60 mg/kg/day divided QDS with IV dexamethasone 0.15 mg/kg. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin. The cornerstone of management involves IV ceftriaxone 100 mg/kg/day divided BD plus IV vancomycin 60 mg/kg/day divided QDS with IV dexamethasone 0.15 mg/kg. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Pyogenic Bacterial Meningitis Ceftriaxone and Vancomycin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41129",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulatio",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulation. Clinical examination and investigative review confirm daily oral hydroxyurea 10-20 mg/kg stimulating gamma-globin gene expression and reducing transfusion frequency. Vitals reveal blood pressure of 129/81 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics thalassemia intermedia hydroxyurea fetal hemoglobin up-regulation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Daily oral hydroxyurea 10-20 mg/kg stimulating gamma-globin gene expression and reducing transfusion frequency",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is daily oral hydroxyurea 10-20 mg/kg stimulating gamma-globin gene expression and reducing transfusion frequency. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulation. The cornerstone of management involves daily oral hydroxyurea 10-20 mg/kg stimulating gamma-globin gene expression and reducing transfusion frequency. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Thalassemia Intermedia Hydroxyurea Fetal Hemoglobin Up-Regulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41130",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis. Clinical examination and investigative review confirm ESPGHAN criteria: anti-tTG IgA >= 10x upper limit of normal confirmed with positive endomysial antibody (EMA) in 2nd sample. Vitals reveal blood pressure of 130/82 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics celiac disease anti-ttg iga >= 10x uln non-biopsy diagnosis. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "ESPGHAN criteria: anti-tTG IgA >= 10x upper limit of normal confirmed with positive endomysial antibody (EMA) in 2nd sample",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ESPGHAN criteria: anti-tTG IgA >= 10x upper limit of normal confirmed with positive endomysial antibody (EMA) in 2nd sample. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis. The cornerstone of management involves ESPGHAN criteria: anti-tTG IgA >= 10x upper limit of normal confirmed with positive endomysial antibody (EMA) in 2nd sample. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Celiac Disease Anti-tTG IgA >= 10x ULN Non-Biopsy Diagnosis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41131",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR. Clinical examination and investigative review confirm failure of internal anal sphincter relaxation upon rectal balloon inflation on anorectal manometry. Vitals reveal blood pressure of 131/83 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics hirschsprung disease anorectal manometry absence of rair. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Failure of internal anal sphincter relaxation upon rectal balloon inflation on anorectal manometry",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is failure of internal anal sphincter relaxation upon rectal balloon inflation on anorectal manometry. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR. The cornerstone of management involves failure of internal anal sphincter relaxation upon rectal balloon inflation on anorectal manometry. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Hirschsprung Disease Anorectal Manometry Absence of RAIR."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41132",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis. Clinical examination and investigative review confirm IV normal saline bolus 20 mL/kg, 10% dextrose for hypoglycemia, and stress-dose IV hydrocortisone 50-100 mg/m2. Vitals reveal blood pressure of 132/84 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pediatrics congenital adrenal hyperplasia 21-oh salt-wasting crisis. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "IV normal saline bolus 20 mL/kg, 10% dextrose for hypoglycemia, and stress-dose IV hydrocortisone 50-100 mg/m2",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is IV normal saline bolus 20 mL/kg, 10% dextrose for hypoglycemia, and stress-dose IV hydrocortisone 50-100 mg/m2. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis. The cornerstone of management involves IV normal saline bolus 20 mL/kg, 10% dextrose for hypoglycemia, and stress-dose IV hydrocortisone 50-100 mg/m2. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pediatrics Congenital Adrenal Hyperplasia 21-OH Salt-Wasting Crisis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association",
+        "url": "https://ppa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41133",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL. Clinical examination and investigative review confirm ultrasonic emulsification of lens nucleus through 2.2 mm incision with hydrophobic acrylic IOL implantation. Vitals reveal blood pressure of 133/85 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ophthalmology senile cataract phacoemulsification foldable acrylic iol. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Ultrasonic emulsification of lens nucleus through 2.2 mm incision with hydrophobic acrylic IOL implantation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ultrasonic emulsification of lens nucleus through 2.2 mm incision with hydrophobic acrylic IOL implantation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL. The cornerstone of management involves ultrasonic emulsification of lens nucleus through 2.2 mm incision with hydrophobic acrylic IOL implantation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Senile Cataract Phacoemulsification Foldable Acrylic IOL."
+    ],
+    "references": [
+      {
+        "label": "Ophthalmological Society of Pakistan",
+        "url": "https://osp.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41134",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser. Clinical examination and investigative review confirm scatter argon laser PRP across periphery sparing macula to cause regression of neovascularization elsewhere. Vitals reveal blood pressure of 134/86 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ophthalmology proliferative diabetic retinopathy panretinal laser. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Scatter argon laser PRP across periphery sparing macula to cause regression of neovascularization elsewhere",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is scatter argon laser PRP across periphery sparing macula to cause regression of neovascularization elsewhere. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser. The cornerstone of management involves scatter argon laser PRP across periphery sparing macula to cause regression of neovascularization elsewhere. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Proliferative Diabetic Retinopathy Panretinal Laser."
+    ],
+    "references": [
+      {
+        "label": "Ophthalmological Society of Pakistan",
+        "url": "https://osp.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41135",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C. Clinical examination and investigative review confirm filtering bleb creation with intraoperative topical sponge application of antifibrotic mitomycin C 0.2 mg/mL. Vitals reveal blood pressure of 135/87 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ophthalmology primary open-angle glaucoma trabeculectomy mitomycin c. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Filtering bleb creation with intraoperative topical sponge application of antifibrotic mitomycin C 0.2 mg/mL",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is filtering bleb creation with intraoperative topical sponge application of antifibrotic mitomycin C 0.2 mg/mL. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C. The cornerstone of management involves filtering bleb creation with intraoperative topical sponge application of antifibrotic mitomycin C 0.2 mg/mL. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Primary Open-Angle Glaucoma Trabeculectomy Mitomycin C."
+    ],
+    "references": [
+      {
+        "label": "Ophthalmological Society of Pakistan",
+        "url": "https://osp.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41136",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops. Clinical examination and investigative review confirm topical 5% natamycin drops hourly for Aspergillus/Fusarium keratitis demonstrated on 10% KOH mount. Vitals reveal blood pressure of 136/72 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ophthalmology fungal keratitis natamycin 5% hourly topical drops. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Topical 5% natamycin drops hourly for Aspergillus/Fusarium keratitis demonstrated on 10% KOH mount",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is topical 5% natamycin drops hourly for Aspergillus/Fusarium keratitis demonstrated on 10% KOH mount. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops. The cornerstone of management involves topical 5% natamycin drops hourly for Aspergillus/Fusarium keratitis demonstrated on 10% KOH mount. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ophthalmology Fungal Keratitis Natamycin 5% Hourly Topical Drops."
+    ],
+    "references": [
+      {
+        "label": "Ophthalmological Society of Pakistan",
+        "url": "https://osp.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41137",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear. Clinical examination and investigative review confirm complete exteriorization of mastoid air cells, epitympanum, and removal of cholesteatoma matrix to make safe dry ear. Vitals reveal blood pressure of 137/73 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ent csom cholesteatoma modified radical mastoidectomy safe ear. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Complete exteriorization of mastoid air cells, epitympanum, and removal of cholesteatoma matrix to make safe dry ear",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is complete exteriorization of mastoid air cells, epitympanum, and removal of cholesteatoma matrix to make safe dry ear. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear. The cornerstone of management involves complete exteriorization of mastoid air cells, epitympanum, and removal of cholesteatoma matrix to make safe dry ear. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP ENT CSOM Cholesteatoma Modified Radical Mastoidectomy Safe Ear."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Otolaryngology",
+        "url": "https://pso.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41138",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation. Clinical examination and investigative review confirm transnasal endoscopic sphenopalatine artery ligation (TESPAL) for intractable posterior epistaxis. Vitals reveal blood pressure of 138/74 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ent intractable posterior epistaxis sphenopalatine artery ligation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Transnasal endoscopic sphenopalatine artery ligation (TESPAL) for intractable posterior epistaxis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transnasal endoscopic sphenopalatine artery ligation (TESPAL) for intractable posterior epistaxis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation. The cornerstone of management involves transnasal endoscopic sphenopalatine artery ligation (TESPAL) for intractable posterior epistaxis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Intractable Posterior Epistaxis Sphenopalatine Artery Ligation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Otolaryngology",
+        "url": "https://pso.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41139",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy. Clinical examination and investigative review confirm CO2 transoral laser cordectomy achieving oncologically clear margins while preserving phonatory vocal quality. Vitals reveal blood pressure of 139/75 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ent vocal cord early carcinoma t1a transoral laser cordectomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "CO2 transoral laser cordectomy achieving oncologically clear margins while preserving phonatory vocal quality",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is CO2 transoral laser cordectomy achieving oncologically clear margins while preserving phonatory vocal quality. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy. The cornerstone of management involves CO2 transoral laser cordectomy achieving oncologically clear margins while preserving phonatory vocal quality. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Vocal Cord Early Carcinoma T1a Transoral Laser Cordectomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Otolaryngology",
+        "url": "https://pso.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41140",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local. Clinical examination and investigative review confirm needle aspiration or incision at point of maximal bulging combined with high-dose IV co-amoxiclav and dexamethasone. Vitals reveal blood pressure of 118/76 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ent peritonsillar abscess quinsy incision and drainage under local. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Needle aspiration or incision at point of maximal bulging combined with high-dose IV co-amoxiclav and dexamethasone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is needle aspiration or incision at point of maximal bulging combined with high-dose IV co-amoxiclav and dexamethasone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local. The cornerstone of management involves needle aspiration or incision at point of maximal bulging combined with high-dose IV co-amoxiclav and dexamethasone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP ENT Peritonsillar Abscess Quinsy Incision and Drainage under Local."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Otolaryngology",
+        "url": "https://pso.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41141",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate. Clinical examination and investigative review confirm open reduction and internal fixation with volar anatomical locking compression plate for unstable dorsal comminution. Vitals reveal blood pressure of 119/77 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp orthopedics distal radius colles fracture volar anatomical locking plate. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Open reduction and internal fixation with volar anatomical locking compression plate for unstable dorsal comminution",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is open reduction and internal fixation with volar anatomical locking compression plate for unstable dorsal comminution. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate. The cornerstone of management involves open reduction and internal fixation with volar anatomical locking compression plate for unstable dorsal comminution. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Distal Radius Colles Fracture Volar Anatomical Locking Plate."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association",
+        "url": "https://poa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41142",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins. Clinical examination and investigative review confirm CRPP with two or three lateral divergent Kirschner wires under C-arm fluoroscopy for Gartland type III displaced fracture. Vitals reveal blood pressure of 120/78 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp orthopedics supracondylar humerus fracture closed reduction lateral pins. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "CRPP with two or three lateral divergent Kirschner wires under C-arm fluoroscopy for Gartland type III displaced fracture",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is CRPP with two or three lateral divergent Kirschner wires under C-arm fluoroscopy for Gartland type III displaced fracture. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins. The cornerstone of management involves CRPP with two or three lateral divergent Kirschner wires under C-arm fluoroscopy for Gartland type III displaced fracture. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Supracondylar Humerus Fracture Closed Reduction Lateral Pins."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association",
+        "url": "https://poa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41143",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy. Clinical examination and investigative review confirm percutaneous heel cord tenotomy under local anesthesia to correct residual equinus followed by Dennis Browne splint. Vitals reveal blood pressure of 121/79 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp orthopedics congenital talipes equinovarus ponseti achilles tenotomy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Percutaneous heel cord tenotomy under local anesthesia to correct residual equinus followed by Dennis Browne splint",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is percutaneous heel cord tenotomy under local anesthesia to correct residual equinus followed by Dennis Browne splint. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy. The cornerstone of management involves percutaneous heel cord tenotomy under local anesthesia to correct residual equinus followed by Dennis Browne splint. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Congenital Talipes Equinovarus Ponseti Achilles Tenotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association",
+        "url": "https://poa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41144",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression. Clinical examination and investigative review confirm transthoracic or retroperitoneal debridement, bone grafting, and instrumentation for neurological deficit with spinal cord compression. Vitals reveal blood pressure of 122/80 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp orthopedics spinal tuberculosis pott paraplegia anterior decompression. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Transthoracic or retroperitoneal debridement, bone grafting, and instrumentation for neurological deficit with spinal cord compression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transthoracic or retroperitoneal debridement, bone grafting, and instrumentation for neurological deficit with spinal cord compression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression. The cornerstone of management involves transthoracic or retroperitoneal debridement, bone grafting, and instrumentation for neurological deficit with spinal cord compression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Orthopedics Spinal Tuberculosis Pott Paraplegia Anterior Decompression."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association",
+        "url": "https://poa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41145",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach. Clinical examination and investigative review confirm glideScope or C-MAC video laryngoscopy improving glottic view in unanticipated difficult direct laryngoscopy. Vitals reveal blood pressure of 123/81 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp anesthesiology difficult airway video laryngoscopy first-line approach. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "GlideScope or C-MAC video laryngoscopy improving glottic view in unanticipated difficult direct laryngoscopy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is glideScope or C-MAC video laryngoscopy improving glottic view in unanticipated difficult direct laryngoscopy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach. The cornerstone of management involves glideScope or C-MAC video laryngoscopy improving glottic view in unanticipated difficult direct laryngoscopy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Difficult Airway Video Laryngoscopy First-Line Approach."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Anaesthesiologists",
+        "url": "https://psa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41146",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection. Clinical examination and investigative review confirm injection of 15-20 mL autologous blood into epidural space for intractable PDPH failing conservative hydration and caffeine. Vitals reveal blood pressure of 124/82 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp anesthesiology post-dural puncture headache epidural blood patch injection. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Injection of 15-20 mL autologous blood into epidural space for intractable PDPH failing conservative hydration and caffeine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is injection of 15-20 mL autologous blood into epidural space for intractable PDPH failing conservative hydration and caffeine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection. The cornerstone of management involves injection of 15-20 mL autologous blood into epidural space for intractable PDPH failing conservative hydration and caffeine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Post-Dural Puncture Headache Epidural Blood Patch Injection."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Anaesthesiologists",
+        "url": "https://psa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41147",
+    "exam": "FCPS",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase. Clinical examination and investigative review confirm atypical plasma cholinesterase enzyme prolonging succinylcholine paralysis managed by prolonged mechanical ventilation. Vitals reveal blood pressure of 125/83 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp anesthesiology suxamethonium apnea atypical pseudocholinesterase. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Atypical plasma cholinesterase enzyme prolonging succinylcholine paralysis managed by prolonged mechanical ventilation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is atypical plasma cholinesterase enzyme prolonging succinylcholine paralysis managed by prolonged mechanical ventilation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase. The cornerstone of management involves atypical plasma cholinesterase enzyme prolonging succinylcholine paralysis managed by prolonged mechanical ventilation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Anesthesiology Suxamethonium Apnea Atypical Pseudocholinesterase."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Anaesthesiologists",
+        "url": "https://psa.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41148",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing. Clinical examination and investigative review confirm molecular PCR testing of codons 12 and 13 of KRAS gene predicting resistance to anti-EGFR cetuximab therapy. Vitals reveal blood pressure of 126/84 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pathology colorectal adenocarcinoma kras and nras codon testing. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Molecular PCR testing of codons 12 and 13 of KRAS gene predicting resistance to anti-EGFR cetuximab therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is molecular PCR testing of codons 12 and 13 of KRAS gene predicting resistance to anti-EGFR cetuximab therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing. The cornerstone of management involves molecular PCR testing of codons 12 and 13 of KRAS gene predicting resistance to anti-EGFR cetuximab therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Colorectal Adenocarcinoma KRAS and NRAS Codon Testing."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Pathologists",
+        "url": "https://pap.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41149",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH. Clinical examination and investigative review confirm standardized Allred scoring for estrogen/progesterone receptors and HercepTest 3+ or dual-probe FISH amplification for HER2. Vitals reveal blood pressure of 127/85 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pathology invasive ductal carcinoma allred score and her2 fish. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Standardized Allred scoring for estrogen/progesterone receptors and HercepTest 3+ or dual-probe FISH amplification for HER2",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is standardized Allred scoring for estrogen/progesterone receptors and HercepTest 3+ or dual-probe FISH amplification for HER2. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH. The cornerstone of management involves standardized Allred scoring for estrogen/progesterone receptors and HercepTest 3+ or dual-probe FISH amplification for HER2. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Invasive Ductal Carcinoma Allred Score and HER2 FISH."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Pathologists",
+        "url": "https://pap.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41150",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype. Clinical examination and investigative review confirm multi-parametric flow cytometry confirming myeloid blast immunophenotype with myeloperoxidase and CD117 expression. Vitals reveal blood pressure of 128/86 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pathology acute myeloid leukemia flow cytometry cd34 cd33 immunophenotype. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Multi-parametric flow cytometry confirming myeloid blast immunophenotype with myeloperoxidase and CD117 expression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is multi-parametric flow cytometry confirming myeloid blast immunophenotype with myeloperoxidase and CD117 expression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype. The cornerstone of management involves multi-parametric flow cytometry confirming myeloid blast immunophenotype with myeloperoxidase and CD117 expression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Acute Myeloid Leukemia Flow Cytometry CD34 CD33 Immunophenotype."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Pathologists",
+        "url": "https://pap.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41151",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio. Clinical examination and investigative review confirm serial major molecular response monitoring (BCR-ABL1 transcript ratio <= 0.1% on International Scale) on imatinib therapy. Vitals reveal blood pressure of 129/87 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pathology chronic myeloid leukemia quantitative bcr-abl1 rt-pcr ratio. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Serial major molecular response monitoring (BCR-ABL1 transcript ratio <= 0.1% on International Scale) on imatinib therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is serial major molecular response monitoring (BCR-ABL1 transcript ratio <= 0.1% on International Scale) on imatinib therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio. The cornerstone of management involves serial major molecular response monitoring (BCR-ABL1 transcript ratio <= 0.1% on International Scale) on imatinib therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Chronic Myeloid Leukemia Quantitative BCR-ABL1 RT-PCR Ratio."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Pathologists",
+        "url": "https://pap.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41152",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP. Clinical examination and investigative review confirm rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone immunochemotherapy every 21 days for 6 cycles. Vitals reveal blood pressure of 130/72 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp pathology diffuse large b-cell lymphoma cd20 positivity and r-chop. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone immunochemotherapy every 21 days for 6 cycles",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone immunochemotherapy every 21 days for 6 cycles. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP. The cornerstone of management involves rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone immunochemotherapy every 21 days for 6 cycles. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Pathology Diffuse Large B-Cell Lymphoma CD20 Positivity and R-CHOP."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Pathologists",
+        "url": "https://pap.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41153",
+    "exam": "FCPS",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis. Clinical examination and investigative review confirm coarse tremor, ataxia, dysarthria, and confusion managed with normal saline diuresis and hemodialysis for level > 2.5. Vitals reveal blood pressure of 131/73 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp psychiatry bipolar disorder severe lithium intoxication hemodialysis. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Coarse tremor, ataxia, dysarthria, and confusion managed with normal saline diuresis and hemodialysis for level > 2.5",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is coarse tremor, ataxia, dysarthria, and confusion managed with normal saline diuresis and hemodialysis for level > 2.5. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis. The cornerstone of management involves coarse tremor, ataxia, dysarthria, and confusion managed with normal saline diuresis and hemodialysis for level > 2.5. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Bipolar Disorder Severe Lithium Intoxication Hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society",
+        "url": "https://pakpsychiatry.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41154",
+    "exam": "FCPS",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation. Clinical examination and investigative review confirm clozapine initiation following failure of two antipsychotic trials with mandatory absolute neutrophil count monitoring. Vitals reveal blood pressure of 132/74 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp psychiatry treatment-resistant schizophrenia clozapine initiation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Clozapine initiation following failure of two antipsychotic trials with mandatory absolute neutrophil count monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is clozapine initiation following failure of two antipsychotic trials with mandatory absolute neutrophil count monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation. The cornerstone of management involves clozapine initiation following failure of two antipsychotic trials with mandatory absolute neutrophil count monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Treatment-Resistant Schizophrenia Clozapine Initiation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society",
+        "url": "https://pakpsychiatry.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41155",
+    "exam": "FCPS",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy. Clinical examination and investigative review confirm SSRI escitalopram 10-20 mg daily combined with weekly cognitive behavioral therapy addressing catastrophic worry. Vitals reveal blood pressure of 133/75 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp psychiatry generalized anxiety disorder escitalopram and cognitive therapy. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "SSRI escitalopram 10-20 mg daily combined with weekly cognitive behavioral therapy addressing catastrophic worry",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SSRI escitalopram 10-20 mg daily combined with weekly cognitive behavioral therapy addressing catastrophic worry. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy. The cornerstone of management involves SSRI escitalopram 10-20 mg daily combined with weekly cognitive behavioral therapy addressing catastrophic worry. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Generalized Anxiety Disorder Escitalopram and Cognitive Therapy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society",
+        "url": "https://pakpsychiatry.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41156",
+    "exam": "FCPS",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP. Clinical examination and investigative review confirm sertraline up to 200 mg daily combined with exposure and response prevention behavioral therapy for contamination obsessions. Vitals reveal blood pressure of 134/76 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp psychiatry obsessive-compulsive disorder high-dose sertraline erp. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Sertraline up to 200 mg daily combined with exposure and response prevention behavioral therapy for contamination obsessions",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is sertraline up to 200 mg daily combined with exposure and response prevention behavioral therapy for contamination obsessions. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP. The cornerstone of management involves sertraline up to 200 mg daily combined with exposure and response prevention behavioral therapy for contamination obsessions. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Psychiatry Obsessive-Compulsive Disorder High-Dose Sertraline ERP."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society",
+        "url": "https://pakpsychiatry.org"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41157",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies. Clinical examination and investigative review confirm subcorneal acantholytic blister formation with autoantibodies directed against desmoglein-1 sparing oral mucous membranes. Vitals reveal blood pressure of 135/77 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp dermatology pemphigus foliaceus anti-desmoglein-1 autoantibodies. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Subcorneal acantholytic blister formation with autoantibodies directed against desmoglein-1 sparing oral mucous membranes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is subcorneal acantholytic blister formation with autoantibodies directed against desmoglein-1 sparing oral mucous membranes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies. The cornerstone of management involves subcorneal acantholytic blister formation with autoantibodies directed against desmoglein-1 sparing oral mucous membranes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Pemphigus Foliaceus Anti-Desmoglein-1 Autoantibodies."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists",
+        "url": "https://pad.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41158",
+    "exam": "FCPS",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings. Clinical examination and investigative review confirm diascopy demonstrating yellowish-brown apple-jelly appearance treated with standard 4-drug HRZE anti-TB therapy. Vitals reveal blood pressure of 136/78 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp dermatology cutaneous tuberculosis lupus vulgaris diascopy findings. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Diascopy demonstrating yellowish-brown apple-jelly appearance treated with standard 4-drug HRZE anti-TB therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diascopy demonstrating yellowish-brown apple-jelly appearance treated with standard 4-drug HRZE anti-TB therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings. The cornerstone of management involves diascopy demonstrating yellowish-brown apple-jelly appearance treated with standard 4-drug HRZE anti-TB therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Cutaneous Tuberculosis Lupus Vulgaris Diascopy Findings."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists",
+        "url": "https://pad.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41159",
+    "exam": "FCPS",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi. Clinical examination and investigative review confirm acid-fast bacilli globi with bacterial index >= 3+ treated with WHO multibacillary MDT for 12 months. Vitals reveal blood pressure of 137/79 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp dermatology lepromatous leprosy slit skin smear acid-fast globi. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Acid-fast bacilli globi with bacterial index >= 3+ treated with WHO multibacillary MDT for 12 months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is acid-fast bacilli globi with bacterial index >= 3+ treated with WHO multibacillary MDT for 12 months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi. The cornerstone of management involves acid-fast bacilli globi with bacterial index >= 3+ treated with WHO multibacillary MDT for 12 months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Lepromatous Leprosy Slit Skin Smear Acid-Fast Globi."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists",
+        "url": "https://pad.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41160",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction. Clinical examination and investigative review confirm SCORTEN score calculated within 24 hours directing immediate transfer to specialized burn unit and cyclosporine therapy. Vitals reveal blood pressure of 138/80 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp dermatology stevens-johnson syndrome scorten mortality prediction. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "SCORTEN score calculated within 24 hours directing immediate transfer to specialized burn unit and cyclosporine therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SCORTEN score calculated within 24 hours directing immediate transfer to specialized burn unit and cyclosporine therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction. The cornerstone of management involves SCORTEN score calculated within 24 hours directing immediate transfer to specialized burn unit and cyclosporine therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Dermatology Stevens-Johnson Syndrome SCORTEN Mortality Prediction."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists",
+        "url": "https://pad.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41161",
+    "exam": "FCPS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule. Clinical examination and investigative review confirm MR vaccine administered subcutaneously at 9 months and 15 months of age to achieve population herd immunity > 95%. Vitals reveal blood pressure of 139/81 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp community medicine epi measles-rubella mr vaccine two-dose schedule. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "MR vaccine administered subcutaneously at 9 months and 15 months of age to achieve population herd immunity > 95%",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is MR vaccine administered subcutaneously at 9 months and 15 months of age to achieve population herd immunity > 95%. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule. The cornerstone of management involves MR vaccine administered subcutaneously at 9 months and 15 months of age to achieve population herd immunity > 95%. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine EPI Measles-Rubella MR Vaccine Two-Dose Schedule."
+    ],
+    "references": [
+      {
+        "label": "National EPI Pakistan Guidelines",
+        "url": "https://epi.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41162",
+    "exam": "FCPS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks. Clinical examination and investigative review confirm fractional IPV intradermal at 6 and 14 weeks alongside bivalent oral polio vaccine (bOPV) campaigns in persistent reservoirs. Vitals reveal blood pressure of 118/82 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp community medicine polio eradication fractional ipv at 6 and 14 weeks. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Fractional IPV intradermal at 6 and 14 weeks alongside bivalent oral polio vaccine (bOPV) campaigns in persistent reservoirs",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is fractional IPV intradermal at 6 and 14 weeks alongside bivalent oral polio vaccine (bOPV) campaigns in persistent reservoirs. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks. The cornerstone of management involves fractional IPV intradermal at 6 and 14 weeks alongside bivalent oral polio vaccine (bOPV) campaigns in persistent reservoirs. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Polio Eradication Fractional IPV at 6 and 14 Weeks."
+    ],
+    "references": [
+      {
+        "label": "National Emergency Operations Centre Polio Pakistan",
+        "url": "https://endpolio.com.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41163",
+    "exam": "FCPS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration. Clinical examination and investigative review confirm doorstep community health education, antenatal registration, iron-folic acid distribution, and family planning counseling. Vitals reveal blood pressure of 119/83 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp community medicine lady health worker doorstep antenatal registration. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Doorstep community health education, antenatal registration, iron-folic acid distribution, and family planning counseling",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is doorstep community health education, antenatal registration, iron-folic acid distribution, and family planning counseling. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration. The cornerstone of management involves doorstep community health education, antenatal registration, iron-folic acid distribution, and family planning counseling. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Lady Health Worker Doorstep Antenatal Registration."
+    ],
+    "references": [
+      {
+        "label": "National Maternal and Child Health Program",
+        "url": "https://nhsrc.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41164",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception. Clinical examination and investigative review confirm immediate postplacental intrauterine contraceptive device insertion within 10 minutes of placental delivery. Vitals reveal blood pressure of 120/84 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp community medicine postpartum copper t 380a intrauterine contraception. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Immediate postplacental intrauterine contraceptive device insertion within 10 minutes of placental delivery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate postplacental intrauterine contraceptive device insertion within 10 minutes of placental delivery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception. The cornerstone of management involves immediate postplacental intrauterine contraceptive device insertion within 10 minutes of placental delivery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Postpartum Copper T 380A Intrauterine Contraception."
+    ],
+    "references": [
+      {
+        "label": "National Population Council Pakistan",
+        "url": "https://nhsrc.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41165",
+    "exam": "FCPS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine. Clinical examination and investigative review confirm residual free chlorine testing 0.5 ppm after 30 minutes contact time to ensure potability during cholera outbreaks. Vitals reveal blood pressure of 121/85 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp community medicine drinking water chlorination residual free chlorine. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Residual free chlorine testing 0.5 ppm after 30 minutes contact time to ensure potability during cholera outbreaks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is residual free chlorine testing 0.5 ppm after 30 minutes contact time to ensure potability during cholera outbreaks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine. The cornerstone of management involves residual free chlorine testing 0.5 ppm after 30 minutes contact time to ensure potability during cholera outbreaks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Community Medicine Drinking Water Chlorination Residual Free Chlorine."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Water and Sanitation Guidelines",
+        "url": "https://nhsrc.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41166",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "CPSP Ethics Informed Consent in Minors Gillick Competence Standard",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is examined in the clinical simulation center for College of Physicians and Surgeons Pakistan (CPSP) fellowship examination with clinical findings indicative of CPSP Ethics Informed Consent in Minors Gillick Competence Standard. Clinical examination and investigative review confirm evaluating whether child under 16 possesses sufficient understanding and intelligence to consent to medical treatment. Vitals reveal blood pressure of 122/86 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ethics informed consent in minors gillick competence standard. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Evaluating whether child under 16 possesses sufficient understanding and intelligence to consent to medical treatment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evaluating whether child under 16 possesses sufficient understanding and intelligence to consent to medical treatment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ethics Informed Consent in Minors Gillick Competence Standard.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ethics Informed Consent in Minors Gillick Competence Standard. The cornerstone of management involves evaluating whether child under 16 possesses sufficient understanding and intelligence to consent to medical treatment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ethics Informed Consent in Minors Gillick Competence Standard.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ethics Informed Consent in Minors Gillick Competence Standard."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council Code of Ethics",
+        "url": "https://pmdc.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41167",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the surgical and medical outpatient department (OPD) of Mayo Hospital Lahore with clinical findings indicative of CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis. Clinical examination and investigative review confirm open and honest disclosure of clinical error to patient and family combined with institutional incident analysis. Vitals reveal blood pressure of 123/87 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp ethics medical incident disclosure and root cause incident analysis. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Open and honest disclosure of clinical error to patient and family combined with institutional incident analysis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is open and honest disclosure of clinical error to patient and family combined with institutional incident analysis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis. The cornerstone of management involves open and honest disclosure of clinical error to patient and family combined with institutional incident analysis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Ethics Medical Incident Disclosure and Root Cause Incident Analysis."
+    ],
+    "references": [
+      {
+        "label": "CPSP Healthcare Quality and Safety Guidelines",
+        "url": "https://cpsp.edu.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41168",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is evaluated in the emergency receiving room of Services Hospital Lahore with clinical findings indicative of CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing. Clinical examination and investigative review confirm unburnt and partially burnt gunpowder particles embedded in dermis defining close-range firearm discharge within 1-3 feet. Vitals reveal blood pressure of 124/72 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp forensic medicine firearm close-range stippling and tattooing. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Unburnt and partially burnt gunpowder particles embedded in dermis defining close-range firearm discharge within 1-3 feet",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is unburnt and partially burnt gunpowder particles embedded in dermis defining close-range firearm discharge within 1-3 feet. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing. The cornerstone of management involves unburnt and partially burnt gunpowder particles embedded in dermis defining close-range firearm discharge within 1-3 feet. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Firearm Close-Range Stippling and Tattooing."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medico-Legal Manual",
+        "url": "https://punjabpolice.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41169",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man presents to the tertiary consultative suite at Jinnah Postgraduate Medical Centre (JPMC) Karachi with clinical findings indicative of CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation. Clinical examination and investigative review confirm vital reaction characterized by erythematous hyperemic line of demarcation and soot particles in tracheal mucosa. Vitals reveal blood pressure of 125/73 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp forensic medicine antemortem thermal burns red line of demarcation. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Vital reaction characterized by erythematous hyperemic line of demarcation and soot particles in tracheal mucosa",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is vital reaction characterized by erythematous hyperemic line of demarcation and soot particles in tracheal mucosa. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation. The cornerstone of management involves vital reaction characterized by erythematous hyperemic line of demarcation and soot particles in tracheal mucosa. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Antemortem Thermal Burns Red Line of Demarcation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medico-Legal Manual",
+        "url": "https://punjabpolice.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41170",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is admitted to the specialty inpatient unit of Civil Hospital Karachi with clinical findings indicative of CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code. Clinical examination and investigative review confirm permanent privation of sight, hearing, limb destruction, or injury endangering life classified under Pakistan Penal Code. Vitals reveal blood pressure of 126/74 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp forensic medicine grievous hurt section 320 pakistan penal code. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Permanent privation of sight, hearing, limb destruction, or injury endangering life classified under Pakistan Penal Code",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is permanent privation of sight, hearing, limb destruction, or injury endangering life classified under Pakistan Penal Code. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code. The cornerstone of management involves permanent privation of sight, hearing, limb destruction, or injury endangering life classified under Pakistan Penal Code. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Forensic Medicine Grievous Hurt Section 320 Pakistan Penal Code."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Penal Code Legal Framework",
+        "url": "https://pakistancode.gov.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41171",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man undergoes professorial consultative review at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor. Clinical examination and investigative review confirm first-choice vasopressor norepinephrine titrated via central line with bedside echocardiographic cardiac output assessment. Vitals reveal blood pressure of 127/75 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp critical care septic shock norepinephrine central line vasopressor. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "First-choice vasopressor norepinephrine titrated via central line with bedside echocardiographic cardiac output assessment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is first-choice vasopressor norepinephrine titrated via central line with bedside echocardiographic cardiac output assessment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor. The cornerstone of management involves first-choice vasopressor norepinephrine titrated via central line with bedside echocardiographic cardiac output assessment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Critical Care Septic Shock Norepinephrine Central Line Vasopressor."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Critical Care Medicine",
+        "url": "https://psccm.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-41172",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the ambulatory assessment unit at Lady Reading Hospital Peshawar with clinical findings indicative of CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours. Clinical examination and investigative review confirm proning mechanically ventilated patients with PaO2/FiO2 ratio < 150 to recruit dorsal dependent lung regions. Vitals reveal blood pressure of 128/76 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cpsp critical care ards mechanical ventilation prone positioning 16 hours. Which of the following is the most appropriate next step in clinical management according to College of Physicians and Surgeons Pakistan (CPSP) guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Proning mechanically ventilated patients with PaO2/FiO2 ratio < 150 to recruit dorsal dependent lung regions",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is proning mechanically ventilated patients with PaO2/FiO2 ratio < 150 to recruit dorsal dependent lung regions. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours.\\n\\nClinical Discussion: This clinical presentation corresponds to CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours. The cornerstone of management involves proning mechanically ventilated patients with PaO2/FiO2 ratio < 150 to recruit dorsal dependent lung regions. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of CPSP Critical Care ARDS Mechanical Ventilation Prone Positioning 16 Hours."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Critical Care Medicine",
+        "url": "https://psccm.org.pk"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
