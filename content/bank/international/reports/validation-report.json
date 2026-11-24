@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-24T13:27:16.476Z",
-  "totalQuestions": 39172,
+  "validatedAt": "2026-11-24T13:42:34.144Z",
+  "totalQuestions": 39672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -2401,6 +2401,36 @@
       "count": 100,
       "digest": "a1cc20e99a90b7a562ad265000d6512d22377630eaba7ac700a7c51c17925413",
       "errors": []
+    },
+    {
+      "name": "batch-intl-401",
+      "count": 100,
+      "digest": "a8febea594898ef9abe393c536f44ec756fcffeb0d8857aa34e9943283ae87f7",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-402",
+      "count": 100,
+      "digest": "7c07fad957ca56f95b6363dee0beb82135cb5b2f521966cd37de6a9a6f8e6f71",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-403",
+      "count": 100,
+      "digest": "05066d5bb6894db48880026ab62d27966d9251b03876d5a309d6c858806531bc",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-404",
+      "count": 100,
+      "digest": "a2871c95c95c32f43c1141a1419663ab0736fa219f3ceb49802486dfc2374b45",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-405",
+      "count": 100,
+      "digest": "1c511f785ba125903442f8d5d8dde2aeb2b044613c5abd49f54ba6f897df577d",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -2423,20 +2453,20 @@
     "Anatomy": 187,
     "Biochemistry": 257,
     "Biostatistics": 237,
-    "Ethics": 1290,
-    "Genetics": 482,
-    "Geriatrics": 198,
+    "Ethics": 1292,
+    "Genetics": 486,
+    "Geriatrics": 206,
     "Immunology": 309,
-    "Medicine": 13793,
-    "Microbiology": 1004,
-    "Neurology": 972,
-    "Obstetrics": 2618,
-    "Pathology": 1352,
-    "Pediatrics": 3268,
-    "Pharmacology": 4791,
+    "Medicine": 13997,
+    "Microbiology": 1021,
+    "Neurology": 982,
+    "Obstetrics": 2676,
+    "Pathology": 1355,
+    "Pediatrics": 3331,
+    "Pharmacology": 4793,
     "Physiology": 480,
-    "Psychiatry": 1089,
-    "Surgery": 6845
+    "Psychiatry": 1124,
+    "Surgery": 6939
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
