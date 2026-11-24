@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-38473",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Suspected Acute Coronary Syndrome in Australian Rural ED Victoria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Suspected Acute Coronary Syndrome in Australian Rural ED Victoria. Clinical examination and investigative review confirm serial high-sensitivity troponin assays, 12-lead ECG, and aspirin 300 mg administration. Vitals reveal blood pressure of 135/81 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of suspected acute coronary syndrome in australian rural ed victoria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Serial high-sensitivity troponin assays, 12-lead ECG, and aspirin 300 mg administration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is serial high-sensitivity troponin assays, 12-lead ECG, and aspirin 300 mg administration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Suspected Acute Coronary Syndrome in Australian Rural ED Victoria.\\n\\nClinical Discussion: This clinical presentation corresponds to Suspected Acute Coronary Syndrome in Australian Rural ED Victoria. The cornerstone of management involves serial high-sensitivity troponin assays, 12-lead ECG, and aspirin 300 mg administration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Suspected Acute Coronary Syndrome in Australian Rural ED Victoria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Suspected Acute Coronary Syndrome in Australian Rural ED Victoria."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38474",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney. Clinical examination and investigative review confirm direct oral anticoagulant apixaban or rivaroxaban and rate control with metoprolol. Vitals reveal blood pressure of 136/82 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of atrial fibrillation with moderate stroke risk in primary care sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Direct oral anticoagulant apixaban or rivaroxaban and rate control with metoprolol",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is direct oral anticoagulant apixaban or rivaroxaban and rate control with metoprolol. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney. The cornerstone of management involves direct oral anticoagulant apixaban or rivaroxaban and rate control with metoprolol. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Atrial Fibrillation with Moderate Stroke Risk in Primary Care Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38475",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Reduced Ejection Fraction in General Practice Melbourne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Heart Failure with Reduced Ejection Fraction in General Practice Melbourne. Clinical examination and investigative review confirm quadruple therapy ARNI sacubitril-valsartan, bisoprolol, empagliflozin, and spironolactone. Vitals reveal blood pressure of 137/83 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of heart failure with reduced ejection fraction in general practice melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Quadruple therapy ARNI sacubitril-valsartan, bisoprolol, empagliflozin, and spironolactone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is quadruple therapy ARNI sacubitril-valsartan, bisoprolol, empagliflozin, and spironolactone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Heart Failure with Reduced Ejection Fraction in General Practice Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Heart Failure with Reduced Ejection Fraction in General Practice Melbourne. The cornerstone of management involves quadruple therapy ARNI sacubitril-valsartan, bisoprolol, empagliflozin, and spironolactone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Heart Failure with Reduced Ejection Fraction in General Practice Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Heart Failure with Reduced Ejection Fraction in General Practice Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38476",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane. Clinical examination and investigative review confirm adding dihydropyridine calcium channel blocker amlodipine or thiazide-like diuretic indapamide. Vitals reveal blood pressure of 138/84 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hypertension uncontrolled on ace inhibitor monotherapy in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Adding dihydropyridine calcium channel blocker amlodipine or thiazide-like diuretic indapamide",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is adding dihydropyridine calcium channel blocker amlodipine or thiazide-like diuretic indapamide. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane. The cornerstone of management involves adding dihydropyridine calcium channel blocker amlodipine or thiazide-like diuretic indapamide. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hypertension Uncontrolled on ACE Inhibitor Monotherapy in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38477",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Cardiovascular",
+    "topic": "Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide. Clinical examination and investigative review confirm targeted intravenous high-dose bactericidal antibiotics based on blood cultures. Vitals reveal blood pressure of 139/85 mm Hg, heart rate of 91/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of infective endocarditis duke criteria positive on native valve in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Targeted intravenous high-dose bactericidal antibiotics based on blood cultures",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is targeted intravenous high-dose bactericidal antibiotics based on blood cultures. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide. The cornerstone of management involves targeted intravenous high-dose bactericidal antibiotics based on blood cultures. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Infective Endocarditis Duke Criteria Positive on Native Valve in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38478",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth. Clinical examination and investigative review confirm urgent referral to vascular surgery for endovascular aneurysm repair EVAR assessment. Vitals reveal blood pressure of 118/86 mm Hg, heart rate of 92/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of abdominal aortic aneurysm screening finding 5.8cm diameter in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Urgent referral to vascular surgery for endovascular aneurysm repair EVAR assessment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent referral to vascular surgery for endovascular aneurysm repair EVAR assessment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth. The cornerstone of management involves urgent referral to vascular surgery for endovascular aneurysm repair EVAR assessment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter in Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38479",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne. Clinical examination and investigative review confirm oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily. Vitals reveal blood pressure of 119/87 mm Hg, heart rate of 93/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute pericarditis post-viral in young australian athlete in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne. The cornerstone of management involves oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Pericarditis Post-Viral in Young Australian Athlete in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38480",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital. Clinical examination and investigative review confirm oral rivaroxaban or apixaban therapeutic anticoagulation for three months. Vitals reveal blood pressure of 120/72 mm Hg, heart rate of 68/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of deep vein thrombosis post-orthopedic surgery in sydney hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral rivaroxaban or apixaban therapeutic anticoagulation for three months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral rivaroxaban or apixaban therapeutic anticoagulation for three months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital. The cornerstone of management involves oral rivaroxaban or apixaban therapeutic anticoagulation for three months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Deep Vein Thrombosis Post-Orthopedic Surgery in Sydney Hospital."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38481",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Supraventricular Tachycardia Acute Presentation in Emergency Brisbane",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Supraventricular Tachycardia Acute Presentation in Emergency Brisbane. Clinical examination and investigative review confirm modified Valsalva maneuver followed by rapid intravenous adenosine bolus. Vitals reveal blood pressure of 121/73 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of supraventricular tachycardia acute presentation in emergency brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Modified Valsalva maneuver followed by rapid intravenous adenosine bolus",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is modified Valsalva maneuver followed by rapid intravenous adenosine bolus. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Supraventricular Tachycardia Acute Presentation in Emergency Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Supraventricular Tachycardia Acute Presentation in Emergency Brisbane. The cornerstone of management involves modified Valsalva maneuver followed by rapid intravenous adenosine bolus. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Supraventricular Tachycardia Acute Presentation in Emergency Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Supraventricular Tachycardia Acute Presentation in Emergency Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38482",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide. Clinical examination and investigative review confirm transthoracic echocardiogram confirmation and cardiothoracic consultation for TAVI. Vitals reveal blood pressure of 122/74 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of syncope from severe degenerative calcaneal aortic stenosis in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Transthoracic echocardiogram confirmation and cardiothoracic consultation for TAVI",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transthoracic echocardiogram confirmation and cardiothoracic consultation for TAVI. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide. The cornerstone of management involves transthoracic echocardiogram confirmation and cardiothoracic consultation for TAVI. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Syncope from Severe Degenerative Calcaneal Aortic Stenosis in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38483",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Severe Asthma Flare in Australian Emergency Department Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Acute Severe Asthma Flare in Australian Emergency Department Melbourne. Clinical examination and investigative review confirm frequent inhaled salbutamol and ipratropium via spacer/nebulizer and oral prednisolone. Vitals reveal blood pressure of 123/75 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute severe asthma flare in australian emergency department melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Frequent inhaled salbutamol and ipratropium via spacer/nebulizer and oral prednisolone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is frequent inhaled salbutamol and ipratropium via spacer/nebulizer and oral prednisolone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Severe Asthma Flare in Australian Emergency Department Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Severe Asthma Flare in Australian Emergency Department Melbourne. The cornerstone of management involves frequent inhaled salbutamol and ipratropium via spacer/nebulizer and oral prednisolone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Severe Asthma Flare in Australian Emergency Department Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Severe Asthma Flare in Australian Emergency Department Melbourne."
+    ],
+    "references": [
+      {
+        "label": "National Asthma Council Australia Guidelines",
+        "url": "https://www.nationalasthma.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38484",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney. Clinical examination and investigative review confirm inhaled bronchodilators, oral prednisolone 30 to 50 mg daily for five days, and oral amoxicillin. Vitals reveal blood pressure of 124/76 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of copd acute exacerbation with purulent sputum and increased dyspnea in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Inhaled bronchodilators, oral prednisolone 30 to 50 mg daily for five days, and oral amoxicillin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is inhaled bronchodilators, oral prednisolone 30 to 50 mg daily for five days, and oral amoxicillin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney. The cornerstone of management involves inhaled bronchodilators, oral prednisolone 30 to 50 mg daily for five days, and oral amoxicillin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38485",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice. Clinical examination and investigative review confirm oral amoxicillin combined with oral doxycycline or clarithromycin for atypical coverage. Vitals reveal blood pressure of 125/77 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of community-acquired pneumonia non-severe in rural victoria practice. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral amoxicillin combined with oral doxycycline or clarithromycin for atypical coverage",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral amoxicillin combined with oral doxycycline or clarithromycin for atypical coverage. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice.\\n\\nClinical Discussion: This clinical presentation corresponds to Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice. The cornerstone of management involves oral amoxicillin combined with oral doxycycline or clarithromycin for atypical coverage. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Community-Acquired Pneumonia Non-Severe in Rural Victoria Practice."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38486",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth. Clinical examination and investigative review confirm pre-test probability assessment with Wells score followed by CT pulmonary angiogram. Vitals reveal blood pressure of 126/78 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of suspected pulmonary embolism with pleuritic chest pain in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Pre-test probability assessment with Wells score followed by CT pulmonary angiogram",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is pre-test probability assessment with Wells score followed by CT pulmonary angiogram. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth. The cornerstone of management involves pre-test probability assessment with Wells score followed by CT pulmonary angiogram. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Suspected Pulmonary Embolism with Pleuritic Chest Pain in Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38487",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane. Clinical examination and investigative review confirm conservative observation, supplemental oxygen if needed, and repeat chest x-ray. Vitals reveal blood pressure of 127/79 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of spontaneous pneumothorax small under two centimeters in stable patient brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Conservative observation, supplemental oxygen if needed, and repeat chest x-ray",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is conservative observation, supplemental oxygen if needed, and repeat chest x-ray. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane. The cornerstone of management involves conservative observation, supplemental oxygen if needed, and repeat chest x-ray. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38488",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide. Clinical examination and investigative review confirm systematic evaluation for upper airway cough syndrome, cough-variant asthma, and GERD. Vitals reveal blood pressure of 128/80 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of chronic cough over eight weeks in non-smoker adult in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Systematic evaluation for upper airway cough syndrome, cough-variant asthma, and GERD",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is systematic evaluation for upper airway cough syndrome, cough-variant asthma, and GERD. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide. The cornerstone of management involves systematic evaluation for upper airway cough syndrome, cough-variant asthma, and GERD. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Chronic Cough Over Eight Weeks in Non-Smoker Adult in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38489",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney. Clinical examination and investigative review confirm diagnostic sleep study polysomnography and continuous positive airway pressure trial. Vitals reveal blood pressure of 129/81 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of obstructive sleep apnea with high epworth sleepiness score in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Diagnostic sleep study polysomnography and continuous positive airway pressure trial",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnostic sleep study polysomnography and continuous positive airway pressure trial. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney. The cornerstone of management involves diagnostic sleep study polysomnography and continuous positive airway pressure trial. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Obstructive Sleep Apnea with High Epworth Sleepiness Score in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38490",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne. Clinical examination and investigative review confirm airway clearance techniques, chest physiotherapy, and targeted oral amoxicillin-clavulanate. Vitals reveal blood pressure of 130/82 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bronchiectasis with hemophilus influenzae sputum culture in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Airway clearance techniques, chest physiotherapy, and targeted oral amoxicillin-clavulanate",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is airway clearance techniques, chest physiotherapy, and targeted oral amoxicillin-clavulanate. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne. The cornerstone of management involves airway clearance techniques, chest physiotherapy, and targeted oral amoxicillin-clavulanate. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bronchiectasis with Hemophilus Influenzae Sputum Culture in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38491",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane. Clinical examination and investigative review confirm diagnostic ultrasound-guided thoracentesis with pleural fluid analysis and cytology. Vitals reveal blood pressure of 131/83 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of pleural effusion unilateral exudative in sixty-year-old in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Diagnostic ultrasound-guided thoracentesis with pleural fluid analysis and cytology",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnostic ultrasound-guided thoracentesis with pleural fluid analysis and cytology. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane. The cornerstone of management involves diagnostic ultrasound-guided thoracentesis with pleural fluid analysis and cytology. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Pleural Effusion Unilateral Exudative in Sixty-Year-Old in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38492",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Silicosis in Australian Engineered Stone Benchtop Worker in Queensland",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Silicosis in Australian Engineered Stone Benchtop Worker in Queensland. Clinical examination and investigative review confirm occupational cessation, high-resolution CT chest, and referral for respiratory surveillance. Vitals reveal blood pressure of 132/84 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of silicosis in australian engineered stone benchtop worker in queensland. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Occupational cessation, high-resolution CT chest, and referral for respiratory surveillance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is occupational cessation, high-resolution CT chest, and referral for respiratory surveillance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Silicosis in Australian Engineered Stone Benchtop Worker in Queensland.\\n\\nClinical Discussion: This clinical presentation corresponds to Silicosis in Australian Engineered Stone Benchtop Worker in Queensland. The cornerstone of management involves occupational cessation, high-resolution CT chest, and referral for respiratory surveillance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Silicosis in Australian Engineered Stone Benchtop Worker in Queensland.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Silicosis in Australian Engineered Stone Benchtop Worker in Queensland."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Physicians Guidelines",
+        "url": "https://www.racp.edu.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38493",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne. Clinical examination and investigative review confirm intravenous fluid resuscitation, IV high-dose omeprazole, and gastroscopy within 24 hours. Vitals reveal blood pressure of 133/85 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute peptic ulcer hemorrhage with hematemesis in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous fluid resuscitation, IV high-dose omeprazole, and gastroscopy within 24 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous fluid resuscitation, IV high-dose omeprazole, and gastroscopy within 24 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne. The cornerstone of management involves intravenous fluid resuscitation, IV high-dose omeprazole, and gastroscopy within 24 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Peptic Ulcer Hemorrhage with Hematemesis in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38494",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital. Clinical examination and investigative review confirm oral systemic corticosteroids for induction followed by biologic anti-TNF therapy. Vitals reveal blood pressure of 134/86 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of crohn disease active colonic inflammation in sydney teaching hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Oral systemic corticosteroids for induction followed by biologic anti-TNF therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral systemic corticosteroids for induction followed by biologic anti-TNF therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital. The cornerstone of management involves oral systemic corticosteroids for induction followed by biologic anti-TNF therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Crohn Disease Active Colonic Inflammation in Sydney Teaching Hospital."
+    ],
+    "references": [
+      {
+        "label": "Gastroenterological Society of Australia (GESA) Guidelines",
+        "url": "https://www.gesa.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38495",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane. Clinical examination and investigative review confirm rectal mesalazine suppository or enema combined with oral 5-ASA therapy. Vitals reveal blood pressure of 135/87 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ulcerative colitis mild to moderate flare in distal colon in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Rectal mesalazine suppository or enema combined with oral 5-ASA therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is rectal mesalazine suppository or enema combined with oral 5-ASA therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane. The cornerstone of management involves rectal mesalazine suppository or enema combined with oral 5-ASA therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ulcerative Colitis Mild to Moderate Flare in Distal Colon in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "GESA Guidelines",
+        "url": "https://www.gesa.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38496",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Calculous Cholecystitis in Australian Regional Base Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Acute Calculous Cholecystitis in Australian Regional Base Hospital. Clinical examination and investigative review confirm intravenous fluids, IV ampicillin/gentamicin or ceftriaxone, and early laparoscopic cholecystectomy. Vitals reveal blood pressure of 136/72 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute calculous cholecystitis in australian regional base hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Intravenous fluids, IV ampicillin/gentamicin or ceftriaxone, and early laparoscopic cholecystectomy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous fluids, IV ampicillin/gentamicin or ceftriaxone, and early laparoscopic cholecystectomy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Calculous Cholecystitis in Australian Regional Base Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Calculous Cholecystitis in Australian Regional Base Hospital. The cornerstone of management involves intravenous fluids, IV ampicillin/gentamicin or ceftriaxone, and early laparoscopic cholecystectomy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Calculous Cholecystitis in Australian Regional Base Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Calculous Cholecystitis in Australian Regional Base Hospital."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38497",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide. Clinical examination and investigative review confirm clear liquid diet, oral analgesia, and expectant observation without routine antibiotics. Vitals reveal blood pressure of 137/73 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute diverticulitis uncomplicated left lower quadrant pain in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Clear liquid diet, oral analgesia, and expectant observation without routine antibiotics",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is clear liquid diet, oral analgesia, and expectant observation without routine antibiotics. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide. The cornerstone of management involves clear liquid diet, oral analgesia, and expectant observation without routine antibiotics. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38498",
+    "exam": "AMC",
+    "subject": "Immunology",
+    "system": "Gastrointestinal",
+    "topic": "Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth. Clinical examination and investigative review confirm anti-tTG IgA serology followed by gastroscopy with duodenal biopsies. Vitals reveal blood pressure of 138/74 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of celiac disease adult presentation with bloating and microcytic anemia in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Anti-tTG IgA serology followed by gastroscopy with duodenal biopsies",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is anti-tTG IgA serology followed by gastroscopy with duodenal biopsies. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth. The cornerstone of management involves anti-tTG IgA serology followed by gastroscopy with duodenal biopsies. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Celiac Disease Adult Presentation with Bloating and Microcytic Anemia in Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38499",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice. Clinical examination and investigative review confirm trial of once-daily oral proton pump inhibitor esomeprazole or pantoprazole for 4 to 8 weeks. Vitals reveal blood pressure of 139/75 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of gastroesophageal reflux disease gerd symptomatic in melbourne general practice. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Trial of once-daily oral proton pump inhibitor esomeprazole or pantoprazole for 4 to 8 weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is trial of once-daily oral proton pump inhibitor esomeprazole or pantoprazole for 4 to 8 weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice.\\n\\nClinical Discussion: This clinical presentation corresponds to Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice. The cornerstone of management involves trial of once-daily oral proton pump inhibitor esomeprazole or pantoprazole for 4 to 8 weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Gastroesophageal Reflux Disease GERD Symptomatic in Melbourne General Practice."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38500",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital. Clinical examination and investigative review confirm dietary sodium restriction and oral spironolactone with furosemide titration. Vitals reveal blood pressure of 118/76 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cirrhosis decompensated with moderate ascites in brisbane hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Dietary sodium restriction and oral spironolactone with furosemide titration",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is dietary sodium restriction and oral spironolactone with furosemide titration. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital. The cornerstone of management involves dietary sodium restriction and oral spironolactone with furosemide titration. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Cirrhosis Decompensated with Moderate Ascites in Brisbane Hospital."
+    ],
+    "references": [
+      {
+        "label": "GESA Guidelines",
+        "url": "https://www.gesa.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38501",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney. Clinical examination and investigative review confirm referral for diagnostic colonoscopy within 120 days of positive fecal occult blood test. Vitals reveal blood pressure of 119/77 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of national bowel cancer screening program positive fobt in 55-year-old sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Referral for diagnostic colonoscopy within 120 days of positive fecal occult blood test",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is referral for diagnostic colonoscopy within 120 days of positive fecal occult blood test. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney. The cornerstone of management involves referral for diagnostic colonoscopy within 120 days of positive fecal occult blood test. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old Sydney."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Guidelines",
+        "url": "https://www.cancer.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38502",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital. Clinical examination and investigative review confirm aggressive intravenous fluid hydration with Ringer lactate, multimodal analgesia, and early oral feeding. Vitals reveal blood pressure of 120/78 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute pancreatitis mild from alcohol in regional victorian hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Aggressive intravenous fluid hydration with Ringer lactate, multimodal analgesia, and early oral feeding",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is aggressive intravenous fluid hydration with Ringer lactate, multimodal analgesia, and early oral feeding. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital. The cornerstone of management involves aggressive intravenous fluid hydration with Ringer lactate, multimodal analgesia, and early oral feeding. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Pancreatitis Mild from Alcohol in Regional Victorian Hospital."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38503",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide. Clinical examination and investigative review confirm stopping nephrotoxic medications ACEi/NSAIDs, volume rehydration, and monitoring. Vitals reveal blood pressure of 121/79 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute kidney injury kdigo stage 1 in dehydrated elderly patient in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Stopping nephrotoxic medications ACEi/NSAIDs, volume rehydration, and monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is stopping nephrotoxic medications ACEi/NSAIDs, volume rehydration, and monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide. The cornerstone of management involves stopping nephrotoxic medications ACEi/NSAIDs, volume rehydration, and monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia Guidelines",
+        "url": "https://kidney.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38504",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne. Clinical examination and investigative review confirm SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and cardiovascular risk reduction. Vitals reveal blood pressure of 122/80 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of chronic kidney disease ckd stage 3b with albuminuria in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and cardiovascular risk reduction",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and cardiovascular risk reduction. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne. The cornerstone of management involves SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and cardiovascular risk reduction. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Chronic Kidney Disease CKD Stage 3b with Albuminuria in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia Guidelines",
+        "url": "https://kidney.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38505",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice. Clinical examination and investigative review confirm oral trimethoprim 300 mg daily for three days or oral cephalexin 500 mg twice daily. Vitals reveal blood pressure of 123/81 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute uncomplicated cystitis in non-pregnant female in sydney general practice. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral trimethoprim 300 mg daily for three days or oral cephalexin 500 mg twice daily",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral trimethoprim 300 mg daily for three days or oral cephalexin 500 mg twice daily. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice. The cornerstone of management involves oral trimethoprim 300 mg daily for three days or oral cephalexin 500 mg twice daily. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Uncomplicated Cystitis in Non-Pregnant Female in Sydney General Practice."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38506",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth. Clinical examination and investigative review confirm oral ciprofloxacin or oral amoxicillin-clavulanate after urine culture collection. Vitals reveal blood pressure of 124/82 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute pyelonephritis mild to moderate managed in outpatient setting perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Oral ciprofloxacin or oral amoxicillin-clavulanate after urine culture collection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral ciprofloxacin or oral amoxicillin-clavulanate after urine culture collection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth. The cornerstone of management involves oral ciprofloxacin or oral amoxicillin-clavulanate after urine culture collection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38507",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane. Clinical examination and investigative review confirm oral alpha-1 blocker prazosin or tamsulosin and review after six weeks. Vitals reveal blood pressure of 125/83 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of benign prostatic hyperplasia with voiding lower urinary tract symptoms brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Oral alpha-1 blocker prazosin or tamsulosin and review after six weeks",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral alpha-1 blocker prazosin or tamsulosin and review after six weeks. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane. The cornerstone of management involves oral alpha-1 blocker prazosin or tamsulosin and review after six weeks. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38508",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED. Clinical examination and investigative review confirm intravenous or oral NSAID indomethacin/ketorolac and non-contrast low-dose CT KUB. Vitals reveal blood pressure of 126/84 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of renal colic acute secondary to ureteral calculus in adelaide ed. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Intravenous or oral NSAID indomethacin/ketorolac and non-contrast low-dose CT KUB",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous or oral NSAID indomethacin/ketorolac and non-contrast low-dose CT KUB. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED. The cornerstone of management involves intravenous or oral NSAID indomethacin/ketorolac and non-contrast low-dose CT KUB. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Renal Colic Acute Secondary to Ureteral Calculus in Adelaide ED."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38509",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney. Clinical examination and investigative review confirm urgent urology referral for flexible cystoscopy and CT intravenous pyelogram CT IVP. Vitals reveal blood pressure of 127/85 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of painless macroscopic hematuria in fifty-year-old smoker in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Urgent urology referral for flexible cystoscopy and CT intravenous pyelogram CT IVP",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent urology referral for flexible cystoscopy and CT intravenous pyelogram CT IVP. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney. The cornerstone of management involves urgent urology referral for flexible cystoscopy and CT intravenous pyelogram CT IVP. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Painless Macroscopic Hematuria in Fifty-Year-Old Smoker in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of Australia and New Zealand Guidelines",
+        "url": "https://www.usanz.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38510",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne. Clinical examination and investigative review confirm urgent emergency scrotal surgical exploration within 6 hours without awaiting ultrasound. Vitals reveal blood pressure of 128/86 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of testicular swelling painful with absent cremasteric reflex in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent emergency scrotal surgical exploration within 6 hours without awaiting ultrasound",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent emergency scrotal surgical exploration within 6 hours without awaiting ultrasound. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne. The cornerstone of management involves urgent emergency scrotal surgical exploration within 6 hours without awaiting ultrasound. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Testicular Swelling Painful with Absent Cremasteric Reflex in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38511",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Minimal Change Disease in Young Adult Presenting with Edema in Perth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Minimal Change Disease in Young Adult Presenting with Edema in Perth. Clinical examination and investigative review confirm oral high-dose prednisolone therapy and referral to nephrology for renal biopsy. Vitals reveal blood pressure of 129/87 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of minimal change disease in young adult presenting with edema in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Oral high-dose prednisolone therapy and referral to nephrology for renal biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral high-dose prednisolone therapy and referral to nephrology for renal biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Minimal Change Disease in Young Adult Presenting with Edema in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Minimal Change Disease in Young Adult Presenting with Edema in Perth. The cornerstone of management involves oral high-dose prednisolone therapy and referral to nephrology for renal biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Minimal Change Disease in Young Adult Presenting with Edema in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Minimal Change Disease in Young Adult Presenting with Edema in Perth."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia Guidelines",
+        "url": "https://kidney.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38512",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane. Clinical examination and investigative review confirm dietary potassium restriction, loop diuretic, and oral sodium zirconium cyclosilicate. Vitals reveal blood pressure of 130/72 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hyperkalemia moderate with potassium 6.2 in ckd patient in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Dietary potassium restriction, loop diuretic, and oral sodium zirconium cyclosilicate",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is dietary potassium restriction, loop diuretic, and oral sodium zirconium cyclosilicate. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane. The cornerstone of management involves dietary potassium restriction, loop diuretic, and oral sodium zirconium cyclosilicate. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hyperkalemia Moderate with Potassium 6.2 in CKD Patient in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38513",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourn",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourne. Clinical examination and investigative review confirm lifestyle intervention, metformin titration, and cardiovascular risk assessment. Vitals reveal blood pressure of 131/73 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of type 2 diabetes mellitus newly diagnosed in australian general practice melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Lifestyle intervention, metformin titration, and cardiovascular risk assessment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is lifestyle intervention, metformin titration, and cardiovascular risk assessment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourne. The cornerstone of management involves lifestyle intervention, metformin titration, and cardiovascular risk assessment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice Melbourne."
+    ],
+    "references": [
+      {
+        "label": "RACGP Diabetes Management Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38514",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes with Established Cardiovascular Disease in Sydney",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Type 2 Diabetes with Established Cardiovascular Disease in Sydney. Clinical examination and investigative review confirm adding SGLT2 inhibitor empagliflozin or GLP-1 receptor agonist liraglutide to metformin. Vitals reveal blood pressure of 132/74 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of type 2 diabetes with established cardiovascular disease in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Adding SGLT2 inhibitor empagliflozin or GLP-1 receptor agonist liraglutide to metformin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is adding SGLT2 inhibitor empagliflozin or GLP-1 receptor agonist liraglutide to metformin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Type 2 Diabetes with Established Cardiovascular Disease in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Type 2 Diabetes with Established Cardiovascular Disease in Sydney. The cornerstone of management involves adding SGLT2 inhibitor empagliflozin or GLP-1 receptor agonist liraglutide to metformin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes with Established Cardiovascular Disease in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes with Established Cardiovascular Disease in Sydney."
+    ],
+    "references": [
+      {
+        "label": "RACGP Diabetes Management Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38515",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria. Clinical examination and investigative review confirm intravenous 0.9% normal saline rehydration, fixed-rate insulin infusion, and potassium replacement. Vitals reveal blood pressure of 133/75 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of diabetic ketoacidosis presentation in regional emergency department victoria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous 0.9% normal saline rehydration, fixed-rate insulin infusion, and potassium replacement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous 0.9% normal saline rehydration, fixed-rate insulin infusion, and potassium replacement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria.\\n\\nClinical Discussion: This clinical presentation corresponds to Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria. The cornerstone of management involves intravenous 0.9% normal saline rehydration, fixed-rate insulin infusion, and potassium replacement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Diabetic Ketoacidosis Presentation in Regional Emergency Department Victoria."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38516",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide. Clinical examination and investigative review confirm repeat thyroid function tests in 6 to 8 weeks and trial of oral levothyroxine if symptomatic. Vitals reveal blood pressure of 134/76 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of subclinical hypothyroidism with tsh 8.5 and positive tpo antibodies in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Repeat thyroid function tests in 6 to 8 weeks and trial of oral levothyroxine if symptomatic",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is repeat thyroid function tests in 6 to 8 weeks and trial of oral levothyroxine if symptomatic. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide. The cornerstone of management involves repeat thyroid function tests in 6 to 8 weeks and trial of oral levothyroxine if symptomatic. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38517",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic. Clinical examination and investigative review confirm oral carbimazole titration therapy combined with propranolol for tremor and palpitations. Vitals reveal blood pressure of 135/77 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of graves disease hyperthyroidism first episode in perth patient clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Oral carbimazole titration therapy combined with propranolol for tremor and palpitations",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral carbimazole titration therapy combined with propranolol for tremor and palpitations. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic. The cornerstone of management involves oral carbimazole titration therapy combined with propranolol for tremor and palpitations. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Graves Disease Hyperthyroidism First Episode in Perth Patient Clinic."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38518",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane. Clinical examination and investigative review confirm measurement of 24-hour urinary calcium and referral for neck sestamibi/ultrasound localization. Vitals reveal blood pressure of 136/78 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of primary hyperparathyroidism incidental hypercalcemia finding in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Measurement of 24-hour urinary calcium and referral for neck sestamibi/ultrasound localization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is measurement of 24-hour urinary calcium and referral for neck sestamibi/ultrasound localization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane. The cornerstone of management involves measurement of 24-hour urinary calcium and referral for neck sestamibi/ultrasound localization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Primary Hyperparathyroidism Incidental Hypercalcemia Finding in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38519",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney. Clinical examination and investigative review confirm oral hydrocortisone in divided daily doses combined with oral fludrocortisone. Vitals reveal blood pressure of 137/79 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of addison disease autoimmune primary adrenal insufficiency in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Oral hydrocortisone in divided daily doses combined with oral fludrocortisone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral hydrocortisone in divided daily doses combined with oral fludrocortisone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney. The cornerstone of management involves oral hydrocortisone in divided daily doses combined with oral fludrocortisone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Addison Disease Autoimmune Primary Adrenal Insufficiency in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38520",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne. Clinical examination and investigative review confirm overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol. Vitals reveal blood pressure of 138/80 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cushing syndrome screening in patient with proximal muscle weakness melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne. The cornerstone of management involves overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Cushing Syndrome Screening in Patient with Proximal Muscle Weakness Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38521",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide. Clinical examination and investigative review confirm oral weekly alendronate or annual IV zoledronic acid alongside calcium and vitamin D. Vitals reveal blood pressure of 139/81 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of osteoporosis postmenopausal with t-score minus 2.8 in general practice adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Oral weekly alendronate or annual IV zoledronic acid alongside calcium and vitamin D",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral weekly alendronate or annual IV zoledronic acid alongside calcium and vitamin D. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide. The cornerstone of management involves oral weekly alendronate or annual IV zoledronic acid alongside calcium and vitamin D. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice Adelaide."
+    ],
+    "references": [
+      {
+        "label": "RACGP Osteoporosis Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38522",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth. Clinical examination and investigative review confirm comprehensive lifestyle intervention, medical pharmacotherapy, or referral for bariatric surgery. Vitals reveal blood pressure of 118/82 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe obesity bmi 38 with sleep apnea and fatty liver in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Comprehensive lifestyle intervention, medical pharmacotherapy, or referral for bariatric surgery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is comprehensive lifestyle intervention, medical pharmacotherapy, or referral for bariatric surgery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth. The cornerstone of management involves comprehensive lifestyle intervention, medical pharmacotherapy, or referral for bariatric surgery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver in Perth."
+    ],
+    "references": [
+      {
+        "label": "RACGP Clinical Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38523",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Microcytic Anemia from Menorrhagia in Australian General Practice Sydney",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Microcytic Anemia from Menorrhagia in Australian General Practice Sydney. Clinical examination and investigative review confirm oral ferrous sulfate on alternate days or intravenous ferric carboxymaltose if intolerant. Vitals reveal blood pressure of 119/83 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of microcytic anemia from menorrhagia in australian general practice sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Oral ferrous sulfate on alternate days or intravenous ferric carboxymaltose if intolerant",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral ferrous sulfate on alternate days or intravenous ferric carboxymaltose if intolerant. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Microcytic Anemia from Menorrhagia in Australian General Practice Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Microcytic Anemia from Menorrhagia in Australian General Practice Sydney. The cornerstone of management involves oral ferrous sulfate on alternate days or intravenous ferric carboxymaltose if intolerant. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Microcytic Anemia from Menorrhagia in Australian General Practice Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Microcytic Anemia from Menorrhagia in Australian General Practice Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38524",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne. Clinical examination and investigative review confirm intramuscular hydroxocobalamin injections 1 mg alternate days for two weeks then quarterly. Vitals reveal blood pressure of 120/84 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of vitamin b12 deficiency neuropathy in vegan patient in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Intramuscular hydroxocobalamin injections 1 mg alternate days for two weeks then quarterly",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intramuscular hydroxocobalamin injections 1 mg alternate days for two weeks then quarterly. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne. The cornerstone of management involves intramuscular hydroxocobalamin injections 1 mg alternate days for two weeks then quarterly. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Vitamin B12 Deficiency Neuropathy in Vegan Patient in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38525",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane. Clinical examination and investigative review confirm oral prednisolone 1 mg/kg daily or observation if platelets over 30,000 and asymptomatic. Vitals reveal blood pressure of 121/85 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of immune thrombocytopenia itp platelets 18,000 without severe bleeding brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral prednisolone 1 mg/kg daily or observation if platelets over 30,000 and asymptomatic",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral prednisolone 1 mg/kg daily or observation if platelets over 30,000 and asymptomatic. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane. The cornerstone of management involves oral prednisolone 1 mg/kg daily or observation if platelets over 30,000 and asymptomatic. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38526",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide. Clinical examination and investigative review confirm immediate urgent referral to tertiary hematology unit for bone marrow aspirate and biopsy. Vitals reveal blood pressure of 122/86 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of suspected acute leukemia with pancytopenia and blast cells in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Immediate urgent referral to tertiary hematology unit for bone marrow aspirate and biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate urgent referral to tertiary hematology unit for bone marrow aspirate and biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide. The cornerstone of management involves immediate urgent referral to tertiary hematology unit for bone marrow aspirate and biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Suspected Acute Leukemia with Pancytopenia and Blast Cells in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38527",
+    "exam": "AMC",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth. Clinical examination and investigative review confirm therapeutic venesection phlebotomy to achieve target serum ferritin 50 to 100 mcg/L. Vitals reveal blood pressure of 123/87 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hereditary hemochromatosis homozygous c282y high ferritin in perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Therapeutic venesection phlebotomy to achieve target serum ferritin 50 to 100 mcg/L",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is therapeutic venesection phlebotomy to achieve target serum ferritin 50 to 100 mcg/L. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth. The cornerstone of management involves therapeutic venesection phlebotomy to achieve target serum ferritin 50 to 100 mcg/L. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hereditary Hemochromatosis Homozygous C282Y High Ferritin in Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38528",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne. Clinical examination and investigative review confirm withholding warfarin, monitoring INR, and oral low-dose vitamin K 1 to 2 mg if high risk. Vitals reveal blood pressure of 124/72 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of warfarin over-anticoagulation inr 6.5 without active bleeding melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Withholding warfarin, monitoring INR, and oral low-dose vitamin K 1 to 2 mg if high risk",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is withholding warfarin, monitoring INR, and oral low-dose vitamin K 1 to 2 mg if high risk. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne. The cornerstone of management involves withholding warfarin, monitoring INR, and oral low-dose vitamin K 1 to 2 mg if high risk. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38529",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Hematology",
+    "topic": "Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital. Clinical examination and investigative review confirm immediate intravenous piperacillin-tazobactam within 30 minutes of presentation. Vitals reveal blood pressure of 125/73 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of neutropenic sepsis post-chemotherapy in melbourne cancer centre hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Immediate intravenous piperacillin-tazobactam within 30 minutes of presentation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intravenous piperacillin-tazobactam within 30 minutes of presentation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital. The cornerstone of management involves immediate intravenous piperacillin-tazobactam within 30 minutes of presentation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre Hospital."
+    ],
+    "references": [
+      {
+        "label": "eviQ Australian Cancer Guidelines",
+        "url": "https://www.eviq.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38530",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney. Clinical examination and investigative review confirm serum and urine protein electrophoresis, free light chain assay, and bone imaging. Vitals reveal blood pressure of 126/74 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of multiple myeloma presentation with bone pain and elevated protein gap sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Serum and urine protein electrophoresis, free light chain assay, and bone imaging",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is serum and urine protein electrophoresis, free light chain assay, and bone imaging. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney. The cornerstone of management involves serum and urine protein electrophoresis, free light chain assay, and bone imaging. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38531",
+    "exam": "AMC",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane. Clinical examination and investigative review confirm hydration, exclusion of papillary necrosis and renal medullary carcinoma, and reassurance. Vitals reveal blood pressure of 127/75 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of sickle cell trait presentation in migrant athlete with hematuria brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Hydration, exclusion of papillary necrosis and renal medullary carcinoma, and reassurance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is hydration, exclusion of papillary necrosis and renal medullary carcinoma, and reassurance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane. The cornerstone of management involves hydration, exclusion of papillary necrosis and renal medullary carcinoma, and reassurance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Sickle Cell Trait Presentation in Migrant Athlete with Hematuria Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38532",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide. Clinical examination and investigative review confirm urgent delivery/source control, intravenous broad-spectrum antimicrobials, and cryoprecipitate. Vitals reveal blood pressure of 128/76 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of disseminated intravascular coagulation in obstetric sepsis in adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Urgent delivery/source control, intravenous broad-spectrum antimicrobials, and cryoprecipitate",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent delivery/source control, intravenous broad-spectrum antimicrobials, and cryoprecipitate. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide. The cornerstone of management involves urgent delivery/source control, intravenous broad-spectrum antimicrobials, and cryoprecipitate. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Disseminated Intravascular Coagulation in Obstetric Sepsis in Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38533",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital. Clinical examination and investigative review confirm urgent non-contrast CT brain, tele-stroke review, and intravenous tenecteplase thrombolysis. Vitals reveal blood pressure of 129/77 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute ischemic stroke presentation within three hours in adelaide hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Urgent non-contrast CT brain, tele-stroke review, and intravenous tenecteplase thrombolysis",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent non-contrast CT brain, tele-stroke review, and intravenous tenecteplase thrombolysis. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital. The cornerstone of management involves urgent non-contrast CT brain, tele-stroke review, and intravenous tenecteplase thrombolysis. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Ischemic Stroke Presentation within Three Hours in Adelaide Hospital."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Guidelines",
+        "url": "https://informme.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38534",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne. Clinical examination and investigative review confirm initiating aspirin 100 mg daily, statin, and outpatient stroke clinic review within 7 days. Vitals reveal blood pressure of 130/78 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of transient ischemic attack low risk abcd2 score 2 in melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Initiating aspirin 100 mg daily, statin, and outpatient stroke clinic review within 7 days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is initiating aspirin 100 mg daily, statin, and outpatient stroke clinic review within 7 days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne. The cornerstone of management involves initiating aspirin 100 mg daily, statin, and outpatient stroke clinic review within 7 days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Transient Ischemic Attack Low Risk ABCD2 Score 2 in Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Guidelines",
+        "url": "https://informme.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38535",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney. Clinical examination and investigative review confirm neurology specialist referral, EEG, MRI brain, and strict driving restriction for six months. Vitals reveal blood pressure of 131/79 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of first generalized tonic-clonic seizure in 22-year-old in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Neurology specialist referral, EEG, MRI brain, and strict driving restriction for six months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is neurology specialist referral, EEG, MRI brain, and strict driving restriction for six months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney. The cornerstone of management involves neurology specialist referral, EEG, MRI brain, and strict driving restriction for six months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of First Generalized Tonic-Clonic Seizure in 22-Year-Old in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38536",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic. Clinical examination and investigative review confirm neurology specialist consultation for levodopa-carbidopa or dopamine agonist trial. Vitals reveal blood pressure of 132/80 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of parkinson disease initial presentation with resting tremor in sydney clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Neurology specialist consultation for levodopa-carbidopa or dopamine agonist trial",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is neurology specialist consultation for levodopa-carbidopa or dopamine agonist trial. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic. The cornerstone of management involves neurology specialist consultation for levodopa-carbidopa or dopamine agonist trial. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Parkinson Disease Initial Presentation with Resting Tremor in Sydney Clinic."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38537",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane. Clinical examination and investigative review confirm ophthalmology review, MRI brain/orbits with gadolinium, and high-dose methylprednisolone. Vitals reveal blood pressure of 133/81 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of multiple sclerosis presentation with unilateral optic neuritis in brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Ophthalmology review, MRI brain/orbits with gadolinium, and high-dose methylprednisolone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ophthalmology review, MRI brain/orbits with gadolinium, and high-dose methylprednisolone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane. The cornerstone of management involves ophthalmology review, MRI brain/orbits with gadolinium, and high-dose methylprednisolone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Multiple Sclerosis Presentation with Unilateral Optic Neuritis in Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38538",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Nervous System",
+    "topic": "Bacterial Meningitis Suspected in Regional General Practice Victoria",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Bacterial Meningitis Suspected in Regional General Practice Victoria. Clinical examination and investigative review confirm immediate intramuscular or intravenous ceftriaxone or benzylpenicillin and emergency transfer. Vitals reveal blood pressure of 134/82 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bacterial meningitis suspected in regional general practice victoria. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate intramuscular or intravenous ceftriaxone or benzylpenicillin and emergency transfer",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intramuscular or intravenous ceftriaxone or benzylpenicillin and emergency transfer. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bacterial Meningitis Suspected in Regional General Practice Victoria.\\n\\nClinical Discussion: This clinical presentation corresponds to Bacterial Meningitis Suspected in Regional General Practice Victoria. The cornerstone of management involves immediate intramuscular or intravenous ceftriaxone or benzylpenicillin and emergency transfer. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bacterial Meningitis Suspected in Regional General Practice Victoria.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bacterial Meningitis Suspected in Regional General Practice Victoria."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38539",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospital. Clinical examination and investigative review confirm immediate high-dose oral prednisolone 50 to 60 mg daily and urgent temporal artery biopsy. Vitals reveal blood pressure of 135/83 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of temporal arteritis giant cell arteritis with jaw claudication in melbourne hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Immediate high-dose oral prednisolone 50 to 60 mg daily and urgent temporal artery biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate high-dose oral prednisolone 50 to 60 mg daily and urgent temporal artery biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospital. The cornerstone of management involves immediate high-dose oral prednisolone 50 to 60 mg daily and urgent temporal artery biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne Hospital."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38540",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth. Clinical examination and investigative review confirm urgent admission, close monitoring of forced vital capacity, and intravenous immunoglobulin. Vitals reveal blood pressure of 136/84 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of guillain-barre syndrome symmetrical progressive lower limb weakness perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent admission, close monitoring of forced vital capacity, and intravenous immunoglobulin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent admission, close monitoring of forced vital capacity, and intravenous immunoglobulin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth. The cornerstone of management involves urgent admission, close monitoring of forced vital capacity, and intravenous immunoglobulin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38541",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Migraine Headache Acute Moderate Attack in General Practice Adelaide",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Migraine Headache Acute Moderate Attack in General Practice Adelaide. Clinical examination and investigative review confirm oral triptan sumatriptan or zolmitriptan combined with soluble aspirin or naproxen. Vitals reveal blood pressure of 137/85 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of migraine headache acute moderate attack in general practice adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Oral triptan sumatriptan or zolmitriptan combined with soluble aspirin or naproxen",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral triptan sumatriptan or zolmitriptan combined with soluble aspirin or naproxen. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Migraine Headache Acute Moderate Attack in General Practice Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Migraine Headache Acute Moderate Attack in General Practice Adelaide. The cornerstone of management involves oral triptan sumatriptan or zolmitriptan combined with soluble aspirin or naproxen. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Migraine Headache Acute Moderate Attack in General Practice Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Migraine Headache Acute Moderate Attack in General Practice Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38542",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney. Clinical examination and investigative review confirm oral prednisolone 50 mg daily for ten days, eye lubrication drops, and night eye taping. Vitals reveal blood pressure of 138/86 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bell palsy idiopathic acute peripheral facial paralysis in sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Oral prednisolone 50 mg daily for ten days, eye lubrication drops, and night eye taping",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral prednisolone 50 mg daily for ten days, eye lubrication drops, and night eye taping. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney. The cornerstone of management involves oral prednisolone 50 mg daily for ten days, eye lubrication drops, and night eye taping. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bell Palsy Idiopathic Acute Peripheral Facial Paralysis in Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38543",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic. Clinical examination and investigative review confirm early disease-modifying antirheumatic drug methotrexate combined with low-dose steroid bridge. Vitals reveal blood pressure of 139/87 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of rheumatoid arthritis early symmetrical polyarthritis in brisbane clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Early disease-modifying antirheumatic drug methotrexate combined with low-dose steroid bridge",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is early disease-modifying antirheumatic drug methotrexate combined with low-dose steroid bridge. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic. The cornerstone of management involves early disease-modifying antirheumatic drug methotrexate combined with low-dose steroid bridge. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane Clinic."
+    ],
+    "references": [
+      {
+        "label": "Australian Rheumatology Association Guidelines",
+        "url": "https://rheumatology.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38544",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED. Clinical examination and investigative review confirm urgent joint aspiration for synovial microscopy/culture prior to starting IV flucloxacillin. Vitals reveal blood pressure of 118/72 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of septic arthritis suspected in hot effused knee joint in melbourne ed. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Urgent joint aspiration for synovial microscopy/culture prior to starting IV flucloxacillin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent joint aspiration for synovial microscopy/culture prior to starting IV flucloxacillin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED. The cornerstone of management involves urgent joint aspiration for synovial microscopy/culture prior to starting IV flucloxacillin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Septic Arthritis Suspected in Hot Effused Knee Joint in Melbourne ED."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38545",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic. Clinical examination and investigative review confirm oral NSAID or low-dose colchicine 500 mcg twice daily and deferring urate-lowering changes. Vitals reveal blood pressure of 119/73 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute gouty arthritis first mtp joint podagra in sydney patient clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral NSAID or low-dose colchicine 500 mcg twice daily and deferring urate-lowering changes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral NSAID or low-dose colchicine 500 mcg twice daily and deferring urate-lowering changes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic. The cornerstone of management involves oral NSAID or low-dose colchicine 500 mcg twice daily and deferring urate-lowering changes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient Clinic."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38546",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide. Clinical examination and investigative review confirm structured exercise therapy, weight management, and oral paracetamol or topical NSAIDs. Vitals reveal blood pressure of 120/74 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of osteoarthritis of the hip with moderate functional restriction adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Structured exercise therapy, weight management, and oral paracetamol or topical NSAIDs",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is structured exercise therapy, weight management, and oral paracetamol or topical NSAIDs. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide. The cornerstone of management involves structured exercise therapy, weight management, and oral paracetamol or topical NSAIDs. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Osteoarthritis of the Hip with Moderate Functional Restriction Adelaide."
+    ],
+    "references": [
+      {
+        "label": "RACGP Clinical Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38547",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth. Clinical examination and investigative review confirm oral prednisolone 15 mg daily with rapid clinical response expected within 72 hours. Vitals reveal blood pressure of 121/75 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of polymyalgia rheumatica in 72-year-old woman with morning stiffness perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral prednisolone 15 mg daily with rapid clinical response expected within 72 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral prednisolone 15 mg daily with rapid clinical response expected within 72 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth. The cornerstone of management involves oral prednisolone 15 mg daily with rapid clinical response expected within 72 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38548",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic. Clinical examination and investigative review confirm complete diagnostic excisional biopsy with 2mm clinical margins oriented along skin tension lines. Vitals reveal blood pressure of 122/76 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of melanoma suspected on sun-exposed skin in queensland resident clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Complete diagnostic excisional biopsy with 2mm clinical margins oriented along skin tension lines",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is complete diagnostic excisional biopsy with 2mm clinical margins oriented along skin tension lines. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic. The cornerstone of management involves complete diagnostic excisional biopsy with 2mm clinical margins oriented along skin tension lines. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Melanoma Suspected on Sun-Exposed Skin in Queensland Resident Clinic."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Guidelines",
+        "url": "https://www.cancer.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38549",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane. Clinical examination and investigative review confirm surgical excision with four-millimeter clear surgical margins and histological examination. Vitals reveal blood pressure of 123/77 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of basal cell carcinoma nodular on forehead in australian farmer brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Surgical excision with four-millimeter clear surgical margins and histological examination",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is surgical excision with four-millimeter clear surgical margins and histological examination. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane. The cornerstone of management involves surgical excision with four-millimeter clear surgical margins and histological examination. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Basal Cell Carcinoma Nodular on Forehead in Australian Farmer Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Guidelines",
+        "url": "https://www.cancer.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38550",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice. Clinical examination and investigative review confirm liberal emollient application twice daily and topical methylprednisolone/hydrocortisone ointment. Vitals reveal blood pressure of 124/78 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of atopic dermatitis moderate in child in melbourne clinic practice. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Liberal emollient application twice daily and topical methylprednisolone/hydrocortisone ointment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is liberal emollient application twice daily and topical methylprednisolone/hydrocortisone ointment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice.\\n\\nClinical Discussion: This clinical presentation corresponds to Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice. The cornerstone of management involves liberal emollient application twice daily and topical methylprednisolone/hydrocortisone ointment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Atopic Dermatitis Moderate in Child in Melbourne Clinic Practice."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38551",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney. Clinical examination and investigative review confirm topical calcipotriol combined with betamethasone dipropionate ointment applied once daily. Vitals reveal blood pressure of 125/79 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of psoriasis plaque disease mild to moderate on elbows and knees sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Topical calcipotriol combined with betamethasone dipropionate ointment applied once daily",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is topical calcipotriol combined with betamethasone dipropionate ointment applied once daily. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney. The cornerstone of management involves topical calcipotriol combined with betamethasone dipropionate ointment applied once daily. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38552",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Scabies Infestation in Family Living in Remote Indigenous Community NT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Scabies Infestation in Family Living in Remote Indigenous Community NT. Clinical examination and investigative review confirm topical 5% permethrin cream or oral ivermectin with simultaneous treatment of all contacts. Vitals reveal blood pressure of 126/80 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of scabies infestation in family living in remote indigenous community nt. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Topical 5% permethrin cream or oral ivermectin with simultaneous treatment of all contacts",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is topical 5% permethrin cream or oral ivermectin with simultaneous treatment of all contacts. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Scabies Infestation in Family Living in Remote Indigenous Community NT.\\n\\nClinical Discussion: This clinical presentation corresponds to Scabies Infestation in Family Living in Remote Indigenous Community NT. The cornerstone of management involves topical 5% permethrin cream or oral ivermectin with simultaneous treatment of all contacts. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Scabies Infestation in Family Living in Remote Indigenous Community NT.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Scabies Infestation in Family Living in Remote Indigenous Community NT."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38553",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne. Clinical examination and investigative review confirm 75g oral glucose tolerance test OGTT performed between 24 and 28 weeks gestation. Vitals reveal blood pressure of 127/81 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of antenatal care screening for gestational diabetes mellitus melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "75g oral glucose tolerance test OGTT performed between 24 and 28 weeks gestation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is 75g oral glucose tolerance test OGTT performed between 24 and 28 weeks gestation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne. The cornerstone of management involves 75g oral glucose tolerance test OGTT performed between 24 and 28 weeks gestation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Antenatal Care Screening for Gestational Diabetes Mellitus Melbourne."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Clinical Guidelines",
+        "url": "https://ranzcog.edu.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38554",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia with Severe Features at 34 Weeks Gestation Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Preeclampsia with Severe Features at 34 Weeks Gestation Sydney. Clinical examination and investigative review confirm intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. Vitals reveal blood pressure of 128/82 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of preeclampsia with severe features at 34 weeks gestation sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Preeclampsia with Severe Features at 34 Weeks Gestation Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Preeclampsia with Severe Features at 34 Weeks Gestation Sydney. The cornerstone of management involves intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Preeclampsia with Severe Features at 34 Weeks Gestation Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Preeclampsia with Severe Features at 34 Weeks Gestation Sydney."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Clinical Guidelines",
+        "url": "https://ranzcog.edu.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38555",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic. Clinical examination and investigative review confirm transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. Vitals reveal blood pressure of 129/83 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ectopic pregnancy unruptured stable low hcg in melbourne ed clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic. The cornerstone of management involves transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED Clinic."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Clinical Guidelines",
+        "url": "https://ranzcog.edu.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38556",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane. Clinical examination and investigative review confirm fundal uterine massage, intravenous oxytocin infusion, and intramuscular ergometrine. Vitals reveal blood pressure of 130/84 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of postpartum hemorrhage secondary to uterine atony in delivery suite brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Fundal uterine massage, intravenous oxytocin infusion, and intramuscular ergometrine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is fundal uterine massage, intravenous oxytocin infusion, and intramuscular ergometrine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane. The cornerstone of management involves fundal uterine massage, intravenous oxytocin infusion, and intramuscular ergometrine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite Brisbane."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Clinical Guidelines",
+        "url": "https://ranzcog.edu.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38557",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward. Clinical examination and investigative review confirm urgent serum total and conjugated bilirubin measurement, Coombs test, and intensive phototherapy. Vitals reveal blood pressure of 131/85 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of neonatal jaundice within first 24 hours of life in sydney hospital ward. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Urgent serum total and conjugated bilirubin measurement, Coombs test, and intensive phototherapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent serum total and conjugated bilirubin measurement, Coombs test, and intensive phototherapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward.\\n\\nClinical Discussion: This clinical presentation corresponds to Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward. The cornerstone of management involves urgent serum total and conjugated bilirubin measurement, Coombs test, and intensive phototherapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital Ward."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38558",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth. Clinical examination and investigative review confirm supportive care, small frequent feeds, minimal handling, and supplemental oxygen if SpO2 < 92%. Vitals reveal blood pressure of 132/86 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute viral bronchiolitis in three-month-old infant with tachypnea perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Supportive care, small frequent feeds, minimal handling, and supplemental oxygen if SpO2 < 92%",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is supportive care, small frequent feeds, minimal handling, and supplemental oxygen if SpO2 < 92%. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth. The cornerstone of management involves supportive care, small frequent feeds, minimal handling, and supplemental oxygen if SpO2 < 92%. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea Perth."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Guidelines",
+        "url": "https://www.rch.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38559",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital. Clinical examination and investigative review confirm single dose of oral dexamethasone 0.15 mg/kg or oral prednisolone 1 mg/kg. Vitals reveal blood pressure of 133/87 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of croup mild to moderate in two-year-old in royal children hospital. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Single dose of oral dexamethasone 0.15 mg/kg or oral prednisolone 1 mg/kg",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is single dose of oral dexamethasone 0.15 mg/kg or oral prednisolone 1 mg/kg. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital. The cornerstone of management involves single dose of oral dexamethasone 0.15 mg/kg or oral prednisolone 1 mg/kg. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Croup Mild to Moderate in Two-Year-Old in Royal Children Hospital."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Guidelines",
+        "url": "https://www.rch.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38560",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide. Clinical examination and investigative review confirm reassurance, thorough examination to identify fever focus, and parent education on seizure safety. Vitals reveal blood pressure of 134/72 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of febrile convulsion simple first occurrence in 18-month-old infant adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance, thorough examination to identify fever focus, and parent education on seizure safety",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is reassurance, thorough examination to identify fever focus, and parent education on seizure safety. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide. The cornerstone of management involves reassurance, thorough examination to identify fever focus, and parent education on seizure safety. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Guidelines",
+        "url": "https://www.rch.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38561",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Childhood Immunization National Schedule Twelve-Month Vaccines Sydney",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Childhood Immunization National Schedule Twelve-Month Vaccines Sydney. Clinical examination and investigative review confirm MMR vaccine, meningococcal ACWY vaccine, and pneumococcal conjugate booster. Vitals reveal blood pressure of 135/73 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of childhood immunization national schedule twelve-month vaccines sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "MMR vaccine, meningococcal ACWY vaccine, and pneumococcal conjugate booster",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is MMR vaccine, meningococcal ACWY vaccine, and pneumococcal conjugate booster. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Childhood Immunization National Schedule Twelve-Month Vaccines Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Childhood Immunization National Schedule Twelve-Month Vaccines Sydney. The cornerstone of management involves MMR vaccine, meningococcal ACWY vaccine, and pneumococcal conjugate booster. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Childhood Immunization National Schedule Twelve-Month Vaccines Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Childhood Immunization National Schedule Twelve-Month Vaccines Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian National Immunisation Program",
+        "url": "https://www.health.gov.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38562",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane. Clinical examination and investigative review confirm ultrasound confirmation of target sign and pneumatic air-enema reduction by radiologist. Vitals reveal blood pressure of 136/74 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of intussusception suspected in 8-month-old infant with intermittent colic brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Ultrasound confirmation of target sign and pneumatic air-enema reduction by radiologist",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is ultrasound confirmation of target sign and pneumatic air-enema reduction by radiologist. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane. The cornerstone of management involves ultrasound confirmation of target sign and pneumatic air-enema reduction by radiologist. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Guidelines",
+        "url": "https://www.rch.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38563",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Major Depressive Episode Moderate in Australian General Practice Perth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Major Depressive Episode Moderate in Australian General Practice Perth. Clinical examination and investigative review confirm Mental Health Treatment Plan referral for Medicare-subsidized CBT and oral SSRI sertraline. Vitals reveal blood pressure of 137/75 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of major depressive episode moderate in australian general practice perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Mental Health Treatment Plan referral for Medicare-subsidized CBT and oral SSRI sertraline",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is Mental Health Treatment Plan referral for Medicare-subsidized CBT and oral SSRI sertraline. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Major Depressive Episode Moderate in Australian General Practice Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Major Depressive Episode Moderate in Australian General Practice Perth. The cornerstone of management involves Mental Health Treatment Plan referral for Medicare-subsidized CBT and oral SSRI sertraline. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Major Depressive Episode Moderate in Australian General Practice Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Major Depressive Episode Moderate in Australian General Practice Perth."
+    ],
+    "references": [
+      {
+        "label": "RACGP Mental Health Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38564",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne. Clinical examination and investigative review confirm psychoeducation, cognitive behavioral therapy CBT, and oral SSRI escitalopram. Vitals reveal blood pressure of 138/76 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of generalized anxiety disorder moderate impairing daily function melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Psychoeducation, cognitive behavioral therapy CBT, and oral SSRI escitalopram",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is psychoeducation, cognitive behavioral therapy CBT, and oral SSRI escitalopram. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne. The cornerstone of management involves psychoeducation, cognitive behavioral therapy CBT, and oral SSRI escitalopram. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Generalized Anxiety Disorder Moderate Impairing Daily Function Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38565",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic. Clinical examination and investigative review confirm assessment under Mental Health and Wellbeing Act and oral atypical antipsychotic with mood stabilizer. Vitals reveal blood pressure of 139/77 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute mania bipolar i disorder involuntary assessment in victoria clinic. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Assessment under Mental Health and Wellbeing Act and oral atypical antipsychotic with mood stabilizer",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is assessment under Mental Health and Wellbeing Act and oral atypical antipsychotic with mood stabilizer. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic. The cornerstone of management involves assessment under Mental Health and Wellbeing Act and oral atypical antipsychotic with mood stabilizer. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria Clinic."
+    ],
+    "references": [
+      {
+        "label": "Australian Therapeutic Guidelines (eTG)",
+        "url": "https://www.tg.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38566",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is admitted to the inpatient acute medical ward of Royal Adelaide Hospital with clinical findings indicative of Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney. Clinical examination and investigative review confirm urgent medical admission to pediatric ward for monitored slow nutritional rehabilitation. Vitals reveal blood pressure of 118/78 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of anorexia nervosa severe in adolescent with medical instability sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Urgent medical admission to pediatric ward for monitored slow nutritional rehabilitation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent medical admission to pediatric ward for monitored slow nutritional rehabilitation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney. The cornerstone of management involves urgent medical admission to pediatric ward for monitored slow nutritional rehabilitation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Anorexia Nervosa Severe in Adolescent with Medical Instability Sydney."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Guidelines",
+        "url": "https://www.rch.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38567",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Indigenous Health Cultural Safety and Gap Closing in Primary Care NT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man undergoes specialist clinical evaluation at Sir Charles Gairdner Hospital Perth with clinical findings indicative of Indigenous Health Cultural Safety and Gap Closing in Primary Care NT. Clinical examination and investigative review confirm culturally safe holistic communication, Aboriginal Health Worker partnership, and PBS Co-payment. Vitals reveal blood pressure of 119/79 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of indigenous health cultural safety and gap closing in primary care nt. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Culturally safe holistic communication, Aboriginal Health Worker partnership, and PBS Co-payment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is culturally safe holistic communication, Aboriginal Health Worker partnership, and PBS Co-payment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Indigenous Health Cultural Safety and Gap Closing in Primary Care NT.\\n\\nClinical Discussion: This clinical presentation corresponds to Indigenous Health Cultural Safety and Gap Closing in Primary Care NT. The cornerstone of management involves culturally safe holistic communication, Aboriginal Health Worker partnership, and PBS Co-payment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Indigenous Health Cultural Safety and Gap Closing in Primary Care NT.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Indigenous Health Cultural Safety and Gap Closing in Primary Care NT."
+    ],
+    "references": [
+      {
+        "label": "RACGP Aboriginal and Torres Strait Islander Health Guidelines",
+        "url": "https://www.racgp.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38568",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man attends the general practice consultative suite for Australian Medical Council clinical examination review with clinical findings indicative of Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney. Clinical examination and investigative review confirm mandatory notification to Child Protection Helpline and ensuring immediate physical safety. Vitals reveal blood pressure of 120/80 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of mandatory reporting of suspected child abuse in new south wales sydney. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Mandatory notification to Child Protection Helpline and ensuring immediate physical safety",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is mandatory notification to Child Protection Helpline and ensuring immediate physical safety. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney.\\n\\nClinical Discussion: This clinical presentation corresponds to Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney. The cornerstone of management involves mandatory notification to Child Protection Helpline and ensuring immediate physical safety. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Mandatory Reporting of Suspected Child Abuse in New South Wales Sydney."
+    ],
+    "references": [
+      {
+        "label": "Australian Medical Association Guidelines",
+        "url": "https://www.ama.com.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38569",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is examined in the accredited regional teaching hospital for AMC clinical licensing assessment with clinical findings indicative of Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane. Clinical examination and investigative review confirm maintaining confidentiality and refusing disclosure without explicit signed patient consent. Vitals reveal blood pressure of 121/81 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of medical confidentiality request by employer regarding diagnosis brisbane. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Maintaining confidentiality and refusing disclosure without explicit signed patient consent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is maintaining confidentiality and refusing disclosure without explicit signed patient consent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane.\\n\\nClinical Discussion: This clinical presentation corresponds to Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane. The cornerstone of management involves maintaining confidentiality and refusing disclosure without explicit signed patient consent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Medical Confidentiality Request by Employer Regarding Diagnosis Brisbane."
+    ],
+    "references": [
+      {
+        "label": "Australian Privacy Principles (APP)",
+        "url": "https://www.oaic.gov.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38570",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the acute medical assessment unit of Royal Melbourne Hospital in Victoria with clinical findings indicative of Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide. Clinical examination and investigative review confirm honoring valid advance health directive and aligning medical goals with patient values. Vitals reveal blood pressure of 122/82 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of advance care directive and end-of-life palliative goals of care adelaide. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Honoring valid advance health directive and aligning medical goals with patient values",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is honoring valid advance health directive and aligning medical goals with patient values. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide.\\n\\nClinical Discussion: This clinical presentation corresponds to Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide. The cornerstone of management involves honoring valid advance health directive and aligning medical goals with patient values. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Advance Care Directive and End-of-Life Palliative Goals of Care Adelaide."
+    ],
+    "references": [
+      {
+        "label": "Australian Commission on Safety and Quality in Health Care",
+        "url": "https://www.safetyandquality.gov.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38571",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Informed Consent for Elective Surgical Procedure in Competent Adult Perth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is evaluated in the emergency receiving department of Royal Prince Alfred Hospital Sydney with clinical findings indicative of Informed Consent for Elective Surgical Procedure in Competent Adult Perth. Clinical examination and investigative review confirm explaining material risks, benefits, alternatives, and obtaining voluntary written consent. Vitals reveal blood pressure of 123/83 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of informed consent for elective surgical procedure in competent adult perth. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Explaining material risks, benefits, alternatives, and obtaining voluntary written consent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is explaining material risks, benefits, alternatives, and obtaining voluntary written consent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Informed Consent for Elective Surgical Procedure in Competent Adult Perth.\\n\\nClinical Discussion: This clinical presentation corresponds to Informed Consent for Elective Surgical Procedure in Competent Adult Perth. The cornerstone of management involves explaining material risks, benefits, alternatives, and obtaining voluntary written consent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Informed Consent for Elective Surgical Procedure in Competent Adult Perth.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Informed Consent for Elective Surgical Procedure in Competent Adult Perth."
+    ],
+    "references": [
+      {
+        "label": "Australian Medical Council Guidelines",
+        "url": "https://www.amc.org.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38572",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the outpatient specialty clinic of Princess Alexandra Hospital Brisbane with clinical findings indicative of Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbourne. Clinical examination and investigative review confirm conditional license pending compliance with CPAP and specialist respiratory review. Vitals reveal blood pressure of 124/84 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of fitness to drive assessment commercial driver with obstructive sleep apnea melbourne. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Conditional license pending compliance with CPAP and specialist respiratory review",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is conditional license pending compliance with CPAP and specialist respiratory review. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbourne.\\n\\nClinical Discussion: This clinical presentation corresponds to Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbourne. The cornerstone of management involves conditional license pending compliance with CPAP and specialist respiratory review. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbourne.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea Melbourne."
+    ],
+    "references": [
+      {
+        "label": "Austroads Assessing Fitness to Drive Guidelines",
+        "url": "https://austroads.com.au"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

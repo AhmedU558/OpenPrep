@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-38273",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi. Clinical examination and investigative review confirm immediate primary percutaneous coronary intervention PCI within 90 minutes of medical contact. Vitals reveal blood pressure of 133/73 mm Hg, heart rate of 69/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute st-elevation myocardial infarction in ssmc abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate primary percutaneous coronary intervention PCI within 90 minutes of medical contact",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate primary percutaneous coronary intervention PCI within 90 minutes of medical contact. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi. The cornerstone of management involves immediate primary percutaneous coronary intervention PCI within 90 minutes of medical contact. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute ST-Elevation Myocardial Infarction in SSMC Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38274",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital. Clinical examination and investigative review confirm adding dihydropyridine calcium channel blocker amlodipine or long-acting nitrate. Vitals reveal blood pressure of 134/74 mm Hg, heart rate of 70/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of stable angina pectoris refractory to beta-blocker in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Adding dihydropyridine calcium channel blocker amlodipine or long-acting nitrate",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is adding dihydropyridine calcium channel blocker amlodipine or long-acting nitrate. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital. The cornerstone of management involves adding dihydropyridine calcium channel blocker amlodipine or long-acting nitrate. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Stable Angina Pectoris Refractory to Beta-Blocker in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38275",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital. Clinical examination and investigative review confirm SGLT2 inhibitor empagliflozin or dapagliflozin and loop diuretic titration for congestion. Vitals reveal blood pressure of 135/75 mm Hg, heart rate of 71/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of heart failure with preserved ejection fraction hfpef in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "SGLT2 inhibitor empagliflozin or dapagliflozin and loop diuretic titration for congestion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SGLT2 inhibitor empagliflozin or dapagliflozin and loop diuretic titration for congestion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital. The cornerstone of management involves SGLT2 inhibitor empagliflozin or dapagliflozin and loop diuretic titration for congestion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Heart Failure with Preserved Ejection Fraction HFpEF in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38276",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation Post-Cardioversion Anticoagulation Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Atrial Fibrillation Post-Cardioversion Anticoagulation Management. Clinical examination and investigative review confirm therapeutic oral anticoagulation with DOAC apixaban for at least four weeks post-procedure. Vitals reveal blood pressure of 136/76 mm Hg, heart rate of 72/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of atrial fibrillation post-cardioversion anticoagulation management. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Therapeutic oral anticoagulation with DOAC apixaban for at least four weeks post-procedure",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is therapeutic oral anticoagulation with DOAC apixaban for at least four weeks post-procedure. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Atrial Fibrillation Post-Cardioversion Anticoagulation Management.\\n\\nClinical Discussion: This clinical presentation corresponds to Atrial Fibrillation Post-Cardioversion Anticoagulation Management. The cornerstone of management involves therapeutic oral anticoagulation with DOAC apixaban for at least four weeks post-procedure. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Atrial Fibrillation Post-Cardioversion Anticoagulation Management.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Atrial Fibrillation Post-Cardioversion Anticoagulation Management."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38277",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital. Clinical examination and investigative review confirm intravenous labetalol or esmolol targeting systolic BP 100 to 120 and heart rate below 60. Vitals reveal blood pressure of 137/77 mm Hg, heart rate of 73/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hypertensive emergency with acute aortic dissection in rashid hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Intravenous labetalol or esmolol targeting systolic BP 100 to 120 and heart rate below 60",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous labetalol or esmolol targeting systolic BP 100 to 120 and heart rate below 60. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital. The cornerstone of management involves intravenous labetalol or esmolol targeting systolic BP 100 to 120 and heart rate below 60. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hypertensive Emergency with Acute Aortic Dissection in Rashid Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38278",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi. Clinical examination and investigative review confirm transcatheter aortic valve implantation TAVI after multidisciplinary heart team review. Vitals reveal blood pressure of 138/78 mm Hg, heart rate of 74/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe symptomatic aortic stenosis in 76-year-old in cleveland clinic abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Transcatheter aortic valve implantation TAVI after multidisciplinary heart team review",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transcatheter aortic valve implantation TAVI after multidisciplinary heart team review. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi. The cornerstone of management involves transcatheter aortic valve implantation TAVI after multidisciplinary heart team review. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Symptomatic Aortic Stenosis in 76-Year-Old in Cleveland Clinic Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38279",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi. Clinical examination and investigative review confirm oral NSAID ibuprofen combined with colchicine for six months or anti-IL-1 rilonacept. Vitals reveal blood pressure of 139/79 mm Hg, heart rate of 75/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute pericarditis idiopathic recurrent episode in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral NSAID ibuprofen combined with colchicine for six months or anti-IL-1 rilonacept",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral NSAID ibuprofen combined with colchicine for six months or anti-IL-1 rilonacept. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi. The cornerstone of management involves oral NSAID ibuprofen combined with colchicine for six months or anti-IL-1 rilonacept. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Pericarditis Idiopathic Recurrent Episode in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38280",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident. Clinical examination and investigative review confirm direct oral anticoagulant rivaroxaban or apixaban therapeutic course for three months. Vitals reveal blood pressure of 118/80 mm Hg, heart rate of 76/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of deep vein thrombosis provoked post-travel in dubai resident. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Direct oral anticoagulant rivaroxaban or apixaban therapeutic course for three months",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is direct oral anticoagulant rivaroxaban or apixaban therapeutic course for three months. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident.\\n\\nClinical Discussion: This clinical presentation corresponds to Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident. The cornerstone of management involves direct oral anticoagulant rivaroxaban or apixaban therapeutic course for three months. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Deep Vein Thrombosis Provoked Post-Travel in Dubai Resident."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38281",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death. Clinical examination and investigative review confirm primary prevention implantable cardioverter-defibrillator ICD placement. Vitals reveal blood pressure of 119/81 mm Hg, heart rate of 77/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hypertrophic cardiomyopathy with high risk of sudden cardiac death. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Primary prevention implantable cardioverter-defibrillator ICD placement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is primary prevention implantable cardioverter-defibrillator ICD placement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death.\\n\\nClinical Discussion: This clinical presentation corresponds to Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death. The cornerstone of management involves primary prevention implantable cardioverter-defibrillator ICD placement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hypertrophic Cardiomyopathy with High Risk of Sudden Cardiac Death."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38282",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Peripheral Arterial Disease with Claudication Distance 100 Meters",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Peripheral Arterial Disease with Claudication Distance 100 Meters. Clinical examination and investigative review confirm supervised exercise program, high-intensity statin atorvastatin, and daily aspirin. Vitals reveal blood pressure of 120/82 mm Hg, heart rate of 78/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of peripheral arterial disease with claudication distance 100 meters. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Supervised exercise program, high-intensity statin atorvastatin, and daily aspirin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is supervised exercise program, high-intensity statin atorvastatin, and daily aspirin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Peripheral Arterial Disease with Claudication Distance 100 Meters.\\n\\nClinical Discussion: This clinical presentation corresponds to Peripheral Arterial Disease with Claudication Distance 100 Meters. The cornerstone of management involves supervised exercise program, high-intensity statin atorvastatin, and daily aspirin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Peripheral Arterial Disease with Claudication Distance 100 Meters.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Peripheral Arterial Disease with Claudication Distance 100 Meters."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38283",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe Acute Asthma Attack in Adult in Rashid Hospital ED",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Severe Acute Asthma Attack in Adult in Rashid Hospital ED. Clinical examination and investigative review confirm frequent nebulized salbutamol and ipratropium, systemic oral prednisolone, and oxygenation. Vitals reveal blood pressure of 121/83 mm Hg, heart rate of 79/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe acute asthma attack in adult in rashid hospital ed. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Frequent nebulized salbutamol and ipratropium, systemic oral prednisolone, and oxygenation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is frequent nebulized salbutamol and ipratropium, systemic oral prednisolone, and oxygenation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Acute Asthma Attack in Adult in Rashid Hospital ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Acute Asthma Attack in Adult in Rashid Hospital ED. The cornerstone of management involves frequent nebulized salbutamol and ipratropium, systemic oral prednisolone, and oxygenation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Acute Asthma Attack in Adult in Rashid Hospital ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Acute Asthma Attack in Adult in Rashid Hospital ED."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38284",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Exacerbation with Acute Respiratory Acidosis in Dubai",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of COPD Exacerbation with Acute Respiratory Acidosis in Dubai. Clinical examination and investigative review confirm controlled oxygen therapy, bronchodilators, and non-invasive positive pressure ventilation NIV. Vitals reveal blood pressure of 122/84 mm Hg, heart rate of 80/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of copd exacerbation with acute respiratory acidosis in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Controlled oxygen therapy, bronchodilators, and non-invasive positive pressure ventilation NIV",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is controlled oxygen therapy, bronchodilators, and non-invasive positive pressure ventilation NIV. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for COPD Exacerbation with Acute Respiratory Acidosis in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to COPD Exacerbation with Acute Respiratory Acidosis in Dubai. The cornerstone of management involves controlled oxygen therapy, bronchodilators, and non-invasive positive pressure ventilation NIV. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of COPD Exacerbation with Acute Respiratory Acidosis in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of COPD Exacerbation with Acute Respiratory Acidosis in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38285",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC. Clinical examination and investigative review confirm hospital admission and intravenous ceftriaxone combined with intravenous azithromycin. Vitals reveal blood pressure of 123/85 mm Hg, heart rate of 81/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of community-acquired pneumonia severe curb-65 score 3 in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Hospital admission and intravenous ceftriaxone combined with intravenous azithromycin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is hospital admission and intravenous ceftriaxone combined with intravenous azithromycin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC. The cornerstone of management involves hospital admission and intravenous ceftriaxone combined with intravenous azithromycin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Community-Acquired Pneumonia Severe CURB-65 Score 3 in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38286",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain. Clinical examination and investigative review confirm strict airborne infection isolation precautions, RT-PCR testing, and supportive intensive care. Vitals reveal blood pressure of 124/86 mm Hg, heart rate of 82/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of middle east respiratory syndrome mers-cov suspected in al ain. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Strict airborne infection isolation precautions, RT-PCR testing, and supportive intensive care",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is strict airborne infection isolation precautions, RT-PCR testing, and supportive intensive care. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain.\\n\\nClinical Discussion: This clinical presentation corresponds to Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain. The cornerstone of management involves strict airborne infection isolation precautions, RT-PCR testing, and supportive intensive care. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Middle East Respiratory Syndrome MERS-CoV Suspected in Al Ain."
+    ],
+    "references": [
+      {
+        "label": "UAE MOHAP National Guidelines",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38287",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Spontaneous Primary Pneumothorax Moderate Size in Young Expat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Spontaneous Primary Pneumothorax Moderate Size in Young Expat. Clinical examination and investigative review confirm simple needle aspiration or small-bore chest tube thoracostomy insertion. Vitals reveal blood pressure of 125/87 mm Hg, heart rate of 83/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of spontaneous primary pneumothorax moderate size in young expat. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Simple needle aspiration or small-bore chest tube thoracostomy insertion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is simple needle aspiration or small-bore chest tube thoracostomy insertion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Spontaneous Primary Pneumothorax Moderate Size in Young Expat.\\n\\nClinical Discussion: This clinical presentation corresponds to Spontaneous Primary Pneumothorax Moderate Size in Young Expat. The cornerstone of management involves simple needle aspiration or small-bore chest tube thoracostomy insertion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Spontaneous Primary Pneumothorax Moderate Size in Young Expat.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Spontaneous Primary Pneumothorax Moderate Size in Young Expat."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38288",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital. Clinical examination and investigative review confirm diagnostic thoracentesis with pleural fluid analysis and chest tube drainage if pH < 7.2. Vitals reveal blood pressure of 126/72 mm Hg, heart rate of 84/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of pleural effusion exudative from parapneumonic process in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Diagnostic thoracentesis with pleural fluid analysis and chest tube drainage if pH < 7.2",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is diagnostic thoracentesis with pleural fluid analysis and chest tube drainage if pH < 7.2. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital. The cornerstone of management involves diagnostic thoracentesis with pleural fluid analysis and chest tube drainage if pH < 7.2. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Pleural Effusion Exudative from Parapneumonic Process in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38289",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence. Clinical examination and investigative review confirm polysomnography confirmation and auto-titrating continuous positive airway pressure CPAP. Vitals reveal blood pressure of 127/73 mm Hg, heart rate of 85/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of obstructive sleep apnea severe in obese uae resident with hypersomnolence. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Polysomnography confirmation and auto-titrating continuous positive airway pressure CPAP",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is polysomnography confirmation and auto-titrating continuous positive airway pressure CPAP. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence.\\n\\nClinical Discussion: This clinical presentation corresponds to Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence. The cornerstone of management involves polysomnography confirmation and auto-titrating continuous positive airway pressure CPAP. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Obstructive Sleep Apnea Severe in Obese UAE Resident with Hypersomnolence."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38290",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization. Clinical examination and investigative review confirm regular airway clearance physiotherapy and inhaled colistin or ciprofloxacin therapy. Vitals reveal blood pressure of 128/74 mm Hg, heart rate of 86/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bronchiectasis with pseudomonas aeruginosa sputum colonization. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Regular airway clearance physiotherapy and inhaled colistin or ciprofloxacin therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is regular airway clearance physiotherapy and inhaled colistin or ciprofloxacin therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization.\\n\\nClinical Discussion: This clinical presentation corresponds to Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization. The cornerstone of management involves regular airway clearance physiotherapy and inhaled colistin or ciprofloxacin therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bronchiectasis with Pseudomonas Aeruginosa Sputum Colonization."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38291",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi. Clinical examination and investigative review confirm high-resolution CT confirming UIP pattern and oral antifibrotic pirfenidone or nintedanib. Vitals reveal blood pressure of 129/75 mm Hg, heart rate of 87/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of idiopathic pulmonary fibrosis ipf presentation in 67-year-old in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "High-resolution CT confirming UIP pattern and oral antifibrotic pirfenidone or nintedanib",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is high-resolution CT confirming UIP pattern and oral antifibrotic pirfenidone or nintedanib. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi. The cornerstone of management involves high-resolution CT confirming UIP pattern and oral antifibrotic pirfenidone or nintedanib. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Idiopathic Pulmonary Fibrosis IPF Presentation in 67-Year-Old in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38292",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT. Clinical examination and investigative review confirm high-resolution contrast-enhanced chest CT scan and multidisciplinary nodule review. Vitals reveal blood pressure of 130/76 mm Hg, heart rate of 88/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of solitary pulmonary nodule indeterminate eight millimeter size on ct. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "High-resolution contrast-enhanced chest CT scan and multidisciplinary nodule review",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is high-resolution contrast-enhanced chest CT scan and multidisciplinary nodule review. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT.\\n\\nClinical Discussion: This clinical presentation corresponds to Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT. The cornerstone of management involves high-resolution contrast-enhanced chest CT scan and multidisciplinary nodule review. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Solitary Pulmonary Nodule Indeterminate Eight Millimeter Size on CT."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38293",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis. Clinical examination and investigative review confirm structured lifestyle weight reduction 7 to 10%, GLP-1 receptor agonist, and resmetirom. Vitals reveal blood pressure of 131/77 mm Hg, heart rate of 89/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of metabolic dysfunction-associated steatohepatitis mash with advanced fibrosis. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Structured lifestyle weight reduction 7 to 10%, GLP-1 receptor agonist, and resmetirom",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is structured lifestyle weight reduction 7 to 10%, GLP-1 receptor agonist, and resmetirom. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis.\\n\\nClinical Discussion: This clinical presentation corresponds to Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis. The cornerstone of management involves structured lifestyle weight reduction 7 to 10%, GLP-1 receptor agonist, and resmetirom. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Metabolic Dysfunction-Associated Steatohepatitis MASH with Advanced Fibrosis."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38294",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai. Clinical examination and investigative review confirm urgent endoscopic dual therapy hemoclipping and thermal coagulation plus high-dose IV omeprazole. Vitals reveal blood pressure of 132/78 mm Hg, heart rate of 90/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bleeding duodenal ulcer forrest ia active arterial jet in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent endoscopic dual therapy hemoclipping and thermal coagulation plus high-dose IV omeprazole",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent endoscopic dual therapy hemoclipping and thermal coagulation plus high-dose IV omeprazole. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai. The cornerstone of management involves urgent endoscopic dual therapy hemoclipping and thermal coagulation plus high-dose IV omeprazole. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bleeding Duodenal Ulcer Forrest Ia Active Arterial Jet in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38295",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC. Clinical examination and investigative review confirm intravenous hydrocortisone 100 mg four times daily and rescue infliximab if refractory on day 3. Vitals reveal blood pressure of 133/79 mm Hg, heart rate of 91/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ulcerative colitis acute severe presentation truelove-witts in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous hydrocortisone 100 mg four times daily and rescue infliximab if refractory on day 3",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous hydrocortisone 100 mg four times daily and rescue infliximab if refractory on day 3. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC. The cornerstone of management involves intravenous hydrocortisone 100 mg four times daily and rescue infliximab if refractory on day 3. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ulcerative Colitis Acute Severe Presentation Truelove-Witts in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38296",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi. Clinical examination and investigative review confirm oral budesonide induction followed by maintenance with subcutaneous anti-TNF biologic. Vitals reveal blood pressure of 134/80 mm Hg, heart rate of 92/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of crohn disease ileal inflammatory phenotype in young adult in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Oral budesonide induction followed by maintenance with subcutaneous anti-TNF biologic",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral budesonide induction followed by maintenance with subcutaneous anti-TNF biologic. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi. The cornerstone of management involves oral budesonide induction followed by maintenance with subcutaneous anti-TNF biologic. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Crohn Disease Ileal Inflammatory Phenotype in Young Adult in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38297",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital. Clinical examination and investigative review confirm intravenous antibiotics, fluid resuscitation, and early laparoscopic cholecystectomy within 72 hours. Vitals reveal blood pressure of 135/81 mm Hg, heart rate of 93/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute calculous cholecystitis moderate grade in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Intravenous antibiotics, fluid resuscitation, and early laparoscopic cholecystectomy within 72 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous antibiotics, fluid resuscitation, and early laparoscopic cholecystectomy within 72 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital. The cornerstone of management involves intravenous antibiotics, fluid resuscitation, and early laparoscopic cholecystectomy within 72 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Calculous Cholecystitis Moderate Grade in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38298",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital. Clinical examination and investigative review confirm urgent endoscopic retrograde cholangiopancreatography ERCP with sphincterotomy within 24 hours. Vitals reveal blood pressure of 136/82 mm Hg, heart rate of 68/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute gallstone pancreatitis with cholangitis in rashid hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Urgent endoscopic retrograde cholangiopancreatography ERCP with sphincterotomy within 24 hours",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent endoscopic retrograde cholangiopancreatography ERCP with sphincterotomy within 24 hours. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital. The cornerstone of management involves urgent endoscopic retrograde cholangiopancreatography ERCP with sphincterotomy within 24 hours. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Gallstone Pancreatitis with Cholangitis in Rashid Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38299",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening. Clinical examination and investigative review confirm long-term first-line oral antiviral therapy with tenofovir alafenamide or entecavir. Vitals reveal blood pressure of 137/83 mm Hg, heart rate of 69/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of chronic hepatitis b high viral load hbeag positive in expat screening. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Long-term first-line oral antiviral therapy with tenofovir alafenamide or entecavir",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is long-term first-line oral antiviral therapy with tenofovir alafenamide or entecavir. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening.\\n\\nClinical Discussion: This clinical presentation corresponds to Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening. The cornerstone of management involves long-term first-line oral antiviral therapy with tenofovir alafenamide or entecavir. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Chronic Hepatitis B High Viral Load HBeAg Positive in Expat Screening."
+    ],
+    "references": [
+      {
+        "label": "UAE MOHAP National Guidelines",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38300",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital. Clinical examination and investigative review confirm intravenous ceftriaxone 2g daily combined with intravenous albumin 1.5 g/kg on day 1. Vitals reveal blood pressure of 138/84 mm Hg, heart rate of 70/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cirrhosis with spontaneous bacterial peritonitis sbp in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous ceftriaxone 2g daily combined with intravenous albumin 1.5 g/kg on day 1",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous ceftriaxone 2g daily combined with intravenous albumin 1.5 g/kg on day 1. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital. The cornerstone of management involves intravenous ceftriaxone 2g daily combined with intravenous albumin 1.5 g/kg on day 1. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Cirrhosis with Spontaneous Bacterial Peritonitis SBP in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38301",
+    "exam": "HAAD / DHA",
+    "subject": "Immunology",
+    "system": "Gastrointestinal",
+    "topic": "Celiac Disease Presentation with Iron Deficiency Anemia in Young Female",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Celiac Disease Presentation with Iron Deficiency Anemia in Young Female. Clinical examination and investigative review confirm serum anti-tTG IgA confirmation, duodenal endoscopy biopsy, and strict gluten-free diet. Vitals reveal blood pressure of 139/85 mm Hg, heart rate of 71/min, respiratory rate of 19/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of celiac disease presentation with iron deficiency anemia in young female. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Serum anti-tTG IgA confirmation, duodenal endoscopy biopsy, and strict gluten-free diet",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is serum anti-tTG IgA confirmation, duodenal endoscopy biopsy, and strict gluten-free diet. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Celiac Disease Presentation with Iron Deficiency Anemia in Young Female.\\n\\nClinical Discussion: This clinical presentation corresponds to Celiac Disease Presentation with Iron Deficiency Anemia in Young Female. The cornerstone of management involves serum anti-tTG IgA confirmation, duodenal endoscopy biopsy, and strict gluten-free diet. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Celiac Disease Presentation with Iron Deficiency Anemia in Young Female.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Celiac Disease Presentation with Iron Deficiency Anemia in Young Female."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38302",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE. Clinical examination and investigative review confirm screening colonoscopy every ten years starting at age 40 for average-risk individuals. Vitals reveal blood pressure of 118/86 mm Hg, heart rate of 72/min, respiratory rate of 20/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of national colorectal cancer screening colonoscopy at age forty in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Screening colonoscopy every ten years starting at age 40 for average-risk individuals",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is screening colonoscopy every ten years starting at age 40 for average-risk individuals. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE. The cornerstone of management involves screening colonoscopy every ten years starting at age 40 for average-risk individuals. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of National Colorectal Cancer Screening Colonoscopy at Age Forty in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38303",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE. Clinical examination and investigative review confirm SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and non-steroidal MRA finerenone. Vitals reveal blood pressure of 119/87 mm Hg, heart rate of 73/min, respiratory rate of 21/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of diabetic kidney disease stage 3 with persistent macroalbuminuria in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and non-steroidal MRA finerenone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and non-steroidal MRA finerenone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE. The cornerstone of management involves SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and non-steroidal MRA finerenone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Diabetic Kidney Disease Stage 3 with Persistent Macroalbuminuria in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38304",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs. Clinical examination and investigative review confirm immediate cessation of nephrotoxic drugs, isotonic crystalloid rehydration, and monitoring. Vitals reveal blood pressure of 120/72 mm Hg, heart rate of 74/min, respiratory rate of 14/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute kidney injury kdigo stage 2 from pre-renal dehydration and nsaids. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Immediate cessation of nephrotoxic drugs, isotonic crystalloid rehydration, and monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate cessation of nephrotoxic drugs, isotonic crystalloid rehydration, and monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs. The cornerstone of management involves immediate cessation of nephrotoxic drugs, isotonic crystalloid rehydration, and monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Kidney Injury KDIGO Stage 2 from Pre-Renal Dehydration and NSAIDs."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38305",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi. Clinical examination and investigative review confirm oral high-dose prednisolone 1 mg/kg daily for 8 to 16 weeks and loop diuretics for edema. Vitals reveal blood pressure of 121/73 mm Hg, heart rate of 75/min, respiratory rate of 15/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of nephrotic syndrome adult minimal change disease in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral high-dose prednisolone 1 mg/kg daily for 8 to 16 weeks and loop diuretics for edema",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral high-dose prednisolone 1 mg/kg daily for 8 to 16 weeks and loop diuretics for edema. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi. The cornerstone of management involves oral high-dose prednisolone 1 mg/kg daily for 8 to 16 weeks and loop diuretics for edema. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Nephrotic Syndrome Adult Minimal Change Disease in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38306",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai. Clinical examination and investigative review confirm optimized maximally tolerated RAS blockade and targeted oral budesonide formulation. Vitals reveal blood pressure of 122/74 mm Hg, heart rate of 76/min, respiratory rate of 16/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of iga nephropathy with proteinuria exceeding one gram daily in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Optimized maximally tolerated RAS blockade and targeted oral budesonide formulation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is optimized maximally tolerated RAS blockade and targeted oral budesonide formulation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai. The cornerstone of management involves optimized maximally tolerated RAS blockade and targeted oral budesonide formulation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of IgA Nephropathy with Proteinuria Exceeding One Gram Daily in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38307",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic. Clinical examination and investigative review confirm oral NSAID analgesia, medical expulsive therapy tamsulosin, and outpatient urology follow-up. Vitals reveal blood pressure of 123/75 mm Hg, heart rate of 77/min, respiratory rate of 17/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ureteral calculus six millimeter obstructing calculus with renal colic. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Oral NSAID analgesia, medical expulsive therapy tamsulosin, and outpatient urology follow-up",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral NSAID analgesia, medical expulsive therapy tamsulosin, and outpatient urology follow-up. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic.\\n\\nClinical Discussion: This clinical presentation corresponds to Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic. The cornerstone of management involves oral NSAID analgesia, medical expulsive therapy tamsulosin, and outpatient urology follow-up. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ureteral Calculus Six Millimeter Obstructing Calculus with Renal Colic."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38308",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC. Clinical examination and investigative review confirm oral ciprofloxacin or cefpodoxime for 7 to 10 days after urine culture collection. Vitals reveal blood pressure of 124/76 mm Hg, heart rate of 78/min, respiratory rate of 18/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute pyelonephritis uncomplicated in non-pregnant female in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral ciprofloxacin or cefpodoxime for 7 to 10 days after urine culture collection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral ciprofloxacin or cefpodoxime for 7 to 10 days after urine culture collection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC. The cornerstone of management involves oral ciprofloxacin or cefpodoxime for 7 to 10 days after urine culture collection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Pyelonephritis Uncomplicated in Non-Pregnant Female in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38309",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate. Clinical examination and investigative review confirm combination therapy with alpha-1 blocker tamsulosin and 5-alpha reductase inhibitor finasteride. Vitals reveal blood pressure of 125/77 mm Hg, heart rate of 79/min, respiratory rate of 19/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of benign prostatic hyperplasia with moderate luts and large prostate. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Combination therapy with alpha-1 blocker tamsulosin and 5-alpha reductase inhibitor finasteride",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is combination therapy with alpha-1 blocker tamsulosin and 5-alpha reductase inhibitor finasteride. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate.\\n\\nClinical Discussion: This clinical presentation corresponds to Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate. The cornerstone of management involves combination therapy with alpha-1 blocker tamsulosin and 5-alpha reductase inhibitor finasteride. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Benign Prostatic Hyperplasia with Moderate LUTS and Large Prostate."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38310",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital. Clinical examination and investigative review confirm urgent urology referral for diagnostic flexible cystoscopy and multiphasic CT urography. Vitals reveal blood pressure of 126/78 mm Hg, heart rate of 80/min, respiratory rate of 20/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of gross hematuria asymptomatic in sixty-year-old smoker in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Urgent urology referral for diagnostic flexible cystoscopy and multiphasic CT urography",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent urology referral for diagnostic flexible cystoscopy and multiphasic CT urography. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital. The cornerstone of management involves urgent urology referral for diagnostic flexible cystoscopy and multiphasic CT urography. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Gross Hematuria Asymptomatic in Sixty-Year-Old Smoker in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38311",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED. Clinical examination and investigative review confirm immediate emergency scrotal exploration and bilateral orchidopexy without delay for ultrasound. Vitals reveal blood pressure of 127/79 mm Hg, heart rate of 81/min, respiratory rate of 21/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of testicular torsion suspected in 15-year-old in rashid hospital ed. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Immediate emergency scrotal exploration and bilateral orchidopexy without delay for ultrasound",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate emergency scrotal exploration and bilateral orchidopexy without delay for ultrasound. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED. The cornerstone of management involves immediate emergency scrotal exploration and bilateral orchidopexy without delay for ultrasound. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Testicular Torsion Suspected in 15-Year-Old in Rashid Hospital ED."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38312",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED. Clinical examination and investigative review confirm immediate intravenous calcium gluconate membrane stabilization followed by insulin-dextrose. Vitals reveal blood pressure of 128/80 mm Hg, heart rate of 82/min, respiratory rate of 14/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe hyperkalemia potassium 6.9 with peaked t waves in abu dhabi ed. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Immediate intravenous calcium gluconate membrane stabilization followed by insulin-dextrose",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intravenous calcium gluconate membrane stabilization followed by insulin-dextrose. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED. The cornerstone of management involves immediate intravenous calcium gluconate membrane stabilization followed by insulin-dextrose. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Hyperkalemia Potassium 6.9 with Peaked T Waves in Abu Dhabi ED."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38313",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai. Clinical examination and investigative review confirm metformin combined with dual GIP/GLP-1 receptor agonist tirzepatide and lifestyle. Vitals reveal blood pressure of 129/81 mm Hg, heart rate of 83/min, respiratory rate of 15/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of type 2 diabetes mellitus uncontrolled hba1c 9.4% with obesity in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Metformin combined with dual GIP/GLP-1 receptor agonist tirzepatide and lifestyle",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is metformin combined with dual GIP/GLP-1 receptor agonist tirzepatide and lifestyle. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai. The cornerstone of management involves metformin combined with dual GIP/GLP-1 receptor agonist tirzepatide and lifestyle. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Type 2 Diabetes Mellitus Uncontrolled HbA1c 9.4% with Obesity in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38314",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC. Clinical examination and investigative review confirm intravenous isotonic fluid resuscitation, continuous regular insulin infusion, and potassium repletion. Vitals reveal blood pressure of 130/82 mm Hg, heart rate of 84/min, respiratory rate of 16/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of diabetic ketoacidosis dka moderate in adult type 1 diabetic in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intravenous isotonic fluid resuscitation, continuous regular insulin infusion, and potassium repletion",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous isotonic fluid resuscitation, continuous regular insulin infusion, and potassium repletion. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC. The cornerstone of management involves intravenous isotonic fluid resuscitation, continuous regular insulin infusion, and potassium repletion. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Diabetic Ketoacidosis DKA Moderate in Adult Type 1 Diabetic in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38315",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi. Clinical examination and investigative review confirm aggressive isotonic crystalloid rehydration, monitoring osmolality, and low-dose insulin. Vitals reveal blood pressure of 131/83 mm Hg, heart rate of 85/min, respiratory rate of 17/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of hyperosmolar hyperglycemic state hhs in elderly patient in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Aggressive isotonic crystalloid rehydration, monitoring osmolality, and low-dose insulin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is aggressive isotonic crystalloid rehydration, monitoring osmolality, and low-dose insulin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi. The cornerstone of management involves aggressive isotonic crystalloid rehydration, monitoring osmolality, and low-dose insulin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Hyperosmolar Hyperglycemic State HHS in Elderly Patient in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38316",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Graves Disease Hyperthyroidism First Episode in Young Female in Dubai",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Graves Disease Hyperthyroidism First Episode in Young Female in Dubai. Clinical examination and investigative review confirm oral methimazole antithyroid therapy combined with propranolol symptom control. Vitals reveal blood pressure of 132/84 mm Hg, heart rate of 86/min, respiratory rate of 18/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of graves disease hyperthyroidism first episode in young female in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methimazole antithyroid therapy combined with propranolol symptom control",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral methimazole antithyroid therapy combined with propranolol symptom control. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Graves Disease Hyperthyroidism First Episode in Young Female in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Graves Disease Hyperthyroidism First Episode in Young Female in Dubai. The cornerstone of management involves oral methimazole antithyroid therapy combined with propranolol symptom control. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Graves Disease Hyperthyroidism First Episode in Young Female in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Graves Disease Hyperthyroidism First Episode in Young Female in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38317",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital. Clinical examination and investigative review confirm oral levothyroxine replacement therapy 1.6 mcg/kg daily titrated to euthyroid TSH range. Vitals reveal blood pressure of 133/85 mm Hg, heart rate of 87/min, respiratory rate of 19/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of primary hypothyroidism overt presentation with tsh 22 in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Oral levothyroxine replacement therapy 1.6 mcg/kg daily titrated to euthyroid TSH range",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral levothyroxine replacement therapy 1.6 mcg/kg daily titrated to euthyroid TSH range. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital. The cornerstone of management involves oral levothyroxine replacement therapy 1.6 mcg/kg daily titrated to euthyroid TSH range. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Primary Hypothyroidism Overt Presentation with TSH 22 in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38318",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis. Clinical examination and investigative review confirm focused minimally invasive parathyroidectomy after sestamibi SPECT-CT localization. Vitals reveal blood pressure of 134/86 mm Hg, heart rate of 88/min, respiratory rate of 20/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of primary hyperparathyroidism with hypercalcemia and nephrolithiasis. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Focused minimally invasive parathyroidectomy after sestamibi SPECT-CT localization",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is focused minimally invasive parathyroidectomy after sestamibi SPECT-CT localization. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis.\\n\\nClinical Discussion: This clinical presentation corresponds to Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis. The cornerstone of management involves focused minimally invasive parathyroidectomy after sestamibi SPECT-CT localization. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Primary Hyperparathyroidism with Hypercalcemia and Nephrolithiasis."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38319",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic. Clinical examination and investigative review confirm transsphenoidal surgical pituitary adenomectomy performed by experienced skull-base neurosurgeon. Vitals reveal blood pressure of 135/87 mm Hg, heart rate of 89/min, respiratory rate of 21/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cushing disease pituitary acth-secreting adenoma in cleveland clinic. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Transsphenoidal surgical pituitary adenomectomy performed by experienced skull-base neurosurgeon",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transsphenoidal surgical pituitary adenomectomy performed by experienced skull-base neurosurgeon. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic. The cornerstone of management involves transsphenoidal surgical pituitary adenomectomy performed by experienced skull-base neurosurgeon. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Cushing Disease Pituitary ACTH-Secreting Adenoma in Cleveland Clinic."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38320",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Adrenal Insufficiency Addison Disease Acute Presentation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Primary Adrenal Insufficiency Addison Disease Acute Presentation. Clinical examination and investigative review confirm immediate intravenous hydrocortisone 100 mg bolus, saline rehydration, and fludrocortisone maintenance. Vitals reveal blood pressure of 136/72 mm Hg, heart rate of 90/min, respiratory rate of 14/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of primary adrenal insufficiency addison disease acute presentation. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate intravenous hydrocortisone 100 mg bolus, saline rehydration, and fludrocortisone maintenance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intravenous hydrocortisone 100 mg bolus, saline rehydration, and fludrocortisone maintenance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Primary Adrenal Insufficiency Addison Disease Acute Presentation.\\n\\nClinical Discussion: This clinical presentation corresponds to Primary Adrenal Insufficiency Addison Disease Acute Presentation. The cornerstone of management involves immediate intravenous hydrocortisone 100 mg bolus, saline rehydration, and fludrocortisone maintenance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Primary Adrenal Insufficiency Addison Disease Acute Presentation.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Primary Adrenal Insufficiency Addison Disease Acute Presentation."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38321",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital. Clinical examination and investigative review confirm total thyroidectomy or thyroid lobectomy followed by levothyroxine TSH suppression. Vitals reveal blood pressure of 137/73 mm Hg, heart rate of 91/min, respiratory rate of 15/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of papillary thyroid carcinoma 1.6cm nodule bethesda vi in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Total thyroidectomy or thyroid lobectomy followed by levothyroxine TSH suppression",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is total thyroidectomy or thyroid lobectomy followed by levothyroxine TSH suppression. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital. The cornerstone of management involves total thyroidectomy or thyroid lobectomy followed by levothyroxine TSH suppression. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Papillary Thyroid Carcinoma 1.6cm Nodule Bethesda VI in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38322",
+    "exam": "HAAD / DHA",
+    "subject": "Biochemistry",
+    "system": "Endocrine",
+    "topic": "Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE. Clinical examination and investigative review confirm oral cholecalciferol 50,000 IU weekly for eight weeks followed by daily maintenance. Vitals reveal blood pressure of 138/74 mm Hg, heart rate of 92/min, respiratory rate of 16/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe vitamin d deficiency with secondary hyperparathyroidism in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Oral cholecalciferol 50,000 IU weekly for eight weeks followed by daily maintenance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral cholecalciferol 50,000 IU weekly for eight weeks followed by daily maintenance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE. The cornerstone of management involves oral cholecalciferol 50,000 IU weekly for eight weeks followed by daily maintenance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Vitamin D Deficiency with Secondary Hyperparathyroidism in UAE."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38323",
+    "exam": "HAAD / DHA",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic. Clinical examination and investigative review confirm regular leukoreduced packed red blood cell transfusions and oral iron chelation deferasirox. Vitals reveal blood pressure of 139/75 mm Hg, heart rate of 93/min, respiratory rate of 17/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of beta thalassemia major transfusion-dependent in uae pediatric clinic. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Regular leukoreduced packed red blood cell transfusions and oral iron chelation deferasirox",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is regular leukoreduced packed red blood cell transfusions and oral iron chelation deferasirox. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic. The cornerstone of management involves regular leukoreduced packed red blood cell transfusions and oral iron chelation deferasirox. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Beta Thalassemia Major Transfusion-Dependent in UAE Pediatric Clinic."
+    ],
+    "references": [
+      {
+        "label": "UAE National Thalassemia Guidelines",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38324",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai. Clinical examination and investigative review confirm rapid parenteral opioid analgesia within 30 minutes, IV hydration, and hydroxyurea maintenance. Vitals reveal blood pressure of 118/76 mm Hg, heart rate of 68/min, respiratory rate of 18/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of sickle cell disease vaso-occlusive pain crisis in adult in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Rapid parenteral opioid analgesia within 30 minutes, IV hydration, and hydroxyurea maintenance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is rapid parenteral opioid analgesia within 30 minutes, IV hydration, and hydroxyurea maintenance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai. The cornerstone of management involves rapid parenteral opioid analgesia within 30 minutes, IV hydration, and hydroxyurea maintenance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Sickle Cell Disease Vaso-Occlusive Pain Crisis in Adult in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38325",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC. Clinical examination and investigative review confirm intravenous iron carboxymaltose infusion and gynecological evaluation. Vitals reveal blood pressure of 119/77 mm Hg, heart rate of 69/min, respiratory rate of 19/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of iron deficiency anemia severe secondary to menorrhagia in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous iron carboxymaltose infusion and gynecological evaluation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous iron carboxymaltose infusion and gynecological evaluation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC. The cornerstone of management involves intravenous iron carboxymaltose infusion and gynecological evaluation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Iron Deficiency Anemia Severe Secondary to Menorrhagia in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38326",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi. Clinical examination and investigative review confirm intramuscular cyanocobalamin replacement injections and sensory monitoring. Vitals reveal blood pressure of 120/78 mm Hg, heart rate of 70/min, respiratory rate of 20/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of vitamin b12 deficiency macrocytic anemia with neuropathy in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intramuscular cyanocobalamin replacement injections and sensory monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intramuscular cyanocobalamin replacement injections and sensory monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi. The cornerstone of management involves intramuscular cyanocobalamin replacement injections and sensory monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Vitamin B12 Deficiency Macrocytic Anemia with Neuropathy in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38327",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai. Clinical examination and investigative review confirm oral high-dose dexamethasone 40 mg daily for four days or oral prednisone 1 mg/kg. Vitals reveal blood pressure of 121/79 mm Hg, heart rate of 71/min, respiratory rate of 21/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of immune thrombocytopenia itp platelets 14,000 with purpura in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Oral high-dose dexamethasone 40 mg daily for four days or oral prednisone 1 mg/kg",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral high-dose dexamethasone 40 mg daily for four days or oral prednisone 1 mg/kg. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai. The cornerstone of management involves oral high-dose dexamethasone 40 mg daily for four days or oral prednisone 1 mg/kg. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Immune Thrombocytopenia ITP Platelets 14,000 with Purpura in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38328",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital. Clinical examination and investigative review confirm urgent therapeutic plasma exchange TPE combined with glucocorticoids and caplacizumab. Vitals reveal blood pressure of 122/80 mm Hg, heart rate of 72/min, respiratory rate of 14/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of thrombotic thrombocytopenic purpura ttp presentation in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Urgent therapeutic plasma exchange TPE combined with glucocorticoids and caplacizumab",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent therapeutic plasma exchange TPE combined with glucocorticoids and caplacizumab. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital. The cornerstone of management involves urgent therapeutic plasma exchange TPE combined with glucocorticoids and caplacizumab. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Thrombotic Thrombocytopenic Purpura TTP Presentation in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38329",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi. Clinical examination and investigative review confirm second-generation tyrosine kinase inhibitor dasatinib or nilotinib oral therapy. Vitals reveal blood pressure of 123/81 mm Hg, heart rate of 73/min, respiratory rate of 15/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of chronic myeloid leukemia cml bcr-abl1 positive in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Second-generation tyrosine kinase inhibitor dasatinib or nilotinib oral therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is second-generation tyrosine kinase inhibitor dasatinib or nilotinib oral therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi. The cornerstone of management involves second-generation tyrosine kinase inhibitor dasatinib or nilotinib oral therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Chronic Myeloid Leukemia CML BCR-ABL1 Positive in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38330",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai. Clinical examination and investigative review confirm quadruplet induction daratumumab, bortezomib, lenalidomide, dexamethasone D-VRd. Vitals reveal blood pressure of 124/82 mm Hg, heart rate of 74/min, respiratory rate of 16/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of multiple myeloma newly diagnosed transplant-eligible in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Quadruplet induction daratumumab, bortezomib, lenalidomide, dexamethasone D-VRd",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is quadruplet induction daratumumab, bortezomib, lenalidomide, dexamethasone D-VRd. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai. The cornerstone of management involves quadruplet induction daratumumab, bortezomib, lenalidomide, dexamethasone D-VRd. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Multiple Myeloma Newly Diagnosed Transplant-Eligible in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38331",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC. Clinical examination and investigative review confirm immediate cessation of all heparin and initiation of non-heparin direct thrombin inhibitor argatroban. Vitals reveal blood pressure of 125/83 mm Hg, heart rate of 75/min, respiratory rate of 17/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of heparin-induced thrombocytopenia hit type ii confirmation in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Immediate cessation of all heparin and initiation of non-heparin direct thrombin inhibitor argatroban",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate cessation of all heparin and initiation of non-heparin direct thrombin inhibitor argatroban. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC. The cornerstone of management involves immediate cessation of all heparin and initiation of non-heparin direct thrombin inhibitor argatroban. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Heparin-Induced Thrombocytopenia HIT Type II Confirmation in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38332",
+    "exam": "HAAD / DHA",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU. Clinical examination and investigative review confirm aggressive antimicrobial treatment of sepsis and targeted platelet/cryoprecipitate transfusions. Vitals reveal blood pressure of 126/84 mm Hg, heart rate of 76/min, respiratory rate of 18/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of disseminated intravascular coagulation from severe sepsis in rashid icu. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Aggressive antimicrobial treatment of sepsis and targeted platelet/cryoprecipitate transfusions",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is aggressive antimicrobial treatment of sepsis and targeted platelet/cryoprecipitate transfusions. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU.\\n\\nClinical Discussion: This clinical presentation corresponds to Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU. The cornerstone of management involves aggressive antimicrobial treatment of sepsis and targeted platelet/cryoprecipitate transfusions. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Disseminated Intravascular Coagulation from Severe Sepsis in Rashid ICU."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38333",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital. Clinical examination and investigative review confirm intravenous alteplase or tenecteplase thrombolysis and endovascular thrombectomy assessment. Vitals reveal blood pressure of 127/85 mm Hg, heart rate of 77/min, respiratory rate of 19/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute ischemic stroke within three hours of onset in rashid hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Intravenous alteplase or tenecteplase thrombolysis and endovascular thrombectomy assessment",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous alteplase or tenecteplase thrombolysis and endovascular thrombectomy assessment. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital. The cornerstone of management involves intravenous alteplase or tenecteplase thrombolysis and endovascular thrombectomy assessment. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Ischemic Stroke within Three Hours of Onset in Rashid Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38334",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC. Clinical examination and investigative review confirm digital subtraction angiography with endovascular coil embolization and oral nimodipine. Vitals reveal blood pressure of 128/86 mm Hg, heart rate of 78/min, respiratory rate of 20/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of subarachnoid hemorrhage fisher grade 3 hunt-hess ii in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Digital subtraction angiography with endovascular coil embolization and oral nimodipine",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is digital subtraction angiography with endovascular coil embolization and oral nimodipine. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC. The cornerstone of management involves digital subtraction angiography with endovascular coil embolization and oral nimodipine. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Subarachnoid Hemorrhage Fisher Grade 3 Hunt-Hess II in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38335",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED. Clinical examination and investigative review confirm intravenous levetiracetam 60 mg/kg or fosphenytoin loading and airway protection. Vitals reveal blood pressure of 129/87 mm Hg, heart rate of 79/min, respiratory rate of 21/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of status epilepticus refractory to first-line benzodiazepines in dubai ed. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous levetiracetam 60 mg/kg or fosphenytoin loading and airway protection",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous levetiracetam 60 mg/kg or fosphenytoin loading and airway protection. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED. The cornerstone of management involves intravenous levetiracetam 60 mg/kg or fosphenytoin loading and airway protection. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Status Epilepticus Refractory to First-Line Benzodiazepines in Dubai ED."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38336",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi. Clinical examination and investigative review confirm levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy. Vitals reveal blood pressure of 130/72 mm Hg, heart rate of 80/min, respiratory rate of 14/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of parkinson disease initial presentation with motor impairment in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi. The cornerstone of management involves levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Parkinson Disease Initial Presentation with Motor Impairment in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38337",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam. Clinical examination and investigative review confirm intravenous high-dose methylprednisolone 1000 mg daily for three to five days. Vitals reveal blood pressure of 131/73 mm Hg, heart rate of 81/min, respiratory rate of 15/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of multiple sclerosis relapsing-remitting acute exacerbation in tawam. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intravenous high-dose methylprednisolone 1000 mg daily for three to five days",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous high-dose methylprednisolone 1000 mg daily for three to five days. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam.\\n\\nClinical Discussion: This clinical presentation corresponds to Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam. The cornerstone of management involves intravenous high-dose methylprednisolone 1000 mg daily for three to five days. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Multiple Sclerosis Relapsing-Remitting Acute Exacerbation in Tawam."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38338",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Nervous System",
+    "topic": "Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency. Clinical examination and investigative review confirm immediate intravenous ceftriaxone 2g twice daily combined with vancomycin and dexamethasone. Vitals reveal blood pressure of 132/74 mm Hg, heart rate of 82/min, respiratory rate of 16/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bacterial meningitis suspected in adult in dubai hospital emergency. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate intravenous ceftriaxone 2g twice daily combined with vancomycin and dexamethasone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intravenous ceftriaxone 2g twice daily combined with vancomycin and dexamethasone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency.\\n\\nClinical Discussion: This clinical presentation corresponds to Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency. The cornerstone of management involves immediate intravenous ceftriaxone 2g twice daily combined with vancomycin and dexamethasone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bacterial Meningitis Suspected in Adult in Dubai Hospital Emergency."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38339",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC. Clinical examination and investigative review confirm immediate high-dose oral prednisolone 60 mg daily to prevent permanent visual loss. Vitals reveal blood pressure of 133/75 mm Hg, heart rate of 83/min, respiratory rate of 17/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of temporal arteritis giant cell arteritis with jaw claudication in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Immediate high-dose oral prednisolone 60 mg daily to prevent permanent visual loss",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate high-dose oral prednisolone 60 mg daily to prevent permanent visual loss. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC. The cornerstone of management involves immediate high-dose oral prednisolone 60 mg daily to prevent permanent visual loss. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38340",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic. Clinical examination and investigative review confirm intravenous immunoglobulin IVIG 2 g/kg over five days and forced vital capacity monitoring. Vitals reveal blood pressure of 134/76 mm Hg, heart rate of 84/min, respiratory rate of 18/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of guillain-barre syndrome acute flaccid quadriparesis in cleveland clinic. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous immunoglobulin IVIG 2 g/kg over five days and forced vital capacity monitoring",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous immunoglobulin IVIG 2 g/kg over five days and forced vital capacity monitoring. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic.\\n\\nClinical Discussion: This clinical presentation corresponds to Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic. The cornerstone of management involves intravenous immunoglobulin IVIG 2 g/kg over five days and forced vital capacity monitoring. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Cleveland Clinic."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38341",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Migraine Headache Episodic Moderate to Severe Attack in Primary Care",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Migraine Headache Episodic Moderate to Severe Attack in Primary Care. Clinical examination and investigative review confirm oral triptan sumatriptan 50 to 100 mg combined with naproxen sodium and antiemetic. Vitals reveal blood pressure of 135/77 mm Hg, heart rate of 85/min, respiratory rate of 19/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of migraine headache episodic moderate to severe attack in primary care. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Oral triptan sumatriptan 50 to 100 mg combined with naproxen sodium and antiemetic",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral triptan sumatriptan 50 to 100 mg combined with naproxen sodium and antiemetic. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Migraine Headache Episodic Moderate to Severe Attack in Primary Care.\\n\\nClinical Discussion: This clinical presentation corresponds to Migraine Headache Episodic Moderate to Severe Attack in Primary Care. The cornerstone of management involves oral triptan sumatriptan 50 to 100 mg combined with naproxen sodium and antiemetic. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Migraine Headache Episodic Moderate to Severe Attack in Primary Care.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Migraine Headache Episodic Moderate to Severe Attack in Primary Care."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38342",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai. Clinical examination and investigative review confirm high-volume lumbar puncture tap test followed by ventriculoperitoneal shunt placement. Vitals reveal blood pressure of 136/78 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of normal pressure hydrocephalus with hakim-adams triad in senior in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "High-volume lumbar puncture tap test followed by ventriculoperitoneal shunt placement",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is high-volume lumbar puncture tap test followed by ventriculoperitoneal shunt placement. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai. The cornerstone of management involves high-volume lumbar puncture tap test followed by ventriculoperitoneal shunt placement. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Normal Pressure Hydrocephalus with Hakim-Adams Triad in Senior in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38343",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai. Clinical examination and investigative review confirm early disease-modifying antirheumatic drug oral methotrexate with folic acid bridge. Vitals reveal blood pressure of 137/79 mm Hg, heart rate of 87/min, respiratory rate of 21/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of rheumatoid arthritis early seropositive polyarthritis in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Early disease-modifying antirheumatic drug oral methotrexate with folic acid bridge",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is early disease-modifying antirheumatic drug oral methotrexate with folic acid bridge. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai. The cornerstone of management involves early disease-modifying antirheumatic drug oral methotrexate with folic acid bridge. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Rheumatoid Arthritis Early Seropositive Polyarthritis in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38344",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC. Clinical examination and investigative review confirm intravenous pulse methylprednisolone combined with mycophenolate mofetil induction. Vitals reveal blood pressure of 138/80 mm Hg, heart rate of 88/min, respiratory rate of 14/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of systemic lupus erythematosus sle with active lupus nephritis in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Intravenous pulse methylprednisolone combined with mycophenolate mofetil induction",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous pulse methylprednisolone combined with mycophenolate mofetil induction. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC. The cornerstone of management involves intravenous pulse methylprednisolone combined with mycophenolate mofetil induction. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Systemic Lupus Erythematosus SLE with Active Lupus Nephritis in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38345",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi. Clinical examination and investigative review confirm continuous oral NSAID therapy, physical therapy, and anti-TNF biologic if inadequate response. Vitals reveal blood pressure of 139/81 mm Hg, heart rate of 89/min, respiratory rate of 15/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ankylosing spondylitis hla-b27 positive axial presentation in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Continuous oral NSAID therapy, physical therapy, and anti-TNF biologic if inadequate response",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is continuous oral NSAID therapy, physical therapy, and anti-TNF biologic if inadequate response. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi. The cornerstone of management involves continuous oral NSAID therapy, physical therapy, and anti-TNF biologic if inadequate response. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ankylosing Spondylitis HLA-B27 Positive Axial Presentation in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38346",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Gout Flare First MTP Joint Podagra in Dubai Resident",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Acute Gout Flare First MTP Joint Podagra in Dubai Resident. Clinical examination and investigative review confirm oral NSAID or low-dose colchicine and postponing urate-lowering medication changes. Vitals reveal blood pressure of 118/82 mm Hg, heart rate of 90/min, respiratory rate of 16/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute gout flare first mtp joint podagra in dubai resident. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Oral NSAID or low-dose colchicine and postponing urate-lowering medication changes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral NSAID or low-dose colchicine and postponing urate-lowering medication changes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Gout Flare First MTP Joint Podagra in Dubai Resident.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Gout Flare First MTP Joint Podagra in Dubai Resident. The cornerstone of management involves oral NSAID or low-dose colchicine and postponing urate-lowering medication changes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Gout Flare First MTP Joint Podagra in Dubai Resident.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Gout Flare First MTP Joint Podagra in Dubai Resident."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38347",
+    "exam": "HAAD / DHA",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "Septic Arthritis Native Knee Joint in Emergency Department Tawam",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Septic Arthritis Native Knee Joint in Emergency Department Tawam. Clinical examination and investigative review confirm immediate arthrocentesis with synovial fluid analysis and targeted intravenous vancomycin/ceftriaxone. Vitals reveal blood pressure of 119/83 mm Hg, heart rate of 91/min, respiratory rate of 17/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of septic arthritis native knee joint in emergency department tawam. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Immediate arthrocentesis with synovial fluid analysis and targeted intravenous vancomycin/ceftriaxone",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate arthrocentesis with synovial fluid analysis and targeted intravenous vancomycin/ceftriaxone. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Septic Arthritis Native Knee Joint in Emergency Department Tawam.\\n\\nClinical Discussion: This clinical presentation corresponds to Septic Arthritis Native Knee Joint in Emergency Department Tawam. The cornerstone of management involves immediate arthrocentesis with synovial fluid analysis and targeted intravenous vancomycin/ceftriaxone. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Septic Arthritis Native Knee Joint in Emergency Department Tawam.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Septic Arthritis Native Knee Joint in Emergency Department Tawam."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38348",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression. Clinical examination and investigative review confirm bone anabolic subcutaneous teriparatide or romosozumab followed by antiresorptive therapy. Vitals reveal blood pressure of 120/84 mm Hg, heart rate of 92/min, respiratory rate of 18/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of severe osteoporosis with t-score minus 3.3 and vertebral compression. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Bone anabolic subcutaneous teriparatide or romosozumab followed by antiresorptive therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is bone anabolic subcutaneous teriparatide or romosozumab followed by antiresorptive therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression.\\n\\nClinical Discussion: This clinical presentation corresponds to Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression. The cornerstone of management involves bone anabolic subcutaneous teriparatide or romosozumab followed by antiresorptive therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Severe Osteoporosis with T-score Minus 3.3 and Vertebral Compression."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38349",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi. Clinical examination and investigative review confirm IL-17 inhibitor secukinumab or IL-23 inhibitor guselkumab targeted biologic therapy. Vitals reveal blood pressure of 121/85 mm Hg, heart rate of 93/min, respiratory rate of 19/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of psoriasis vulgaris moderate to severe plaque disease in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "IL-17 inhibitor secukinumab or IL-23 inhibitor guselkumab targeted biologic therapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is IL-17 inhibitor secukinumab or IL-23 inhibitor guselkumab targeted biologic therapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi. The cornerstone of management involves IL-17 inhibitor secukinumab or IL-23 inhibitor guselkumab targeted biologic therapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Psoriasis Vulgaris Moderate to Severe Plaque Disease in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38350",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids. Clinical examination and investigative review confirm subcutaneous dupilumab IL-4/IL-13 receptor antagonist and liberal ceramide emollients. Vitals reveal blood pressure of 122/86 mm Hg, heart rate of 68/min, respiratory rate of 20/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of atopic dermatitis moderate to severe refractory to topical steroids. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Subcutaneous dupilumab IL-4/IL-13 receptor antagonist and liberal ceramide emollients",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is subcutaneous dupilumab IL-4/IL-13 receptor antagonist and liberal ceramide emollients. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids.\\n\\nClinical Discussion: This clinical presentation corresponds to Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids. The cornerstone of management involves subcutaneous dupilumab IL-4/IL-13 receptor antagonist and liberal ceramide emollients. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Atopic Dermatitis Moderate to Severe Refractory to Topical Steroids."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38351",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit. Clinical examination and investigative review confirm immediate cessation of offending drug, transfer to burn ICU, and supportive barrier care. Vitals reveal blood pressure of 123/87 mm Hg, heart rate of 69/min, respiratory rate of 21/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of stevens-johnson syndrome sjs from allopurinol in rashid burn unit. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Immediate cessation of offending drug, transfer to burn ICU, and supportive barrier care",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate cessation of offending drug, transfer to burn ICU, and supportive barrier care. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit.\\n\\nClinical Discussion: This clinical presentation corresponds to Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit. The cornerstone of management involves immediate cessation of offending drug, transfer to burn ICU, and supportive barrier care. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Stevens-Johnson Syndrome SJS from Allopurinol in Rashid Burn Unit."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38352",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital. Clinical examination and investigative review confirm wide local excision with two-centimeter margins and sentinel lymph node biopsy. Vitals reveal blood pressure of 124/72 mm Hg, heart rate of 70/min, respiratory rate of 14/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of malignant melanoma breslow depth 2.0mm ulcerated in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Wide local excision with two-centimeter margins and sentinel lymph node biopsy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is wide local excision with two-centimeter margins and sentinel lymph node biopsy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital. The cornerstone of management involves wide local excision with two-centimeter margins and sentinel lymph node biopsy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Malignant Melanoma Breslow Depth 2.0mm Ulcerated in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38353",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital. Clinical examination and investigative review confirm nutritional medical counseling, home glucose monitoring, and insulin if fasting > 95 mg/dL. Vitals reveal blood pressure of 125/73 mm Hg, heart rate of 71/min, respiratory rate of 15/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of gestational diabetes mellitus gdm diagnosed at 26 weeks in latifa hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Nutritional medical counseling, home glucose monitoring, and insulin if fasting > 95 mg/dL",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is nutritional medical counseling, home glucose monitoring, and insulin if fasting > 95 mg/dL. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital. The cornerstone of management involves nutritional medical counseling, home glucose monitoring, and insulin if fasting > 95 mg/dL. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Gestational Diabetes Mellitus GDM Diagnosed at 26 Weeks in Latifa Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38354",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi. Clinical examination and investigative review confirm intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. Vitals reveal blood pressure of 126/74 mm Hg, heart rate of 72/min, respiratory rate of 16/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of preeclampsia with severe features at 34 weeks gestation in abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi. The cornerstone of management involves intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Preeclampsia with Severe Features at 34 Weeks Gestation in Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38355",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC. Clinical examination and investigative review confirm transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. Vitals reveal blood pressure of 127/75 mm Hg, heart rate of 73/min, respiratory rate of 17/min, and temperature of 38.1C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of ectopic pregnancy unruptured hemodynamically stable in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC. The cornerstone of management involves transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Ectopic Pregnancy Unruptured Hemodynamically Stable in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38356",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai. Clinical examination and investigative review confirm uterine massage, intravenous oxytocin infusion, carboprost/misoprostol, and balloon tamponade. Vitals reveal blood pressure of 128/76 mm Hg, heart rate of 74/min, respiratory rate of 18/min, and temperature of 38.2C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of postpartum hemorrhage primary secondary to uterine atony in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Uterine massage, intravenous oxytocin infusion, carboprost/misoprostol, and balloon tamponade",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is uterine massage, intravenous oxytocin infusion, carboprost/misoprostol, and balloon tamponade. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai. The cornerstone of management involves uterine massage, intravenous oxytocin infusion, carboprost/misoprostol, and balloon tamponade. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Postpartum Hemorrhage Primary Secondary to Uterine Atony in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38357",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa. Clinical examination and investigative review confirm early nasal CPAP, endotracheal natural surfactant administration, and thermal support. Vitals reveal blood pressure of 129/77 mm Hg, heart rate of 75/min, respiratory rate of 19/min, and temperature of 38.3C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of neonatal respiratory distress syndrome rds in preterm infant in latifa. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Early nasal CPAP, endotracheal natural surfactant administration, and thermal support",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is early nasal CPAP, endotracheal natural surfactant administration, and thermal support. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa.\\n\\nClinical Discussion: This clinical presentation corresponds to Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa. The cornerstone of management involves early nasal CPAP, endotracheal natural surfactant administration, and thermal support. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Neonatal Respiratory Distress Syndrome RDS in Preterm Infant in Latifa."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38358",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital. Clinical examination and investigative review confirm urgent total and direct serum bilirubin measurement, blood group Coombs test, and phototherapy. Vitals reveal blood pressure of 130/78 mm Hg, heart rate of 76/min, respiratory rate of 20/min, and temperature of 36.6C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of neonatal jaundice within first 24 hours of life in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Urgent total and direct serum bilirubin measurement, blood group Coombs test, and phototherapy",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is urgent total and direct serum bilirubin measurement, blood group Coombs test, and phototherapy. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital. The cornerstone of management involves urgent total and direct serum bilirubin measurement, blood group Coombs test, and phototherapy. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Neonatal Jaundice within First 24 Hours of Life in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38359",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED. Clinical examination and investigative review confirm single dose of oral dexamethasone 0.15 mg/kg or 0.6 mg/kg and calm parent reassurance. Vitals reveal blood pressure of 131/79 mm Hg, heart rate of 77/min, respiratory rate of 21/min, and temperature of 36.7C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of acute viral croup mild to moderate in two-year-old in rashid ed. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Single dose of oral dexamethasone 0.15 mg/kg or 0.6 mg/kg and calm parent reassurance",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is single dose of oral dexamethasone 0.15 mg/kg or 0.6 mg/kg and calm parent reassurance. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED.\\n\\nClinical Discussion: This clinical presentation corresponds to Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED. The cornerstone of management involves single dose of oral dexamethasone 0.15 mg/kg or 0.6 mg/kg and calm parent reassurance. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Acute Viral Croup Mild to Moderate in Two-Year-Old in Rashid ED."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38360",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital. Clinical examination and investigative review confirm immediate intravenous broad-spectrum anti-pseudomonal beta-lactam cefepime within 30 minutes. Vitals reveal blood pressure of 132/80 mm Hg, heart rate of 78/min, respiratory rate of 14/min, and temperature of 36.8C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of febrile neutropenia in pediatric oncology patient in tawam hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Immediate intravenous broad-spectrum anti-pseudomonal beta-lactam cefepime within 30 minutes",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is immediate intravenous broad-spectrum anti-pseudomonal beta-lactam cefepime within 30 minutes. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital. The cornerstone of management involves immediate intravenous broad-spectrum anti-pseudomonal beta-lactam cefepime within 30 minutes. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Febrile Neutropenia in Pediatric Oncology Patient in Tawam Hospital."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38361",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC. Clinical examination and investigative review confirm single high-dose intravenous immunoglobulin IVIG 2 g/kg and high-dose oral aspirin. Vitals reveal blood pressure of 133/81 mm Hg, heart rate of 79/min, respiratory rate of 15/min, and temperature of 36.9C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of kawasaki disease diagnostic criteria at day six of fever in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Single high-dose intravenous immunoglobulin IVIG 2 g/kg and high-dose oral aspirin",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is single high-dose intravenous immunoglobulin IVIG 2 g/kg and high-dose oral aspirin. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC. The cornerstone of management involves single high-dose intravenous immunoglobulin IVIG 2 g/kg and high-dose oral aspirin. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Kawasaki Disease Diagnostic Criteria at Day Six of Fever in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38362",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai. Clinical examination and investigative review confirm multiple daily insulin injections or insulin pump therapy, diabetic education, and CGM. Vitals reveal blood pressure of 134/82 mm Hg, heart rate of 80/min, respiratory rate of 16/min, and temperature of 37.0C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of type 1 diabetes mellitus new onset in 8-year-old child in dubai. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Multiple daily insulin injections or insulin pump therapy, diabetic education, and CGM",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is multiple daily insulin injections or insulin pump therapy, diabetic education, and CGM. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai.\\n\\nClinical Discussion: This clinical presentation corresponds to Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai. The cornerstone of management involves multiple daily insulin injections or insulin pump therapy, diabetic education, and CGM. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Type 1 Diabetes Mellitus New Onset in 8-Year-Old Child in Dubai."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38363",
+    "exam": "HAAD / DHA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi. Clinical examination and investigative review confirm evidence-based cognitive behavioral therapy CBT combined with oral SSRI escitalopram. Vitals reveal blood pressure of 135/83 mm Hg, heart rate of 81/min, respiratory rate of 17/min, and temperature of 37.1C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of major depressive disorder severe in outpatient clinic abu dhabi. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      },
+      {
+        "text": "Evidence-based cognitive behavioral therapy CBT combined with oral SSRI escitalopram",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is evidence-based cognitive behavioral therapy CBT combined with oral SSRI escitalopram. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi.\\n\\nClinical Discussion: This clinical presentation corresponds to Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi. The cornerstone of management involves evidence-based cognitive behavioral therapy CBT combined with oral SSRI escitalopram. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Major Depressive Disorder Severe in Outpatient Clinic Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38364",
+    "exam": "HAAD / DHA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar I Disorder Acute Manic Episode in Dubai Hospital",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Bipolar I Disorder Acute Manic Episode in Dubai Hospital. Clinical examination and investigative review confirm oral mood stabilizer lithium or valproate combined with oral atypical antipsychotic. Vitals reveal blood pressure of 136/84 mm Hg, heart rate of 82/min, respiratory rate of 18/min, and temperature of 37.2C (98.6F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of bipolar i disorder acute manic episode in dubai hospital. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Oral mood stabilizer lithium or valproate combined with oral atypical antipsychotic",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral mood stabilizer lithium or valproate combined with oral atypical antipsychotic. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Bipolar I Disorder Acute Manic Episode in Dubai Hospital.\\n\\nClinical Discussion: This clinical presentation corresponds to Bipolar I Disorder Acute Manic Episode in Dubai Hospital. The cornerstone of management involves oral mood stabilizer lithium or valproate combined with oral atypical antipsychotic. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Bipolar I Disorder Acute Manic Episode in Dubai Hospital.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Bipolar I Disorder Acute Manic Episode in Dubai Hospital."
+    ],
+    "references": [
+      {
+        "label": "DHA Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38365",
+    "exam": "HAAD / DHA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE. Clinical examination and investigative review confirm psychoeducation, cognitive behavioral therapy, and oral selective serotonin reuptake inhibitor. Vitals reveal blood pressure of 137/85 mm Hg, heart rate of 83/min, respiratory rate of 19/min, and temperature of 37.3C (98.7F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of generalized anxiety disorder moderate impairing daily functioning in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Psychoeducation, cognitive behavioral therapy, and oral selective serotonin reuptake inhibitor",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is psychoeducation, cognitive behavioral therapy, and oral selective serotonin reuptake inhibitor. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE. The cornerstone of management involves psychoeducation, cognitive behavioral therapy, and oral selective serotonin reuptake inhibitor. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Generalized Anxiety Disorder Moderate Impairing Daily Functioning in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38366",
+    "exam": "HAAD / DHA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Schizophrenia First Episode Psychosis in Young Adult in SSMC",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in the clinical licensing examination center for UAE healthcare regulatory evaluation with clinical findings indicative of Schizophrenia First Episode Psychosis in Young Adult in SSMC. Clinical examination and investigative review confirm oral atypical antipsychotic risperidone or aripiprazole and psychosocial rehabilitation. Vitals reveal blood pressure of 138/86 mm Hg, heart rate of 84/min, respiratory rate of 20/min, and temperature of 37.4C (98.8F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of schizophrenia first episode psychosis in young adult in ssmc. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "Oral atypical antipsychotic risperidone or aripiprazole and psychosocial rehabilitation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is oral atypical antipsychotic risperidone or aripiprazole and psychosocial rehabilitation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Schizophrenia First Episode Psychosis in Young Adult in SSMC.\\n\\nClinical Discussion: This clinical presentation corresponds to Schizophrenia First Episode Psychosis in Young Adult in SSMC. The cornerstone of management involves oral atypical antipsychotic risperidone or aripiprazole and psychosocial rehabilitation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Schizophrenia First Episode Psychosis in Young Adult in SSMC.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Schizophrenia First Episode Psychosis in Young Adult in SSMC."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38367",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Informed Consent for Major Elective Bariatric Surgery in UAE",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the specialist medical outpatient clinic at Sheikh Shakhbout Medical City Abu Dhabi with clinical findings indicative of Informed Consent for Major Elective Bariatric Surgery in UAE. Clinical examination and investigative review confirm multidisciplinary comprehensive counseling on dietary changes, surgical risks, and written consent. Vitals reveal blood pressure of 139/87 mm Hg, heart rate of 85/min, respiratory rate of 21/min, and temperature of 37.5C (98.0F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of informed consent for major elective bariatric surgery in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "correct": false,
+        "explanation": "Incorrect: Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma."
+      },
+      {
+        "text": "Multidisciplinary comprehensive counseling on dietary changes, surgical risks, and written consent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is multidisciplinary comprehensive counseling on dietary changes, surgical risks, and written consent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Informed Consent for Major Elective Bariatric Surgery in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to Informed Consent for Major Elective Bariatric Surgery in UAE. The cornerstone of management involves multidisciplinary comprehensive counseling on dietary changes, surgical risks, and written consent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Informed Consent for Major Elective Bariatric Surgery in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Informed Consent for Major Elective Bariatric Surgery in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38368",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Patient Medical Confidentiality and Refusal of Disclosure to Employer",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is evaluated in the acute medical receiving unit of Rashid Hospital Dubai with clinical findings indicative of Patient Medical Confidentiality and Refusal of Disclosure to Employer. Clinical examination and investigative review confirm strict maintenance of medical confidentiality and refusal to disclose without signed consent. Vitals reveal blood pressure of 118/72 mm Hg, heart rate of 86/min, respiratory rate of 14/min, and temperature of 37.6C (98.1F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of patient medical confidentiality and refusal of disclosure to employer. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance."
+      },
+      {
+        "text": "Strict maintenance of medical confidentiality and refusal to disclose without signed consent",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is strict maintenance of medical confidentiality and refusal to disclose without signed consent. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Patient Medical Confidentiality and Refusal of Disclosure to Employer.\\n\\nClinical Discussion: This clinical presentation corresponds to Patient Medical Confidentiality and Refusal of Disclosure to Employer. The cornerstone of management involves strict maintenance of medical confidentiality and refusal to disclose without signed consent. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Patient Medical Confidentiality and Refusal of Disclosure to Employer.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Patient Medical Confidentiality and Refusal of Disclosure to Employer."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Medical Liability Law",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38369",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "End-of-Life DNR Directives under UAE Federal Law and Medical Regulations",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man presents to the tertiary consultative suite at Cleveland Clinic Abu Dhabi with clinical findings indicative of End-of-Life DNR Directives under UAE Federal Law and Medical Regulations. Clinical examination and investigative review confirm multidisciplinary documentation of terminal futility in accordance with UAE national DNR legislation. Vitals reveal blood pressure of 119/73 mm Hg, heart rate of 87/min, respiratory rate of 15/min, and temperature of 37.7C (98.2F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of end-of-life dnr directives under uae federal law and medical regulations. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures."
+      },
+      {
+        "text": "Multidisciplinary documentation of terminal futility in accordance with UAE national DNR legislation",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is multidisciplinary documentation of terminal futility in accordance with UAE national DNR legislation. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for End-of-Life DNR Directives under UAE Federal Law and Medical Regulations.\\n\\nClinical Discussion: This clinical presentation corresponds to End-of-Life DNR Directives under UAE Federal Law and Medical Regulations. The cornerstone of management involves multidisciplinary documentation of terminal futility in accordance with UAE national DNR legislation. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of End-of-Life DNR Directives under UAE Federal Law and Medical Regulations.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of End-of-Life DNR Directives under UAE Federal Law and Medical Regulations."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Medical Liability Law",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38370",
+    "exam": "HAAD / DHA",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is admitted to the acute inpatient medical ward of Dubai Hospital with clinical findings indicative of Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia. Clinical examination and investigative review confirm genetic counseling regarding reproductive risks, partner screening, and preimplantation options. Vitals reveal blood pressure of 120/74 mm Hg, heart rate of 88/min, respiratory rate of 16/min, and temperature of 37.8C (98.3F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of premarital screening mandatory in uae sickle cell and thalassemia. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Genetic counseling regarding reproductive risks, partner screening, and preimplantation options",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is genetic counseling regarding reproductive risks, partner screening, and preimplantation options. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia.\\n\\nClinical Discussion: This clinical presentation corresponds to Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia. The cornerstone of management involves genetic counseling regarding reproductive risks, partner screening, and preimplantation options. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Premarital Screening Mandatory in UAE Sickle Cell and Thalassemia."
+    ],
+    "references": [
+      {
+        "label": "UAE MOHAP National Guidelines",
+        "url": "https://mohap.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38371",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cardiovascular Primary Prevention National Screening Program in UAE",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man undergoes consultant specialist review at Tawam Hospital Al Ain with clinical findings indicative of Cardiovascular Primary Prevention National Screening Program in UAE. Clinical examination and investigative review confirm screening blood pressure, fasting lipids, HbA1c, and calculation of atherosclerotic risk. Vitals reveal blood pressure of 121/75 mm Hg, heart rate of 89/min, respiratory rate of 17/min, and temperature of 37.9C (98.4F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of cardiovascular primary prevention national screening program in uae. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "correct": false,
+        "explanation": "Incorrect: Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Screening blood pressure, fasting lipids, HbA1c, and calculation of atherosclerotic risk",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is screening blood pressure, fasting lipids, HbA1c, and calculation of atherosclerotic risk. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Cardiovascular Primary Prevention National Screening Program in UAE.\\n\\nClinical Discussion: This clinical presentation corresponds to Cardiovascular Primary Prevention National Screening Program in UAE. The cornerstone of management involves screening blood pressure, fasting lipids, HbA1c, and calculation of atherosclerotic risk. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Cardiovascular Primary Prevention National Screening Program in UAE.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Cardiovascular Primary Prevention National Screening Program in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-38372",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Certification of Cause of Death Completion under UAE Regulations",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the ambulatory medical day care center at Latifa Hospital Dubai with clinical findings indicative of Medical Certification of Cause of Death Completion under UAE Regulations. Clinical examination and investigative review confirm accurately recording immediate cause, antecedent cause, and underlying cause of death. Vitals reveal blood pressure of 122/76 mm Hg, heart rate of 90/min, respiratory rate of 18/min, and temperature of 38.0C (98.5F). Diagnostic serum testing, focused physiological assessment, and targeted structural evaluations demonstrate characteristic pathophysiological hallmarks of medical certification of cause of death completion under uae regulations. Which of the following clinical actions best aligns with UAE national clinical practice standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "correct": false,
+        "explanation": "Incorrect: Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Accurately recording immediate cause, antecedent cause, and underlying cause of death",
+        "correct": true,
+        "explanation": "Correct: According to established evidence-based consensus and clinical practice guidelines, the primary indicated management for this clinical scenario is accurately recording immediate cause, antecedent cause, and underlying cause of death. This directly addresses the underlying pathophysiological abnormality, optimizes therapeutic outcomes, and mitigates disease-specific morbidity."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Understand the diagnosis, guideline-directed management, and clinical rationale for Medical Certification of Cause of Death Completion under UAE Regulations.\\n\\nClinical Discussion: This clinical presentation corresponds to Medical Certification of Cause of Death Completion under UAE Regulations. The cornerstone of management involves accurately recording immediate cause, antecedent cause, and underlying cause of death. Clinical decision-making prioritizes rapid diagnosis, stabilization, and adherence to established clinical guidelines. Alternative choices represent suboptimal management strategies, delayed interventions, or therapies lacking efficacy in this specific clinical presentation.",
+    "objective": "Understand the guideline-directed management and pathophysiological basis of Medical Certification of Cause of Death Completion under UAE Regulations.",
+    "keyPoints": [
+      "Understand the guideline-directed management and pathophysiological basis of Medical Certification of Cause of Death Completion under UAE Regulations."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Clinical Guidelines",
+        "url": "https://www.doh.gov.ae"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
