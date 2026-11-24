@@ -1,6 +1,6 @@
 // Personal performance analytics. All queries are scoped to one userId.
 import { db } from './db';
-import { deliverableQuestion } from './content-rights';
+import { getCachedPublishedCount, getCachedTaxonomy } from './taxonomy-cache';
 
 export type Row = { id: string; name: string; total: number; correct: number; incorrect: number; omitted: number; pct: number };
 
@@ -38,8 +38,9 @@ export function breakdown(responses: Resp[], names: Map<string, string>, key: 'e
 
 export async function overview(userId: string) {
   const since = new Date(Date.now() - 83 * DAY);
-  const [published, agg, avg, daily, sessions, responses, exams, subjects, systems, cardsDue] = await Promise.all([
-    db.question.count({ where: deliverableQuestion }),
+  const [published, taxonomy, agg, avg, daily, sessions, responses, cardsDue] = await Promise.all([
+    getCachedPublishedCount(),
+    getCachedTaxonomy(),
     db.response.groupBy({ by: ['isCorrect', 'omitted'], where: { userId }, _count: true }),
     db.response.aggregate({ where: { userId }, _avg: { timeMs: true } }),
     db.$queryRaw<{ day: Date; n: bigint }[]>`
@@ -52,10 +53,9 @@ export async function overview(userId: string) {
       select: { id: true, name: true, mode: true, total: true, correctCount: true, submittedAt: true, activeMs: true },
     }),
     db.response.findMany({ where: { userId }, select: { isCorrect: true, omitted: true, question: { select: { examId: true, subjectId: true, systemId: true } } } }),
-    db.exam.findMany(), db.subject.findMany(), db.system.findMany(),
     db.card.count({ where: { userId, suspended: false, due: { lte: new Date() } } }),
   ]);
-  const names = new Map([...exams, ...subjects, ...systems].map((x) => [x.id, x.name]));
+  const names = taxonomy.names;
   const bySubject = breakdown(responses, names, 'subjectId');
   const bySystem = breakdown(responses, names, 'systemId');
   const byExam = breakdown(responses, names, 'examId');

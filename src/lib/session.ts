@@ -1,3 +1,4 @@
+import { cache } from 'react';
 import { headers } from 'next/headers';
 import { redirect } from 'next/navigation';
 import type { Role } from '@/generated/prisma/enums';
@@ -9,13 +10,13 @@ export type CurrentUser = { id: string; name: string; email: string; role: Role;
 
 const RANK: Record<Role, number> = { LEARNER: 0, EDITOR: 1, ADMIN: 2 };
 
-export async function getUser(): Promise<CurrentUser | null> {
+export const getUser = cache(async (): Promise<CurrentUser | null> => {
   const s = await auth.api.getSession({ headers: await headers() });
   if (!s) return null;
   // role is read from the database, never from anything the client sent
   const u = await db.user.findUnique({ where: { id: s.user.id }, select: { id: true, name: true, email: true, role: true, isAnonymous: true } });
   return u;
-}
+});
 
 /** For pages: redirect to login when signed out. */
 export async function requireUserPage(): Promise<CurrentUser> {

@@ -4,6 +4,7 @@ import type { Filters } from './validation/exam';
 import { deliverableQuestion } from './content-rights';
 import { resolveUserActiveQuestionPools, type UserActiveQuestionPools } from './practice-event-sequence';
 import { isRevisionAvailableForPractice, type QuestionContentSnapshot } from './question-revision';
+import { getCachedDefaultFacets, getCachedPublishedCount } from './taxonomy-cache';
 
 // ponytail: full-text search computes to_tsvector per query (no index); add a generated tsvector column + GIN index past ~50k questions
 export async function searchIds(q: string): Promise<string[]> {
@@ -73,6 +74,15 @@ export type Facet = { id: string; name: string; count: number };
 
 /** Taxonomy with counts of matching questions, for the filter sidebar. */
 export async function facets(where: Prisma.QuestionWhereInput): Promise<Facets> {
+  const isDefault =
+    !where ||
+    (Object.keys(where).length === 1 && (where as { status?: string }).status === 'PUBLISHED') ||
+    Object.keys(where).length === 0;
+
+  if (isDefault) {
+    return getCachedDefaultFacets();
+  }
+
   where = { AND: [where, deliverableQuestion] };
   const [exams, subjects, systems, topics, byExam, bySubject, bySystem, byTopic] = await Promise.all([
     db.exam.findMany({ orderBy: { position: 'asc' } }),
@@ -98,8 +108,18 @@ export async function facets(where: Prisma.QuestionWhereInput): Promise<Facets> 
 
 export async function listQuestions(userId: string | null, f: Filters, page: number, pageSize = 20) {
   const where = await questionWhere(userId, f);
+  const isDefaultUnfiltered =
+    !f.q &&
+    !f.collectionId &&
+    f.pool === 'all' &&
+    f.examIds.length === 0 &&
+    f.subjectIds.length === 0 &&
+    f.systemIds.length === 0 &&
+    f.topicIds.length === 0 &&
+    f.difficulty.length === 0;
+
   const [total, rows] = await Promise.all([
-    db.question.count({ where }),
+    isDefaultUnfiltered ? getCachedPublishedCount() : db.question.count({ where }),
     db.question.findMany({
       where,
       orderBy: { code: 'asc' },
