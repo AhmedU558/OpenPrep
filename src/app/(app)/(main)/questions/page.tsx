@@ -90,7 +90,9 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
                 {POOLS.map((p) => <option key={p} value={p}>{p}</option>)}
               </select>
             </div>
-            {([['exam', 'Exam', fx.exams], ['subject', 'Subject', fx.subjects], ['system', 'System', fx.systems], ['topic', 'Topic', fx.topics]] as const).map(([k, label, items]) => (
+            {([['exam', 'Exam', fx.exams], ['subject', 'Subject', fx.subjects], ['system', 'System', fx.systems], ['topic', 'Topic', fx.topics]] as const)
+              .filter(([, , items]) => items.length > 0)
+              .map(([k, label, items]) => (
               <fieldset key={k}>
                 <legend className="text-sm font-semibold">{label}</legend>
                 <div className="mt-1.5 max-h-44 space-y-1 overflow-y-auto pr-1">

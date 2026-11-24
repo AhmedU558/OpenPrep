@@ -154,13 +154,15 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
           <CheckGroup legend="Exam" items={facets.exams} value={examIds} onChange={setExams} />
           <CheckGroup legend="Subject" items={facets.subjects} value={subjectIds} onChange={setSubjects} />
           <CheckGroup legend="System" items={facets.systems} value={systemIds} onChange={setSystems} />
-          <div>
-            <label htmlFor="topic" className="text-sm font-semibold">Topic</label>
-            <select id="topic" value={topicId} onChange={(e) => setTopic(e.target.value)} className={cx(inputCls, 'mt-1.5')}>
-              <option value="">All topics</option>
-              {facets.topics.filter(t => t.count > 0).map(t => <option key={t.id} value={t.id}>{t.name} ({t.count})</option>)}
-            </select>
-          </div>
+          {facets.topics.length > 0 && (
+            <div>
+              <label htmlFor="topic" className="text-sm font-semibold">Topic</label>
+              <select id="topic" value={topicId} onChange={(e) => setTopic(e.target.value)} className={cx(inputCls, 'mt-1.5')}>
+                <option value="">All topics</option>
+                {facets.topics.filter(t => t.count > 0).map(t => <option key={t.id} value={t.id}>{t.name} ({t.count})</option>)}
+              </select>
+            </div>
+          )}
         </Card>
       </div>
       <div className="space-y-4 lg:sticky lg:top-24 lg:self-start">

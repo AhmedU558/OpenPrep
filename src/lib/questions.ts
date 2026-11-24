@@ -84,25 +84,22 @@ export async function facets(where: Prisma.QuestionWhereInput): Promise<Facets> 
   }
 
   where = { AND: [where, deliverableQuestion] };
-  const [exams, subjects, systems, topics, byExam, bySubject, bySystem, byTopic] = await Promise.all([
+  const [exams, subjects, systems, byExam, bySubject, bySystem] = await Promise.all([
     db.exam.findMany({ orderBy: { position: 'asc' } }),
     db.subject.findMany({ orderBy: { name: 'asc' } }),
     db.system.findMany({ orderBy: { name: 'asc' } }),
-    db.topic.findMany({ orderBy: { name: 'asc' }, include: { subject: { select: { name: true } } } }),
     db.question.groupBy({ by: ['examId'], where, _count: true }),
     db.question.groupBy({ by: ['subjectId'], where, _count: true }),
     db.question.groupBy({ by: ['systemId'], where, _count: true }),
-    db.question.groupBy({ by: ['topicId'], where, _count: true }),
   ]);
   const ex = new Map(byExam.map((r) => [r.examId, r._count]));
   const su = new Map(bySubject.map((r) => [r.subjectId, r._count]));
   const sy = new Map(bySystem.map((r) => [r.systemId, r._count]));
-  const to = new Map(byTopic.map((r) => [r.topicId, r._count]));
   return {
     exams: exams.map((e) => ({ id: e.id, name: e.name, count: ex.get(e.id) ?? 0 })),
     subjects: subjects.map((s) => ({ id: s.id, name: s.name, count: su.get(s.id) ?? 0 })),
     systems: systems.map((s) => ({ id: s.id, name: s.name, count: sy.get(s.id) ?? 0 })),
-    topics: topics.map((t) => ({ id: t.id, name: `${t.subject.name} / ${t.name}`, count: to.get(t.id) ?? 0 })),
+    topics: [],
   };
 }
 
