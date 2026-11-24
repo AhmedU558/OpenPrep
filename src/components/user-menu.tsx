@@ -9,8 +9,7 @@ export function UserMenu({ name, isGuest, canAdmin }: { name: string; isGuest: b
   const router = useRouter();
   const signOut = async () => {
     await authClient.signOut();
-    router.push('/');
-    router.refresh();
+    window.location.href = '/';
   };
   return (
     <div className="relative">

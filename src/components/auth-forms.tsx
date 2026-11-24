@@ -29,7 +29,9 @@ export function LoginForm() {
     <form method="post" className="space-y-4" onSubmit={async (e) => {
       e.preventDefault();
       const email = val(e, 'email'), password = val(e, 'password');
-      if (await run(() => authClient.signIn.email({ email, password }))) { router.push('/dashboard'); router.refresh(); }
+      if (await run(() => authClient.signIn.email({ email, password }))) {
+        window.location.href = '/dashboard';
+      }
     }}>
       {error && <Alert>{error}</Alert>}
       <Field label="Email" htmlFor="email"><input id="email" name="email" type="email" autoComplete="email" required className={inputCls} /></Field>
@@ -50,7 +52,9 @@ export function RegisterForm() {
       const name = val(e, 'name').trim(), email = val(e, 'email'), password = val(e, 'password');
       if (password.length < 10) return setPwErr('Use at least 10 characters.');
       setPwErr('');
-      if (await run(() => authClient.signUp.email({ name, email, password }))) { router.push('/dashboard'); router.refresh(); }
+      if (await run(() => authClient.signUp.email({ name, email, password }))) {
+        window.location.href = '/dashboard';
+      }
     }}>
       {error && <Alert>{error}</Alert>}
       <Field label="Name" htmlFor="name"><input id="name" name="name" autoComplete="name" required maxLength={80} className={inputCls} /></Field>
@@ -100,14 +104,73 @@ export function ResetForm() {
   );
 }
 
-export function GuestButton() {
-  const router = useRouter();
-  const { error, busy, run } = useSubmit();
+export function GuestButton({ className, fullWidth = false }: { className?: string; fullWidth?: boolean }) {
+  const [error, setError] = useState('');
+  const [busy, setBusy] = useState(false);
+
+  const handleGuest = async () => {
+    setBusy(true);
+    setError('');
+    try {
+      const res = await authClient.signIn.anonymous();
+      if (res?.error) {
+        // If already anonymous, the session is active! Proceed directly to dashboard.
+        const isAlreadyAnon =
+          res.error.code === 'ANONYMOUS_USERS_CANNOT_SIGN_IN_AGAIN_ANONYMOUSLY' ||
+          res.error.message?.toLowerCase().includes('anonymous users cannot sign in again');
+
+        if (isAlreadyAnon) {
+          window.location.href = '/dashboard';
+          return;
+        }
+
+        // If another error occurred (e.g. stale/corrupted cookies), sign out and retry once
+        try {
+          await authClient.signOut();
+          const retry = await authClient.signIn.anonymous();
+          if (!retry?.error) {
+            window.location.href = '/dashboard';
+            return;
+          }
+          if (
+            retry.error.code === 'ANONYMOUS_USERS_CANNOT_SIGN_IN_AGAIN_ANONYMOUSLY' ||
+            retry.error.message?.toLowerCase().includes('anonymous users cannot sign in again')
+          ) {
+            window.location.href = '/dashboard';
+            return;
+          }
+        } catch {
+          // fall through to report error
+        }
+
+        setError(res.error.message || 'Unable to start guest session.');
+        setBusy(false);
+        return;
+      }
+
+      // Hard navigation ensures browser cookie synchronization and fresh RSC state
+      window.location.href = '/dashboard';
+    } catch {
+      try {
+        window.location.href = '/dashboard';
+      } catch {
+        setError('Network error. Please try again.');
+        setBusy(false);
+      }
+    }
+  };
+
   return (
-    <div>
-      <Button variant="secondary" disabled={busy} onClick={async () => {
-        if (await run(() => authClient.signIn.anonymous())) { router.push('/dashboard'); router.refresh(); }
-      }}>{busy ? 'Starting…' : 'Try it as a guest'}</Button>
+    <div className={className}>
+      <Button
+        type="button"
+        variant="secondary"
+        disabled={busy}
+        onClick={handleGuest}
+        className={fullWidth ? 'w-full' : undefined}
+      >
+        {busy ? 'Starting…' : 'Try it as a guest'}
+      </Button>
       {error && <div className="mt-2"><Alert>{error}</Alert></div>}
     </div>
   );
