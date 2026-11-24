@@ -442,6 +442,11 @@ import { questions as bIntl437 } from '../content/bank/international/batch-intl-
 import { questions as bIntl438 } from '../content/bank/international/batch-intl-438';
 import { questions as bIntl439 } from '../content/bank/international/batch-intl-439';
 import { questions as bIntl440 } from '../content/bank/international/batch-intl-440';
+import { questions as bIntl441 } from '../content/bank/international/batch-intl-441';
+import { questions as bIntl442 } from '../content/bank/international/batch-intl-442';
+import { questions as bIntl443 } from '../content/bank/international/batch-intl-443';
+import { questions as bIntl444 } from '../content/bank/international/batch-intl-444';
+import { questions as bIntl445 } from '../content/bank/international/batch-intl-445';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -537,6 +542,7 @@ const allQuestions: QuestionContent[] = [
   ...bIntl426, ...bIntl427, ...bIntl428, ...bIntl429, ...bIntl430,
   ...bIntl431, ...bIntl432, ...bIntl433, ...bIntl434, ...bIntl435,
   ...bIntl436, ...bIntl437, ...bIntl438, ...bIntl439, ...bIntl440,
+  ...bIntl441, ...bIntl442, ...bIntl443, ...bIntl444, ...bIntl445,
 ];
 const dir = 'content/bank/international';
 
@@ -987,6 +993,11 @@ async function main() {
   { name: 'batch-intl-438', data: bIntl438 },
   { name: 'batch-intl-439', data: bIntl439 },
   { name: 'batch-intl-440', data: bIntl440 },
+  { name: 'batch-intl-441', data: bIntl441 },
+  { name: 'batch-intl-442', data: bIntl442 },
+  { name: 'batch-intl-443', data: bIntl443 },
+  { name: 'batch-intl-444', data: bIntl444 },
+  { name: 'batch-intl-445', data: bIntl445 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];
