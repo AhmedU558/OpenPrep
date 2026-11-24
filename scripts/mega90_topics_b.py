@@ -1,0 +1,2410 @@
+# Auto-generated Mega-Batch 90 Part B topics (AMC 100, MCCQE 100, NEET_PG 100)
+
+AMC_TOPICS = [
+  [
+    "Strongyloidiasis in Remote Indigenous Communities Single-Dose Ivermectin 200 mcg/kg",
+    "Microbiology",
+    "Gastrointestinal",
+    "routine serological screening and oral ivermectin 200 mcg/kg repeated after 14 days preventing hyperinfection",
+    "Australian Therapeutic Guidelines Wilderness and Remote Health",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Crusted (Norwegian) Scabies in Remote Communities Multiple Doses of Oral Ivermectin and 5% Permethrin",
+    "Microbiology",
+    "Dermatology",
+    "combination treatment with repeated oral ivermectin on days 1, 2, 8, 9, 15 and daily topical 5% permethrin cream",
+    "CARPA Standard Treatment Manual",
+    "https://www.remotephcmanuals.com.au/"
+  ],
+  [
+    "HTLV-1 Endemicity in Central Australia Surveillance for Bronchiectasis and Adult T-Cell Leukemia",
+    "Medicine",
+    "Hematology",
+    "serological screening in high-prevalence Aboriginal communities and monitoring for inflammatory pulmonary disease",
+    "ASHM National HTLV-1 Clinical Guidance",
+    "https://ashm.org.au/"
+  ],
+  [
+    "Trachoma Facial Cleanliness and Environmental Improvement (SAFE Strategy) in Outback Australia",
+    "Pediatrics",
+    "Dermatology",
+    "community-wide implementation of Surgery, Antibiotics, Facial cleanliness, and Environmental hygiene",
+    "Australian Department of Health Trachoma Surveillance Guidelines",
+    "https://www.health.gov.au/resources/publications/national-trachoma-surveillance-and-reporting-unit-reports"
+  ],
+  [
+    "Rheumatic Fever Initial Presentation Modified Jones Criteria and Inpatient Bed Rest",
+    "Medicine",
+    "Cardiovascular",
+    "mandatory jurisdictional reporting, echocardiographic Doppler assessment, and oral high-dose aspirin or NSAIDs",
+    "RHDAustralia Clinical Guidelines for Acute Rheumatic Fever",
+    "https://www.rhdaustralia.org.au/"
+  ],
+  [
+    "Barmah Forest Virus Serological Differentiation from Ross River and Supportive Care",
+    "Microbiology",
+    "Musculoskeletal",
+    "specific enzyme immunoassay IgM testing and reassurance regarding benign self-limiting symmetrical polyarthralgia",
+    "Australian Family Physician Mosquito-Borne Arboviruses",
+    "https://www.racgp.org.au/afp/"
+  ],
+  [
+    "Murray Valley Encephalitis Virus (MVEV) Sentinel Chicken Surveillance and Intensive PICU Support",
+    "Microbiology",
+    "Nervous System",
+    "flavivirus transmission via Culex annulirostris presenting with fever, tremor, and coma managed supportively",
+    "Australian Department of Health Arbovirus Surveillance",
+    "https://www.health.gov.au/"
+  ],
+  [
+    "Bat Lyssavirus Post-Exposure Prophylaxis Category II Scratch Soap Washing and Immediate Vaccination",
+    "Medicine",
+    "General Principles",
+    "copious wound cleansing with soapy water for 15 minutes followed by 4-dose rabies cell-culture vaccine series",
+    "Australian Immunisation Handbook Lyssavirus",
+    "https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses"
+  ],
+  [
+    "Q Fever Endemic Agricultural Risk Pre-Vaccination Serology and Skin Testing (Q-Vax)",
+    "Microbiology",
+    "General Principles",
+    "dual screening for existing cellular and humoral immunity to prevent severe immune-complex hypersensitivity",
+    "Australian Immunisation Handbook Q Fever",
+    "https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/q-fever"
+  ],
+  [
+    "Melioidosis Pneumonia in Tropical Wet Season High-Dose IV Ceftazidime Followed by Oral Bactrim",
+    "Microbiology",
+    "Respiratory",
+    "Burkholderia pseudomallei confirmed on culture requiring initial IV ceftazidime 2 g 8-hourly for at least 14 days",
+    "Darwin Prospective Melioidosis Guidelines",
+    "https://www.menzies.edu.au/"
+  ],
+  [
+    "Eastern Brown Snake (Pseudonaja textilis) Envenomation Early Antivenom for Coagulopathy",
+    "Medicine",
+    "Hematology",
+    "immediate pressure immobilization bandage, bedside venom detection kit, and early brown snake antivenom",
+    "Australian Resuscitation Council ARC Guideline 9.4.8 Envenomation",
+    "https://resus.org.au/guidelines/"
+  ],
+  [
+    "Tiger Snake Envenomation with Paralytic Ptosis and Myoglobinuria Tiger Snake Antivenom",
+    "Medicine",
+    "Nervous System",
+    "monitoring for presynaptic neurotoxicity, coagulopathy, and rhabdomyolysis treated with CSL tiger snake antivenom",
+    "Therapeutic Guidelines Toxicology Snake Envenomation",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Death Adder Envenomation Reversal of Postsynaptic Neurotoxicity with Antivenom and Neostigmine",
+    "Pharmacology",
+    "Nervous System",
+    "antivenom administration combined with intravenous edrophonium or neostigmine trial for motor endplate blockade",
+    "Therapeutic Guidelines Toxicology Snakebite",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Blue-Ringed Octopus (Hapalochlaena) Envenomation Tetrodotoxin Paralysis Mechanical Ventilation",
+    "Medicine",
+    "Nervous System",
+    "immediate prolonged artificial positive pressure ventilation without antivenom until complete toxin clearance",
+    "Australian Resuscitation Council Marine Guidelines",
+    "https://resus.org.au/guidelines/"
+  ],
+  [
+    "Stonefish Envenomation Excruciating Foot Pain Hot Water Immersion (45C) and Stonefish Antivenom",
+    "Surgery",
+    "Dermatology",
+    "soaking foot in non-scalding hot water for 30-90 minutes and parenteral administration of CSL stonefish antivenom",
+    "ARC Guideline 9.4.5 Marine Envenomation",
+    "https://resus.org.au/guidelines/"
+  ],
+  [
+    "Cone Snail Envenomation Conotoxin Paralysis Prolonged Invasive Airway Support",
+    "Medicine",
+    "Nervous System",
+    "pressure immobilization bandage and early endotracheal intubation for severe neuromuscular respiratory failure",
+    "Therapeutic Guidelines Toxicology Marine Envenomation",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Stingray Barb Injury Delayed Surgical Debridement and Plain Radiographs for Retained Spines",
+    "Surgery",
+    "Musculoskeletal",
+    "hot water pain relief followed by local wound debridement, tetanus booster, and prophylactic oral amoxicillin-clavulanate",
+    "Australian Family Physician Marine Puncture Wounds",
+    "https://www.racgp.org.au/afp/"
+  ],
+  [
+    "Ciguatera Fish Poisoning Reversal of Temperature Sensation and IV Mannitol Infusion",
+    "Medicine",
+    "General Principles",
+    "paradoxical dysesthesia (cold feels burning hot) managed with supportive care and early IV 20% mannitol within 48 hours",
+    "Therapeutic Guidelines Toxicology Food Toxins",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Paralysis Tick (Ixodes holocyclus) Ascending Weakness Careful Forceps Removal and Antivenom",
+    "Medicine",
+    "Nervous System",
+    "extracting whole tick by grasping mouthparts with fine forceps avoiding abdominal squeezing, with tick antivenom",
+    "Australian Family Physician Tick Bites",
+    "https://www.racgp.org.au/afp/"
+  ],
+  [
+    "Platypus Envenomation Intense Limb Pain Nerve Block Analgesia Resistant to Opioids",
+    "Medicine",
+    "Musculoskeletal",
+    "crural spur venom causing excruciating localized pain relieved by regional nerve block (wrist/ankle) rather than systemic opioids",
+    "Therapeutic Guidelines Wilderness Medicine",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "RACGP Red Book Osteoporosis Screening in Men Over 70 DXA Scan and T-Score Threshold",
+    "Geriatrics",
+    "Musculoskeletal",
+    "dual-energy X-ray absorptiometry screening for men aged >= 70 or with fragility fracture initiating antiresorptives",
+    "RACGP Guidelines for Preventive Activities in General Practice (Red Book)",
+    "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book"
+  ],
+  [
+    "PBS Criteria for PCSK9 Inhibitors (Evolocumab) Familial Hypercholesterolemia LDL > 2.6 mmol/L",
+    "Pharmacology",
+    "Cardiovascular",
+    "subcutaneous evolocumab 140 mg fortnightly for genetically proven FH failing maximally tolerated statin and ezetimibe",
+    "PBS Schedule Cardiovascular Drugs",
+    "https://www.pbs.gov.au/"
+  ],
+  [
+    "AusCVDRisk Absolute CVD Risk Stratification Over 10% High-Risk Statin and Blood Pressure Management",
+    "Medicine",
+    "Cardiovascular",
+    "informing lifestyle modifications and starting fixed-dose antihypertensive and statin therapy for risk >= 10%",
+    "National Heart Foundation of Australia CVD Risk Assessment",
+    "https://www.cvdcheck.org.au/"
+  ],
+  [
+    "PBS Authority Prescribing of SGLT2 Inhibitors for Heart Failure with Preserved Ejection Fraction (HFpEF)",
+    "Medicine",
+    "Cardiovascular",
+    "empagliflozin 10 mg daily subsidized under PBS for symptomatic heart failure regardless of ejection fraction",
+    "Therapeutic Guidelines Cardiovascular Heart Failure",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "RACGP Hepatitis B Management Monitoring Phase 2 Immune-Active Disease Oral Entecavir",
+    "Medicine",
+    "Gastrointestinal",
+    "treatment initiation with entecavir 0.5 mg daily for elevated ALT > 2x ULN and HBV DNA > 2000 IU/mL",
+    "ASHM Australian B Positive Hepatitis B Guidelines",
+    "https://hepb.org.au/"
+  ],
+  [
+    "Hepatitis C Direct-Acting Antivirals (DAA) Sofosbuvir-Velpatasvir Pan-Genotypic Cure",
+    "Pharmacology",
+    "Gastrointestinal",
+    "12-week course of daily oral sofosbuvir-velpatasvir achieving > 95% sustained virologic response (SVR12)",
+    "Gastroenterological Society of Australia (GESA) HCV Consensus Guidelines",
+    "https://www.gesa.org.au/"
+  ],
+  [
+    "Barrett Esophagus Australian Surveillance Guidelines Praga C&M Criteria and 3-Yearly Endoscopy",
+    "Medicine",
+    "Gastrointestinal",
+    "quadrant biopsies every 2 cm for non-dysplastic Barrett esophagus >= 3 cm length every 3 years",
+    "GESA Clinical Practice Guidelines Barrett Esophagus",
+    "https://www.gesa.org.au/"
+  ],
+  [
+    "RACGP Iron Deficiency Management Oral Ferrous Sulfate Alternate-Day Dosing for Absorption",
+    "Medicine",
+    "Hematology",
+    "alternate-day oral iron dosing optimizing hepcidin-mediated enteral iron transport and reducing GI adverse effects",
+    "BloodSafe eLearning Australia Iron Deficiency Management",
+    "https://www.bloodsafelearning.org.au/"
+  ],
+  [
+    "Australian Cervical Cancer Self-Collection Vaginal Swab for Oncogenic HPV Screening",
+    "Obstetrics",
+    "Pregnancy",
+    "patient-collected vaginal swab for PCR-based HPV testing demonstrating equivalent sensitivity to clinician collection",
+    "National Cervical Screening Program Guidelines",
+    "https://www.cancer.org.au/clinical-guidelines/cervical-cancer-screening"
+  ],
+  [
+    "BreastScreen Australia Program Biennial Mammography Recall for Women Aged 50-74",
+    "Surgery",
+    "General Principles",
+    "population screening with two-view digital mammography every 2 years reducing breast cancer mortality by 25%",
+    "Australian Government Department of Health BreastScreen",
+    "https://www.health.gov.au/our-work/breastscreen-australia-program"
+  ],
+  [
+    "COPD Australian COPD-X Guidelines Step-Up to Inhaled Fluticasone-Umeclidinium-Vilanterol",
+    "Medicine",
+    "Respiratory",
+    "escalation to once-daily single-inhaler triple therapy for persistent exacerbations and eosinophils >= 300 cells/mcL",
+    "Lung Foundation Australia COPD-X Guidelines",
+    "https://copdx.org.au/"
+  ],
+  [
+    "Asthma Puffer and Spacer Technique in Primary Care Inhaled Corticosteroid Adherence",
+    "Medicine",
+    "Respiratory",
+    "bedside inhaler demonstration with large-volume spacer reducing oropharyngeal deposition and hoarseness",
+    "National Asthma Council Australia Australian Asthma Handbook",
+    "https://www.asthmahandbook.org.au/"
+  ],
+  [
+    "Severe Eosinophilic Asthma PBS-Subsidized Biologic Mepolizumab (Anti-IL5 Monoclonal)",
+    "Pharmacology",
+    "Respiratory",
+    "subcutaneous mepolizumab 100 mg every 4 weeks for frequent exacerbations on high-dose inhaled steroids",
+    "Therapeutic Guidelines Respiratory Asthma",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Giant Cell Arteritis Fast-Track Ultrasound Clinic Temporal and Axillary Artery Halo Sign",
+    "Medicine",
+    "Cardiovascular",
+    "bilateral high-resolution color duplex ultrasound demonstrating circumferential hypoechoic vessel wall thickening",
+    "Australian Rheumatology Association Guidelines for GCA",
+    "https://rheumatology.org.au/"
+  ],
+  [
+    "Polymyalgia Rheumatica Oral Prednisolone Tapering Protocol over 12-18 Months",
+    "Medicine",
+    "Musculoskeletal",
+    "initial oral prednisolone 15 mg daily with gradual 1 mg monthly taper once clinical remission achieved",
+    "Therapeutic Guidelines Rheumatology PMR",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Gout Flare Australian Therapeutic Guidelines Low-Dose Oral Colchicine Within 12 Hours",
+    "Medicine",
+    "Musculoskeletal",
+    "initial 1 mg colchicine followed by 500 mcg after 1 hour, then allopurinol titration with target serum urate < 0.36 mmol/L",
+    "Therapeutic Guidelines Rheumatology Gout",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Ankylosing Spondylitis Sacroiliac Joint MRI and Subsidized TNF Inhibitor (Adalimumab)",
+    "Medicine",
+    "Musculoskeletal",
+    "STIR-sequence pelvic MRI showing bone marrow edema followed by PBS-funded biologic therapy for active axial disease",
+    "Australian Rheumatology Association AxSpA Guidelines",
+    "https://rheumatology.org.au/"
+  ],
+  [
+    "Fibromyalgia Management Graded Exercise Therapy and Amitriptyline over Opioids",
+    "Medicine",
+    "Musculoskeletal",
+    "aerobic and strength exercise programs combined with low-dose nighttime amitriptyline, strictly avoiding opioid dependence",
+    "Therapeutic Guidelines Rheumatology Fibromyalgia",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Chronic Heart Failure Quadruple Therapy SGLT2i, ARNI, Beta-Blocker, and MRA",
+    "Medicine",
+    "Cardiovascular",
+    "concomitant uptitration of sacubitril-valsartan, bisoprolol, spironolactone, and dapagliflozin reducing mortality",
+    "National Heart Foundation of Australia and CSANZ Heart Failure Guidelines",
+    "https://www.heartfoundation.org.au/"
+  ],
+  [
+    "Atrial Fibrillation Australian Guidelines Stroke Prevention CHA2DS2-VA Score and DOAC Choice",
+    "Medicine",
+    "Cardiovascular",
+    "apixaban 5 mg twice daily as preferred anticoagulant for non-valvular AF in patients with CHA2DS2-VA >= 1",
+    "Therapeutic Guidelines Cardiovascular Arrhythmias",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Acute Appendicitis Ultrasound vs Low-Dose CT in Young Adults RACS Choosing Wisely",
+    "Surgery",
+    "Gastrointestinal",
+    "initial graded compression ultrasound in children and women of childbearing age, low-dose contrast CT in adult males",
+    "Royal Australasian College of Surgeons Guidelines",
+    "https://www.surgeons.org/"
+  ],
+  [
+    "Acute Cholecystitis Early Laparoscopic Cholecystectomy Within 72 Hours of Admission",
+    "Surgery",
+    "Gastrointestinal",
+    "urgent index-admission laparoscopic cholecystectomy reducing hospital length of stay and recurrent biliary colic",
+    "RACS Clinical Guidance Gallstone Disease",
+    "https://www.surgeons.org/"
+  ],
+  [
+    "Choledocholithiasis Preoperative Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+    "Surgery",
+    "Gastrointestinal",
+    "endoscopic sphincterotomy and stone extraction followed by elective laparoscopic cholecystectomy",
+    "GESA Guidelines on Biliary Stone Management",
+    "https://www.gesa.org.au/"
+  ],
+  [
+    "Small Bowel Obstruction Water-Soluble Contrast (Gastrografin) Diagnostic and Therapeutic Challenge",
+    "Surgery",
+    "Gastrointestinal",
+    "administration of oral Gastrografin with serial abdominal X-rays predicting resolution of adhesive obstruction",
+    "World Journal of Emergency Surgery ASBO Guidelines",
+    "https://wjes.biomedcentral.com/"
+  ],
+  [
+    "Diverticulitis Uncomplicated Hinchey Stage Ia Outpatient Management Without Antibiotics",
+    "Surgery",
+    "Gastrointestinal",
+    "clear liquid diet and oral paracetamol analgesia for immunocompetent afebrile patients with localized left iliac fossa pain",
+    "Therapeutic Guidelines Gastrointestinal Diverticular Disease",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Inguinal Hernia RACS Repair Techniques Lichtenstein Mesh vs Laparoscopic TEP/TAPP",
+    "Surgery",
+    "Gastrointestinal",
+    "totally extraperitoneal (TEP) laparoscopic repair for bilateral or recurrent hernias, open Lichtenstein for unilateral",
+    "HerniaSurge International Guidelines Endorsed by RACS",
+    "https://www.surgeons.org/"
+  ],
+  [
+    "Perianal Abscess Urgent Surgical Incision and Drainage Without Awaiting Fluctuation",
+    "Surgery",
+    "Gastrointestinal",
+    "cruciate incision and debridement under general anesthesia with loose packing preventing suprasphincteric extension",
+    "Therapeutic Guidelines Surgery Perianal Conditions",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Testicular Torsion Urgent Scrotal Exploration Within 6 Hours and Bilateral Orchidopexy",
+    "Surgery",
+    "Renal",
+    "immediate surgical exploration via median raphe incision, detorsion, and three-point fixation of both testes",
+    "Urological Society of Australia and New Zealand Guidelines",
+    "https://www.usanz.org.au/"
+  ],
+  [
+    "Renal Colic Non-Contrast CT KUB and Medical Expulsive Therapy with Tamsulosin 400 mcg",
+    "Surgery",
+    "Renal",
+    "low-dose non-contrast helical CT and alpha-1 blocker therapy for distal ureteric calculi 5-10 mm in diameter",
+    "Therapeutic Guidelines Urology Ureteric Calculi",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Benign Prostatic Hyperplasia (BPH) Transurethral Resection of Prostate (TURP) vs Holmium Laser",
+    "Surgery",
+    "Renal",
+    "endoscopic HoLEP or TURP for severe lower urinary tract obstruction refractory to dual finasteride and tamsulosin",
+    "USANZ Guidelines Management of Male LUTS",
+    "https://www.usanz.org.au/"
+  ],
+  [
+    "RANZCOG Antenatal Care Schedule Routine Blood Group, Antibody Screen, and Full Blood Count",
+    "Obstetrics",
+    "Pregnancy",
+    "booking blood tests at 10-12 weeks identifying RhD negative status for anti-D prophylaxis at 28 and 34 weeks",
+    "RANZCOG Routine Antenatal Care Guidelines",
+    "https://ranzcog.edu.au/statements-guidelines/"
+  ],
+  [
+    "Gestational Diabetes Mellitus (GDM) ADIPS Two-Step 75g Oral Glucose Tolerance Test at 24-28 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "fasting BGL >= 5.1 mmol/L or 2-hour BGL >= 8.5 mmol/L initiating dietary education and capillary blood glucose monitoring",
+    "ADIPS Consensus Guidelines for GDM",
+    "https://adips.org/"
+  ],
+  [
+    "Preeclampsia Screening First-Trimester PlGF, Uterine Artery Pulsatility, and Low-Dose Aspirin",
+    "Obstetrics",
+    "Pregnancy",
+    "early risk assessment and prescription of oral aspirin 150 mg nightly before 16 weeks gestation",
+    "RANZCOG Diagnosis and Management of Hypertensive Disorders in Pregnancy",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Severe Preeclampsia Magnesium Sulfate Loading (4 g IV) and Maintenance (1 g/hr) for Seizure Prophylaxis",
+    "Obstetrics",
+    "Pregnancy",
+    "intravenous magnesium sulfate infusion monitoring patellar reflexes, respiratory rate, and hourly urine output",
+    "RANZCOG Hypertensive Disorders in Pregnancy",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Postpartum Hemorrhage RANZCOG Four Ts Assessment and B-Lynch Compression Suture",
+    "Obstetrics",
+    "Pregnancy",
+    "systematic check for Tone, Tissue, Trauma, Thrombin followed by surgical compression sutures for refractory uterine atony",
+    "RANZCOG Management of Postpartum Haemorrhage",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Shoulder Dystocia HELPERR Mnemonics McRoberts Position and Suprapubic Pressure",
+    "Obstetrics",
+    "Pregnancy",
+    "immediate maternal bilateral hyperflexion of hips combined with downward suprapubic pressure by assistant",
+    "RANZCOG Management of Shoulder Dystocia",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Group B Streptococcus (GBS) Screening Low Vaginal-Rectal Swab at 35-37 Weeks and IV Benzylpenicillin",
+    "Obstetrics",
+    "Pregnancy",
+    "universal late-pregnancy culture screening and intrapartum IV benzylpenicillin loading dose 3 g then 1.8 g 4-hourly",
+    "RANZCOG Prevention of Early-Onset GBS Disease",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Ectopic Pregnancy Methotrexate Medical Protocol vs Laparoscopic Salpingectomy",
+    "Obstetrics",
+    "Pregnancy",
+    "intramuscular methotrexate (50 mg/m2) for unruptured ectopic with beta-hCG < 5000 IU/L and absent fetal heartbeat",
+    "RANZCOG Management of Ectopic Pregnancy",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Menopause Vasomotor Symptoms Transdermal Estradiol Plus Micronized Progesterone (Prometrium)",
+    "Obstetrics",
+    "Pregnancy",
+    "body-identical transdermal estradiol patch or gel combined with oral progesterone preventing endometrial hyperplasia",
+    "Australasian Menopause Society AMS Clinical Guidance",
+    "https://www.menopause.org.au/"
+  ],
+  [
+    "Postmenopausal Bleeding Transvaginal Ultrasound Endometrial Thickness Cutoff 4 mm",
+    "Obstetrics",
+    "Pregnancy",
+    "urgent TVUS; if endometrial stripe >= 4 mm or heterogeneous, proceed to outpatient Pipelle endometrial biopsy",
+    "RANZCOG Guidelines on Postmenopausal Bleeding",
+    "https://ranzcog.edu.au/"
+  ],
+  [
+    "Neonatal Resuscitation ARC Guidelines T-Piece Resuscitator Positive Pressure with 21% FiO2",
+    "Pediatrics",
+    "Respiratory",
+    "initial positive pressure ventilation in term neonates using room air (21% oxygen) titrating to preductal SpO2 targets",
+    "Australian Resuscitation Council Neonatal Resuscitation Guidelines",
+    "https://resus.org.au/guidelines/"
+  ],
+  [
+    "Bronchiolitis in Infants Australasian Paediatric Guidelines Minimal Handling and Nasogastric Hydration",
+    "Pediatrics",
+    "Respiratory",
+    "supportive oxygen therapy only if SpO2 < 90%, avoiding routine salbutamol, adrenaline, or corticosteroids",
+    "PREDICT Australasian Bronchiolitis Clinical Practice Guideline",
+    "https://www.predict.org.au/"
+  ],
+  [
+    "Croup (Laryngotracheobronchitis) Single Oral Dose of Dexamethasone 0.15 mg/kg",
+    "Pediatrics",
+    "Respiratory",
+    "routine oral dexamethasone 0.15 mg/kg for all severities, with nebulized adrenaline 1:1000 for stridor at rest",
+    "Royal Children's Hospital Melbourne Croup Clinical Practice Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/croup/"
+  ],
+  [
+    "Febrile Convulsion Simple vs Complex Reassurance and Fever Education for Parents",
+    "Pediatrics",
+    "Nervous System",
+    "reassurance regarding benign nature of generalized seizure lasting < 15 minutes, avoiding antiepileptic maintenance",
+    "RCH Melbourne Febrile Convulsion Clinical Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/febrile_convulsion/"
+  ],
+  [
+    "Urinary Tract Infection in Infants Clean-Catch Urine Microscopy and Cephalexin",
+    "Pediatrics",
+    "Renal",
+    "clean-catch or catheter specimen confirming pyuria and bacteriuria treated with oral cephalexin 25-50 mg/kg/day",
+    "RCH Melbourne Urinary Tract Infection Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/urinary_tract_infection/"
+  ],
+  [
+    "Intussusception in Infants Air Enema Hydrostatic Reduction Under Fluoroscopy",
+    "Pediatrics",
+    "Gastrointestinal",
+    "emergent diagnostic ultrasound showing target sign followed by pneumatic air enema reduction by radiologist",
+    "RCH Melbourne Intussusception Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/intussusception/"
+  ],
+  [
+    "Kawasaki Disease High-Dose IVIG 2 g/kg and High-Dose Aspirin Within 10 Days",
+    "Pediatrics",
+    "Cardiovascular",
+    "prompt treatment preventing coronary artery aneurysm formation, followed by baseline echocardiography",
+    "RCH Melbourne Kawasaki Disease Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/kawasaki_disease/"
+  ],
+  [
+    "Henoch-Schonlein Purpura (IgA Vasculitis) Palpable Purpura and Serial Blood Pressure/Urinalysis",
+    "Pediatrics",
+    "Renal",
+    "weekly monitoring of blood pressure and urine dipstick for glomerulonephritis for at least 6 months",
+    "RCH Melbourne Henoch-Schonlein Purpura Guideline",
+    "https://www.rch.org.au/clinicalguide/guideline_index/henochschonlein_purpura/"
+  ],
+  [
+    "Coeliac Disease in Australian Children Anti-tTG IgA and HLA-DQ2/DQ8 Genotyping",
+    "Pediatrics",
+    "Gastrointestinal",
+    "serological screening with tissue transglutaminase antibodies while on gluten-containing diet, confirmed by endoscopy",
+    "Coeliac Australia Pediatric Guidelines",
+    "https://www.coeliac.org.au/"
+  ],
+  [
+    "Type 1 Diabetes Mellitus New Onset in Children Four Ts Recognition and Urgent Hospital Admission",
+    "Pediatrics",
+    "Endocrine",
+    "Toilet, Tired, Thirsty, Thinner recognition triggering immediate capillary blood glucose and ketone check",
+    "Australian Paediatric Endocrine Group (APEG) Guidelines",
+    "https://apeg.org.au/"
+  ],
+  [
+    "Major Depressive Episode Australian Guidelines SSRI First-Line Sertraline and Escitalopram",
+    "Psychiatry",
+    "Behavioral Health",
+    "oral sertraline 50 mg daily titrated with psychological CBT, assessing treatment response at 4-6 weeks",
+    "RANZCP Clinical Practice Guidelines for Mood Disorders",
+    "https://www.ranzcp.org/clinical-guidelines-publications/clinical-guidelines-list/mood-disorders"
+  ],
+  [
+    "Generalized Anxiety Disorder Australian Stepped-Care Model Cognitive Behavioral Therapy and SSRI",
+    "Psychiatry",
+    "Behavioral Health",
+    "first-line therapist-delivered or digital CBT combined with escitalopram for moderate-to-severe anxiety",
+    "Therapeutic Guidelines Psychotropic Anxiety Disorders",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Bipolar I Mania Acute Hospitalization Oral Lithium and Atypical Antipsychotic (Quetiapine)",
+    "Psychiatry",
+    "Behavioral Health",
+    "combination therapy with lithium carbonate and quetiapine with frequent therapeutic serum lithium level monitoring",
+    "RANZCP Guidelines for Mood Disorders",
+    "https://www.ranzcp.org/"
+  ],
+  [
+    "Schizophrenia First-Episode Psychosis Second-Generation Antipsychotic (Aripiprazole)",
+    "Psychiatry",
+    "Behavioral Health",
+    "low-dose oral aripiprazole or risperidone with multidisciplinary early intervention psychosis team support",
+    "RANZCP Clinical Practice Guidelines for Schizophrenia",
+    "https://www.ranzcp.org/"
+  ],
+  [
+    "Clozapine Monitoring in Australia Mandatory Blood System Register Full Blood Count Weekly",
+    "Pharmacology",
+    "Hematology",
+    "strict weekly WBC and absolute neutrophil count (ANC) monitoring for first 18 weeks detecting agranulocytosis",
+    "Therapeutic Guidelines Psychotropic Clozapine Protocols",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Alcohol Withdrawal Syndrome Australian CIWA-Ar Scoring and Symptom-Triggered Diazepam",
+    "Psychiatry",
+    "Behavioral Health",
+    "oral diazepam 10-20 mg titrated according to objective CIWA-Ar score with oral thiamine 300 mg daily",
+    "Therapeutic Guidelines Addiction Medicine Alcohol Withdrawal",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Opioid Dependence Pharmacotherapy Program Sublingual Buprenorphine-Naloxone Maintenance",
+    "Psychiatry",
+    "Behavioral Health",
+    "daily supervised dispensing of Suboxone Film under state opioid pharmacotherapy treatment regulations",
+    "Australian Guidelines for the Treatment of Opioid Dependence",
+    "https://www.health.gov.au/"
+  ],
+  [
+    "Anorexia Nervosa Medical Admission Criteria Heart Rate < 40 bpm or Postural Drop > 20 mm Hg",
+    "Psychiatry",
+    "Behavioral Health",
+    "inpatient medical admission for continuous cardiac telemetry and controlled refeeding avoiding refeeding syndrome",
+    "RANZCP Clinical Practice Guidelines for Eating Disorders",
+    "https://www.ranzcp.org/"
+  ],
+  [
+    "Borderline Personality Disorder Australian Guidelines Dialectical Behavior Therapy (DBT)",
+    "Psychiatry",
+    "Behavioral Health",
+    "long-term outpatient DBT psychotherapy targeting emotional dysregulation, self-harm, and distress tolerance",
+    "National Health and Medical Research Council (NHMRC) Borderline Personality Disorder Guidelines",
+    "https://www.nhmrc.gov.au/"
+  ],
+  [
+    "Attention Deficit Hyperactivity Disorder (ADHD) in Adults Comprehensive Multi-Informant Assessment",
+    "Psychiatry",
+    "Behavioral Health",
+    "retrospective childhood history corroboration, psychometric testing, and PBS-subsidized lisdexamfetamine",
+    "Australian Evidence-Based Clinical Practice Guideline for ADHD",
+    "https://adhdguideline.aadpa.com.au/"
+  ],
+  [
+    "AHPRA Mandatory Reporting of Impaired Health Practitioners Section 141 National Law",
+    "Ethics",
+    "General Principles",
+    "statutory legal obligation to notify AHPRA when a practitioner places the public at risk due to impairment",
+    "Medical Board of Australia Mandatory Notifications Guidelines",
+    "https://www.medicalboard.gov.au/codes-guidelines-policies/mandatory-notifications.aspx"
+  ],
+  [
+    "Informed Consent Australian Law Rogers v Whitaker Material Risk Disclosure Standard",
+    "Ethics",
+    "General Principles",
+    "legal duty to warn of any risk that a reasonable person or this specific patient would attach significance to",
+    "Medical Board of Australia Good Medical Practice",
+    "https://www.medicalboard.gov.au/codes-guidelines-policies/code-of-conduct.aspx"
+  ],
+  [
+    "Refusal of Medical Treatment Competent Adult Advance Care Directive Validity in Australia",
+    "Ethics",
+    "General Principles",
+    "statutory adherence to valid written Advance Care Directive refusing life-sustaining interventions",
+    "Advance Care Planning Australia Clinical Guidelines",
+    "https://www.advancecareplanning.org.au/"
+  ],
+  [
+    "Substitute Decision-Maker Legislation Victorian Medical Treatment Planning and Decisions Act",
+    "Ethics",
+    "General Principles",
+    "appointed Medical Treatment Decision Maker making decisions based on the patient's known values and preferences",
+    "Office of the Public Advocate Victoria Guidance",
+    "https://www.publicadvocate.vic.gov.au/"
+  ],
+  [
+    "Open Disclosure National Standard Australian Commission on Safety and Quality in Health Care",
+    "Ethics",
+    "General Principles",
+    "timely and honest communication with patients when unintended clinical harm or adverse events occur",
+    "ACSQHC Australian Open Disclosure Framework",
+    "https://www.safetyandquality.gov.au/our-work/open-disclosure"
+  ],
+  [
+    "Fitness to Drive Guidelines Austroads Assessing Fitness to Drive Commercial vs Private Vehicle",
+    "Medicine",
+    "Nervous System",
+    "mandatory 6-month non-driving period following unprovoked epileptic seizure for private vehicle license",
+    "Austroads Assessing Fitness to Drive",
+    "https://austroads.com.au/drivers-and-vehicles/assessing-fitness-to-drive"
+  ],
+  [
+    "Notifiable Conditions Public Health Act Urgent Notification of Measles and Meningococcal Disease",
+    "Medicine",
+    "General Principles",
+    "immediate telephone notification of local public health unit enabling contact tracing and chemoprophylaxis",
+    "Australian National Notifiable Diseases Surveillance System",
+    "https://www.health.gov.au/our-work/nndss"
+  ],
+  [
+    "Child Abuse and Neglect Mandatory Reporting in Australian Jurisdictions Child Protection Notice",
+    "Pediatrics",
+    "General Principles",
+    "statutory requirement to report reasonable suspicion of child sexual abuse, physical abuse, or neglect",
+    "Australian Institute of Family Studies Mandatory Reporting",
+    "https://aifs.gov.au/"
+  ],
+  [
+    "Coroner Referral Australian Guidelines Reportable Deaths Following Unexpected Hospital Mortalities",
+    "Ethics",
+    "General Principles",
+    "mandatory referral of unexpected, unnatural, or surgical perioperative deaths within 24 hours to the State Coroner",
+    "Coroners Court of Victoria Reportable Deaths Guide",
+    "https://www.coronerscourt.vic.gov.au/"
+  ],
+  [
+    "Prescription of Drugs of Dependence Schedule 8 Permit Requirements in Australian States",
+    "Ethics",
+    "Behavioral Health",
+    "obtaining State Department of Health permit prior to prescribing ongoing opioids or stimulants for chronic conditions",
+    "State Government Health Schedule 8 Prescribing Rules",
+    "https://www.health.vic.gov.au/drugs-and-poisons/schedule-8-permits"
+  ],
+  [
+    "Therapeutic Drug Monitoring Digoxin Toxicity in Elderly Patients Renal Clearance",
+    "Pharmacology",
+    "Cardiovascular",
+    "serum digoxin sampling at least 6-8 hours post-dose, with IV digoxin-specific antibody fragments for arrhythmias",
+    "Therapeutic Guidelines Cardiovascular Digoxin Monitoring",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Warfarin Reversal Australian Consensus Guidelines INR > 9 with Major Bleeding 4F-Prothrombinex",
+    "Pharmacology",
+    "Hematology",
+    "immediate IV prothrombin complex concentrate (Prothrombinex-VF 50 IU/kg) plus IV vitamin K 5-10 mg",
+    "Australian and New Zealand Society of Blood Transfusion (ANZSBT) Warfarin Reversal Guidelines",
+    "https://anzsbt.org.au/"
+  ],
+  [
+    "DOAC Reversal Idarucizumab for Dabigatran and Andexanet Alfa for Factor Xa Inhibitors",
+    "Pharmacology",
+    "Hematology",
+    "intravenous idarucizumab 5 g bolus for emergency dabigatran reversal prior to urgent neurosurgery",
+    "Therapeutic Guidelines Hematology DOAC Management",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Methotrexate Toxicity Prevention Weekly Dosing and Mandatory Concomitant Folic Acid",
+    "Pharmacology",
+    "Musculoskeletal",
+    "patient and pharmacy education on once-weekly oral methotrexate administration with folic acid on non-methotrexate days",
+    "Australian Commission on Safety and Quality High-Risk Medicines",
+    "https://www.safetyandquality.gov.au/"
+  ],
+  [
+    "Serotonin Syndrome vs Neuroleptic Malignant Syndrome Hunter Criteria Differentiation",
+    "Pharmacology",
+    "Behavioral Health",
+    "spontaneous clonus, inducible clonus, and hyperreflexia confirming serotonin syndrome over lead-pipe rigidity",
+    "Therapeutic Guidelines Toxicology Hunter Serotonin Toxicity Criteria",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Paracetamol Poisoning Australian Guidelines Rumack-Matthew Modified Nomogram and IV Acetylcysteine",
+    "Pharmacology",
+    "Gastrointestinal",
+    "intravenous N-acetylcysteine two-bag simplified infusion protocol initiated based on 4-hour paracetamol line",
+    "Therapeutic Guidelines Toxicology Paracetamol Overdose",
+    "https://www.tg.org.au/"
+  ],
+  [
+    "Relative Risk vs Absolute Risk Reduction Understanding Number Needed to Treat (NNT)",
+    "Biostatistics",
+    "General Principles",
+    "NNT = 1 / ARR calculation demonstrating clinical meaningfulness of pharmaceutical interventions in primary care",
+    "NHMRC Evidence Hierarchy Guidelines",
+    "https://www.nhmrc.gov.au/"
+  ],
+  [
+    "Diagnostic Test Evaluation Sensitivity, Specificity, Positive Predictive Value (PPV) and Prevalence",
+    "Biostatistics",
+    "General Principles",
+    "comprehending that disease prevalence directly modulates PPV and NPV while sensitivity and specificity remain constant",
+    "Australian Family Physician Statistics in Medicine",
+    "https://www.racgp.org.au/afp/"
+  ],
+  [
+    "Randomized Controlled Trials Intention-to-Treat (ITT) Analysis vs Per-Protocol Analysis",
+    "Biostatistics",
+    "General Principles",
+    "analyzing all participants according to original randomized group assignment preserving balance of prognostic variables",
+    "NHMRC Clinical Trial Guidelines",
+    "https://www.nhmrc.gov.au/"
+  ],
+  [
+    "Systematic Reviews and Meta-Analyses Forest Plot Interpretation and I-squared Heterogeneity",
+    "Biostatistics",
+    "General Principles",
+    "evaluating pooled odds ratios, 95% confidence intervals, and percentage variability due to true study heterogeneity",
+    "Cochrane Handbook for Systematic Reviews of Interventions",
+    "https://training.cochrane.org/handbook"
+  ]
+]
+
+MCCQE_TOPICS = [
+  [
+    "CanMEDS Health Advocate Role Navigating Social Determinants of Health in Remote Canada",
+    "Ethics",
+    "General Principles",
+    "collaborating with local community services to address housing insecurity, food security, and indigenous access",
+    "Royal College of Physicians and Surgeons of Canada CanMEDS Framework",
+    "https://www.royalcollege.ca/ca/en/canmeds.html"
+  ],
+  [
+    "CanMEDS Leader Role Clinical Governance and Incident Root Cause Analysis (RCA)",
+    "Ethics",
+    "General Principles",
+    "multidisciplinary systems-based review of critical clinical incidents without individual punitive blaming",
+    "Canadian Patient Safety Institute Guidelines",
+    "https://www.patientsafetyinstitute.ca/"
+  ],
+  [
+    "CMPA Guidance Apologizing After Adverse Events Apology Acts Across Canadian Provinces",
+    "Ethics",
+    "General Principles",
+    "statutory protection ensuring an expression of sympathy or regret does not constitute legal liability or admission of fault",
+    "Canadian Medical Protective Association Apology Handbook",
+    "https://www.cmpa-acpm.ca/en/advice-publications/handbooks/apology"
+  ],
+  [
+    "Duty to Report Unfit Drivers to Provincial Ministries of Transportation (Highway Traffic Act)",
+    "Ethics",
+    "Nervous System",
+    "mandatory physician notification to provincial licensing authorities of medical conditions impairing safe driving",
+    "Canadian Medical Association Driver Guide",
+    "https://www.cma.ca/driver-guide"
+  ],
+  [
+    "Child Protection Reporting in Canada Reasonable Grounds Threshold Provincial CFSA Legislation",
+    "Pediatrics",
+    "General Principles",
+    "immediate statutory duty to notify Children's Aid Society (CAS) upon suspecting child neglect or abuse",
+    "Canadian Paediatric Society Child Maltreatment Guidelines",
+    "https://cps.ca/en/documents/position/child-maltreatment"
+  ],
+  [
+    "Substitute Decisions Act Consent Hierarchy in Ontario Guardian, Attorney, Spouse, Children",
+    "Ethics",
+    "General Principles",
+    "following statutory hierarchy of substitute decision-makers when adult patient lacks clinical decision-making capacity",
+    "Health Care Consent Act Ontario CMPA Guidance",
+    "https://www.cmpa-acpm.ca/"
+  ],
+  [
+    "Privacy and Personal Health Information Protection Act (PHIPA) Breaches and Notification",
+    "Ethics",
+    "General Principles",
+    "safeguarding electronic health records and mandatory reporting of privacy breaches to Information and Privacy Commissioner",
+    "CMPA Electronic Records and Privacy Guidelines",
+    "https://www.cmpa-acpm.ca/"
+  ],
+  [
+    "Medical Assistance in Dying (MAID) Procedural Safeguards Independent Assessors and Conscientious Objection",
+    "Ethics",
+    "General Principles",
+    "obligation to provide an effective and timely transfer of care if exercising conscientious objection to MAID",
+    "CMA Policy on Medical Assistance in Dying",
+    "https://www.cma.ca/"
+  ],
+  [
+    "Confidentiality in Adolescents Mature Minor Doctrine (Fraser Guidelines Equivalent in Canada)",
+    "Ethics",
+    "General Principles",
+    "recognizing adolescent legal capacity to consent to contraceptive or mental health care if capable of understanding",
+    "Canadian Paediatric Society Adolescent Confidentiality",
+    "https://cps.ca/en/documents/position/confidentiality-in-adolescent-health-care"
+  ],
+  [
+    "Research Ethics Tri-Council Policy Statement (TCPS 2) Free, Informed, and Ongoing Consent",
+    "Ethics",
+    "General Principles",
+    "institutional research ethics board (REB) approval and autonomous voluntary consent for clinical research",
+    "Government of Canada Panel on Research Ethics TCPS 2",
+    "https://ethics.gc.ca/eng/tcps2-eptc2_2022_chapter3-chapitre3.html"
+  ],
+  [
+    "CTFPHC Abdominal Aortic Aneurysm (AAA) Screening Ultrasound Men Aged 65-80",
+    "Medicine",
+    "Cardiovascular",
+    "one-time abdominal ultrasound screening for men aged 65-80 reducing AAA rupture and aneurysm-related mortality",
+    "Canadian Task Force on Preventive Health Care AAA Guidelines",
+    "https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/"
+  ],
+  [
+    "CTFPHC Lung Cancer Screening Low-Dose CT (LDCT) High-Risk Smoker Criteria",
+    "Medicine",
+    "Respiratory",
+    "annual low-dose computed tomography screening for adults aged 55-74 with at least 30 pack-year smoking history",
+    "CTFPHC Lung Cancer Screening Recommendations",
+    "https://canadiantaskforce.ca/guidelines/published-guidelines/lung-cancer/"
+  ],
+  [
+    "CTFPHC Prostate Cancer Screening PSA Shared Decision-Making Discussion",
+    "Surgery",
+    "Renal",
+    "recommending against routine population-based PSA screening unless informed patient requests it after discussing risks",
+    "CTFPHC Prostate Cancer Screening Guidelines",
+    "https://canadiantaskforce.ca/guidelines/published-guidelines/prostate-cancer/"
+  ],
+  [
+    "CTFPHC Fragility Fracture Risk Assessment (CAROC Tool) in Men and Women Over 50",
+    "Geriatrics",
+    "Musculoskeletal",
+    "stratifying 10-year major osteoporotic fracture risk into low (< 10%), moderate (10-20%), and high (> 20%)",
+    "Osteoporosis Canada Clinical Practice Guidelines",
+    "https://osteoporosis.ca/clinical-practice-guidelines/"
+  ],
+  [
+    "CTFPHC Depression Screening in Adults Asymptomatic Population Recommendations",
+    "Psychiatry",
+    "Behavioral Health",
+    "recommending against routine unselected questionnaire screening in primary care in absence of clinical indications",
+    "CTFPHC Depression Screening Guidelines",
+    "https://canadiantaskforce.ca/guidelines/published-guidelines/depression-update/"
+  ],
+  [
+    "Choosing Wisely Canada Sedative-Hypnotics in Older Adults Beers Criteria and Deprescribing",
+    "Geriatrics",
+    "Behavioral Health",
+    "avoiding benzodiazepines and Z-drugs for insomnia in elderly patients tapering with non-pharmacologic CBT-I",
+    "Choosing Wisely Canada Geriatrics Recommendations",
+    "https://choosingwiselycanada.org/geriatrics/"
+  ],
+  [
+    "Choosing Wisely Canada Antimicrobial Stewardship in Acute Uncomplicated Rhinosinusitis",
+    "Medicine",
+    "Respiratory",
+    "withholding antibiotic therapy for symptoms lasting < 10 days managing with saline rinses and intranasal steroids",
+    "Choosing Wisely Canada Infectious Disease Recommendations",
+    "https://choosingwiselycanada.org/"
+  ],
+  [
+    "Choosing Wisely Canada Avoiding Daily Routine Blood Draws in Stable Inpatients",
+    "Medicine",
+    "Hematology",
+    "eliminating routine repetitive morning venipuncture in non-ICU stable patients preventing hospital-acquired anemia",
+    "Choosing Wisely Canada Internal Medicine Recommendations",
+    "https://choosingwiselycanada.org/internal-medicine/"
+  ],
+  [
+    "Choosing Wisely Canada Avoiding Preoperative Chest X-Ray in Asymptomatic Patients",
+    "Medicine",
+    "General Principles",
+    "omitting baseline screening radiography prior to low-risk elective procedures in absence of cardiopulmonary signs",
+    "Choosing Wisely Canada Anesthesiology Recommendations",
+    "https://choosingwiselycanada.org/anesthesiology/"
+  ],
+  [
+    "Choosing Wisely Canada Imaging for Acute Ankle Trauma Ottawa Ankle Rules Application",
+    "Surgery",
+    "Musculoskeletal",
+    "ordering plain ankle radiography only if tenderness at posterior lateral/medial malleolus or inability to bear weight",
+    "Choosing Wisely Canada Emergency Medicine Recommendations",
+    "https://choosingwiselycanada.org/emergency-medicine/"
+  ],
+  [
+    "CCS Atrial Fibrillation Management Rate vs Rhythm Control Strategies",
+    "Medicine",
+    "Cardiovascular",
+    "first-line beta-blocker or calcium channel blocker rate control targeting resting ventricular rate < 100 bpm",
+    "CCS Guidelines for the Management of Atrial Fibrillation",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "Hypertension Canada Secondary Hypertension Screening Primary Hyperaldosteronism ARR Ratio",
+    "Medicine",
+    "Endocrine",
+    "aldosterone-to-renin ratio (ARR) screening in resistant hypertension or hypokalemia following medication washout",
+    "Hypertension Canada Guidelines Secondary Hypertension",
+    "https://guidelines.hypertension.ca/"
+  ],
+  [
+    "CCS Dyslipidemia High-Risk Secondary Prevention Target LDL-C < 1.4 mmol/L",
+    "Medicine",
+    "Cardiovascular",
+    "intensive statin therapy combined with ezetimibe targeting LDL-C < 1.4 mmol/L or >= 50% baseline reduction",
+    "CCS Lipid Guidelines Secondary Prevention",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "CCS Antiplatelet Therapy Post-PCI Dual Antiplatelet Therapy (DAPT) Duration Guidelines",
+    "Medicine",
+    "Cardiovascular",
+    "aspirin plus ticagrelor or prasugrel for 12 months post-ACS, shortening to 3-6 months for high bleeding risk",
+    "CCS DAPT Guidelines Update",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "CCS Cardiac Resynchronization Therapy (CRT-D) Indications in Severe HFrEF with LBBB",
+    "Medicine",
+    "Cardiovascular",
+    "biventricular pacing for NYHA Class II-IV symptoms, LVEF <= 35%, sinus rhythm, and QRS >= 150 ms with LBBB pattern",
+    "CCS/CHFS Heart Failure Guidelines",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "Hypertension in Pregnancy Hypertension Canada SOGC First-Line Methyldopa, Labetalol, Nifedipine",
+    "Obstetrics",
+    "Pregnancy",
+    "antihypertensive treatment targeting diastolic BP 85 mm Hg avoiding ACE inhibitors and ARBs due to fetotoxicity",
+    "Hypertension Canada Guidelines in Pregnancy",
+    "https://guidelines.hypertension.ca/"
+  ],
+  [
+    "Syncope Canadian Cardiovascular Society Risk Score (CCSRSC) Emergency Stratification",
+    "Medicine",
+    "Cardiovascular",
+    "validation of 30-day serious cardiovascular outcome risk guiding emergency department disposition vs admission",
+    "Canadian Cardiovascular Society Syncope Guidelines",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "Infective Endocarditis Duke Criteria Modified Blood Cultures and Transesophageal Echocardiogram",
+    "Medicine",
+    "Cardiovascular",
+    "three sets of blood cultures obtained prior to empiric IV vancomycin plus ceftriaxone and early TEE evaluation",
+    "AHA/CCS Endocarditis Guidelines",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "Pericarditis Acute Presentation High-Dose Colchicine Plus NSAIDs Protocol",
+    "Medicine",
+    "Cardiovascular",
+    "oral ibuprofen 600 mg three times daily plus oral colchicine 0.6 mg daily for 3 months preventing recurrence",
+    "CCS Guidelines Management of Pericardial Diseases",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "Peripheral Artery Disease CCS Guidelines Supervised Exercise and Cilostazol",
+    "Medicine",
+    "Cardiovascular",
+    "structured 12-week supervised treadmill exercise therapy combined with daily aspirin and high-intensity statin",
+    "CCS Peripheral Arterial Disease Guidelines",
+    "https://ccs.ca/guidelines-and-policy/"
+  ],
+  [
+    "CTS Asthma Stepwise Escalation Inhaled Corticosteroid-Formoterol Maintenance and Reliever Therapy (MART)",
+    "Medicine",
+    "Respiratory",
+    "single-inhaler budesonide-formoterol used for daily baseline maintenance and as-needed symptom relief",
+    "CTS Asthma Clinical Practice Guideline",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "CTS Severe COPD Long-Term Oxygen Therapy (LTOT) Indications PaO2 < 55 mm Hg",
+    "Medicine",
+    "Respiratory",
+    "nocturnal and daytime continuous supplemental oxygen for >= 15 hours daily improving survival in severe hypoxemia",
+    "CTS Clinical Practice Guideline Oxygen Therapy in COPD",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Idiopathic Pulmonary Fibrosis (IPF) CTS Guidelines High-Resolution Chest CT (UIP Pattern)",
+    "Medicine",
+    "Respiratory",
+    "subpleural basal reticulation and honeycombing without atypical features initiating antifibrotic pirfenidone or nintedanib",
+    "CTS Clinical Practice Guideline Idiopathic Pulmonary Fibrosis",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Sarcoidosis Staging Scadding Chest Radiograph Classification and Oral Prednisone",
+    "Medicine",
+    "Respiratory",
+    "bilateral hilar lymphadenopathy (Stage I) managed expectantly; parenchymal infiltration (Stage II/III) treated with steroids",
+    "CTS Guidelines on Sarcoidosis",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Obstructive Sleep Apnea (OSA) Diagnostic Polysomnography Apnea-Hypopnea Index (AHI)",
+    "Medicine",
+    "Respiratory",
+    "level 1 overnight sleep study showing AHI >= 15 events/hr indicating nocturnal continuous positive airway pressure (CPAP)",
+    "CTS Clinical Practice Guideline Sleep Apnea",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Pleural Effusion Light Criteria Exudate vs Transudate Differentiation",
+    "Medicine",
+    "Respiratory",
+    "pleural fluid protein/serum protein > 0.5 or pleural fluid LDH/serum LDH > 0.6 indicating exudative pathology",
+    "CTS Guidelines on Management of Pleural Diseases",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Community-Acquired Pneumonia CTS/AMMI Canada Outpatient Amoxicillin or Macrolide",
+    "Medicine",
+    "Respiratory",
+    "high-dose oral amoxicillin 1 g three times daily or azithromycin 500 mg day 1 then 250 mg for mild outpatient CAP",
+    "CTS/AMMI Canada Management of Community-Acquired Pneumonia",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Bronchiectasis High-Resolution CT Honeycomb Bronchial Dilation and Airway Clearance",
+    "Medicine",
+    "Respiratory",
+    "daily oscillating positive expiratory pressure (OPEP) flutter valve therapy and hypertonic saline nebulizers",
+    "CTS Guidelines for Chronic Bronchiectasis",
+    "https://cts-sct.ca/guidelines-library/"
+  ],
+  [
+    "Tuberculosis Latent Infection Tuberculin Skin Test (TST) vs IGRA and 4 Months Rifampin",
+    "Microbiology",
+    "Respiratory",
+    "daily oral rifampin 600 mg for 4 months as preferred short-course regimen for positive IGRA with normal chest X-ray",
+    "Canadian Tuberculosis Standards 8th Edition",
+    "https://www.canada.ca/en/public-health/services/infectious-diseases/canadian-tuberculosis-standards-8th-edition.html"
+  ],
+  [
+    "Cystic Fibrosis in Canadian Adults CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Trikafta)",
+    "Medicine",
+    "Respiratory",
+    "triple combination CFTR therapy for patients with at least one F508del mutation improving FEV1 and BMI",
+    "Cystic Fibrosis Canada Clinical Care Guidelines",
+    "https://www.cysticfibrosis.ca/"
+  ],
+  [
+    "CSN Chronic Kidney Disease SGLT2 Inhibitor Dapagliflozin Renoprotection eGFR Threshold",
+    "Medicine",
+    "Renal",
+    "initiation of dapagliflozin 10 mg daily for eGFR 25-75 mL/min/1.73m2 with albuminuria reducing progression",
+    "Canadian Society of Nephrology Clinical Practice Guidelines",
+    "https://www.csnscn.ca/"
+  ],
+  [
+    "IgA Nephropathy Proteinuria > 1 g/day Optimized ACEi/ARB and Targeted-Release Budesonide",
+    "Medicine",
+    "Renal",
+    "maximally tolerated renin-angiotensin blockade followed by targeted gut-release budesonide for persistent proteinuria",
+    "KDIGO/CSN Guidelines Glomerular Diseases",
+    "https://www.csnscn.ca/"
+  ],
+  [
+    "Autosomal Dominant Polycystic Kidney Disease (ADPKD) Mayo Imaging Class and Tolvaptan",
+    "Medicine",
+    "Renal",
+    "total kidney volume measurement via MRI initiating oral vasopressin V2-receptor antagonist tolvaptan",
+    "CSN Recommendations ADPKD",
+    "https://www.csnscn.ca/"
+  ],
+  [
+    "Acute Kidney Injury KDIGO Staging Oliguria vs Serum Creatinine Rise Fluid Responsiveness",
+    "Medicine",
+    "Renal",
+    "bedside ultrasound of inferior vena cava and fluid challenge, avoiding nephrotoxic NSAIDs and aminoglycosides",
+    "CSN Guidelines for Management of AKI",
+    "https://www.csnscn.ca/"
+  ],
+  [
+    "Helicobacter pylori Infection CAG Guidelines Bismuth Quadruple Therapy for 14 Days",
+    "Microbiology",
+    "Gastrointestinal",
+    "PPI twice daily, bismuth subsalicylate, metronidazole, and tetracycline for 14 days as first-line eradication",
+    "CAG Clinical Practice Guidelines on Helicobacter pylori",
+    "https://www.cag-acg.org/guidelines"
+  ],
+  [
+    "Inflammatory Bowel Disease Ulcerative Colitis Mild-Moderate Oral 5-ASA 4 g/day Induction",
+    "Medicine",
+    "Gastrointestinal",
+    "oral mesalamine 4 g daily combined with topical mesalamine suppositories or enemas for distal proctitis",
+    "CAG Clinical Practice Guidelines for Inducing Remission in Ulcerative Colitis",
+    "https://www.cag-acg.org/guidelines"
+  ],
+  [
+    "Crohn Disease Ileocecal Resection vs Early Biologic Infliximab/Adalimumab Therapy",
+    "Medicine",
+    "Gastrointestinal",
+    "early anti-TNF biologic therapy for deep ulcerations or stricturing/penetrating disease phenotype",
+    "CAG Clinical Practice Guidelines Crohn Disease",
+    "https://www.cag-acg.org/guidelines"
+  ],
+  [
+    "Non-Alcoholic Fatty Liver Disease (NAFLD/MASLD) FIB-4 Score Primary Care Stratification",
+    "Medicine",
+    "Gastrointestinal",
+    "FIB-4 score integration (age, AST, ALT, platelets); scores > 1.3 warranting transient elastography (FibroScan)",
+    "Canadian Association for the Study of the Liver (CASL) Guidelines",
+    "https://casl-aces.ca/guidelines/"
+  ],
+  [
+    "Cirrhosis Ascites SBP Prophylaxis Primary and Secondary Ceftriaxone vs Ciprofloxacin",
+    "Pharmacology",
+    "Gastrointestinal",
+    "paracentesis PMN count >= 250 cells/mcL treated with IV ceftriaxone, followed by oral fluoroquinolone prophylaxis",
+    "CASL Management of Cirrhotic Ascites",
+    "https://casl-aces.ca/guidelines/"
+  ],
+  [
+    "Acute Pancreatitis Canadian Guidelines Early Goal-Directed Ringer Lactate and Enteral Nutrition",
+    "Medicine",
+    "Gastrointestinal",
+    "balanced crystalloid hydration (200-250 mL/hr) and early oral feeding within 24 hours as tolerated",
+    "CAG Guidelines on Management of Acute Pancreatitis",
+    "https://www.cag-acg.org/guidelines"
+  ],
+  [
+    "SOGC Recurrent Pregnancy Loss Antiphospholipid Syndrome Low-Dose Aspirin and Prophylactic LMWH",
+    "Obstetrics",
+    "Pregnancy",
+    "dual therapy with aspirin 81 mg daily and subcutaneous enoxaparin 40 mg daily throughout pregnancy",
+    "SOGC Recurrent Pregnancy Loss Guidelines",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Preterm Labor Management Tocolysis with Indomethacin vs Nifedipine at < 32 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "oral nifedipine or rectal indomethacin for 48 hours allowing completion of antenatal betamethasone course",
+    "SOGC Management of Preterm Labour",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Induction of Labor Indications Post-Dates Pregnancy at 41+0 to 42+0 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "offering membrane sweep and cervical ripening with dinoprostone or Foley balloon catheter at 41 weeks",
+    "SOGC Induction of Labour Guidelines",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Trial of Labor After Cesarean (TOLAC) Eligibility and Uterine Rupture Risk (0.5%)",
+    "Obstetrics",
+    "Pregnancy",
+    "continuous fetal heart rate monitoring and rapid surgical availability for candidate women with single prior low transverse incision",
+    "SOGC Guidelines for Vaginal Birth After Previous Low-Segment Cesarean Section",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Pelvic Inflammatory Disease Outpatient Ceftriaxone 250 mg IM Plus Doxycycline and Metronidazole",
+    "Obstetrics",
+    "Pregnancy",
+    "single IM ceftriaxone injection followed by oral doxycycline 100 mg twice daily and metronidazole 500 mg twice daily for 14 days",
+    "SOGC Guidelines on Pelvic Inflammatory Disease",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Contraceptive Counseling Intrauterine Device (IUD) Levonorgestrel vs Copper",
+    "Obstetrics",
+    "Pregnancy",
+    "discussing 52 mg levonorgestrel IUD providing 8 years of ultra-effective contraception and reducing heavy menstrual bleeding",
+    "SOGC Canadian Contraceptive Consensus Guidelines",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Abnormal Uterine Bleeding PALM-COEIN Classification and First-Line Medical Therapy",
+    "Obstetrics",
+    "Pregnancy",
+    "structural (Polyp, Adenomyosis, Leiomyoma, Malignancy) vs non-structural etiologies treated with oral tranexamic acid or LNG-IUD",
+    "SOGC Clinical Guidelines on Abnormal Uterine Bleeding",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Polycystic Ovary Syndrome (PCOS) Rotterdam Criteria and Lifestyle Modification",
+    "Obstetrics",
+    "Pregnancy",
+    "diagnosis requiring 2 of 3 criteria (oligo-anovulation, hyperandrogenism, polycystic ovaries on ultrasound) with metformin/letrozole",
+    "SOGC PCOS Clinical Practice Guidelines",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Menopausal Hormone Therapy (MHT) Window of Opportunity < 60 Years or < 10 Years Post-Menopause",
+    "Obstetrics",
+    "Pregnancy",
+    "favorable benefit-risk profile for systemic estrogen in symptomatic women within 10 years of menopause onset",
+    "SOGC Guidelines on Menopausal Hormone Therapy",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "SOGC Female Urinary Incontinence Stress vs Urgency Pelvic Floor Muscle Training First-Line",
+    "Obstetrics",
+    "Pregnancy",
+    "supervised pelvic floor physical therapy (Kegel exercises) for at least 12 weeks before surgical midurethral sling",
+    "SOGC Guidelines on Female Urinary Incontinence",
+    "https://www.sogc.org/en/guidelines-and-position-statements/"
+  ],
+  [
+    "CPS Neonatal Sepsis Early-Onset Ampicillin and Gentamicin Regimen",
+    "Pediatrics",
+    "General Principles",
+    "empiric intravenous ampicillin 100 mg/kg/dose and gentamicin 4-5 mg/kg for suspected chorioamnionitis or neonatal respiratory distress",
+    "CPS Management of Neonates Born to Mothers with Risk Factors for Sepsis",
+    "https://cps.ca/en/documents/position/neonatal-sepsis"
+  ],
+  [
+    "CPS Failure to Thrive in Infants Dietary History and Outpatient Caloric Fortification",
+    "Pediatrics",
+    "General Principles",
+    "accurate 3-day dietary caloric assessment and concentrated infant formula feeding prior to extensive laboratory workup",
+    "CPS Guidelines on Failure to Thrive",
+    "https://cps.ca/en/documents/position/failure-to-thrive"
+  ],
+  [
+    "CPS Developmental Surveillance 18-Month Enhanced Well-Baby Visit Rourke Baby Record",
+    "Pediatrics",
+    "General Principles",
+    "standardized assessment of motor, language, and social milestones identifying developmental delays early",
+    "Rourke Baby Record Canadian National Guidelines",
+    "https://www.rourkebabyrecord.net/"
+  ],
+  [
+    "CPS Kawasaki Disease Diagnosis 5-Day Fever and Incomplete Kawasaki Algorithm",
+    "Pediatrics",
+    "Cardiovascular",
+    "bilateral conjunctival injection, oral changes, extremity changes, rash, cervical adenopathy treated with IVIG and aspirin",
+    "CPS Kawasaki Disease Clinical Guidance",
+    "https://cps.ca/en/documents/position/kawasaki-disease"
+  ],
+  [
+    "CPS Pediatric Type 1 Diabetes Diabetic Ketoacidosis (DKA) Two-Bag Fluid Protocol",
+    "Pediatrics",
+    "Endocrine",
+    "normal saline fluid deficit replacement over 48 hours and continuous IV insulin 0.05-0.1 U/kg/hr avoiding rapid cerebral edema",
+    "CPS Management of Pediatric Diabetic Ketoacidosis",
+    "https://cps.ca/en/documents/position/pediatric-dka"
+  ],
+  [
+    "CPS Constipation in Children Polyethylene Glycol (PEG 3350) First-Line Disimpaction",
+    "Pediatrics",
+    "Gastrointestinal",
+    "oral osmotic laxative PEG 3350 (1-1.5 g/kg/day for 3-6 days) followed by maintenance therapy for several months",
+    "CPS Functional Constipation in Children",
+    "https://cps.ca/en/documents/position/functional-constipation"
+  ],
+  [
+    "CPS Community-Acquired Pneumonia in Children High-Dose Oral Amoxicillin 90 mg/kg/day",
+    "Pediatrics",
+    "Respiratory",
+    "empiric high-dose amoxicillin divided twice daily targeting penicillin-resistant Streptococcus pneumoniae",
+    "CPS Management of Community-Acquired Pneumonia in Children",
+    "https://cps.ca/en/documents/position/pneumonia-in-children"
+  ],
+  [
+    "CPS Acute Otitis Media Watchful Waiting in Mild Unilateral Cases Over 6 Months",
+    "Pediatrics",
+    "Nervous System",
+    "48-hour observation without antibiotics for afebrile mild unilateral ear pain in children aged >= 6 months",
+    "CPS Clinical Practice Guideline Acute Otitis Media",
+    "https://cps.ca/en/documents/position/acute-otitis-media"
+  ],
+  [
+    "CPS Pediatric Head Injury PECARN Decision Rules for Cranial CT Scan",
+    "Pediatrics",
+    "Nervous System",
+    "identifying low-risk head injury in children allowing observation without unnecessary radiation exposure",
+    "CPS Guidelines on Management of Pediatric Head Injury",
+    "https://cps.ca/en/documents/position/pediatric-head-injury"
+  ],
+  [
+    "CPS Anaphylaxis Epinephrine Auto-Injector Dose 0.15 mg vs 0.3 mg by Body Weight",
+    "Pediatrics",
+    "General Principles",
+    "intramuscular epinephrine 0.15 mg for child weight 10-25 kg, and 0.3 mg for child weight > 25 kg in mid-anterolateral thigh",
+    "CPS Anaphylaxis Clinical Practice Guideline",
+    "https://cps.ca/en/documents/position/anaphylaxis-treatment"
+  ],
+  [
+    "CANMAT Major Depressive Disorder Switching vs Augmentation Strategy After First SSRI Failure",
+    "Psychiatry",
+    "Behavioral Health",
+    "augmenting with aripiprazole, quetiapine, or bupropion vs switching to venlafaxine for non-remission at 6 weeks",
+    "CANMAT Guidelines for the Management of Adults with MDD",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "CANMAT Bipolar Depression First-Line Quetiapine, Lurasidone, or Lithium Monotherapy",
+    "Psychiatry",
+    "Behavioral Health",
+    "avoiding antidepressant monotherapy which risks inducing manic polarity switch or rapid cycling",
+    "CANMAT Bipolar Guidelines Update",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "CANMAT Generalized Anxiety Disorder SNRI Venlafaxine and Duloxetine Efficacy",
+    "Psychiatry",
+    "Behavioral Health",
+    "titrated oral extended-release venlafaxine 75-225 mg daily combined with relaxation training and cognitive therapy",
+    "CANMAT Guidelines for the Management of Anxiety Disorders",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "CANMAT Insomnia Cognitive Behavioral Therapy for Insomnia (CBT-I) as First-Line Over Z-Drugs",
+    "Psychiatry",
+    "Behavioral Health",
+    "sleep restriction, stimulus control, and sleep hygiene delivering superior durable sleep consolidation",
+    "CANMAT Clinical Guidelines Sleep Disorders in Psychiatry",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "ADHD in Canadian Adults Canadian ADHD Resource Alliance (CADDRA) Guidelines",
+    "Psychiatry",
+    "Behavioral Health",
+    "long-acting stimulant psychostimulants (lisdexamfetamine, extended-release methylphenidate) as first-line pharmacotherapy",
+    "CADDRA Canadian ADHD Practice Guidelines",
+    "https://www.caddra.ca/canadian-adhd-practice-guidelines/"
+  ],
+  [
+    "Post-Traumatic Stress Disorder (PTSD) Trauma-Focused CBT and Eye Movement Desensitization (EMDR)",
+    "Psychiatry",
+    "Behavioral Health",
+    "evidence-based trauma-focused psychotherapy before initiating pharmacotherapy with sertraline or paroxetine",
+    "CANMAT Clinical Guidelines PTSD",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "Obsessive-Compulsive Disorder (OCD) High-Dose SSRI and Exposure and Response Prevention (ERP)",
+    "Psychiatry",
+    "Behavioral Health",
+    "specialized behavioral ERP therapy combined with maximum licensed doses of fluoxetine, sertraline, or clomipramine",
+    "CANMAT OCD Management Guidelines",
+    "https://canmat.org/guidelines/"
+  ],
+  [
+    "Suicide Risk Assessment Canadian Association for Suicide Prevention Safety Planning Intervention",
+    "Psychiatry",
+    "Behavioral Health",
+    "structured collaborative safety plan identifying warning signs, internal coping strategies, and lethal means restriction",
+    "CASP Canadian Suicide Prevention Guidelines",
+    "https://suicideprevention.ca/"
+  ],
+  [
+    "Cannabis Use Disorder Motivational Interviewing and Psychosocial Rehabilitation in Canada",
+    "Psychiatry",
+    "Behavioral Health",
+    "addressing increased potency cannabis dependence with outpatient motivational enhancement therapy",
+    "Canadian Centre on Substance Use and Addiction (CCSA) Guidelines",
+    "https://www.ccsa.ca/"
+  ],
+  [
+    "Delirium in Elderly Hospitalized Patients CAM Diagnostic Tool and Environmental De-escalation",
+    "Geriatrics",
+    "Behavioral Health",
+    "Confusion Assessment Method (CAM) assessment and reorientation, sleep hygiene, and treating underlying trigger",
+    "Canadian Coalition for Seniors' Mental Health Delirium Guidelines",
+    "https://ccsmh.ca/guidelines/delirium/"
+  ],
+  [
+    "Canadian Dermatology Association Atopic Dermatitis Emollients and Topical Tacrolimus",
+    "Medicine",
+    "Dermatology",
+    "daily ceramide-based moisturizers and twice-daily topical calcineurin inhibitors for sensitive facial dermatitis",
+    "CDA Clinical Practice Guidelines for Atopic Dermatitis",
+    "https://dermatology.ca/"
+  ],
+  [
+    "Psoriasis Plaque Moderate-Severe CDA Biologic Therapy (IL-17 and IL-23 Inhibitors)",
+    "Medicine",
+    "Dermatology",
+    "subcutaneous ixekizumab, secukinumab, or guselkumab achieving PASI 90/100 skin clearance",
+    "CDA Plaque Psoriasis Guidelines",
+    "https://dermatology.ca/"
+  ],
+  [
+    "Melanoma Canadian Management Guidelines Wide Local Excision Margins by Breslow Thickness",
+    "Surgery",
+    "Dermatology",
+    "1 cm surgical margin for Breslow thickness < 1 mm, and 2 cm margin for Breslow thickness > 2 mm with sentinel node biopsy",
+    "Canadian Dermatology Association Melanoma Guidelines",
+    "https://dermatology.ca/"
+  ],
+  [
+    "Basal Cell Carcinoma Superficial vs Nodular Histopathology and Mohs Micrographic Surgery",
+    "Surgery",
+    "Dermatology",
+    "complete margin-controlled excision for high-risk facial lesions preserving normal cosmetic anatomy",
+    "Canadian Association of Mohs Surgeons Clinical Standards",
+    "https://dermatology.ca/"
+  ],
+  [
+    "Osteoarthritis Knee Canadian Guidelines Weight Loss, Aerobic Exercise, and Topical NSAIDs",
+    "Medicine",
+    "Musculoskeletal",
+    "topical diclofenac gel 4% four times daily providing equivalent analgesia with reduced systemic gastrointestinal toxicity",
+    "Canadian Rheumatology Association OA Recommendations",
+    "https://rheum.ca/"
+  ],
+  [
+    "Systemic Lupus Erythematosus (SLE) CRA Guidelines Hydroxychloroquine Universal Prescription",
+    "Medicine",
+    "Musculoskeletal",
+    "oral hydroxychloroquine <= 5 mg/kg actual body weight daily for all SLE patients with annual retinal screening",
+    "Canadian Rheumatology Association SLE Guidelines",
+    "https://rheum.ca/"
+  ],
+  [
+    "Giant Cell Arteritis Canadian Diagnosis Temporal Artery Ultrasound Halo Sign vs Biopsy",
+    "Medicine",
+    "Cardiovascular",
+    "high-dose oral prednisone 60 mg daily initiated immediately without awaiting temporal artery biopsy",
+    "CRA Guidelines on Giant Cell Arteritis",
+    "https://rheum.ca/"
+  ],
+  [
+    "Canadian STI Guidelines Chlamydia trachomatis First-Line Doxycycline 100 mg BD for 7 Days",
+    "Medicine",
+    "General Principles",
+    "oral doxycycline 100 mg twice daily for 7 days preferred over single-dose azithromycin for rectal and urogenital infection",
+    "Public Health Agency of Canada STI Guidelines",
+    "https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines.html"
+  ],
+  [
+    "Gonorrhea Uncomplicated Urogenital Infection Ceftriaxone 500 mg IM Monotherapy",
+    "Medicine",
+    "General Principles",
+    "single intramuscular dose of ceftriaxone 500 mg for confirmed Neisseria gonorrhoeae overcoming macrolide resistance",
+    "PHAC Sexually Transmitted Infections Treatment Guidelines",
+    "https://www.canada.ca/en/public-health/services/infectious-diseases.html"
+  ],
+  [
+    "COVID-19 Therapeutics in Canada Paxlovid (Nirmatrelvir-Ritonavir) Drug-Drug Interaction Screen",
+    "Pharmacology",
+    "Respiratory",
+    "early 5-day oral antiviral course within 5 days of symptom onset for high-risk patients checking cytochrome P450 interactions",
+    "Health Canada COVID-19 Clinical Management Guidelines",
+    "https://www.canada.ca/en/health-canada.html"
+  ],
+  [
+    "CAEP Sepsis Resuscitation Balanced Crystalloid Bolus 30 mL/kg within 3 Hours",
+    "Medicine",
+    "General Principles",
+    "rapid peripheral intravenous Ringer lactate infusion with early blood cultures and broad-spectrum IV antibiotics",
+    "Canadian Association of Emergency Physicians Sepsis Guidelines",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "CAEP Anaphylaxis Intramuscular Epinephrine 0.5 mg Mid-Anterolateral Thigh First-Line",
+    "Pharmacology",
+    "General Principles",
+    "immediate IM epinephrine (1:1000) into vastus lateralis repeated every 5-15 minutes as needed before antihistamines",
+    "CAEP Anaphylaxis Clinical Practice Guidelines",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "Canadian C-Spine Rule Alert Stable Trauma Patients Cervical Radiography Decision Algorithm",
+    "Surgery",
+    "Nervous System",
+    "evaluating high-risk factors (age >= 65, dangerous mechanism, paresthesias) and low-risk factors allowing range of motion test",
+    "CAEP Canadian C-Spine Rule Implementation",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "Canadian CT Head Rule Minor Head Injury Neurological Deterioration Stratification",
+    "Surgery",
+    "Nervous System",
+    "identifying high-risk criteria (GCS < 15 at 2 hr, suspected open/depressed skull fracture, >= 2 vomiting episodes) for cranial CT",
+    "CAEP Canadian CT Head Rule",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "Acute Stroke CAEP Guidelines Thrombolysis Window with IV Tenecteplase Within 4.5 Hours",
+    "Medicine",
+    "Nervous System",
+    "rapid non-contrast brain CT and CTA followed by IV tenecteplase 0.25 mg/kg bolus for disabling ischemic deficits",
+    "Heart and Stroke Foundation of Canada Stroke Best Practice Recommendations",
+    "https://www.heartandstroke.ca/"
+  ],
+  [
+    "CAEP Opioid Overdose Take-Home Naloxone Distribution and Titrated IV/Nasal Naloxone",
+    "Pharmacology",
+    "Behavioral Health",
+    "immediate airway support and titrated doses of naloxone reversing respiratory depression without precipitating severe withdrawal",
+    "CAEP Position Statement Opioid Overdose and Harm Reduction",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "CAEP Acute Asthma Severe Exacerbation Continuous Nebulized Salbutamol and IV Magnesium",
+    "Pharmacology",
+    "Respiratory",
+    "back-to-back salbutamol/ipratropium nebulizers, oral prednisone 50 mg, and IV magnesium sulfate 2 g over 20 minutes",
+    "CAEP Emergency Management of Asthma",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "Hypothermia Accidental CAEP Rewarming Protocols WMS Staging and ECMO Rewarming",
+    "Medicine",
+    "General Principles",
+    "active internal core rewarming with warmed IV fluids and bladder lavage; transfer for ECMO for cardiac arrest",
+    "CAEP Guidelines for Accidental Hypothermia",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "CAEP Community-Acquired Pneumonia Stratification CURB-65 and Outpatient Disposition",
+    "Medicine",
+    "Respiratory",
+    "CURB-65 score 0-1 safe for outpatient oral macrolide/beta-lactam; score >= 3 requiring ICU admission",
+    "CAEP Emergency Management of Pneumonia",
+    "https://caep.ca/guidelines/"
+  ],
+  [
+    "Status Epilepticus CAEP First-Line IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg",
+    "Pharmacology",
+    "Nervous System",
+    "rapid administration of IV lorazepam or IM midazolam, followed immediately by second-line IV levetiracetam or fosphenytoin",
+    "CAEP Guidelines Status Epilepticus",
+    "https://caep.ca/guidelines/"
+  ]
+]
+
+NEET_PG_TOPICS = [
+  [
+    "Pathology Liposarcoma Well-Differentiated vs Myxoid MDM2 Amplification and Lipoblasts",
+    "Pathology",
+    "General Principles",
+    "supernumerary ring and giant marker chromosomes showing 12q13-15 MDM2 amplification with scalloped univacuolated lipoblasts",
+    "Robbins and Cotran Pathologic Basis of Disease",
+    "https://www.elsevier.com/books/robbins-and-cotran-pathologic-basis-of-disease/kumar/978-0-323-53113-9"
+  ],
+  [
+    "Pathology Leiomyosarcoma Cigarette-Shaped Blunt-Ended Nuclei and Coagulative Tumor Necrosis",
+    "Pathology",
+    "Pregnancy",
+    "malignant smooth muscle neoplasm displaying marked cytologic atypia, >= 10 mitoses per 10 HPF, and tumor cell necrosis",
+    "Robbins Female Genital Pathology",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Rhabdomyosarcoma Embryonal vs Alveolar FOXO1-PAX3 Fusion and Cross-Striations",
+    "Pathology",
+    "Musculoskeletal",
+    "malignant strap cells (rhabdomyoblasts) demonstrating cross-striations and desmin/myogenin immunohistochemical positivity",
+    "Robbins Soft Tissue Tumors",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Osteosarcoma Codman Triangle and Malignant Osteoid Formation by Anaplastic Cells",
+    "Pathology",
+    "Musculoskeletal",
+    "production of unmineralized pink bone matrix (osteoid) directly by highly pleomorphic malignant mesenchymal cells",
+    "Robbins Musculoskeletal Pathology Osteosarcoma",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Ewing Sarcoma Onion-Skin Periosteal Reaction Small Round Blue Cells t(11;22) Translocation",
+    "Pathology",
+    "Musculoskeletal",
+    "primitive neuroectodermal round blue tumor expressing CD99 (MIC2) with EWSR1-FLI1 reciprocal chromosomal fusion",
+    "Robbins Pathology Bone Tumors",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Giant Cell Tumor of Bone Soap-Bubble Appearance Epiphyseal Osteoclast-Like Giant Cells",
+    "Pathology",
+    "Musculoskeletal",
+    "epiphyseal expansile osteolytic lesion containing hundreds of multinucleated osteoclast-type giant cells expressing H3F3A",
+    "Robbins Bone Pathology",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Chondrosarcoma Ring-and-Arc Calcification Binucleated Chondrocytes in Lacunae",
+    "Pathology",
+    "Musculoskeletal",
+    "malignant cartilage-forming neoplasm showing hypercellular myxoid stroma, multinucleation, and invasion of marrow spaces",
+    "Robbins Bone Tumors Chondrosarcoma",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Multiple Myeloma Rouleaux Formation Russell Bodies and Monoclonal M-Spike",
+    "Pathology",
+    "Hematology",
+    "clock-face plasma cell proliferation with intranuclear Dutcher bodies, cytoplasmic Russell bodies, and CD138 positivity",
+    "Robbins Hematopathology Plasma Cell Neoplasms",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Waldenstrom Macroglobulinemia IgM Monoclonal Gammopathy and Lymphoplasmacytic Infiltration",
+    "Pathology",
+    "Hematology",
+    "bone marrow expansion of small lymphocytes showing plasmacytoid differentiation harboring MYD88 L265P mutation",
+    "Robbins Hematopathology",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pathology Hairy Cell Leukemia Tartrate-Resistant Acid Phosphatase (TRAP) and BRAF V600E Mutation",
+    "Pathology",
+    "Hematology",
+    "splenomegaly with dry tap bone marrow aspiration showing lymphoid cells with thread-like cytoplasmic projections",
+    "Robbins Hematopathology HCL",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Pharmacology SGLT2 Inhibitors Dapagliflozin Mechanism Proximal Convoluted Tubule Glycosuria",
+    "Pharmacology",
+    "Renal",
+    "reversible inhibition of sodium-glucose cotransporter 2 lowering renal threshold for glucose excretion and inducing natriuresis",
+    "Goodman and Gilman Pharmacological Basis of Therapeutics",
+    "https://accessmedicine.mhmedical.com/book.aspx?bookid=2189"
+  ],
+  [
+    "Pharmacology GLP-1 Receptor Agonists Semaglutide Glucose-Dependent Insulin Secretion and Gastric Delay",
+    "Pharmacology",
+    "Endocrine",
+    "activation of pancreatic GLP-1 receptors stimulating adenylate cyclase, inhibiting glucagon, and slowing gastric emptying",
+    "Goodman and Gilman Endocrine Pharmacology",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology DPP-4 Inhibitors Sitagliptin Prolongation of Endogenous Incretin Half-Life",
+    "Pharmacology",
+    "Endocrine",
+    "competitive inhibition of dipeptidyl peptidase-4 enzyme preventing cleavage of active GLP-1 and GIP peptides",
+    "Goodman and Gilman Diabetes Pharmacotherapy",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Sacubitril-Valsartan Neprilysin Inhibition Combined with AT1 Receptor Blockade",
+    "Pharmacology",
+    "Cardiovascular",
+    "neutral endopeptidase inhibition elevating natriuretic peptides (ANP, BNP) while blocking angiotensin II vasoconstriction",
+    "Goodman and Gilman Heart Failure Pharmacology",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Ivabradine Sinoatrial Node If Hyperpolarization-Activated Funny Current Blocker",
+    "Pharmacology",
+    "Cardiovascular",
+    "selective deceleration of sinus node diastolic depolarization firing rate without affecting myocardial contractility or BP",
+    "Goodman and Gilman Cardiovascular Pharmacology",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Ranolazine Late Inward Sodium Current Inhibition (INa) for Chronic Angina",
+    "Pharmacology",
+    "Cardiovascular",
+    "reduction of intracellular calcium overload and diastolic myocardial wall tension without hemodynamic changes",
+    "Goodman and Gilman Antianginal Drugs",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology PCSK9 Inhibitors Alirocumab Upregulation of Hepatic LDL Receptors",
+    "Pharmacology",
+    "Cardiovascular",
+    "monoclonal antibody preventing lysosomal degradation of LDL receptors accelerating clearance of circulating atherogenic particles",
+    "Goodman and Gilman Lipid-Lowering Agents",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Bempedoic Acid ATP Citrate Lyase Inhibitor Upstream of HMG-CoA Reductase",
+    "Pharmacology",
+    "Cardiovascular",
+    "prodrug activated exclusively in hepatocytes inhibiting hepatic cholesterol biosynthesis without causing myopathy",
+    "Goodman and Gilman Dyslipidemia Pharmacotherapy",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Ezetimibe Niemann-Pick C1-Like 1 (NPC1L1) Intestinal Sterol Transporter Blocker",
+    "Pharmacology",
+    "Gastrointestinal",
+    "selective inhibition of biliary and dietary cholesterol absorption at the brush border of jejunal enterocytes",
+    "Goodman and Gilman Lipid Pharmacology",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Pharmacology Vericiguat Soluble Guanylate Cyclase (sGC) Stimulator in Worsening HFrEF",
+    "Pharmacology",
+    "Cardiovascular",
+    "direct stimulation of sGC independent of endogenous nitric oxide enhancing intracellular cyclic GMP and vasodilation",
+    "Goodman and Gilman Heart Failure Therapeutics",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Microbiology Scrub Typhus Orientia tsutsugamushi Leptotrombidium Mite Chigger Vector",
+    "Microbiology",
+    "General Principles",
+    "transmission of obligate intracellular bacterium following larval mite bite resulting in eschar and acute respiratory distress",
+    "ICMR Guidelines on Scrub Typhus Management",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Microbiology Indian Kala-Azar Leishmania donovani Vector Phlebotomus argentipes Sandfly",
+    "Microbiology",
+    "Hematology",
+    "female sandfly regurgitation of flagellated promastigotes transforming into amastigotes inside reticuloendothelial macrophages",
+    "National Vector Borne Disease Control Programme India",
+    "https://nvbdcp.gov.in/"
+  ],
+  [
+    "Microbiology Japanese Encephalitis Culex tritaeniorhynchus Mosquito and Pig Ardeid Bird Reservoirs",
+    "Microbiology",
+    "Nervous System",
+    "zoonotic flavivirus transmission amplified in domestic pigs causing fever, extrapyramidal tremors, and thalamic necrosis",
+    "NCDC Guidelines Japanese Encephalitis",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "Microbiology Kyasanur Forest Disease Tick-Borne Haemaphysalis spinigera Forest Transmission",
+    "Microbiology",
+    "Hematology",
+    "monkey deaths heralding outbreaks of tick-borne flavivirus causing biphasic hemorrhagic fever and conjunctival injection",
+    "NCDC Guidelines Kyasanur Forest Disease",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "Microbiology Nipah Virus Encephalitis Pteropus medius Fruit Bat Saliva and Raw Date Palm Sap",
+    "Microbiology",
+    "Nervous System",
+    "Henipavirus zoonosis causing acute respiratory distress, severe brainstem encephalitis, and high case-fatality rate",
+    "National Centre for Disease Control Nipah Protocol",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "Microbiology Leptospirosis Flood Water Contamination with Rodent Urine and Microscopic Agglutination Test (MAT)",
+    "Microbiology",
+    "Renal",
+    "spirochete entry through broken skin after monsoon rains causing pulmonary hemorrhage, jaundice, and oliguric AKI",
+    "ICMR Clinical Guidelines for Leptospirosis",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Microbiology Melioidosis in Southwestern India Burkholderia pseudomallei Bipolar Safety-Pin Staining",
+    "Microbiology",
+    "Respiratory",
+    "Gram-negative motile saprophytic environmental bacillus causing cavitary lung abscesses and septic shock in diabetics",
+    "ICMR Melioidosis Working Group Clinical Protocols",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Microbiology Mucormycosis Rhizopus arrhizus Broad Ribbon-Like Non-Septate Hyphae Branching at 90 Degrees",
+    "Microbiology",
+    "Respiratory",
+    "angioinvasive fungal hyphae causing extensive vascular thrombosis, black necrotic eschars, and palate destruction",
+    "ICMR Advisory on Rhino-Orbital-Cerebral Mucormycosis",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Microbiology Aspergillosis Aspergillus fumigatus Septate Dichotomous Branching Hyphae at 45 Degrees",
+    "Microbiology",
+    "Respiratory",
+    "conidiophores producing branching acute-angle hyphae causing fungus ball (mycetoma) within pre-existing tuberculous cavities",
+    "Robbins Infectious Diseases Aspergillosis",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Microbiology Cryptococcus neoformans Polysaccharide Capsule Mucicarmine and Fontana-Masson Stains",
+    "Microbiology",
+    "Nervous System",
+    "narrow-based budding yeast acquired through pigeon guano inhalation producing soap-bubble lesions in basal ganglia",
+    "Robbins Fungal Pathology Cryptococcosis",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Forensic Medicine Algor Mortis Rate of Post-Mortem Cooling Marshall and Hoare Formula",
+    "Ethics",
+    "General Principles",
+    "Newton law of cooling application estimating time since death based on rectal temperature and environmental ambient air",
+    "Parikh Textbook of Medical Jurisprudence and Toxicology",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Rigor Mortis Progression Nysten Rule Cranio-Caudal Spread and Molecular Cleavage",
+    "Ethics",
+    "General Principles",
+    "stiffening of involuntary muscles followed by eyelids, neck, chest, upper limbs, and lower limbs due to ATP depletion",
+    "Reddy Essentials of Forensic Medicine and Toxicology",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Livor Mortis (Post-Mortem Lividity) Fixation at 6-8 Hours and Differentiating Ecchymosis",
+    "Ethics",
+    "General Principles",
+    "gravitational pooling of blood in dependent capillaries; incision showing blood washing out easily unlike fixed extravasated contusion",
+    "Modi Medical Jurisprudence Post-Mortem Changes",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Diatom Test in Drowning Acid Digestion of Bone Marrow Clean Water Comparison",
+    "Ethics",
+    "Respiratory",
+    "nitric acid digestion of closed bone marrow (femur) demonstrating acid-resistant siliceous algal shells inhaled antemortem",
+    "Forensic Pathology Guidelines Diatom Test",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Gettler Test Chloride Content Difference in Right vs Left Heart Chambers",
+    "Ethics",
+    "Cardiovascular",
+    "greater chloride concentration in left ventricle compared to right ventricle confirming saltwater drowning hemodilution",
+    "Parikh Forensic Medicine Drowning Differentiation",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Electrocution Joulian Burn Mark Crocodile-Skin Pattern and Metallization",
+    "Ethics",
+    "Dermatology",
+    "crater-like electrical entry wound with raised blanched borders and microscopic epidermal nuclear streaming (palisading)",
+    "Reddy Forensic Medicine Electrocution Deaths",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Blast Injury Primary (Barotrauma) vs Secondary (Shrapnel) vs Tertiary (Displacement)",
+    "Ethics",
+    "General Principles",
+    "blast wave overpressure rupturing air-filled tympanic membranes and pulmonary alveoli (blast lung hemorrhage)",
+    "NMC Forensic Medicine Blast Trauma Curriculum",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Medicine Firearm Injury Shotgun Pellet Dispersion Pattern Lead Snowstorm Radiograph",
+    "Ethics",
+    "General Principles",
+    "dispersion diameter expanding approximately 1 inch per yard of distance assessing range of discharge",
+    "Forensic Ballistics Medico-Legal Handbook",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Forensic Toxicology Organophosphate Poisoning Muscarinic SLUDGE Signs and Intravenous Pralidoxime",
+    "Pharmacology",
+    "Nervous System",
+    "acetylcholinesterase regeneration by oximes (PAM) combined with high-dose IV atropine titration until bronchial secretions clear",
+    "AIIMS Protocols for Organophosphate Poisoning",
+    "https://www.aiims.edu/"
+  ],
+  [
+    "Forensic Toxicology Aluminium Phosphide (Celphos) Poisoning Phosphine Gas and Supportive Resuscitation",
+    "Pharmacology",
+    "Cardiovascular",
+    "inhibition of cytochrome c oxidase causing refractory cardiogenic shock managed with gastric coconut oil and IV magnesium sulfate",
+    "NMC Guidelines Management of Aluminium Phosphide Poisoning",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "PSM National Tuberculosis Elimination Program (NTEP) Daily Fixed-Dose Combination (FDC) HRZE Regimen",
+    "Medicine",
+    "Respiratory",
+    "weight-banded fixed-dose combinations under Direct Observation (DOTS) with Nikshay digital surveillance monitoring",
+    "NTEP National Guidelines on Tuberculosis Management in India",
+    "https://tbcindia.gov.in/"
+  ],
+  [
+    "PSM National AIDS Control Program (NACP V) Dolutegravir-Based First-Line TLD Regimen",
+    "Pharmacology",
+    "General Principles",
+    "once-daily single-tablet tenofovir, lamivudine, and dolutegravir (TLD) as universal first-line antiretroviral therapy",
+    "NACO National Guidelines for HIV Care and Treatment",
+    "https://naco.gov.in/"
+  ],
+  [
+    "PSM Universal Immunization Program (UIP) India Pentavalent Vaccine Schedule 6, 10, 14 Weeks",
+    "Pediatrics",
+    "General Principles",
+    "intramuscular injection of DPT-HepB-Hib vaccine into anterolateral thigh along with bOPV and fractional IPV",
+    "Ministry of Health and Family Welfare UIP Guidelines",
+    "https://main.mohfw.gov.in/"
+  ],
+  [
+    "PSM Indradhanush Mission Catch-Up Vaccination Campaigns Identifying Zero-Dose Children",
+    "Pediatrics",
+    "General Principles",
+    "intensive periodic geographic mop-up targeting unvaccinated pregnant women and children under 2 years",
+    "MoHFW Intensified Mission Indradhanush Guidelines",
+    "https://main.mohfw.gov.in/"
+  ],
+  [
+    "PSM National Vector Borne Disease Control Programme (NVBDCP) Bivalent RDT and ACT-AL Regimen",
+    "Microbiology",
+    "Hematology",
+    "artesunate-lumefantrine (ACT) for Plasmodium falciparum malaria in northeastern states vs chloroquine for P. vivax",
+    "NVBDCP National Malaria Drug Policy",
+    "https://nvbdcp.gov.in/"
+  ],
+  [
+    "PSM Rabies Post-Exposure Prophylaxis Intra-Dermal (IDRV) Thai Red Cross Regimen (2-2-2-0-2)",
+    "Medicine",
+    "General Principles",
+    "two 0.1 mL intradermal injections at two distinct sites on days 0, 3, 7, and 28 alongside RIG for category III bites",
+    "National Centre for Disease Control Rabies Guidelines",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "PSM Demography Demographic Transition Stages India in Late Expanding Stage 3",
+    "Biostatistics",
+    "General Principles",
+    "declining birth rate converging with low death rate resulting in demographic dividend with high working-age population",
+    "Park Textbook of Preventive and Social Medicine Demography",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "PSM Epidemiological Study Designs Case-Control Odds Ratio vs Cohort Relative Risk",
+    "Biostatistics",
+    "General Principles",
+    "calculating cross-product odds ratio (AD/BC) in retrospective case-control designs evaluating rare disease exposures",
+    "Park Preventive and Social Medicine Epidemiology",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "PSM Epidemic Investigation Steps Verification of Diagnosis and Epidemic Curve Construction",
+    "Biostatistics",
+    "General Principles",
+    "point-source epidemic curve showing single sharp peak within one incubation period confirming common vehicle source",
+    "NCDC Field Epidemiology Training Manual",
+    "https://ncdc.gov.in/"
+  ],
+  [
+    "PSM Cold Chain Equipment Ice-Lined Refrigerator (ILR) Top vs Bottom Storage Temperatures (+2C to +8C)",
+    "Pediatrics",
+    "General Principles",
+    "storing heat-sensitive vaccines (OPV, measles, rotavirus) in bottom or deep freezer and freeze-sensitive (DPT, TT) at top",
+    "MoHFW National Cold Chain Guidelines",
+    "https://main.mohfw.gov.in/"
+  ],
+  [
+    "Pediatrics Severe Acute Malnutrition (SAM) WHO 10-Step Inpatient Management F-75 Starter Diet",
+    "Pediatrics",
+    "General Principles",
+    "gradual stabilization with low-protein low-sodium F-75 diet preventing refeeding syndrome and congestive heart failure",
+    "Indian Academy of Pediatrics (IAP) Guidelines for SAM Management",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Zinc Supplementation in Acute Diarrheal Disease 20 mg Daily for 14 Days",
+    "Pediatrics",
+    "Gastrointestinal",
+    "routine oral zinc supplementation alongside low-osmolarity ORS reducing stool frequency and recurrence duration",
+    "IAP National Diarrhea Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Kangaroo Mother Care (KMC) Low Birth Weight (< 2500g) Prolonged Skin-to-Skin Contact",
+    "Pediatrics",
+    "General Principles",
+    "continuous maternal chest skin-to-skin contact and exclusive breastfeeding promoting thermal stability and neurodevelopment",
+    "IAP Neonatology Chapter KMC Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Neonatal Hypoglycemia Threshold Blood Glucose < 45 mg/dL (2.5 mmol/L) 10% Dextrose Bolus",
+    "Pediatrics",
+    "Endocrine",
+    "immediate IV bolus of 2 mL/kg of 10% dextrose followed by continuous glucose infusion rate 6-8 mg/kg/min",
+    "National Neonatology Forum (NNF) Clinical Practice Guidelines",
+    "https://nnfi.org/"
+  ],
+  [
+    "Pediatrics Meconium Aspiration Syndrome (MAS) Non-Vigorous Infant Endotracheal Suctioning Update",
+    "Pediatrics",
+    "Respiratory",
+    "current IAP/NRP guidelines recommending immediate resuscitation with positive pressure without routine tracheal intubation",
+    "IAP NRP Resuscitation Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Scurvy Subperiosteal Hematoma Wimberger Ring Sign and Frankel White Line",
+    "Pediatrics",
+    "Musculoskeletal",
+    "vitamin C ascorbic acid deficiency causing ground-glass osteopenia, dense provisional calcification line, and pelkan spurs",
+    "Ghai Essential Pediatrics Nutrition Disorders",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Rickets Craniotabes Rachitic Rosary Harrison Sulcus and Cupping/Fraying of Metaphysis",
+    "Pediatrics",
+    "Musculoskeletal",
+    "vitamin D deficiency failure of osteoid mineralization treated with oral cholecalciferol 60,000 IU weekly for 6 weeks",
+    "IAP Guidelines on Vitamin D Deficiency Rickets",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Congenital Hypothyroidism Heel-Prick TSH Screening and Early Levothyroxine 10-15 mcg/kg",
+    "Pediatrics",
+    "Endocrine",
+    "newborn dried blood spot screening preventing irreversible mental retardation (cretinism) within first 2 weeks",
+    "Indian Society for Pediatric and Adolescent Endocrinology (ISPAE) Guidelines",
+    "https://ispae.org.in/"
+  ],
+  [
+    "Pediatrics Wilson Disease Kayser-Fleischer Rings Low Serum Ceruloplasmin and Oral D-Penicillamine",
+    "Pediatrics",
+    "Gastrointestinal",
+    "copper accumulation in basal ganglia and liver treated with copper chelators and oral zinc acetate maintenance",
+    "IAP Pediatric Hepatology Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Pediatrics Biliary Atresia Triangular Cord Sign on Ultrasound and Emergent Kasai Portoenterostomy",
+    "Pediatrics",
+    "Gastrointestinal",
+    "acholic pale stools and conjugated hyperbilirubinemia requiring surgical Kasai hepatic portoenterostomy before 60 days of life",
+    "IAP Pediatric Gastroenterology Chapter Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Obstetrics Eclampsia Magnesium Sulfate Pritchard Intramuscular Regimen Loading and Maintenance",
+    "Obstetrics",
+    "Pregnancy",
+    "4 g IV (20% solution) plus 10 g IM (5 g in each buttock) followed by 5 g IM 4-hourly in alternate buttocks",
+    "FOGSI Guidelines for Management of Hypertensive Disorders in Pregnancy",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Postpartum Hemorrhage FOGSI Guidelines Uterotonic Oxytocin 10 IU IM and Tranexamic Acid",
+    "Obstetrics",
+    "Pregnancy",
+    "active management of third stage of labor with prophylactic oxytocin and early IV tranexamic acid 1 g within 3 hours",
+    "FOGSI Guidelines on Postpartum Haemorrhage",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Anemia Mukt Bharat Protocol Parenteral Ferric Carboxymaltose in Moderate-Severe Anemia",
+    "Obstetrics",
+    "Pregnancy",
+    "single high-dose intravenous ferric carboxymaltose infusion for pregnant women with Hb 7-8.9 g/dL in second/third trimester",
+    "MoHFW Anemia Mukt Bharat Operational Guidelines",
+    "https://anemiamuktbharat.info/"
+  ],
+  [
+    "Obstetrics Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance on Ultrasound",
+    "Obstetrics",
+    "Pregnancy",
+    "markedly elevated serum beta-hCG treated with suction curettage and weekly beta-hCG monitoring until zero",
+    "FOGSI Guidelines for Gestational Trophoblastic Neoplasia",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Intrauterine Growth Restriction (IUGR) Umbilical Artery Absent/Reversed End-Diastolic Flow",
+    "Obstetrics",
+    "Pregnancy",
+    "Doppler velocimetry showing reversed end-diastolic flow (REDF) triggering emergent betamethasone and cesarean delivery",
+    "FOGSI Fetal Medicine Committee Guidelines",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Premature Rupture of Membranes (PROM) Erythromycin Prophylaxis and Latency Maintenance",
+    "Obstetrics",
+    "Pregnancy",
+    "speculum examination confirming pooling and nitrazine blue positivity treated with oral erythromycin for 10 days",
+    "FOGSI Guidelines for PROM Management",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Obstetric Cholestasis Bile Acid Levels > 40 mcmol/L and Oral Ursodeoxycholic Acid",
+    "Obstetrics",
+    "Pregnancy",
+    "intense nocturnal palmar/plantar pruritus without rash treated with UDCA 10-15 mg/kg with elective delivery at 37 weeks",
+    "FOGSI Guidelines on Intrahepatic Cholestasis of Pregnancy",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Obstetrics Cervical Incompetence McDonald vs Shirodkar Cerclage at 12-14 Weeks Gestation",
+    "Obstetrics",
+    "Pregnancy",
+    "transvaginal pursestring cervical cerclage placed electively at end of first trimester for recurrent painless mid-trimester losses",
+    "FOGSI Guidelines Cervical Insufficiency",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Gynecology Carcinoma Cervix FIGO Staging Dual Screening with Visual Inspection with Acetic Acid (VIA)",
+    "Obstetrics",
+    "Pregnancy",
+    "application of 3-5% dilute acetic acid showing acetowhite cervical epithelial changes in low-resource public screening",
+    "FOGSI Cervical Cancer Screening Guidelines",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Gynecology Endometriosis Laparoscopic Powder-Burn Peritoneal Lesions and Chocolate Cyst Enucleation",
+    "Obstetrics",
+    "Pregnancy",
+    "surgical excision of ovarian endometrioma capsule followed by continuous oral dienogest 2 mg daily",
+    "FOGSI Guidelines on Endometriosis",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Medicine Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes (FCPD) Large Ductal Calculi",
+    "Medicine",
+    "Gastrointestinal",
+    "classical triad of severe abdominal pain, pancreatic ductal calcifications, and lean insulin-requiring diabetes",
+    "API Textbook of Medicine Chronic Pancreatitis",
+    "https://www.apiindia.org/"
+  ],
+  [
+    "Medicine Snakebite Neurotoxicity Polyvalent Antivenom (ASV) Neostigmine Atropine Challenge",
+    "Pharmacology",
+    "Nervous System",
+    "IV administration of 10 vials of polyvalent ASV active against Big 4 (Cobra, Krait, Russell viper, Saw-scaled viper)",
+    "National Snakebite Management Protocol India",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Medicine Snakebite Hemotoxicity Russell Viper Coagulopathy 20-Minute Whole Blood Clotting Test (20WBCT)",
+    "Medicine",
+    "Hematology",
+    "inability of unanticoagulated whole blood to form firm clot in clean glass tube indicating venom-induced consumption coagulopathy",
+    "National Snakebite Protocol India ICMR",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Medicine Tuberculous Meningitis Stage II Basilar Meningeal Exudates and Hydrocephalus",
+    "Medicine",
+    "Nervous System",
+    "CSF lymphocytic pleocytosis, high protein, low glucose treated with 4-drug ATT plus high-dose IV dexamethasone",
+    "API Guidelines for Tuberculous Meningitis",
+    "https://www.apiindia.org/"
+  ],
+  [
+    "Medicine Pott Spine Lumbar Spondylodiscitis Cold Abscess Psoas Muscle Infiltration",
+    "Medicine",
+    "Musculoskeletal",
+    "MRI showing anterior subligamentous spread, intervertebral disc destruction, and paraspinal cold abscess drainage",
+    "API Tuberculosis Guidelines Musculoskeletal TB",
+    "https://www.apiindia.org/"
+  ],
+  [
+    "Medicine Extrapulmonary TB Abdominal Ileocecal Tuberculosis Transverse Ulcers vs Crohn Long Ulcers",
+    "Medicine",
+    "Gastrointestinal",
+    "colonoscopy demonstrating transverse circumferential ulcers, pulled-up cecum, and necrotizing granulomas",
+    "API Textbook of Medicine Abdominal TB",
+    "https://www.apiindia.org/"
+  ],
+  [
+    "Surgery Hydatid Cyst Liver (Echinococcus granulosus) Water-Lily Sign and PAIR Technique",
+    "Surgery",
+    "Gastrointestinal",
+    "percutaneous aspiration, injection of scolicidal hypertonic saline (20%), and re-aspiration under albendazole cover",
+    "Bailey and Love Short Practice of Surgery",
+    "https://www.routledge.com/Bailey--Loves-Short-Practice-of-Surgery/OConnell-McCaskie/p/book/9780367436407"
+  ],
+  [
+    "Surgery Amoebic Liver Abscess Entamoeba histolytica Anchovy-Sauce Pus and Oral Metronidazole",
+    "Surgery",
+    "Gastrointestinal",
+    "solitary right hepatic lobe abscess treated with oral metronidazole 750 mg three times daily for 10 days, avoiding needle puncture",
+    "Bailey and Love Liver Infections",
+    "https://www.routledge.com/"
+  ],
+  [
+    "Surgery Choledochal Cyst Todani Classification Type 1 Fusiform Dilation Excision and Roux-en-Y",
+    "Surgery",
+    "Gastrointestinal",
+    "complete surgical excision of dilated extrahepatic bile duct with Roux-en-Y hepaticojejunostomy preventing cholangiocarcinoma",
+    "Bailey and Love Biliary Tree",
+    "https://www.routledge.com/"
+  ],
+  [
+    "Surgery Hirschsprung Disease Suction Rectal Biopsy Absence of Ganglion Cells in Myenteric Plexus",
+    "Surgery",
+    "Gastrointestinal",
+    "absence of ganglion cells and acetylcholinesterase hypertrophy in Meissner and Auerbach plexuses treated with transanal endorectal pull-through",
+    "Bailey and Love Pediatric Surgery Hirschsprung",
+    "https://www.routledge.com/"
+  ],
+  [
+    "Ophthalmology Congenital Cataract Leukocoria and Urgent Lensectomy Within 6-8 Weeks",
+    "Surgery",
+    "Nervous System",
+    "surgical lens aspiration with posterior capsulorhexis and anterior vitrectomy preventing irreversible amblyopia",
+    "AIIMS RPC Ophthalmology Clinical Protocols",
+    "https://www.aiims.edu/en/dr-r-p-centre.html"
+  ],
+  [
+    "Ophthalmology Retinopathy of Prematurity (ROP) Screening Zone and Stage Laser Indirect Ophthalmoscopy",
+    "Surgery",
+    "Nervous System",
+    "screening all infants born < 34 weeks or < 1750 g at 4 weeks post-birth treating threshold disease with diode laser",
+    "National Neonatology Forum ROP Guidelines",
+    "https://nnfi.org/"
+  ],
+  [
+    "Ophthalmology Acute Angle-Closure Glaucoma Steamy Cornea Fixed Dilated Pupil and IV Mannitol",
+    "Surgery",
+    "Nervous System",
+    "intravenous mannitol 20% (1-2 g/kg), topical timolol, pilocarpine, and definitive bilateral Nd:YAG peripheral iridotomy",
+    "AIIMS Ophthalmology Glaucoma Guidelines",
+    "https://www.aiims.edu/"
+  ],
+  [
+    "ENT Chronic Suppurative Otitis Media Atticoantral Type Cholesteatoma Radical Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "destructive squamous epithelial pocket with bone erosion eroding facial nerve canal and ossicular chain requiring mastoidectomy",
+    "Dhingra Diseases of Ear Nose and Throat",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "ENT Carcinoma Nasopharynx Epstein-Barr Virus (EBV) Association and Fossa of Rosenmuller Biopsy",
+    "Surgery",
+    "Respiratory",
+    "unilateral neck lump, conductive hearing loss, and epistaxis treated with primary definitive concurrent chemoradiotherapy",
+    "Dhingra ENT Nasopharyngeal Carcinoma",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "ENT Juvenile Nasopharyngeal Angiofibroma (JNA) Holman-Miller Sign and Preoperative Embolization",
+    "Surgery",
+    "Respiratory",
+    "anterior bowing of posterior wall of maxillary antrum in adolescent male with recurrent severe epistaxis",
+    "Dhingra ENT Benign Neoplasms",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Dermatology Pemphigus Vulgaris Acantholysis Tombstone Appearance Anti-Desmoglein-3 Antibodies",
+    "Medicine",
+    "Dermatology",
+    "flaccid intraepidermal bullae with suprabasal clefting, positive Nikolsky sign, and fishnet intercellular IgG deposition",
+    "Neena Khanna Illustrated Synopsis of Dermatology",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Dermatology Bullous Pemphigoid Tense Subepidermal Blisters Anti-Hemidesmosome (BP180/BP230) Antibodies",
+    "Medicine",
+    "Dermatology",
+    "tense blisters with negative Nikolsky sign showing linear basement membrane zone IgG and C3 deposition",
+    "Khanna Dermatology Bullous Disorders",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Dermatology Leprosy (Hansen Disease) Slit-Skin Smear WHO Multidrug Therapy (MDT) Regimen",
+    "Microbiology",
+    "Dermatology",
+    "dapsone, rifampicin, and clofazimine regimen for multibacillary leprosy with >= 6 hypoesthetic skin patches",
+    "National Leprosy Eradication Programme (NLEP) Guidelines",
+    "https://nlep.nic.in/"
+  ],
+  [
+    "Dermatology Lichen Planus 6 Ps Purple Pruritic Polygonal Planar Papules Wickham Striae",
+    "Medicine",
+    "Dermatology",
+    "hyperkeratosis, wedge-shaped hypergranulosis, saw-toothed rete pegs, and band-like dermal lymphocytic infiltrate",
+    "Khanna Dermatology Papulosquamous Disorders",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Biochemistry Phenylketonuria (PKU) Phenylalanine Hydroxylase Deficiency Musty Odor",
+    "Biochemistry",
+    "General Principles",
+    "accumulation of phenylketonuria metabolites resulting in severe intellectual disability, microcephaly, and hypopigmentation",
+    "Harper Illustrated Biochemistry Amino Acid Metabolism",
+    "https://accessmedicine.mhmedical.com/book.aspx?bookid=2386"
+  ],
+  [
+    "Biochemistry Maple Syrup Urine Disease (MSUD) Branched-Chain Alpha-Keto Acid Dehydrogenase Deficiency",
+    "Biochemistry",
+    "General Principles",
+    "inability to metabolize leucine, isoleucine, and valine causing sweet-smelling urine and severe neonatal ketoacidosis",
+    "Harper Illustrated Biochemistry Inborn Errors of Metabolism",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Biochemistry Alkaptonuria Homogentisate 1,2-Dioxygenase Deficiency Ochronosis and Dark Urine",
+    "Biochemistry",
+    "Musculoskeletal",
+    "accumulation of homogentisic acid depositing in connective tissues, cartilage calcification, and urine turning black on standing",
+    "Harper Illustrated Biochemistry Amino Acid Catabolism",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Biochemistry Homocystinuria Cystathionine Beta-Synthase Deficiency Marfanoid Habitus and Ectopia Lentis",
+    "Biochemistry",
+    "Musculoskeletal",
+    "downward-inward lens subluxation, thromboembolic events, and intellectual disability responsive to pyridoxine (B6)",
+    "Harper Illustrated Biochemistry",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Biochemistry Glycogen Storage Disease Type I (von Gierke) Glucose-6-Phosphatase Deficiency",
+    "Biochemistry",
+    "Endocrine",
+    "severe fasting hypoglycemia, marked hepatomegaly, lactic acidosis, hyperlipidemia, and hyperuricemia",
+    "Harper Illustrated Biochemistry Carbohydrate Metabolism",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Biochemistry Glycogen Storage Disease Type II (Pompe) Lysosomal Alpha-1,4-Glucosidase (Acid Maltase)",
+    "Biochemistry",
+    "Cardiovascular",
+    "massive cardiomegaly, severe hypotonia, and early infant death due to lysosomal glycogen accumulation",
+    "Harper Illustrated Biochemistry",
+    "https://accessmedicine.mhmedical.com/"
+  ],
+  [
+    "Biochemistry Tay-Sachs Disease Hexosaminidase A Deficiency GM2 Ganglioside Cherry-Red Spot",
+    "Biochemistry",
+    "Nervous System",
+    "neurodevelopmental regression, hyperacusis, cherry-red macular spot, and absence of hepatosplenomegaly",
+    "Robbins Genetic Diseases Tay-Sachs",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Biochemistry Gaucher Disease Glucocerebrosidase Deficiency Crumpled Tissue-Paper Macrophages",
+    "Biochemistry",
+    "Hematology",
+    "lipid-laden macrophages with fibrillary cytoplasm, massive splenomegaly, pancytopenia, and Erlenmeyer flask deformity",
+    "Robbins Hematopathology Lysosomal Storage Diseases",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Biochemistry Niemann-Pick Disease Acid Sphingomyelinase Deficiency Cherry-Red Spot and Splenomegaly",
+    "Biochemistry",
+    "Nervous System",
+    "accumulation of sphingomyelin in foam cells with cherry-red spot and prominent hepatosplenomegaly differentiating from Tay-Sachs",
+    "Robbins Genetic Disorders Niemann-Pick",
+    "https://www.elsevier.com/"
+  ],
+  [
+    "Biochemistry G6PD Deficiency X-Linked Recessive Heinz Bodies and Bite Cells Post-Primaquine",
+    "Biochemistry",
+    "Hematology",
+    "impaired NADPH generation causing reduced glutathione depletion and acute intravascular hemolysis after oxidative stress",
+    "Harper Illustrated Biochemistry Pentose Phosphate Pathway",
+    "https://accessmedicine.mhmedical.com/"
+  ]
+]

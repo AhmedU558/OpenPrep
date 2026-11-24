@@ -1,0 +1,1607 @@
+# Auto-generated Mega-Batch 90 Part A topics (UHS_MBBS 100, PLAB 100)
+
+UHS_MBBS_TOPICS = [
+  [
+    "Femoral Triangle Anatomy Surgical Boundaries and Femoral Canal Herniation Site",
+    "Anatomy",
+    "Musculoskeletal",
+    "surgical identification of inguinal ligament superiorly, sartorius laterally, and adductor longus medially with femoral vein medial to artery",
+    "UHS Anatomy Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Brachial Plexus Upper Trunk Erb-Duchenne Palsy C5-C6 Nerve Roots Waiter's Tip Posture",
+    "Anatomy",
+    "Nervous System",
+    "traction injury of C5-C6 roots causing loss of abductors, lateral rotators of shoulder, and forearm supinators",
+    "UHS Anatomy Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Inguinal Canal Hesselbach Triangle Direct vs Indirect Inguinal Hernia Anatomical Relations",
+    "Anatomy",
+    "Gastrointestinal",
+    "inferior epigastric vessels demarcating direct hernia medially within triangle from indirect hernia laterally through deep ring",
+    "UHS Surgery Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Coronary Artery Dominance Posterior Interventricular Artery Origin from Right Coronary Artery",
+    "Anatomy",
+    "Cardiovascular",
+    "right coronary artery giving origin to posterior descending artery supplying diaphragmatic LV wall and AV node in 85% of individuals",
+    "UHS Cardiology Anatomy Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Recurrent Laryngeal Nerve Tracheoesophageal Groove Injury During Subtotal Thyroidectomy",
+    "Anatomy",
+    "Nervous System",
+    "surgical identification of recurrent laryngeal nerve in tracheoesophageal groove close to inferior thyroid artery preventing vocal cord paralysis",
+    "UHS Surgery Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Ureter Course in Pelvis Relation to Uterine Artery 'Water Under the Bridge' During Hysterectomy",
+    "Anatomy",
+    "Renal",
+    "surgical mobilization of uterine artery crossing anterior and superior to ureter 1.5 cm lateral to cervix avoiding ureteral ligation",
+    "UHS Obstetrics & Gynecology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Pudendal Nerve Course Greater and Lesser Sciatic Foramina Pudendal Block for Episiotomy",
+    "Anatomy",
+    "Pregnancy",
+    "transvaginal palpation of ischial spine and infiltration of local anesthetic around sacrospinous ligament blocking pudendal nerve S2-S4",
+    "UHS Obstetrics Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Cavernous Sinus Thrombosis Cranial Nerves III, IV, V1, V2, and VI Involvement",
+    "Anatomy",
+    "Nervous System",
+    "abducens nerve CN VI lying free within sinus lumen adjacent to internal carotid artery affected first by septic thrombosis",
+    "UHS Head & Neck Anatomy Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Foramen of Winslow Omental Bursa Free Border of Lesser Omentum Pringle Manoeuvre",
+    "Anatomy",
+    "Gastrointestinal",
+    "digital or clamp compression of hepatoduodenal ligament containing portal vein, hepatic artery proper, and common bile duct controlling hepatic hemorrhage",
+    "UHS Surgery Anatomy Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Meckel Diverticulum Embryology Persistent Vitelline Duct Rule of 2s Ectopic Gastric Mucosa",
+    "Anatomy",
+    "Gastrointestinal",
+    "failure of complete obliteration of vitelline (omphalomesenteric) duct resulting in antimesenteric ileal blind pouch 2 feet from ileocecal valve",
+    "UHS Pediatric Surgery Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Renin-Angiotensin-Aldosterone System Juxtaglomerular Apparatus Macula Densa Sensing Luminal NaCl",
+    "Physiology",
+    "Renal",
+    "decreased sodium chloride delivery to macula densa stimulating renin secretion from juxtaglomerular cells elevating systemic blood pressure",
+    "UHS Physiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Cardiac Action Potential Phase 0 Depolarization Fast Voltage-Gated Sodium Channels",
+    "Physiology",
+    "Cardiovascular",
+    "rapid opening of voltage-gated Na+ channels causing sudden inward sodium influx and fast upstroke in ventricular myocytes",
+    "UHS Cardiovascular Physiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Respiratory Physiology Oxygen-Hemoglobin Dissociation Curve Rightward Shift Determinants",
+    "Physiology",
+    "Respiratory",
+    "increased hydrogen ion concentration (acidosis), elevated PaCO2, hyperthermia, and increased 2,3-BPG facilitating tissue oxygen unloading",
+    "UHS Respiratory Physiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Gastric Acid Secretion Parietal Cell H+/K+ ATPase Proton Pump Stimulation Pathways",
+    "Physiology",
+    "Gastrointestinal",
+    "histamine H2 receptor Gs-protein activation, gastrin CCK-B receptor, and acetylcholine M3 receptor stimulating vesicular tubulovesicular proton pumps",
+    "UHS GI Physiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Cushing Reflex Increased Intracranial Pressure Hypertension, Bradycardia, and Irregular Breathing",
+    "Physiology",
+    "Nervous System",
+    "severe brainstem ischemia triggering sympathetic alpha-1 vasoconstriction followed by baroreceptor-mediated parasympathetic bradycardia",
+    "UHS Neurophysiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Endocrine Physiology Calcium Homeostasis Parathyroid Hormone and Active 1,25-(OH)2-Vitamin D3",
+    "Physiology",
+    "Endocrine",
+    "PTH stimulating renal 1-alpha-hydroxylase in proximal tubule, distal calcium reabsorption, and osteoclast RANKL signaling",
+    "UHS Endocrine Physiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Glycogen Storage Disease Type 1 (Von Gierke Disease) Glucose-6-Phosphatase Deficiency",
+    "Biochemistry",
+    "Endocrine",
+    "inability to cleave glucose-6-phosphate to free glucose resulting in severe fasting hypoglycemia, hepatomegaly, and lactic acidemia",
+    "UHS Biochemistry Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Phenylketonuria (PKU) Phenylalanine Hydroxylase Deficiency Musty Urine Odor and Dietary Restriction",
+    "Biochemistry",
+    "General Principles",
+    "strict lifelong dietary restriction of phenylalanine and supplementation of tyrosine preventing irreversible intellectual disability",
+    "UHS Medical Genetics & Biochemistry Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Gout Pathophysiology Hypoxanthine-Guanine Phosphoribosyltransferase (HGPRT) Partial Deficiency",
+    "Biochemistry",
+    "Musculoskeletal",
+    "purine salvage pathway defect causing accumulation of PRPP, purine overproduction, hyperuricemia, and monosodium urate crystal deposition",
+    "UHS Biochemistry Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Lipoprotein Metabolism Familial Hypercholesterolemia Low-Density Lipoprotein (LDL) Receptor Mutation",
+    "Biochemistry",
+    "Cardiovascular",
+    "loss-of-function mutation in LDLR leading to defective hepatic LDL clearance, tendon xanthomas, and premature atherosclerosis",
+    "UHS Clinical Biochemistry Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Granulomatous Inflammation Caseating Granulomas in Pulmonary Tuberculosis Langhans Giant Cells",
+    "Pathology",
+    "Respiratory",
+    "central caseous necrosis surrounded by epithelioid histiocytes, horse-shoe arranged nuclei in Langhans giant cells, and CD4+ T-lymphocytes",
+    "UHS General Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Rheumatic Heart Disease Aschoff Nodules and Anitschkow 'Caterpillar' Cells Post-Streptococcal",
+    "Pathology",
+    "Cardiovascular",
+    "myocardial interstitial granulomatous Aschoff nodules containing activated macrophages with condensed chromatin wavy Anitschkow cells",
+    "UHS Special Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Cervical Intraepithelial Neoplasia (CIN) Human Papillomavirus E6 and E7 Oncoproteins",
+    "Pathology",
+    "Pregnancy",
+    "HPV high-risk genotypes 16 and 18 oncoproteins E6 degrading p53 tumor suppressor and E7 binding retinoblastoma (Rb) protein",
+    "UHS Pathology Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Glomerulonephritis Post-Streptococcal Subepithelial Humps on Electron Microscopy",
+    "Pathology",
+    "Renal",
+    "lumpy-bumpy subepithelial electron-dense immune deposits composed of IgG and C3 with diffuse endocapillary hypercellularity",
+    "UHS Renal Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Appendicitis Histopathological Gold Standard Neutrophilic Infiltration of Muscularis Propria",
+    "Pathology",
+    "Gastrointestinal",
+    "transmural acute inflammation with polymorphonuclear leukocyte invasion through the muscularis layer confirming acute appendicitis",
+    "UHS Surgical Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Salmonella enterica serovar Typhi Widal Test and Blood Culture Timing in Enteric Fever",
+    "Microbiology",
+    "Gastrointestinal",
+    "blood culture positive in first week (90% sensitivity) while stool and urine cultures become positive in weeks 2 and 3",
+    "UHS Microbiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Vibrio cholerae Rice-Water Stools Cholera Toxin Mechanism ADP-Ribosylation of Gs Alpha Subunit",
+    "Microbiology",
+    "Gastrointestinal",
+    "constitutive activation of adenylyl cyclase causing massive cAMP generation and CFTR-mediated secretory watery diarrhea",
+    "UHS Microbiology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Mycobacterium tuberculosis Ziehl-Neelsen Acid-Fast Staining Cell Wall Mycolic Acid",
+    "Microbiology",
+    "Respiratory",
+    "high lipid content and branched long-chain mycolic acids resisting decolorization with acid-alcohol retaining carbolfuchsin red",
+    "UHS Bacteriology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Hepatitis B Virus Serological Window Period Anti-HBc IgM as Sole Marker of Acute Infection",
+    "Microbiology",
+    "Gastrointestinal",
+    "disappearance of HBsAg before appearance of anti-HBs leaving IgM antibody to hepatitis B core antigen as diagnostic marker",
+    "UHS Virology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Entamoeba histolytica Amoebic Liver Abscess 'Anchovy Sauce' Pus and Trophozoites with Ingested RBCs",
+    "Microbiology",
+    "Gastrointestinal",
+    "microscopic stool or aspirate examination showing motile trophozoites with erythrophagocytosis and high-titer serum indirect hemagglutination",
+    "UHS Parasitology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Digoxin Toxicity Mechanism of Action Sodium-Potassium ATPase Inhibition and Hyperkalemia",
+    "Pharmacology",
+    "Cardiovascular",
+    "binding to alpha subunit of Na+/K+ ATPase increasing intracellular sodium and secondary calcium accumulation via Na+/Ca2+ exchanger",
+    "UHS Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Warfarin Mechanism Inhibition of Vitamin K Epoxide Reductase (VKORC1) and Prothrombin Time Monitoring",
+    "Pharmacology",
+    "Hematology",
+    "blocking post-translational gamma-carboxylation of factors II, VII, IX, X, protein C and S monitored via INR",
+    "UHS Clinical Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Beta-2 Adrenergic Agonists Salbutamol Mechanism of Bronchodilation Gs-Protein cAMP Pathway",
+    "Pharmacology",
+    "Respiratory",
+    "stimulation of beta-2 receptors activating adenylyl cyclase, elevating intracellular cAMP, and inactivating myosin light chain kinase",
+    "UHS Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Proton Pump Inhibitors Omeprazole Irreversible Covalent Inhibition of H+/K+ ATPase",
+    "Pharmacology",
+    "Gastrointestinal",
+    "prodrug activated in acidic parietal canaliculi forming sulfenamide bond with cysteine residues of proton pump",
+    "UHS GI Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Penicillin Mechanism of Action Inhibition of Transpeptidase Cross-Linking Bacterial Cell Wall",
+    "Pharmacology",
+    "General Principles",
+    "covalent binding to penicillin-binding proteins (PBPs) blocking D-alanyl-D-alanine transpeptidation causing osmotic autolysis",
+    "UHS Antimicrobial Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Metformin Mechanism of Action Activation of AMP-Activated Protein Kinase (AMPK)",
+    "Pharmacology",
+    "Endocrine",
+    "mitochondrial complex I inhibition leading to AMPK activation, suppression of hepatic gluconeogenesis, and improved insulin sensitivity",
+    "UHS Endocrine Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Opioid Analgesic Morphine Mu-Opioid Receptor Agonism Presynaptic Calcium Channel Inhibition",
+    "Pharmacology",
+    "Nervous System",
+    "Gi-protein coupled receptor activation closing voltage-gated calcium channels presynaptically and opening potassium channels postsynaptically",
+    "UHS Neuropharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Loop Diuretics Furosemide Inhibition of Na+/K+/2Cl- Cotransporter in Thick Ascending Limb",
+    "Pharmacology",
+    "Renal",
+    "blocking NKCC2 luminal transporter abolishing corticomedullary osmotic gradient and increasing urinary calcium excretion",
+    "UHS Renal Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "ACE Inhibitors Captopril Inhibition of Angiotensin-Converting Enzyme and Bradykinin Breakdown",
+    "Pharmacology",
+    "Cardiovascular",
+    "decreasing circulating angiotensin II and aldosterone while elevating pulmonary bradykinin causing dry cough and angioedema",
+    "UHS Cardiovascular Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Antitubercular Drugs Isoniazid Mechanism Inhibition of Mycolic Acid Synthesis and KatG Activation",
+    "Pharmacology",
+    "Respiratory",
+    "bacterial catalase-peroxidase KatG enzyme activating prodrug isoniazid inhibiting enoyl-acyl carrier protein reductase (InhA)",
+    "UHS Pharmacology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Enteric Fever Severe Typhoid with Intestinal Perforation IV Meropenem and Emergent Laparotomy",
+    "Surgery",
+    "Gastrointestinal",
+    "immediate resuscitation, broad-spectrum IV carbapenem covering resistant Salmonella, and primary repair or exteriorization of ileal perforation",
+    "UHS Final Professional Surgery Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Dengue Shock Syndrome Fluid Resuscitation Critical Phase Crystalloid 10-20 mL/kg Over 1 Hour",
+    "Medicine",
+    "General Principles",
+    "rapid IV fluid administration guided by Punjab Dengue Expert Advisory Group (DEAG) protocols with serial hematocrit checks",
+    "Punjab DEAG Dengue Guidelines",
+    "https://health.punjab.gov.pk/"
+  ],
+  [
+    "Tuberculous Lymphadenitis Cervical Scrofula Excisional Biopsy and 6-Month 4-Drug ATT",
+    "Pathology",
+    "Respiratory",
+    "fine-needle aspiration or excisional biopsy demonstrating caseating granulomas followed by standard 2HRZE/4HR therapy",
+    "National TB Control Program Pakistan Guidelines",
+    "https://ntp.gov.pk/"
+  ],
+  [
+    "Rheumatic Mitral Stenosis with Pulmonary Hypertension Long-Acting Benzathine Penicillin Prophylaxis",
+    "Medicine",
+    "Cardiovascular",
+    "intramuscular benzathine penicillin G 1.2 million units every 3-4 weeks until age 40 or lifelong for secondary prophylaxis",
+    "UHS Cardiology Clinical Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Chronic Hepatitis C Virus Cirrhosis Decompensated Child-Pugh C Sofosbuvir and Velpatasvir with Ribavirin",
+    "Medicine",
+    "Gastrointestinal",
+    "pan-genotypic DAA therapy sofosbuvir-velpatasvir 12 weeks with low-dose ribavirin avoiding protease inhibitors",
+    "UHS Hepatology Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Pyelonephritis in Young Woman High Fever and Flank Pain IV Ceftriaxone 1 g BD",
+    "Medicine",
+    "Renal",
+    "hospital admission, urine culture, IV ceftriaxone or fluoroquinolone, and renal ultrasound excluding obstructing nephrolithiasis",
+    "UHS Medicine Clinical Practice Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Community-Acquired Lobar Pneumonia Right Middle Lobe Streptococcus pneumoniae Oral Co-Amoxiclav",
+    "Medicine",
+    "Respiratory",
+    "oral amoxicillin-clavulanate 1 g BD plus clarithromycin 500 mg BD for 7 days with repeat chest radiograph at 6 weeks",
+    "UHS Pulmonology Clinical Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Ischemic Stroke in Tertiary Hospital Mayo Lahore Non-Contrast Head CT and Alteplase Evaluation",
+    "Medicine",
+    "Nervous System",
+    "immediate non-contrast CT brain excluding hemorrhage, blood glucose check, and IV thrombolysis within 4.5 hours of onset",
+    "UHS Neurology Training Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Type 2 Diabetic Peripheral Neuropathy Symmetrical Glove-and-Stocking Oral Pregabalin 75 mg BD",
+    "Medicine",
+    "Nervous System",
+    "monofilament sensory testing, tight glycemic control, and first-line neuropathic analgesia with pregabalin or duloxetine",
+    "UHS Endocrinology Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Severe Falciparum Malaria with Cerebral Involvement IV Artesunate 2.4 mg/kg Protocol",
+    "Medicine",
+    "General Principles",
+    "intravenous artesunate at 0, 12, 24 hours and daily until conscious followed by oral artemisinin combination therapy",
+    "UHS Infectious Diseases Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Calculous Cholecystitis Ultrasound Murphy Sign Index Admission Laparoscopic Cholecystectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "early laparoscopic removal within 72 hours of symptom onset reducing hospital stay and preventing recurrent gallstone complications",
+    "UHS Surgery Final Professional Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Oblique Inguinal Hernia Right Indirect Elective Lichtenstein Tension-Free Mesh Hernioplasty",
+    "Surgery",
+    "Gastrointestinal",
+    "groin exploration, high dissection and excision of sac, and polypropylene mesh fixation from pubic tubercle to conjoint tendon",
+    "UHS Surgery Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Small Intestinal Perforation Secondary to Tuberculosis Primary Closure vs Ileostomy Exteriorization",
+    "Surgery",
+    "Gastrointestinal",
+    "loop ileostomy exteriorization for multiple friable ulcerated perforations with postoperative antitubercular therapy",
+    "UHS Surgery Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Breast Carcinoma Invasive Ductal T2N1M0 Modified Radical Mastectomy vs Breast-Conserving Surgery",
+    "Surgery",
+    "General Principles",
+    "wide local excision with sentinel lymph node biopsy or modified radical mastectomy with adjuvant chemo-radiotherapy",
+    "UHS Surgical Oncology Training Standards",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Closed Fracture Shaft of Femur Adult Reamed Interlocking Intramedullary Nailing",
+    "Surgery",
+    "Musculoskeletal",
+    "skeletal traction, closed anatomical reduction under image intensifier, and static locked antegrade intramedullary nailing",
+    "UHS Orthopedics Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Supracondylar Fracture Humerus Child Pulseless Pink Hand Closed Reduction and Percutaneous Pinning",
+    "Surgery",
+    "Musculoskeletal",
+    "emergent closed reduction under fluoroscopy and divergent lateral K-wire fixation re-evaluating radial pulse post-reduction",
+    "UHS Pediatric Orthopedics Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Appendicitis Classic Presentation Clinical Alvarado Score >= 7 Urgent Appendectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "preoperative prophylactic IV cefuroxime plus metronidazole and emergency appendectomy via McBurney or laparoscopic approach",
+    "UHS General Surgery Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Immature Senile Cataract Progressive Painless Visual Loss Phacoemulsification with Foldable IOL",
+    "Surgery",
+    "General Principles",
+    "topical anesthesia, clear corneal incision, continuous curvilinear capsulorhexis, and in-the-bag intraocular lens placement",
+    "UHS Ophthalmology Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Angle-Closure Glaucoma Steamy Cornea and Fixed Mid-Dilated Pupil IV Mannitol and Laser Iridotomy",
+    "Surgery",
+    "Nervous System",
+    "intravenous 20% mannitol 1-2 g/kg, oral acetazolamide, topical timolol and pilocarpine followed by bilateral Nd:YAG laser iridotomy",
+    "UHS Ophthalmology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Chronic Suppurative Otitis Media Atticoantral Type Cholesteatoma Modified Radical Mastoidectomy",
+    "Surgery",
+    "Respiratory",
+    "complete surgical excision of cholesteatoma sac, mastoid air cell exteriorization, and canal wall down reconstruction",
+    "UHS ENT Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Postpartum Hemorrhage Primary Uterine Atony Bimanual Compression and IV Oxytocin 20 Units Infusion",
+    "Obstetrics",
+    "Pregnancy",
+    "vigorous bimanual uterine massage, high-dose oxytocin infusion, and intramuscular carboprost or rectal misoprostol",
+    "UHS Obstetrics Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Severe Pre-eclampsia Gestation 36 Weeks Blood Pressure 170/115 mm Hg IV Hydralazine and MgSO4",
+    "Obstetrics",
+    "Pregnancy",
+    "blood pressure lowering with IV hydralazine 5-10 mg or labetalol, magnesium sulfate loading and maintenance, and planned delivery",
+    "UHS Obstetrics Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Antepartum Hemorrhage Placenta Previa Major Grade IV Elective Cesarean Section at 36-37 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "avoidance of all digital vaginal examinations, crossmatched blood availability, and planned multidisciplinary cesarean delivery",
+    "UHS Obstetrics Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Ectopic Pregnancy Ampullary Ruptured Hemoperitoneum Emergent Exploratory Laparotomy and Salpingectomy",
+    "Surgery",
+    "Pregnancy",
+    "immediate two large-bore IV cannulae, blood transfusion, emergent laparotomy, and clamping of bleeding mesosalpinx",
+    "UHS Gynecology Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Vesicovaginal Fistula (VVF) Obstructed Labor Etiology Transvaginal Layered Fistula Repair",
+    "Surgery",
+    "Pregnancy",
+    "conservative urethral catheterization for 4-6 weeks followed by transvaginal mobilization of bladder flap and tension-free layered repair",
+    "UHS Gynecology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Severe Acute Malnutrition Kwashiorkor with Edema Starter Diet F-75 Formula Stabilization",
+    "Pediatrics",
+    "General Principles",
+    "careful initiation of low-protein low-sodium F-75 formula (100 kcal/kg/day), oral antibiotics, and gradual edema clearance",
+    "UHS Pediatrics Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Neonatal Hyperbilirubinemia Cephalocaudal Progression Phototherapy Indications Bhutani Nomogram",
+    "Pediatrics",
+    "Hematology",
+    "total serum bilirubin plotted on hour-specific phototherapy nomogram with continuous intensive blue-light LED phototherapy",
+    "UHS Neonatology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Bronchiolitis Infant Age 3 Months Subcostal Retractions Humidified Oxygen and Saline Drops",
+    "Pediatrics",
+    "Respiratory",
+    "supportive upper airway saline suctioning, frequent small feeds, and supplemental oxygen maintaining saturation > 92%",
+    "UHS Pediatrics Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Nutritional Rickets Craniotabes and Widened Wrist Epiphyses Oral Vitamin D 60,000 IU Weekly for 6 Weeks",
+    "Pediatrics",
+    "Endocrine",
+    "weekly high-dose cholecalciferol combined with daily elemental calcium 500 mg restoring normal metaphyseal cupping and fraying",
+    "UHS Pediatrics Training Standards",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Neonatal Sepsis Lethargy and Hypothermia Blood Culture and IV Ampicillin plus Amikacin",
+    "Pediatrics",
+    "General Principles",
+    "full sepsis workup including blood culture, lumbar puncture, and empiric IV ampicillin 100 mg/kg/day with amikacin 15 mg/kg/day",
+    "UHS Pediatric Infectious Diseases Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Forensic Medicine Algor Mortis Rate of Postmortem Cooling Henssge Nomogram for Time Since Death",
+    "Ethics",
+    "General Principles",
+    "measuring deep rectal temperature and ambient temperature plotting on Henssge nomogram calculating postmortem interval",
+    "UHS Forensic Medicine Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Livor Mortis Postmortem Hypostasis Fixation Timing After 6-8 Hours Signifying Body Position Change",
+    "Pathology",
+    "General Principles",
+    "blanching under thumb pressure disappearing after 8 hours due to intravascular red blood cell hemolyzation and tissue staining",
+    "UHS Forensic Medicine & Toxicology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Rigor Mortis Nysten Law Postmortem Stiffening Spreading from Jaw to Lower Extremities",
+    "Pathology",
+    "General Principles",
+    "depletion of cellular ATP preventing detachment of actin-myosin cross-bridges appearing in 1-2 hours and complete by 12 hours",
+    "UHS Forensic Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Mechanical Asphyxia Ligature Strangulation Horizontal Transverse Grooved Mark Below Thyroid Cartilage",
+    "Pathology",
+    "Respiratory",
+    "horizontal completely circular parchment-like ligature furrow with fracture of hyoid bone and extensive petechial hemorrhages",
+    "UHS Forensic Medicine Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Firearm Injuries Close-Range Gunshot Entrance Wound Powder Tattooing and Singeing of Margins",
+    "Surgery",
+    "General Principles",
+    "inverted circular wound margins with surrounding collar of abrasion, grease collar, unburnt powder tattooing, and soot deposition",
+    "UHS Forensic Medicine Training Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Organophosphate Poisoning Acetylcholinesterase Inhibition Muscarinic Toxidrome Atropine Titration",
+    "Pharmacology",
+    "Nervous System",
+    "intravenous atropine 2 mg doubling every 5 minutes until dry axillae, clear chest, and heart rate > 80/min achieved",
+    "UHS Toxicology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Aluminium Phosphide (Wheat Pill) Poisoning Phosphine Gas Toxicity Shock and IV Magnesium Sulfate",
+    "Pharmacology",
+    "Cardiovascular",
+    "toxic phosphine gas inhibiting cytochrome c oxidase managed with gastric lavage with sodium bicarbonate and supportive ICU care",
+    "UHS Clinical Toxicology Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Kala Pathar (Paraphenylenediamine - PPD) Hair Dye Poisoning Angioneurotic Edema and Emergency Tracheostomy",
+    "Surgery",
+    "Respiratory",
+    "severe cervicofacial edema and rhabdomyolysis requiring immediate awake tracheostomy and urgent alkaline diuresis",
+    "UHS Toxicology Clinical Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Snake Bite Echis carinatus Hemotoxicity 20-Minute Whole Blood Clotting Test (20WBCT) and Polyvalent Antivenom",
+    "Pharmacology",
+    "Hematology",
+    "inability of blood to clot after 20 minutes in clean dry glass tube indicating consumption coagulopathy treated with IV antivenom",
+    "UHS Emergency Medicine Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Corrosive Acid Ingestion Coagulation Necrosis Avoidance of Gastric Lavage and Early Endoscopy",
+    "Surgery",
+    "Gastrointestinal",
+    "strict avoidance of emetics or neutralization and gentle flexible upper endoscopy within 24 hours grading mucosal damage",
+    "UHS Surgical Toxicology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "EPI Pakistan Vaccination Schedule Pentavalent Vaccine at 6, 10, and 14 Weeks DTP-HepB-Hib",
+    "Pediatrics",
+    "General Principles",
+    "intramuscular injection into anterolateral aspect of thigh protecting against diphtheria, tetanus, pertussis, hepatitis B, and Haemophilus influenzae b",
+    "UHS Community Medicine Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Polio Eradication National Immunization Days Bivalent Oral Polio Vaccine (bOPV) Finger Marking",
+    "Pediatrics",
+    "General Principles",
+    "door-to-door administration of two drops of bOPV to all children under 5 years with indelible ink marking on left little finger",
+    "Punjab Emergency Operations Centre Polio Guidelines",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Tuberculosis Directly Observed Treatment Short-Course (DOTS) Strategy Treatment Supporter Role",
+    "Medicine",
+    "Respiratory",
+    "daily ingestion of fixed-dose combination anti-TB tablets under direct visual supervision of healthcare worker or designated community observer",
+    "National TB Control Program Pakistan Curriculum",
+    "https://ntp.gov.pk/"
+  ],
+  [
+    "Maternal Mortality Ratio Calculation UHS Community Medicine Indicator Definition",
+    "Biostatistics",
+    "Pregnancy",
+    "total number of maternal deaths per 100,000 live births reflecting quality of obstetric healthcare delivery and emergency referral systems",
+    "UHS Community Medicine Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Epidemiological Study Designs Randomized Controlled Trial Double-Blind Masking Preventing Bias",
+    "Biostatistics",
+    "General Principles",
+    "masking both study participants and investigators to treatment allocation eliminating observer and ascertainment bias",
+    "UHS Research Methodology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Odds Ratio Calculation in Case-Control Study Cross-Product Ratio (ad/bc)",
+    "Biostatistics",
+    "General Principles",
+    "estimating disease-exposure association in retrospective case-control studies when disease incidence cannot be directly measured",
+    "UHS Biostatistics Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Purification of Water at Domestic Level Boiling for 20 Minutes and Chlorination 0.5 ppm Residual Chlorine",
+    "Medicine",
+    "General Principles",
+    "rolling boil for at least 10-20 minutes destroying all bacterial spores, viral particles, and vegetative protozoal cysts",
+    "UHS Environmental Health Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Malaria Vector Control Indoor Residual Spraying (IRS) with Pyrethroids and Long-Lasting Insecticidal Nets",
+    "Microbiology",
+    "General Principles",
+    "spraying indoor wall surfaces where female Anopheles mosquitoes rest and community distribution of insecticide-treated bed nets",
+    "UHS Community Medicine Vector Control Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Cold Chain Maintenance for EPI Vaccines Temperature Range Strictly +2C to +8C Ice-Lined Refrigerator",
+    "Pharmacology",
+    "General Principles",
+    "continuous temperature dial logging and vaccine vial monitor (VVM) inspection ensuring heat-sensitive live vaccines remain potent",
+    "National EPI Pakistan Cold Chain Protocols",
+    "https://epi.gov.pk/"
+  ],
+  [
+    "Primary Health Care Alma-Ata Declaration Core Elements Accessible Universal Essential Healthcare",
+    "Ethics",
+    "General Principles",
+    "equitable distribution, community participation, intersectoral coordination, and appropriate technology in district healthcare networks",
+    "WHO Alma-Ata Declaration Core Framework",
+    "https://www.who.int/publications/i/item/9241800011"
+  ],
+  [
+    "Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic with Pencil Cells",
+    "Pathology",
+    "Hematology",
+    "blood film showing anisopoikilocytosis with characteristic elongated pencil-shaped elliptocytes and reduced serum ferritin",
+    "UHS Hematology Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Megaloblastic Anemia Vitamin B12 Deficiency Hypersegmented Neutrophils and Megaloblasts",
+    "Pathology",
+    "Hematology",
+    "peripheral smear demonstrating macro-ovalocytes and neutrophils with six or more nuclear lobes alongside elevated homocysteine",
+    "UHS Clinical Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Beta Thalassemia Trait Elevated Hemoglobin A2 (> 3.5%) on HPLC Screening",
+    "Pathology",
+    "Hematology",
+    "high-performance liquid chromatography demonstrating HbA2 >= 3.5% with target cells and microcytic erythrocytosis (Mentzer index < 13)",
+    "UHS Special Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Immune Thrombocytopenic Purpura Bone Marrow Examination Showing Increased Megakaryocytes",
+    "Pathology",
+    "Hematology",
+    "bone marrow aspirate showing abundant immature megakaryocytes with normal erythroid and myeloid maturation lines",
+    "UHS Hematopathology Training Standards",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Acute Myeloid Leukemia FAB M3 Auer Rods in Promyelocytes and t(15;17) Translocation",
+    "Pathology",
+    "Hematology",
+    "bone marrow cytology demonstrating hypergranular promyelocytes packed with faggot cells containing bundled Auer rods",
+    "UHS Hematology Oncology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Chronic Myeloid Leukemia Markedly Elevated Leukocyte Count with Basophilia and Low LAP Score",
+    "Pathology",
+    "Hematology",
+    "complete spectrum of granulocytic precursors on peripheral smear with severe reduction in leukocyte alkaline phosphatase activity",
+    "UHS Hematopathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Multiple Myeloma Serum Protein Electrophoresis Monoclonal M-Spike and Bence Jones Proteinuria",
+    "Pathology",
+    "Hematology",
+    "dense monoclonal spike in gamma globulin region with bone marrow biopsy revealing > 10% clonal atypical plasma cells",
+    "UHS Pathology Final Professional Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Hereditary Spherocytosis Osmotic Fragility Test Positive Spherocytes on Blood Film",
+    "Pathology",
+    "Hematology",
+    "increased red cell lysis in graded hypotonic saline solutions due to spectrin/ankyrin cytoskeletal membrane defects",
+    "UHS Clinical Hematology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Hemophilia A Factor VIII Deficiency Prolonged Activated Partial Thromboplastin Time (aPTT)",
+    "Pathology",
+    "Hematology",
+    "isolated aPTT prolongation correcting completely upon mixing with normal pooled plasma confirming intrinsic pathway factor deficiency",
+    "UHS Hematology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ],
+  [
+    "Disseminated Intravascular Coagulation (DIC) in Sepsis Elevated D-Dimer and FDPs with Hypofibrinogenemia",
+    "Pathology",
+    "Hematology",
+    "systemic consumption coagulopathy marked by thrombocytopenia, elevated prothrombin time, and high fibrin degradation products",
+    "UHS General & Special Pathology Curriculum",
+    "https://www.uhs.edu.pk/"
+  ]
+]
+
+PLAB_TOPICS = [
+  [
+    "Acute Coronary Syndrome STEMI Door-to-Balloon Time < 90 Minutes Primary PCI Pathways",
+    "Medicine",
+    "Cardiovascular",
+    "immediate cardiac catheter laboratory activation, dual antiplatelet loading (aspirin 300 mg plus ticagrelor 180 mg), and unfractionated heparin",
+    "NICE NG185 Acute Coronary Syndromes",
+    "https://www.nice.org.uk/guidance/ng185"
+  ],
+  [
+    "Heart Failure with Preserved Ejection Fraction (HFpEF) SGLT-2 Inhibitor Empagliflozin 10 mg Daily",
+    "Pharmacology",
+    "Cardiovascular",
+    "oral empagliflozin or dapagliflozin reducing cardiovascular mortality and heart failure hospitalizations in HFpEF",
+    "NICE Chronic Heart Failure in Adults NG106 Update",
+    "https://www.nice.org.uk/guidance/ng106"
+  ],
+  [
+    "Atrial Fibrillation Stroke Prevention CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant Apixaban",
+    "Pharmacology",
+    "Cardiovascular",
+    "first-line DOAC therapy (apixaban 5 mg twice daily) offering superior safety and efficacy compared to warfarin",
+    "NICE Atrial Fibrillation Diagnosis and Management NG196",
+    "https://www.nice.org.uk/guidance/ng196"
+  ],
+  [
+    "Infective Endocarditis Duke Criteria Modified Positive Blood Cultures and Transesophageal Echocardiogram",
+    "Medicine",
+    "Cardiovascular",
+    "three sets of blood cultures drawn from separate venipuncture sites and TOE confirming valvular vegetation or abscess",
+    "ESC Guidelines for the Management of Infective Endocarditis",
+    "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Infective-Endocarditis-Guidelines"
+  ],
+  [
+    "Severe Aortic Stenosis Triad of Dyspnea, Angina, and Syncope Transcatheter Aortic Valve Implantation",
+    "Surgery",
+    "Cardiovascular",
+    "TAVI indicated in patients aged >= 75 years or high surgical risk restoring normal transvalvular hemodynamics",
+    "NICE Transcatheter Aortic Valve Implantation IPG586",
+    "https://www.nice.org.uk/guidance/ipg586"
+  ],
+  [
+    "Resistant Hypertension on Triple Therapy Clinic BP >= 140/90 mm Hg Addition of Low-Dose Spironolactone",
+    "Pharmacology",
+    "Cardiovascular",
+    "adding spironolactone 25 mg daily if serum potassium <= 4.5 mmol/L or alpha/beta-blocker if potassium > 4.5 mmol/L",
+    "NICE Hypertension in Adults NG136",
+    "https://www.nice.org.uk/guidance/ng136"
+  ],
+  [
+    "Hypertrophic Cardiomyopathy Asymptomatic Screening in First-Degree Relatives Transthoracic Echocardiogram",
+    "Medicine",
+    "Cardiovascular",
+    "clinical evaluation, 12-lead ECG, and transthoracic echocardiogram screening every 3-5 years for first-degree relatives",
+    "ESC Guidelines on Hypertrophic Cardiomyopathy",
+    "https://www.escardio.org/"
+  ],
+  [
+    "Deep Vein Thrombosis Wells Score >= 2 Proximal Leg Ultrasound and Direct Oral Anticoagulant Rivaroxaban",
+    "Medicine",
+    "Hematology",
+    "interim therapeutic anticoagulation with oral rivaroxaban 15 mg BD followed by compression duplex ultrasound within 24 hours",
+    "NICE Venous Thromboembolic Diseases NG158",
+    "https://www.nice.org.uk/guidance/ng158"
+  ],
+  [
+    "Vasovagal Syncope Typical Prodrome Reassurance, Counter-Pressure Manoeuvres, and Fluid Intake",
+    "Medicine",
+    "Cardiovascular",
+    "physical counter-pressure isometric exercises (leg crossing and hand grip) and avoidance of volume depletion triggers",
+    "ESC Guidelines for the Diagnosis and Management of Syncope",
+    "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Syncope-Guidelines"
+  ],
+  [
+    "Intermittent Claudication Peripheral Artery Disease Supervised Exercise Programme and Atorvastatin 80 mg",
+    "Medicine",
+    "Cardiovascular",
+    "supervised exercise training for 2 hours weekly over 3 months, high-intensity statin, and clopidogrel 75 mg daily",
+    "NICE Peripheral Arterial Disease NG89",
+    "https://www.nice.org.uk/guidance/cg147"
+  ],
+  [
+    "Community-Acquired Pneumonia Low Severity CURB-65 Score 0 Oral Amoxicillin 500 mg TDS for 5 Days",
+    "Pharmacology",
+    "Respiratory",
+    "home-based recovery with oral amoxicillin monotherapy 500 mg three times daily and safety netting advice",
+    "NICE Pneumonia in Adults Diagnosis and Management CG191",
+    "https://www.nice.org.uk/guidance/cg191"
+  ],
+  [
+    "Severe COPD Exacerbation Acute Acidemia pH 7.28 PaCO2 7.8 kPa Non-Invasive Positive Pressure Ventilation (NIV)",
+    "Medicine",
+    "Respiratory",
+    "bi-level positive airway pressure (BiPAP) with initial IPAP 10-12 cm H2O and EPAP 4-5 cm H2O repeating ABG at 1 hour",
+    "BTS/ICS Guideline for Non-Invasive Ventilation in Acute Respiratory Failure",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Adult Asthma Newly Diagnosed Moderate Persistent Maintenance Inhaled Corticosteroid and LABA",
+    "Pharmacology",
+    "Respiratory",
+    "low-dose ICS-formoterol as maintenance and reliever therapy (MART) reducing severe exacerbation risk",
+    "BTS/SIGN British Guideline on the Management of Asthma",
+    "https://www.brit-thoracic.org.uk/quality-improvement/guidelines/asthma/"
+  ],
+  [
+    "Suspected Lung Cancer 2-Week Wait Referral Criteria Unexplained Hemoptysis in Smoker Aged > 40",
+    "Medicine",
+    "Respiratory",
+    "urgent chest radiograph or direct 2-week wait referral for contrast-enhanced thoracic CT and respiratory review",
+    "NICE Suspected Cancer Recognition and Referral NG12",
+    "https://www.nice.org.uk/guidance/ng12"
+  ],
+  [
+    "Bronchiectasis Chronic Productive Cough High-Resolution CT Chest Sputum Clearance Physiotherapy",
+    "Medicine",
+    "Respiratory",
+    "active cycle of breathing techniques, flutter valve device, and targeted sputum culture-directed antimicrobial therapy",
+    "BTS Guideline for Bronchiectasis in Adults",
+    "https://www.brit-thoracic.org.uk/quality-improvement/guidelines/bronchiectasis/"
+  ],
+  [
+    "Obstructive Sleep Apnoea-Hypopnoea Syndrome Epworth Sleepiness Score > 10 Nocturnal Continuous Positive Airway Pressure",
+    "Medicine",
+    "Respiratory",
+    "fixed or auto-titrating nocturnal CPAP therapy, weight reduction, and notification of the Driver and Vehicle Licensing Agency (DVLA)",
+    "NICE Obstructive Sleep Apnoea/Hypopnoea Syndrome NG202",
+    "https://www.nice.org.uk/guidance/ng202"
+  ],
+  [
+    "Spontaneous Pneumothorax Primary Small (< 2 cm) No Breathlessness Conservative Outpatient Observation",
+    "Medicine",
+    "Respiratory",
+    "discharge without needle aspiration with written safety netting advice and repeat outpatient chest radiograph in 2-4 weeks",
+    "BTS Pleural Disease Guideline Spontaneous Pneumothorax",
+    "https://www.brit-thoracic.org.uk/quality-improvement/guidelines/pleural-disease/"
+  ],
+  [
+    "Idiopathic Pulmonary Fibrosis Persistent Dry Cough and Bibasal Fine Crackles Oral Nintedanib Antifibrotic",
+    "Pharmacology",
+    "Respiratory",
+    "high-resolution CT showing definite UIP pattern treated with oral tyrosine kinase inhibitor nintedanib 150 mg BD",
+    "NICE Idiopathic Pulmonary Fibrosis in Adults CG163",
+    "https://www.nice.org.uk/guidance/cg163"
+  ],
+  [
+    "Sarcoidosis Acute Presentation Erythema Nodosum and Bilateral Hilar Lymphadenopathy (Lofgren Syndrome)",
+    "Medicine",
+    "Respiratory",
+    "conservative management with oral NSAIDs and clinical observation as Lofgren syndrome carries > 85% spontaneous resolution",
+    "BTS Clinical Statement on Pulmonary Sarcoidosis",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Pleural Effusion Unilateral Exudative Light Criteria Diagnostic Pleural Aspiration and Cytology",
+    "Medicine",
+    "Respiratory",
+    "ultrasound-guided diagnostic thoracentesis sending fluid for protein, LDH, pH, microscopy, culture, and cytology",
+    "BTS Pleural Disease Guideline Thoracentesis",
+    "https://www.brit-thoracic.org.uk/quality-improvement/guidelines/pleural-disease/"
+  ],
+  [
+    "Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Direct-Access Upper Gastrointestinal Endoscopy",
+    "Medicine",
+    "Gastrointestinal",
+    "urgent upper GI endoscopy within 2 weeks ruling out esophageal or gastric adenocarcinoma",
+    "NICE Gastro-Oesophageal Reflux Disease and Dyspepsia in Adults CG184",
+    "https://www.nice.org.uk/guidance/cg184"
+  ],
+  [
+    "Helicobacter pylori Infection Positive Stool Antigen Test First-Line 7-Day Triple Eradication Therapy",
+    "Pharmacology",
+    "Gastrointestinal",
+    "twice-daily oral PPI, amoxicillin 1 g BD, and clarithromycin 500 mg BD (or metronidazole if penicillin-allergic) for 7 days",
+    "NICE Dyspepsia and GORD Guidelines H. pylori Eradication",
+    "https://www.nice.org.uk/guidance/cg184"
+  ],
+  [
+    "Coeliac Disease Positive Anti-tTG IgA Antibodies Upper GI Endoscopy with Multiple Duodenal Biopsies",
+    "Pathology",
+    "Gastrointestinal",
+    "confirming total or subtotal villous atrophy (Marsh 3) on duodenal biopsy while patient maintains gluten-containing diet",
+    "NICE Coeliac Disease Recognition, Assessment and Management NG20",
+    "https://www.nice.org.uk/guidance/ng20"
+  ],
+  [
+    "Ulcerative Colitis Mild-to-Moderate Proctitis First-Line Topical 5-ASA Suppository Mesalazine 1 g Daily",
+    "Pharmacology",
+    "Gastrointestinal",
+    "daily rectal mesalazine 1 g suppository inducing remission with superior mucosal drug delivery compared to oral 5-ASA",
+    "NICE Ulcerative Colitis Management NG130",
+    "https://www.nice.org.uk/guidance/ng130"
+  ],
+  [
+    "Crohn Disease Terminal Ileal Mild Active Induction Oral Modified-Release Budesonide 9 mg Daily",
+    "Pharmacology",
+    "Gastrointestinal",
+    "ileal-release budesonide 9 mg once daily for 8 weeks achieving localized anti-inflammatory remission with minimal systemic side effects",
+    "NICE Crohn's Disease Management NG129",
+    "https://www.nice.org.uk/guidance/ng129"
+  ],
+  [
+    "Irritable Bowel Syndrome ROME IV Criteria Dietary Fiber Adjustment and Low-FODMAP Diet",
+    "Medicine",
+    "Gastrointestinal",
+    "structured dietitian-led low-FODMAP dietary restriction, soluble fiber (ispaghula husk), and antispasmodics (mebeverine)",
+    "NICE Irritable Bowel Syndrome in Adults CG61",
+    "https://www.nice.org.uk/guidance/cg61"
+  ],
+  [
+    "Acute Variceal Bleeding in Alcoholic Cirrhosis Terlipressin, IV Ceftriaxone, and Urgent Endoscopic Banding",
+    "Medicine",
+    "Gastrointestinal",
+    "intravenous terlipressin 2 mg bolus, prophylactic IV ceftriaxone, and urgent therapeutic endoscopic variceal band ligation within 12 hours",
+    "NICE Acute Upper Gastrointestinal Bleeding in Over 16s CG141",
+    "https://www.nice.org.uk/guidance/cg141"
+  ],
+  [
+    "Primary Biliary Cholangitis Elevated Alkaline Phosphatase and Positive Anti-Mitochondrial Antibodies (AMA)",
+    "Pharmacology",
+    "Gastrointestinal",
+    "first-line oral ursodeoxycholic acid (UDCA) 13-15 mg/kg/day slowing histological progression and delaying liver failure",
+    "BSG and BASL Clinical Practice Guidelines Management of PBC",
+    "https://gut.bmj.com/content/67/9/1568"
+  ],
+  [
+    "Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Score Calculation and Enhanced Liver Fibrosis (ELF) Blood Test",
+    "Medicine",
+    "Gastrointestinal",
+    "serum ELF score testing for intermediate FIB-4 scores referring patients with ELF >= 10.51 to hepatology for advanced fibrosis",
+    "NICE Non-Alcoholic Fatty Liver Disease Assessment and Management NG49",
+    "https://www.nice.org.uk/guidance/ng49"
+  ],
+  [
+    "Colorectal Cancer Screening NHS Bowel Cancer Screening Programme Biennial FIT Test Age 50-74",
+    "Medicine",
+    "Gastrointestinal",
+    "home fecal immunochemical test (FIT) screening with quantitative cutoff 120 mcg Hb/g inviting all eligible adults biennially",
+    "NHS Bowel Cancer Screening Programme Standards",
+    "https://www.gov.uk/guidance/bowel-cancer-screening-programme-overview"
+  ],
+  [
+    "Type 2 Diabetes Newly Diagnosed with Established CVD Dual Metformin and SGLT-2 Inhibitor Dapagliflozin",
+    "Pharmacology",
+    "Endocrine",
+    "metformin titrated to 1000 mg BD plus SGLT-2 inhibitor 10 mg daily providing renal protection and cardiovascular risk reduction",
+    "NICE Type 2 Diabetes in Adults NG28 Update",
+    "https://www.nice.org.uk/guidance/ng28"
+  ],
+  [
+    "Diabetic Ketoacidosis Blood Glucose > 11 mmol/L and Ketones > 3.0 mmol/L Fixed-Rate IV Insulin 0.1 U/kg/hr",
+    "Medicine",
+    "Endocrine",
+    "fixed-rate intravenous insulin infusion alongside IV 0.9% sodium chloride and potassium replacement continuing baseline long-acting insulin",
+    "JBDS Inpatient Care Group Management of Diabetic Ketoacidosis",
+    "https://abcd.care/joint-british-diabetes-societies-jbds-inpatient-care-group"
+  ],
+  [
+    "Subclinical Hypothyroidism TSH 7.5 mIU/L Normal Free T4 Asymptomatic Repeat Thyroid Function in 3 Months",
+    "Medicine",
+    "Endocrine",
+    "repeat serum TSH and free T4 in 3 months with anti-TPO antibody check before considering levothyroxine trial",
+    "NICE Thyroid Disease Assessment and Management NG145",
+    "https://www.nice.org.uk/guidance/ng145"
+  ],
+  [
+    "Graves Disease Thyrotoxicosis First-Line Antithyroid Drug Oral Carbimazole 20-40 mg Daily",
+    "Pharmacology",
+    "Endocrine",
+    "titration or block-and-replace carbimazole therapy with urgent counseling on sore throat warning signs for agranulocytosis",
+    "NICE Thyroid Disease Management Carbimazole",
+    "https://www.nice.org.uk/guidance/ng145"
+  ],
+  [
+    "Primary Hyperparathyroidism Asymptomatic Serum Calcium > 2.85 mmol/L Parathyroidectomy Referral",
+    "Surgery",
+    "Endocrine",
+    "referral to specialized endocrine surgeon for focused parathyroidectomy following localization with ultrasound and sestamibi SPECT-CT",
+    "NICE Hyperparathyroidism (Primary) Diagnosis and Management NG132",
+    "https://www.nice.org.uk/guidance/ng132"
+  ],
+  [
+    "Addison Disease Autoimmune Adrenalitis Maintenance Hydrocortisone and Fludrocortisone Replacement",
+    "Pharmacology",
+    "Endocrine",
+    "oral hydrocortisone 15-20 mg daily in divided doses (highest in morning) and oral fludrocortisone 50-100 mcg daily with steroid emergency card",
+    "Endocrine Society Clinical Practice Guideline Adrenal Insufficiency",
+    "https://academic.oup.com/jcem/article/101/2/364/2804772"
+  ],
+  [
+    "Chronic Kidney Disease Stage 3b with Albuminuria (uACR > 30 mg/mmol) ACE Inhibitor Enalapril Titration",
+    "Pharmacology",
+    "Renal",
+    "titrating ACE inhibitor or ARB targeting blood pressure < 130/80 mm Hg and monitoring renal function within 1-2 weeks",
+    "NICE Chronic Kidney Disease Assessment and Management NG203",
+    "https://www.nice.org.uk/guidance/ng203"
+  ],
+  [
+    "Acute Kidney Injury Stage 1 KDIGO Criteria Medication Review and Discontinuation of Nephrotoxins",
+    "Medicine",
+    "Renal",
+    "immediate withholding of NSAIDs, ACEi/ARBs, and aminoglycosides with volume status optimization and urine output monitoring",
+    "NICE Acute Kidney Injury Prevention, Detection and Management NG148",
+    "https://www.nice.org.uk/guidance/ng148"
+  ],
+  [
+    "Nephrotic Syndrome Adult with Normal Kidney Function Renal Biopsy Demonstrating Membranous Nephropathy",
+    "Pathology",
+    "Renal",
+    "percutaneous ultrasound-guided renal biopsy, serum anti-PLA2R antibody testing, and ACEi/ARB with prophylactic anticoagulation",
+    "KDIGO Glomerular Diseases Guidelines",
+    "https://kdigo.org/guidelines/gn/"
+  ],
+  [
+    "Autosomal Dominant Polycystic Kidney Disease (ADPKD) Hypertension Control and Blood Pressure Target < 130/80",
+    "Medicine",
+    "Renal",
+    "first-line ACE inhibitor or ARB therapy, high fluid intake (> 3 L/day), and consideration of tolvaptan for rapid progressors",
+    "NICE Tolvaptan for Treating Autosomal Dominant Polycystic Kidney Disease TA358",
+    "https://www.nice.org.uk/guidance/ta358"
+  ],
+  [
+    "Transient Ischemic Attack (TIA) ABCD2 Score Management Immediate Aspirin 300 mg and TIA Clinic Within 24 Hours",
+    "Medicine",
+    "Nervous System",
+    "immediate dispersible aspirin 300 mg daily with urgent assessment in specialist TIA service within 24 hours and MRI brain",
+    "NICE Stroke and Transient Ischaemic Attack in Over 16s NG128",
+    "https://www.nice.org.uk/guidance/ng128"
+  ],
+  [
+    "Parkinson Disease First Presentation Tremor and Bradykinesia Referral Untreated to Specialist Neurologist",
+    "Neurology",
+    "Nervous System",
+    "referral to movement disorder specialist without starting antiparkinsonian medications to preserve clinical diagnostic signs",
+    "NICE Parkinson's Disease in Adults NG71",
+    "https://www.nice.org.uk/guidance/ng71"
+  ],
+  [
+    "Epilepsy First Unprovoked Seizure in Adult 12-Lead ECG and Outpatient First Seizure Clinic Referral",
+    "Neurology",
+    "Nervous System",
+    "routine 12-lead ECG, blood glucose, electrolytes, and referral to specialist neurologist within 2 weeks with DVLA driving cessation advice",
+    "NICE Epilepsies in Children, Young People and Adults NG217",
+    "https://www.nice.org.uk/guidance/ng217"
+  ],
+  [
+    "Multiple Sclerosis Suspected Optic Neuritis and Paresthesias Gadolinium-Enhanced Brain and Spinal MRI",
+    "Neurology",
+    "Nervous System",
+    "MRI showing dissemination in space and time per McDonald criteria, oligoclonal bands in CSF, and referral to MS specialist",
+    "NICE Multiple Sclerosis in Adults NG220",
+    "https://www.nice.org.uk/guidance/ng220"
+  ],
+  [
+    "Migraine Prophylaxis >= 4 Disabling Headache Days per Month First-Line Oral Propranolol or Topiramate",
+    "Pharmacology",
+    "Nervous System",
+    "daily oral propranolol 80-160 mg or topiramate 50-100 mg (with mandatory pregnancy counseling and effective contraception)",
+    "NICE Headaches in Over 12s Diagnosis and Management CG150",
+    "https://www.nice.org.uk/guidance/cg150"
+  ],
+  [
+    "Major Depressive Episode Moderate Severity First-Line Low-Intensity Psychological Intervention or SSRI",
+    "Psychiatry",
+    "Behavioral Health",
+    "individual CBT or oral sertraline 50 mg daily with follow-up review at 1-2 weeks monitoring for emergent suicidal ideation",
+    "NICE Depression in Adults Treatment and Management NG222",
+    "https://www.nice.org.uk/guidance/ng222"
+  ],
+  [
+    "Generalized Anxiety Disorder Severe Symptoms First-Line Step 3 Treatment High-Intensity CBT or Sertraline",
+    "Psychiatry",
+    "Behavioral Health",
+    "12-15 weekly sessions of CBT or oral sertraline continuing for at least 12 months after clinical symptom remission",
+    "NICE Generalised Anxiety Disorder and Panic Disorder CG113",
+    "https://www.nice.org.uk/guidance/cg113"
+  ],
+  [
+    "Schizophrenia Relapse with Medication Non-Adherence Long-Acting Injectable Antipsychotic Aripiprazole",
+    "Psychiatry",
+    "Behavioral Health",
+    "switching to monthly intramuscular depot injection after tolerability established with oral formulation",
+    "NICE Psychosis and Schizophrenia in Adults CG178",
+    "https://www.nice.org.uk/guidance/cg178"
+  ],
+  [
+    "Delirium in Hospitalized Elderly Patient Underlying Urinary Tract Infection Non-Pharmacological De-Escalation",
+    "Geriatrics",
+    "Behavioral Health",
+    "treating precipitating infection, quiet well-lit side room, familiar objects, clock, reorientation cues, and avoiding physical restraints",
+    "NICE Delirium Prevention, Diagnosis and Management CG103",
+    "https://www.nice.org.uk/guidance/cg103"
+  ],
+  [
+    "Dementia Alzheimer Disease Mild-to-Moderate Donepezil 5 mg Daily Acetylcholinesterase Inhibitor",
+    "Pharmacology",
+    "Behavioral Health",
+    "oral donepezil or galantamine initiated under memory clinic supervision following baseline ECG confirming absence of sick sinus syndrome",
+    "NICE Dementia Assessment, Management and Support for People Living with Dementia NG97",
+    "https://www.nice.org.uk/guidance/ng97"
+  ],
+  [
+    "Acute Appendicitis Classic History Migratory RIF Pain Ultrasound Confirmation and Laparoscopic Appendectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "ultrasound or contrast-enhanced CT in equivocal cases followed by three-port laparoscopic appendectomy within 24 hours",
+    "NICE Suspected Acute Appendicitis Standards",
+    "https://www.nice.org.uk/"
+  ],
+  [
+    "Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain Oral Co-Amoxiclav and Outpatient Review",
+    "Pharmacology",
+    "Gastrointestinal",
+    "oral co-amoxiclav 625 mg TDS for 5 days with clear fluid diet and urgent return advice if systemic sepsis develops",
+    "NICE Diverticular Disease Diagnosis and Management NG147",
+    "https://www.nice.org.uk/guidance/ng147"
+  ],
+  [
+    "Small Bowel Obstruction Virgin Abdomen No Prior Surgery Emergency Surgical CT Abdomen-Pelvis",
+    "Surgery",
+    "Gastrointestinal",
+    "urgent IV contrast-enhanced abdominopelvic CT identifying internal hernia or occult tumor prior to exploratory laparotomy",
+    "RCSEng Commissioning Guide Emergency General Surgery",
+    "https://www.rcseng.ac.uk/"
+  ],
+  [
+    "Breast Lump Solid Irregular 2 cm in 52-Year-Old Woman Triple Assessment Protocol",
+    "Surgery",
+    "General Principles",
+    "clinical breast examination, bilateral digital mammography with ultrasound, and core needle core biopsy under ultrasound guidance",
+    "NICE Early and Locally Advanced Breast Cancer NG101",
+    "https://www.nice.org.uk/guidance/ng101"
+  ],
+  [
+    "Neck of Femur Fracture Displaced Intracapsular in Active 72-Year-Old Total Hip Arthroplasty (THA)",
+    "Surgery",
+    "Musculoskeletal",
+    "cemented total hip replacement within 36 hours of admission for patients who walk independently and have normal cognition",
+    "NICE Hip Fracture Management CG124",
+    "https://www.nice.org.uk/guidance/cg124"
+  ],
+  [
+    "Colles Fracture Minimally Displaced Distal Radius Closed Manipulation and Below-Elbow Cast for 4-6 Weeks",
+    "Surgery",
+    "Musculoskeletal",
+    "haematoma block under sterile technique, manual longitudinal traction reduction, and repeat radiograph at 1 week checking alignment",
+    "BOAST Fractures of the Distal Radius Guideline",
+    "https://www.boa.ac.uk/resources/boast-distal-radius.html"
+  ],
+  [
+    "Osteoarthritis of Knee Moderate Pain and Joint Space Narrowing Supervised Exercise and Topical NSAID Gel",
+    "Medicine",
+    "Musculoskeletal",
+    "structured aerobic and local muscle strengthening physiotherapy, weight loss advice, and topical ibuprofen or diclofenac gel",
+    "NICE Osteoarthritis Care and Management CG177",
+    "https://www.nice.org.uk/guidance/cg177"
+  ],
+  [
+    "Rheumatoid Arthritis Early Active Symmetrical Polyarthritis Immediate Referral and DMARD Monotherapy",
+    "Medicine",
+    "Musculoskeletal",
+    "urgent rheumatology referral within 3 working days and oral methotrexate 15 mg weekly with folic acid 5 mg weekly",
+    "NICE Rheumatoid Arthritis in Adults Management NG100",
+    "https://www.nice.org.uk/guidance/ng100"
+  ],
+  [
+    "Gout Acute Monoarthritis First MTP Joint Oral Colchicine 500 mcg BD-TDS or Oral Naproxen 500 mg BD",
+    "Pharmacology",
+    "Musculoskeletal",
+    "oral colchicine 500 mcg twice to three times daily until symptoms resolve with delayed allopurinol initiation at 2-4 weeks post-flare",
+    "NICE Gout Diagnosis and Management NG219",
+    "https://www.nice.org.uk/guidance/ng219"
+  ],
+  [
+    "Giant Cell Arteritis Refractory Cranial Relapses Weekly Subcutaneous Tocilizumab Monoclonal Antibody",
+    "Medicine",
+    "Cardiovascular",
+    "weekly subcutaneous tocilizumab 162 mg achieving sustained glucocorticoid-sparing remission and preventing irreversible ischemic blindness",
+    "NICE Tocilizumab for Treating Giant Cell Arteritis TA518",
+    "https://www.nice.org.uk/guidance/ta518"
+  ],
+  [
+    "Combined Hormonal Contraceptive Pill UKMEC 4 Contraindications Migraine with Aura and Smoking Age > 35",
+    "Obstetrics",
+    "Pregnancy",
+    "strict avoidance of ethinylestradiol containing methods due to heightened ischemic stroke and venous thromboembolism risk",
+    "FSRH UK Medical Eligibility Criteria for Contraceptive Use (UKMEC)",
+    "https://www.fsrh.org/standards-and-guidance/ukmec/"
+  ],
+  [
+    "Heavy Menstrual Bleeding No Structural Pathology First-Line Levonorgestrel Intrauterine System (Mirena 52 mg)",
+    "Obstetrics",
+    "Pregnancy",
+    "intrauterine system releasing 20 mcg levonorgestrel daily providing profound endometrial atrophy and reducing blood loss by 90%",
+    "NICE Heavy Menstrual Bleeding Assessment and Management NG88",
+    "https://www.nice.org.uk/guidance/ng88"
+  ],
+  [
+    "Cervical Screening Programme UK High-Risk HPV Primary Screening Every 5 Years Age 25-64",
+    "Obstetrics",
+    "Pregnancy",
+    "liquid-based cytology reflex testing only if high-risk HPV DNA is detected with direct colposcopy referral for cytology abnormalities",
+    "NHS Cervical Screening Programme Guidance",
+    "https://www.gov.uk/guidance/cervical-screening-programme-overview"
+  ],
+  [
+    "Pre-eclampsia High-Risk Women (Prior Preeclampsia, CKD, or Diabetes) Daily Oral Aspirin 150 mg from 12 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "oral aspirin 150 mg nightly from 12 weeks gestation until delivery reducing pre-eclampsia and fetal growth restriction incidence",
+    "NICE Hypertension in Pregnancy Diagnosis and Management NG133",
+    "https://www.nice.org.uk/guidance/ng133"
+  ],
+  [
+    "Hyperemesis Gravidarum Moderate-to-Severe Dehydration IV Normal Saline with Potassium and Oral Cyclizine 50 mg TDS",
+    "Obstetrics",
+    "Pregnancy",
+    "rapid IV crystalloid hydration with potassium replacement, oral or IV cyclizine, and daily thiamine supplementation preventing Wernicke encephalopathy",
+    "RCOG Green-top Guideline The Management of Nausea and Vomiting of Pregnancy",
+    "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/nausea-and-vomiting-in-pregnancy-and-hyperemesis-gravidarum-green-top-guideline-no-69/"
+  ],
+  [
+    "Pediatric Febrile Convulsion Simple Generalized Tonic-Clonic Lasting < 5 Minutes Reassurance and Paracetamol",
+    "Pediatrics",
+    "Nervous System",
+    "reassurance regarding benign nature, educating parents on recovery position and red flag features without daily prophylactic anticonvulsants",
+    "NICE Fever in Under 5s Assessment and Initial Management NG143",
+    "https://www.nice.org.uk/guidance/ng143"
+  ],
+  [
+    "Childhood Asthma Diagnosis Objective Testing in Children Aged >= 5 Years FeNO and Spirometry",
+    "Pediatrics",
+    "Respiratory",
+    "fractional exhaled nitric oxide (FeNO >= 35 ppb) and spirometry with bronchodilator reversibility before confirming asthma diagnosis",
+    "NICE Asthma Diagnosis, Monitoring and Chronic Asthma Management NG80",
+    "https://www.nice.org.uk/guidance/ng80"
+  ],
+  [
+    "Pediatric Dehydration Mild-to-Moderate Oral Rehydration Solution 50 mL/kg Over 4 Hours",
+    "Pediatrics",
+    "Gastrointestinal",
+    "frequent small sips of oral rehydration solution (5 mL every 5 minutes) continuing regular milk feeding and fluid maintenance",
+    "NICE Diarrhoea and Vomiting Caused by Gastroenteritis in Children Under 5s CG84",
+    "https://www.nice.org.uk/guidance/cg84"
+  ],
+  [
+    "Developmental Dysplasia of the Hip Newborn Barlow and Ortolani Positive Urgent Ultrasound at 4-6 Weeks",
+    "Pediatrics",
+    "Musculoskeletal",
+    "dynamic hip ultrasound imaging by 4-6 weeks of age guiding Pavlik harness placement before femoral head ossification",
+    "NICE Developmental Dysplasia of the Hip Guidance",
+    "https://www.nice.org.uk/"
+  ],
+  [
+    "Meningitis Suspected in Primary Care Non-Blanching Purpuric Rash Immediate IM/IV Benzylpenicillin",
+    "Pediatrics",
+    "General Principles",
+    "immediate intramuscular or intravenous benzylpenicillin (dose by age: 300 mg under 1 yr, 600 mg 1-9 yrs, 1200 mg >= 10 yrs) and 999 transfer",
+    "NICE Meningitis (Bacterial) and Meningococcal Disease NG240",
+    "https://www.nice.org.uk/guidance/ng240"
+  ],
+  [
+    "GMC Good Medical Practice Medical Student/Doctor Social Media Guidelines Anonymity and Professional Boundaries",
+    "Ethics",
+    "General Principles",
+    "maintaining absolute patient confidentiality online, avoiding posting identifying clinical details, and upholding professional integrity",
+    "GMC Good Medical Practice Social Media Standards",
+    "https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/doctors-use-of-social-media"
+  ],
+  [
+    "Gillick Competence and Fraser Guidelines Contraceptive Advice to Person Aged < 16 Without Parental Consent",
+    "Ethics",
+    "Behavioral Health",
+    "assessing maturity, understanding of risks, inability to persuade parental discussion, and preventing physical/mental health detriment",
+    "GMC Guidance Protecting Children and Young People Contraceptive Advice",
+    "https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/protecting-children-and-young-people"
+  ],
+  [
+    "Adult Patient Refusal of Blood Transfusion Competent Jehovah's Witness Advance Decision to Refuse Treatment",
+    "Ethics",
+    "General Principles",
+    "respecting legally valid and applicable written advance refusal of blood components providing volume expanders and cell salvage",
+    "GMC Decision Making and Consent Guidance Refusal of Treatment",
+    "https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/decision-making-and-consent"
+  ],
+  [
+    "Mental Capacity Act 2005 Core Principles Presumption of Capacity and Best Interests Principle",
+    "Ethics",
+    "Behavioral Health",
+    "presuming mental capacity unless proven otherwise, supporting all practicable decision-making steps, and acting in patient's best interests",
+    "UK Mental Capacity Act 2005 Code of Practice",
+    "https://www.legislation.gov.uk/ukpga/2005/9/contents"
+  ],
+  [
+    "Deprivation of Liberty Safeguards (DoLS) Inpatient Lacking Capacity Kept Under Constant Supervision",
+    "Ethics",
+    "Behavioral Health",
+    "applying for formal DoLS or Liberty Protection Safeguards (LPS) authorization ensuring care is proportionate and legally authorized",
+    "NICE Decision-Making and Mental Capacity NG108",
+    "https://www.nice.org.uk/guidance/ng108"
+  ],
+  [
+    "Duty of Candour Statutory Requirement Openness Following Patient Safety Incident Causing Moderate Harm",
+    "Ethics",
+    "General Principles",
+    "informing patient/family in person within 10 days, providing truthful factual explanation, offering sincere apology, and documenting in records",
+    "GMC and NMC Openness and Honesty When Things Go Wrong The Professional Duty of Candour",
+    "https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/candour---openness-and-honesty-when-things-go-wrong"
+  ],
+  [
+    "DVLA Driving Medical Standards Post-First Unprovoked Seizure Mandatory 6-Month Driving Ban",
+    "Ethics",
+    "Nervous System",
+    "informing the patient of their legal duty to notify the DVLA and immediately refrain from driving Group 1 vehicles for at least 6 months",
+    "DVLA Assessing Fitness to Drive A Guide for Medical Professionals",
+    "https://www.gov.uk/guidance/assessing-fitness-to-drive-a-guide-for-medical-professionals"
+  ],
+  [
+    "Fitness to Practise Impairment Health, Misconduct, or Criminal Conviction Self-Reporting to GMC",
+    "Ethics",
+    "General Principles",
+    "mandatory duty of registered medical practitioners to inform the GMC without delay if cautioned, charged, or convicted of criminal offences",
+    "GMC Reporting Criminal Proceedings Guidance",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Prescribing Controlled Drugs CD Schedule 2 (Morphine) 28-Day Maximum Prescription Duration",
+    "Pharmacology",
+    "General Principles",
+    "writing exact quantity in words and figures, date, prescriber address, and restricting supply to a maximum of 30 days on FP10 prescription",
+    "NICE Controlled Drugs Safe Use and Management NG46",
+    "https://www.nice.org.uk/guidance/ng46"
+  ],
+  [
+    "Confidentiality Disclosure in Public Interest Gunshot Wound or Knife Assault Notification to Police",
+    "Ethics",
+    "General Principles",
+    "disclosing minimum necessary identifying information to police without consent to prevent further serious crime involving lethal weapons",
+    "GMC Confidentiality Disclosing Information to Protect Others",
+    "https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/confidentiality"
+  ],
+  [
+    "Eczema Atopic Moderate-to-Severe Flexural Lichenification Topical Betamethasone Valerate 0.1%",
+    "Medicine",
+    "Dermatology",
+    "stepping up to potent topical corticosteroid for short 7-14 day flare course alongside daily emollient bath substitutes",
+    "NICE Atopic Eczema in Under 12s CG57",
+    "https://www.nice.org.uk/guidance/cg57"
+  ],
+  [
+    "Chronic Plaque Psoriasis Extensor Surfaces Topical Calcipotriol and Betamethasone Gel",
+    "Medicine",
+    "Dermatology",
+    "once-daily fixed-dose combination vitamin D analogue and corticosteroid for 4 weeks followed by weekend maintenance",
+    "NICE Psoriasis Assessment and Management CG153",
+    "https://www.nice.org.uk/guidance/cg153"
+  ],
+  [
+    "Basal Cell Carcinoma Nodular 8 mm on Cheek Urgent Referral for Mohs Micrographic Surgery",
+    "Surgery",
+    "Dermatology",
+    "tissue-sparing micrographic surgical excision with immediate frozen section margin mapping for high-risk facial zone",
+    "BAD Guidelines for the Management of Basal Cell Carcinoma",
+    "https://www.bad.org.uk/guidelines-and-standards/"
+  ],
+  [
+    "Malignant Melanoma Suspected ABCDE Criteria 2-Week Wait Urgent Excisional Biopsy with 2 mm Margin",
+    "Surgery",
+    "Dermatology",
+    "complete full-thickness excision of pigmented lesion with 2 mm lateral margin avoiding punch or shave biopsy",
+    "NICE Melanoma Assessment and Management NG14",
+    "https://www.nice.org.uk/guidance/ng14"
+  ],
+  [
+    "Acute Otitis Externa Painful Swollen External Canal Topical Ciprofloxacin with Dexamethasone Drops",
+    "Medicine",
+    "Respiratory",
+    "thorough microsuction aural toilet followed by combination antimicrobial and corticosteroid drops for 7-10 days",
+    "NICE CKS Otitis Externa Clinical Guidance",
+    "https://cks.nice.org.uk/topics/otitis-externa/"
+  ],
+  [
+    "Sudden Sensorineural Hearing Loss Unilateral Emergency ENT Referral for High-Dose Oral Prednisolone",
+    "Medicine",
+    "Nervous System",
+    "urgent within 24-48 hours specialist referral and oral prednisolone 1 mg/kg/day targeting idiopathic inner ear ischemia",
+    "NICE Hearing Loss in Adults Assessment and Management NG98",
+    "https://www.nice.org.uk/guidance/ng98"
+  ],
+  [
+    "Acute Sinusitis Persistent > 10 Days Delayed Antibiotic Prescription Oral Phenoxymethylpenicillin",
+    "Pharmacology",
+    "Respiratory",
+    "back-up delayed antibiotic prescription advised to be filled only if symptoms worsen or fail to resolve within 7 days",
+    "NICE Sinusitis (Acute) Antimicrobial Prescribing NG79",
+    "https://www.nice.org.uk/guidance/ng79"
+  ],
+  [
+    "Primary Open-Angle Glaucoma Intraocular Pressure > 24 mm Hg First-Line Topical Prostaglandin Analogue",
+    "Pharmacology",
+    "General Principles",
+    "once-daily evening topical latanoprost 0.005% eye drops increasing uveoscleral outflow with 4-month monitoring",
+    "NICE Glaucoma Diagnosis and Management NG81",
+    "https://www.nice.org.uk/guidance/ng81"
+  ],
+  [
+    "Dry Age-Related Macular Degeneration (AMD) Amsler Grid Home Monitoring and AREDS2 Antioxidant Supplements",
+    "Medicine",
+    "General Principles",
+    "daily self-monitoring with Amsler grid detecting rapid metamorphopsia distortion indicating wet neovascular conversion",
+    "NICE Macular Degeneration NG82",
+    "https://www.nice.org.uk/guidance/ng82"
+  ],
+  [
+    "Bacterial Keratitis Contact Lens Wearer Corneal Infiltrate Same-Day Ophthalmology Referral and Topical Ofloxacin",
+    "Microbiology",
+    "General Principles",
+    "immediate same-day corneal specialist review with scrapings and intensive topical fluoroquinolone eye drops every hour",
+    "College of Optometrists Clinical Management Guidelines Microbial Keratitis",
+    "https://www.college-optometrists.org/"
+  ],
+  [
+    "Iron Deficiency Anemia Unexplained Microcytic Anemia (Hb < 110 g/L) Urgent 2-Week Wait Lower GI Endoscopy",
+    "Medicine",
+    "Gastrointestinal",
+    "urgent colonoscopy and gastroscopy within 2 weeks investigating occult luminal bleeding in men and postmenopausal women",
+    "NICE Suspected Cancer Recognition and Referral NG12",
+    "https://www.nice.org.uk/guidance/ng12"
+  ],
+  [
+    "Vitamin B12 Deficiency Pernicious Anemia Intramuscular Hydroxocobalamin 1 mg Alternate Days for 2 Weeks",
+    "Pharmacology",
+    "Hematology",
+    "intramuscular hydroxocobalamin 1 mg three times weekly for 2 weeks followed by 3-monthly maintenance injections for life",
+    "NICE Vitamin B12 Deficiency in Over 16s NG239",
+    "https://www.nice.org.uk/guidance/ng239"
+  ],
+  [
+    "Immune Thrombocytopenia (ITP) Platelet Count 15 x 10^9/L Asymptomatic First-Line Oral Prednisolone",
+    "Pharmacology",
+    "Hematology",
+    "oral prednisolone 1 mg/kg/day for 2-3 weeks with gradual taper avoiding overtreatment in non-bleeding patients",
+    "BCSH Guidelines for the Management of Idiopathic Thrombocytopenic Purpura",
+    "https://b-s-h.org.uk/guidelines/"
+  ],
+  [
+    "Multiple Myeloma CRAB Criteria (Hypercalcemia, Renal, Anemia, Bone Lesions) Serum Free Light Chains",
+    "Pathology",
+    "Hematology",
+    "serum and urine protein electrophoresis, free light chain assay, and low-dose whole-body CT identifying osteolytic lesions",
+    "NICE Myeloma Diagnosis and Management NG35",
+    "https://www.nice.org.uk/guidance/ng35"
+  ],
+  [
+    "Neutropenic Sepsis Post-Chemotherapy Fever >= 38.0C Emergent IV Piperacillin-Tazobactam within 60 Minutes",
+    "Pharmacology",
+    "General Principles",
+    "immediate intravenous broad-spectrum antipseudomonal beta-lactam monotherapy within 1 hour 'door-to-needle' time",
+    "NICE Neutropenic Sepsis Prevention and Management in People with Cancer CG151",
+    "https://www.nice.org.uk/guidance/cg151"
+  ],
+  [
+    "Metastatic Spinal Cord Compression (MSCC) Back Pain and Sensory Level High-Dose Oral Dexamethasone 16 mg",
+    "Medicine",
+    "Nervous System",
+    "immediate oral dexamethasone 16 mg with PPI cover and emergency whole-spine MRI scan performed within 24 hours",
+    "NICE Spinal Metastases and Metastatic Spinal Cord Compression NG234",
+    "https://www.nice.org.uk/guidance/ng234"
+  ],
+  [
+    "Cancer Palliative Care Breakthrough Pain Strong Opioid Immediate-Release Morphine One-Sixth of Total Daily Dose",
+    "Pharmacology",
+    "General Principles",
+    "prescribing immediate-release oral morphine equivalent to one-sixth of the total 24-hour background baseline opioid dose",
+    "NICE Palliative Care for Adults Strong Opioids for Pain Relief CG140",
+    "https://www.nice.org.uk/guidance/cg140"
+  ],
+  [
+    "Opioid-Induced Constipation in Advanced Cancer Regular Stimulant Laxative Senna with Stool Softener",
+    "Pharmacology",
+    "Gastrointestinal",
+    "co-prescribing oral senna and docusate or macrogol laxatives concurrently with opioid initiation preventing impaction",
+    "NICE Constipation in Adults Palliative Care Guidance",
+    "https://cks.nice.org.uk/topics/palliative-care-constipation/"
+  ],
+  [
+    "Terminal Death Rattle Secretions in Dying Patient Subcutaneous Hyoscine Hydrobromide or Glycopyrronium",
+    "Pharmacology",
+    "Respiratory",
+    "subcutaneous anticholinergic injection (glycopyrronium 200 mcg or hyoscine 400 mcg) alongside gentle head repositioning",
+    "NICE Care of Dying Adults in the Last Days of Life NG31",
+    "https://www.nice.org.uk/guidance/ng31"
+  ],
+  [
+    "Advanced Care Planning and DNACPR Conversation in Frail Patient Shared Decision-Making Discussion",
+    "Ethics",
+    "General Principles",
+    "sensitive open discussion with patient and family documenting Preferred Priorities for Care and ReSPECT emergency plan",
+    "Resuscitation Council UK ReSPECT Process Guidelines",
+    "https://www.resus.org.uk/respect"
+  ]
+]
