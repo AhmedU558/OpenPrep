@@ -484,6 +484,15 @@ import { questions as bIntl479 } from '../content/bank/international/batch-intl-
 import { questions as bIntl480 } from '../content/bank/international/batch-intl-480';
 import { questions as bIntl481 } from '../content/bank/international/batch-intl-481';
 import { questions as bIntl482 } from '../content/bank/international/batch-intl-482';
+import { questions as bIntl483 } from '../content/bank/international/batch-intl-483';
+import { questions as bIntl484 } from '../content/bank/international/batch-intl-484';
+import { questions as bIntl485 } from '../content/bank/international/batch-intl-485';
+import { questions as bIntl486 } from '../content/bank/international/batch-intl-486';
+import { questions as bIntl487 } from '../content/bank/international/batch-intl-487';
+import { questions as bIntl488 } from '../content/bank/international/batch-intl-488';
+import { questions as bIntl489 } from '../content/bank/international/batch-intl-489';
+import { questions as bIntl490 } from '../content/bank/international/batch-intl-490';
+import { questions as bIntl491 } from '../content/bank/international/batch-intl-491';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -589,6 +598,9 @@ const allQuestions: QuestionContent[] = [
   ...bIntl474, ...bIntl475, ...bIntl476,
   ...bIntl477, ...bIntl478, ...bIntl479,
   ...bIntl480, ...bIntl481, ...bIntl482,
+  ...bIntl483, ...bIntl484, ...bIntl485,
+  ...bIntl486, ...bIntl487, ...bIntl488,
+  ...bIntl489, ...bIntl490, ...bIntl491,
 ];
 const dir = 'content/bank/international';
 
@@ -1081,6 +1093,15 @@ async function main() {
   { name: 'batch-intl-480', data: bIntl480 },
   { name: 'batch-intl-481', data: bIntl481 },
   { name: 'batch-intl-482', data: bIntl482 },
+  { name: 'batch-intl-483', data: bIntl483 },
+  { name: 'batch-intl-484', data: bIntl484 },
+  { name: 'batch-intl-485', data: bIntl485 },
+  { name: 'batch-intl-486', data: bIntl486 },
+  { name: 'batch-intl-487', data: bIntl487 },
+  { name: 'batch-intl-488', data: bIntl488 },
+  { name: 'batch-intl-489', data: bIntl489 },
+  { name: 'batch-intl-490', data: bIntl490 },
+  { name: 'batch-intl-491', data: bIntl491 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];
