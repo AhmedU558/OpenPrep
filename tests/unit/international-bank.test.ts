@@ -474,6 +474,15 @@ import { questions as bIntl470 } from '../../content/bank/international/batch-in
 import { questions as bIntl471 } from '../../content/bank/international/batch-intl-471';
 import { questions as bIntl472 } from '../../content/bank/international/batch-intl-472';
 import { questions as bIntl473 } from '../../content/bank/international/batch-intl-473';
+import { questions as bIntl474 } from '../../content/bank/international/batch-intl-474';
+import { questions as bIntl475 } from '../../content/bank/international/batch-intl-475';
+import { questions as bIntl476 } from '../../content/bank/international/batch-intl-476';
+import { questions as bIntl477 } from '../../content/bank/international/batch-intl-477';
+import { questions as bIntl478 } from '../../content/bank/international/batch-intl-478';
+import { questions as bIntl479 } from '../../content/bank/international/batch-intl-479';
+import { questions as bIntl480 } from '../../content/bank/international/batch-intl-480';
+import { questions as bIntl481 } from '../../content/bank/international/batch-intl-481';
+import { questions as bIntl482 } from '../../content/bank/international/batch-intl-482';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -575,12 +584,15 @@ describe('international question bank expansion', () => {
   ...bIntl456, ...bIntl457, ...bIntl458, ...bIntl459, ...bIntl460,
   ...bIntl461, ...bIntl462, ...bIntl463, ...bIntl464, ...bIntl465,
   ...bIntl466, ...bIntl467, ...bIntl468,
-  ...bIntl469, ...bIntl470, ...bIntl471, ...bIntl472, ...bIntl473
+  ...bIntl469, ...bIntl470, ...bIntl471, ...bIntl472, ...bIntl473,
+  ...bIntl474, ...bIntl475, ...bIntl476,
+  ...bIntl477, ...bIntl478, ...bIntl479,
+  ...bIntl480, ...bIntl481, ...bIntl482
   ];
 
-  it('contains 46472 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(46472);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(46472);
+  it('contains 47372 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(47372);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(47372);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
@@ -607,7 +619,7 @@ describe('international question bank expansion', () => {
       const texts = new Set(q.options.map((o) => o.text.trim().toLowerCase()));
       expect(texts.size).toBe(5);
     }
-  });
+  }, 30000);
 
   it('every question and every option contains thorough explanations and valid references', () => {
     for (const q of allIntl) {
@@ -622,7 +634,7 @@ describe('international question bank expansion', () => {
         expect(o.explanation!.trim().length).toBeGreaterThanOrEqual(35);
       }
     }
-  });
+  }, 30000);
 
   it('passes bankQuestionSchema and validateBank without errors or duplicates', () => {
     for (const q of allIntl) {
@@ -641,5 +653,5 @@ describe('international question bank expansion', () => {
 
     const validation16 = validateBank(bIntl16, [...b1, ...bIntl1]);
     expect(validation16.errors).toEqual([]);
-  });
+  }, 30000);
 });

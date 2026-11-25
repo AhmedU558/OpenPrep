@@ -481,6 +481,15 @@ import { questions as bIntl470 } from '../content/bank/international/batch-intl-
 import { questions as bIntl471 } from '../content/bank/international/batch-intl-471';
 import { questions as bIntl472 } from '../content/bank/international/batch-intl-472';
 import { questions as bIntl473 } from '../content/bank/international/batch-intl-473';
+import { questions as bIntl474 } from '../content/bank/international/batch-intl-474';
+import { questions as bIntl475 } from '../content/bank/international/batch-intl-475';
+import { questions as bIntl476 } from '../content/bank/international/batch-intl-476';
+import { questions as bIntl477 } from '../content/bank/international/batch-intl-477';
+import { questions as bIntl478 } from '../content/bank/international/batch-intl-478';
+import { questions as bIntl479 } from '../content/bank/international/batch-intl-479';
+import { questions as bIntl480 } from '../content/bank/international/batch-intl-480';
+import { questions as bIntl481 } from '../content/bank/international/batch-intl-481';
+import { questions as bIntl482 } from '../content/bank/international/batch-intl-482';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -582,6 +591,9 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl461, ...bIntl462, ...bIntl463, ...bIntl464, ...bIntl465,
   ...bIntl466, ...bIntl467, ...bIntl468,
   ...bIntl469, ...bIntl470, ...bIntl471, ...bIntl472, ...bIntl473,
+  ...bIntl474, ...bIntl475, ...bIntl476,
+  ...bIntl477, ...bIntl478, ...bIntl479,
+  ...bIntl480, ...bIntl481, ...bIntl482,
 ];
 
 interface IngestOptions {
@@ -695,7 +707,10 @@ export async function ingestInternationalBank(db: PrismaClient, options: IngestO
     }
   }
 
-  const allTopics = await db.topic.findMany();
+  const neededTopicNames = Array.from(new Set(toIngest.map((q) => q.topic).filter((t): t is string => Boolean(t))));
+  const allTopics = neededTopicNames.length > 0
+    ? await db.topic.findMany({ where: { name: { in: neededTopicNames } } })
+    : [];
   const topicMap = new Map(allTopics.map((t) => [`${t.subjectId}|${t.name}`, t.id]));
 
   // Ingestion execution

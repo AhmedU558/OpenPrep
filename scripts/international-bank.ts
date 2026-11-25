@@ -475,6 +475,15 @@ import { questions as bIntl470 } from '../content/bank/international/batch-intl-
 import { questions as bIntl471 } from '../content/bank/international/batch-intl-471';
 import { questions as bIntl472 } from '../content/bank/international/batch-intl-472';
 import { questions as bIntl473 } from '../content/bank/international/batch-intl-473';
+import { questions as bIntl474 } from '../content/bank/international/batch-intl-474';
+import { questions as bIntl475 } from '../content/bank/international/batch-intl-475';
+import { questions as bIntl476 } from '../content/bank/international/batch-intl-476';
+import { questions as bIntl477 } from '../content/bank/international/batch-intl-477';
+import { questions as bIntl478 } from '../content/bank/international/batch-intl-478';
+import { questions as bIntl479 } from '../content/bank/international/batch-intl-479';
+import { questions as bIntl480 } from '../content/bank/international/batch-intl-480';
+import { questions as bIntl481 } from '../content/bank/international/batch-intl-481';
+import { questions as bIntl482 } from '../content/bank/international/batch-intl-482';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -577,6 +586,9 @@ const allQuestions: QuestionContent[] = [
   ...bIntl461, ...bIntl462, ...bIntl463, ...bIntl464, ...bIntl465,
   ...bIntl466, ...bIntl467, ...bIntl468,
   ...bIntl469, ...bIntl470, ...bIntl471, ...bIntl472, ...bIntl473,
+  ...bIntl474, ...bIntl475, ...bIntl476,
+  ...bIntl477, ...bIntl478, ...bIntl479,
+  ...bIntl480, ...bIntl481, ...bIntl482,
 ];
 const dir = 'content/bank/international';
 
@@ -1060,11 +1072,20 @@ async function main() {
   { name: 'batch-intl-471', data: bIntl471 },
   { name: 'batch-intl-472', data: bIntl472 },
   { name: 'batch-intl-473', data: bIntl473 },
+  { name: 'batch-intl-474', data: bIntl474 },
+  { name: 'batch-intl-475', data: bIntl475 },
+  { name: 'batch-intl-476', data: bIntl476 },
+  { name: 'batch-intl-477', data: bIntl477 },
+  { name: 'batch-intl-478', data: bIntl478 },
+  { name: 'batch-intl-479', data: bIntl479 },
+  { name: 'batch-intl-480', data: bIntl480 },
+  { name: 'batch-intl-481', data: bIntl481 },
+  { name: 'batch-intl-482', data: bIntl482 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];
   const batches: Array<{ name: string; data: QuestionContent[]; errs: unknown[] }> = [];
-  let accumulated = [...b1];
+  const accumulated = [...b1];
 
   const recentThreshold = Math.max(0, rawBatches.length - 10);
   for (let i = 0; i < rawBatches.length; i++) {
