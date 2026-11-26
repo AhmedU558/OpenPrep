@@ -1,0 +1,2410 @@
+# Auto-generated Mega-Batch 105 topics (NEET 100, MRCP 100, FCPS 100)
+
+NEET_TOPICS = [
+  [
+    "Heschl Gyrus Superior Temporal Auditory Cortex Wernicke Receptive Aphasia Localization",
+    "Anatomy",
+    "Nervous System",
+    "distinguishing fluent paraphasic comprehension loss in Brodmann area 22 from expressive Broca palsy",
+    "NBE Anatomy Neuro",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Spermatic Cord Layers External Internal Cremasteric Pampiniform Plexus Vas Deferens",
+    "Anatomy",
+    "Renal",
+    "matching internal oblique muscle origin of cremasteric layer and inguinal hernial coverings",
+    "NBE Gross Anatomy",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Pharyngeal Pouch Zenker Diverticulum Killian Dehiscence Halitosis Regurgitation Cricopharyngeal",
+    "Anatomy",
+    "Gastrointestinal",
+    "recognizing posteromedial herniation between thyropharyngeus and cricopharyngeus fibers",
+    "NBE Head Neck Anatomy",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Bainbridge Reflex Stretch Right Atrium Tachycardia Versus Cushing Triad Bradycardia Hypertension",
+    "Physiology",
+    "Cardiovascular",
+    "contrasting atrial volume-load heart rate rise against elevated ICP baroreceptor vagal bradycardia",
+    "NBE Cardiac Physiology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Surfactant Lecithin Sphingomyelin Ratio Dipalmitoylphosphatidylcholine LaPlace Alveolar Collapse",
+    "Physiology",
+    "Respiratory",
+    "reducing alveolar surface tension disproportionately in smaller alveoli preventing atelectasis",
+    "NBE Pulmonary Physiology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Aldosterone Escape Phenomenon ANP Pressure Natriuresis Avoiding Edema In Conn Syndrome",
+    "Physiology",
+    "Renal",
+    "explaining absence of peripheral edema despite primary mineralocorticoid sodium retention",
+    "NBE Renal Physiology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Cori Cycle Lactate Muscle Hepatic Gluconeogenesis Glucose Alanine Nitrogen Transport",
+    "Biochemistry",
+    "General Principles",
+    "shuttling anaerobic skeletal muscle lactate back to liver consuming 6 ATP per cycle",
+    "NBE Metabolic Biochem",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Maple Syrup Urine Disease Branched-Chain Ketoacid Dehydrogenase Leucine Isoleucine Valine",
+    "Biochemistry",
+    "Nervous System",
+    "restricting branched-chain amino acids promptly while trialing thiamine cofactor supplementation",
+    "NBE Inborn Errors",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Gaucher Disease Glucocerebrosidase Wrinkled Tissue Paper Macrophages Bone Crisis Enzyme",
+    "Biochemistry",
+    "Hematology",
+    "recognizing Erlenmeyer flask distal femur deformity and hepatosplenomegaly with imiglucerase care",
+    "NBE Lysosomal Storage",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Aschoff Bodies Anitschkow Caterpillar Cells Acute Rheumatic Pancarditis Fibrinoid Necrosis",
+    "Pathology",
+    "Cardiovascular",
+    "identifying pathognomonic granulomatous myocardial nodules in untreated group A strep carditis",
+    "NBE Systemic Pathology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Wilson Disease Kayser-Fleischer Ring Low Ceruloplasmin High Urinary Copper Penicillamine Zinc",
+    "Pathology",
+    "Gastrointestinal",
+    "chelating hepatic/lenticular copper overload with trientine/D-penicillamine plus oral zinc",
+    "NBE Hepatic Pathology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Amyloidosis Congo Red Apple-Green Birefringence AL Primary Myeloma Versus AA Chronic Inflammatory",
+    "Pathology",
+    "General Principles",
+    "confirming abdominal fat pad or rectal biopsy birefringence under polarized light microscopy",
+    "NBE General Pathology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Wilms Tumor Nephroblastoma WT1 Aniridia Hemihypertrophy Triphasic Blastemal Epithelial",
+    "Pathology",
+    "Renal",
+    "avoiding crossing midline abdominal mass palpation excessively before nephrectomy staging",
+    "NBE Pediatric Pathology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Ewing Sarcoma t(11;22) EWS-FLI1 Small Round Blue Cells Diaphysis Onion-Skin Periosteum",
+    "Pathology",
+    "Musculoskeletal",
+    "differentiating diaphyseal CD99+ sheets from osteomyelitis fever and leukocytosis",
+    "NBE Bone Pathology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Tyrosine Kinase Inhibitor Mechanism Imatinib Erlotinib Osimertinib T790M Resistance Mutation",
+    "Pharmacology",
+    "Respiratory",
+    "selecting third-generation EGFR inhibitor osimertinib overcoming acquired T790M lung resistance",
+    "NBE Anticancer Pharm",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Antiepileptic Teratogenicity Valproate Neural Tube Spina Bifida Phenytoin Fetal Hydantoin",
+    "Pharmacology",
+    "Pregnancy",
+    "choosing levetiracetam or lamotrigine with high-dose folic acid in reproductive-age epilepsy",
+    "NBE Neuropharmacology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Macrolide Erythromycin Azithromycin Motilin Agonist QTc Prolongation CYP3A4 Inhibition",
+    "Pharmacology",
+    "General Principles",
+    "preferring azithromycin over erythromycin/clarithromycin to avoid CYP3A4 statin rhabdomyolysis",
+    "NBE Antimicrobials",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Lithium Nephrogenic Diabetes Insipidus Ebstein Anomaly Teratogen Thiazide Toxicity",
+    "Pharmacology",
+    "Behavioral Health",
+    "monitoring TSH, creatinine, and pregnancy test reliably alongside therapeutic serum levels",
+    "NBE Psychopharmacology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Atropine Overdose Anticholinergic Hot Blind Mad Dry Full Physostigmine Reversal Caution",
+    "Pharmacology",
+    "General Principles",
+    "reserving physostigmine strictly for severe central delirium lacking QRS widening ECG",
+    "NBE Autonomic Drugs",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Scrub Typhus Orientia Tsutsugamushi Eschar Chigger Mite Weil-Felix OX-K Oral Doxycycline",
+    "Microbiology",
+    "General Principles",
+    "initiating oral/IV doxycycline promptly on undifferentiated monsoon fever with eschar",
+    "ICMR Rickettsial Guide",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Leptospirosis Weil Disease Jaundice Conjunctival Suffusion Calf Tenderness IV Penicillin Ceftriaxone",
+    "Microbiology",
+    "Renal",
+    "starting IV crystalline penicillin or ceftriaxone before MAT seroconversion completes",
+    "NBE Tropical Infectious",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Kala-Azar Visceral Leishmaniasis Amastigote Aldehyde rK39 Single-Dose Liposomal Amphotericin",
+    "Microbiology",
+    "Hematology",
+    "using rK39 rapid dipstick and 10 mg/kg single-dose liposomal amphotericin under NVBDCP India",
+    "NVBDCP India Kala-Azar",
+    "https://ncvbdc.mohfw.gov.in/"
+  ],
+  [
+    "Nipah Virus Pteropus Bat Encephalitis Person-to-Person Outbreak Kerala Strict Airborne PPE",
+    "Microbiology",
+    "Nervous System",
+    "isolating acute respiratory-encephalitic cluster contacts urgently under biosafety protocols",
+    "ICMR Nipah Guidelines",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Corynebacterium Diphtheriae Pseudomembrane Myocarditis Metachromatic Volutin Antitoxin",
+    "Microbiology",
+    "Respiratory",
+    "giving equine diphtheria antitoxin immediately without awaiting throat swab Albert stain",
+    "NBE Clinical Bacteriology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Bedaquiline Linezolid BPaLM Regimen Drug-Resistant Pulmonary Tuberculosis NTEP Program",
+    "Microbiology",
+    "Respiratory",
+    "monitoring ECG QTc interval serially while administering shorter all-oral BPaL MDR-TB care",
+    "NTEP India TB Guidelines",
+    "https://tbcindia.mohfw.gov.in/"
+  ],
+  [
+    "Severe Combined Immunodeficiency ADA Deficiency Absent Thymic Shadow Lymphopenia Live Ban",
+    "Immunology",
+    "General Principles",
+    "avoiding BCG and oral polio live vaccines unconditionally in infants with severe lymphopenia",
+    "NBE Pediatric Immunology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "DiGeorge Syndrome 22q11.2 CATCH-22 Hypocalcemic Tetany Absent Thymus Interrupted Aortic Arch",
+    "Genetics",
+    "Cardiovascular",
+    "irradiating cellular blood products before transfusion in congenital thymic aplasia",
+    "NBE Clinical Genetics",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Prader-Willi Versus Angelman Syndrome Chromosome 15q11-13 Genomic Imprinting Methylation",
+    "Genetics",
+    "Nervous System",
+    "contrasting paternal deletion hyperphagia Prader-Willi against maternal deletion happy puppet Angelman",
+    "NBE Cytogenetics",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Acute Rheumatic Carditis Carey Coombs Mid-Diastolic Murmur Echocardiography Penicillin G",
+    "Medicine",
+    "Cardiovascular",
+    "detecting subclinical mitral regurgitation reliably by Doppler echocardiography in endemic regions",
+    "CSI India Rheumatic Guide",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Takayasu Arteritis Young Asian Woman Pulseless Limb Claudication Elevated ESR Prednisolone",
+    "Medicine",
+    "Cardiovascular",
+    "imaging aortic arch and subclavian stenoses with CT/MR angiography before vascular bypass",
+    "IRA Indian Rheumatology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Brugada Syndrome Type 1 Coved ST Elevation V1-V2 Syncope ICD Implant Avoiding Flecainide",
+    "Medicine",
+    "Cardiovascular",
+    "managing fever aggressively with antipyretics to prevent unmasking ventricular fibrillation",
+    "NBE Arrhythmia Care",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Tropical Pulmonary Eosinophilia Wuchereria Bancrofti Nocturnal Cough Diethylcarbamazine",
+    "Medicine",
+    "Respiratory",
+    "confirming extreme peripheral eosinophilia > 3000/mm3 and high antifilarial IgE resolving on DEC",
+    "NBE Tropical Pulmonology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Allergic Bronchopulmonary Aspergillosis Central Bronchiectasis IgE > 1000 Prednisolone Itraconazole",
+    "Medicine",
+    "Respiratory",
+    "distinguishing ABPA mucoid impaction finger-in-glove from simple uncontrolled atopic asthma",
+    "ICS Indian Chest Society",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Tropical Calcific Pancreatitis Young Non-Alcoholic Steatorrhea Diabetes Ductal Calculi",
+    "Medicine",
+    "Gastrointestinal",
+    "supplementing enteric-coated pancreatic lipase with basal-bolus insulin without ketosis-proneness",
+    "ISG Indian Gastroenterology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Budd-Chiari Syndrome Hepatic Vein Thrombosis Caudate Lobe Hypertrophy Anticoagulation TIPS",
+    "Medicine",
+    "Gastrointestinal",
+    "evaluating underlying myeloproliferative JAK2 mutation alongside prompt anticoagulation and TIPS",
+    "INASL Hepatology India",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Non-Cirrhotic Portal Fibrosis Extrahepatic Portal Vein Obstruction Variceal Banding Young",
+    "Medicine",
+    "Gastrointestinal",
+    "preserving relatively intact liver synthetic function despite massive splenomegaly and variceal bleed",
+    "ISG Portal Hypertension",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Hyperprolactinemia Prolactinoma Galactorrhea Amenorrhea Cabergoline First-Line Over Surgery",
+    "Medicine",
+    "Endocrine",
+    "excluding pregnancy, hypothyroidism, and metoclopramide/risperidone drugs prior to pituitary MRI",
+    "ESI Endocrine India",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Pheochromocytoma MEN2A Medullary Thyroid Cancer RET Mutation Parathyroid Testing Pre-Op",
+    "Medicine",
+    "Endocrine",
+    "ruling out occult pheochromocytoma biochemically before performing thyroidectomy in MEN2",
+    "NBE Endocrine Surgery",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "IgG4-Related Disease Retroperitoneal Fibrosis Autoimmune Pancreatitis Storiform Prednisolone",
+    "Medicine",
+    "Renal",
+    "differentiating sausage-shaped autoimmune pancreatitis responsiveness to steroids from pancreas cancer",
+    "NBE Systemic Rheumatology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Henoch-Schonlein Purpura Adult Crescentic IgA Nephritis Skin Biopsy Palpable Lower Limbs",
+    "Medicine",
+    "Renal",
+    "performing direct immunofluorescence of purpuric skin biopsy showing dermal capillary IgA deposition",
+    "ISN Indian Nephrology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Paroxysmal Nocturnal Hemoglobinuria CD55 CD59 Flow Cytometry Hepatic Thrombosis Eculizumab",
+    "Medicine",
+    "Hematology",
+    "diagnosing via FLAER flow cytometry rather than outdated Ham acidified serum test",
+    "ISHBT Hematology India",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Aplastic Anemia Severe Pancytopenia Hypocellular Marrow Biopsy < 25% ATG Cyclosporine BMT",
+    "Medicine",
+    "Hematology",
+    "referring patients < 40 years with matched sibling donor directly for allogeneic stem cell transplant",
+    "ISHBT Bone Marrow Failure",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Pemphigus Foliaceus Subcorneal Acantholysis Flaccid Crusting Mucosal Sparing Desmoglein-1",
+    "Medicine",
+    "Dermatology",
+    "contrasting mucosal-sparing desmoglein-1 pemphigus foliaceus against oral-erosive vulgaris",
+    "IADVL Dermatology India",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Leprosy Hansen Disease Multibacillary Rifampicin Dapsone Clofazimine Type 1/2 Lepra Reactions",
+    "Medicine",
+    "Dermatology",
+    "continuing multidrug WHO MDT uninterrupted during acute erythema nodosum leprosum alongside steroids",
+    "NLEP India Leprosy Guide",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Vitiligo Acrofacial Segmental Narrowband UVB Topical Tacrolimus Screening Thyroid Disease",
+    "Medicine",
+    "Dermatology",
+    "preferring calcineurin inhibitor tacrolimus on facial/eyelid patches avoiding steroid atrophy",
+    "IADVL Pigment Disorders",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Neurocysticercosis Ring-Enhancing Lesion Scolex Albendazole Plus Corticosteroids Brain",
+    "Neurology",
+    "Nervous System",
+    "starting corticosteroids before albendazole when viable brain cysts carry pericystic edema",
+    "IAN Neuro-Infections",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Japanese Encephalitis Monsoon Rice Fields Thalamus MRI T2 Hyperintensity Supportive Care",
+    "Neurology",
+    "Nervous System",
+    "differentiating bilateral thalamic hemorrhagic necrosis on MRI from temporal lobe HSV",
+    "NVBDCP JE India Guide",
+    "https://ncvbdc.mohfw.gov.in/"
+  ],
+  [
+    "Neuromyelitis Optica Spectrum Disorder Aquaporin-4 Optic Neuritis Longitudinally Extensive",
+    "Neurology",
+    "Nervous System",
+    "avoiding beta-interferon or fingolimod that exacerbate NMOSD relapses, favoring rituximab",
+    "IAN Demyelinating Guide",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Subacute Sclerosing Panencephalitis Measles Unvaccinated Myoclonic Jerks Burst Suppression EEG",
+    "Neurology",
+    "Nervous System",
+    "detecting elevated CSF anti-measles IgG antibodies and periodic Radermecker complexes on EEG",
+    "NBE Pediatric Neurology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Motor Neuron Disease Hirayama Juvenile Monomelic Amyotrophy Cervical Flexion MRI Cord Flatten",
+    "Neurology",
+    "Musculoskeletal",
+    "prescribing cervical collar limiting neck flexion in benign juvenile distal upper limb atrophy",
+    "NBE Neuromuscular India",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Frey Syndrome Auriculotemporal Nerve Gustatory Sweating Parotidectomy Starch-Iodine Minor Test",
+    "Surgery",
+    "Nervous System",
+    "preventing misdirected parasympathetic regrowth via superficial musculoaponeurotic flap interposition",
+    "NBE Head Neck Surgery",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Thyroglossal Duct Cyst Midline Infrahyoid Moves With Tongue Protrusion Sistrunk Resection",
+    "Surgery",
+    "Endocrine",
+    "excising central hyoid bone body and tract to foramen cecum preventing cyst recurrence",
+    "NBE Surgical Anatomy",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Branchial Cleft Cyst Second Anterior Sternocleidomastoid Fistula Forking Carotid Bifurcation",
+    "Surgery",
+    "General Principles",
+    "excluding metastatic squamous carcinoma first in cystic lateral neck masses age > 40",
+    "ASI Surgical Oncology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Gallbladder Carcinoma Chronic Cholelithiasis Porcelain Gangetic Belt Radical Cholecystectomy",
+    "Surgery",
+    "Gastrointestinal",
+    "avoiding laparoscopic port-site tumor seeding when unsuspected gallbladder malignancy suspected",
+    "ICMR Gallbladder Cancer",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Buerger Disease Thromboangiitis Obliterans Young Male Smoker Corkscrew Collaterals Cessation",
+    "Surgery",
+    "Cardiovascular",
+    "counseling complete lifelong tobacco abstinence as the sole intervention halting limb amputations",
+    "ASI Vascular Surgery",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Fournier Gangrene Polymicrobial Perineal Necrotizing Fasciitis Immediate Debridement Broad IV",
+    "Surgery",
+    "Dermatology",
+    "preserving testes usually spared by distinct gonadal blood supply during aggressive perineal excision",
+    "NBE Emergency Surgery",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Peutz-Jeghers Syndrome STK11 Mucocutaneous Pigmentation Hamartomatous Polyps Intussusception",
+    "Surgery",
+    "Gastrointestinal",
+    "instituting periodic small-bowel video capsule/MRE surveillance avoiding repeat emergency resections",
+    "NBE Surgical Genetics",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Gastric Carcinoma Early Signet-Ring Krukenberg Ovarian Metastasis Virchow Left Supraclavicular",
+    "Surgery",
+    "Gastrointestinal",
+    "staging locally advanced gastric adenocarcinoma with diagnostic laparoscopy peritoneal washings",
+    "ICMR Gastric Cancer",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Flail Chest Paradoxical Segment Motion Pulmonary Contusion Multimodal Epidural Analgesia",
+    "Surgery",
+    "Respiratory",
+    "avoiding over-aggressive crystalloid flooding that worsens underlying contused alveolar edema",
+    "ATLS India Trauma",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Splenic Trauma Stable Grade III Contrast CT Nonoperative Management Embolization Preservation",
+    "Surgery",
+    "Hematology",
+    "monitoring nonoperatively in ICU when hemodynamically stable without peritoneal hollow viscus injury",
+    "ASI Trauma Management",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Monteggia Fracture-Dislocation Proximal Ulna Radial Head Dislocation Posterior Interosseous",
+    "Surgery",
+    "Musculoskeletal",
+    "examining elbow radiographs routinely in every isolated ulnar shaft fracture to avoid missed dislocation",
+    "IOA Indian Orthopedics",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Perthes Disease Legg-Calve-Perthes Boy 5-8 Years Painless Limp Hip Abduction Containment",
+    "Surgery",
+    "Musculoskeletal",
+    "differentiating transient synovitis short-course fever absence from avascular femoral epiphysis",
+    "IOA Pediatric Ortho",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Giant Cell Tumor Osteoclastoma Epiphyseal Soap-Bubble Distal Femur Extended Curettage",
+    "Surgery",
+    "Musculoskeletal",
+    "using denosumab or extended phenol/PMMA burr cementation after intralesional curettage",
+    "NBE Orthopedic Oncology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Priapism Low-Flow Ischemic Sickle Cell Acidotic Corporal Aspirate Phenylephrine Injection",
+    "Surgery",
+    "Renal",
+    "performing immediate cavernosal blood gas aspiration distinguishing painful ischemic priapism > 4h",
+    "USI Urological Emergencies",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Wilms Tumor Versus Neuroblastoma Crosses Midline Calcifications Urinary VMA Opsoclonus",
+    "Pediatrics",
+    "Nervous System",
+    "staging MIBG scintigraphy and bone marrow biopsy in metastatic MYCN-amplified neuroblastoma",
+    "NBE Pediatric Surgery",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Diabetic Retinopathy Proliferative Neovascularization Panretinal Photocoagulation Anti-VEGF",
+    "Surgery",
+    "Nervous System",
+    "distinguishing macular edema anti-VEGF injection from peripheral proliferative laser indications",
+    "AIOS Diabetic Retinopathy",
+    "https://aios.org/"
+  ],
+  [
+    "Retinoblastoma Leukocoria RB1 Flexner-Wintersteiner Rosettes Avoid Biopsy Enucleation Chemo",
+    "Surgery",
+    "Nervous System",
+    "confirming intraocular calcified mass via B-scan ultrasound/MRI without intraocular needle biopsy",
+    "AIOS Ocular Oncology",
+    "https://aios.org/"
+  ],
+  [
+    "Meniere Disease Endolymphatic Hydrops Episodic Vertigo Low-Frequency Hearing Loss Salt Limit",
+    "Surgery",
+    "Nervous System",
+    "prescribing dietary sodium restriction and betahistine or thiazide diuretic to lower attack frequency",
+    "AOI ENT Guidelines",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Cholesteatoma Retraction Pocket Atticoantral Ear Vertigo Fistula Test Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "detecting lateral semicircular canal bony erosion via tragal pressure positive fistula nystagmus",
+    "NBE ENT Emergencies",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Fetal Circulation Ductus Venosus Foramen Ovale Ductus Arteriosus Postnatal Closure Prostaglandin",
+    "Obstetrics",
+    "Cardiovascular",
+    "explaining rise in arterial PaO2 and falling PGE2 drive functional muscular ductus closure",
+    "FOGSI Perinatal Phys",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "HELLP Syndrome Hemolysis Elevated Liver Enzymes Low Platelets Prompt Delivery Steroids",
+    "Obstetrics",
+    "Pregnancy",
+    "managing severe epigastric right upper quadrant pain urgently via stabilization and prompt birth",
+    "FOGSI Hypertensive Care",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Atonic Postpartum Hemorrhage B-Lynch Brace Compression Suture Uterine Artery Ligation",
+    "Obstetrics",
+    "Pregnancy",
+    "moving systematically from medical uterotonics to balloon tamponade and B-Lynch suture sparing fertility",
+    "FOGSI PPH Protocol",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Rhesus Isoimmunization Middle Cerebral Artery Peak Systolic Velocity Doppler Intrauterine",
+    "Obstetrics",
+    "Pregnancy",
+    "replacing serial invasive amniocentesis bilirubin delta-OD450 with non-invasive MCA-PSV Doppler",
+    "NBE Fetal Medicine",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Choriocarcinoma Post-Molar Lung Cannonball Metastases WHO FIGO Score Methotrexate EMACO",
+    "Obstetrics",
+    "Pregnancy",
+    "achieving high cure rates even in metastatic gestational trophoblastic neoplasia via multiagent chemo",
+    "FOGSI Trophoblastic Guide",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Cervical Cancer VIA Visual Inspection Acetic Acid Screening Low-Resource Cryotherapy India",
+    "Obstetrics",
+    "General Principles",
+    "identifying dense acetowhite transformation zone lesions for single-visit thermal ablation/LEEP",
+    "NHM Cancer Screening India",
+    "https://nhm.gov.in/"
+  ],
+  [
+    "Ovarian Germ Cell Dysgerminoma Young Female Elevated LDH Radiosensitive Unilateral Salpingo",
+    "Obstetrics",
+    "Pregnancy",
+    "performing fertility-sparing unilateral salpingo-oophorectomy and surgical staging in stage IA",
+    "FOGSI Gynecologic Onco",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Genital Tuberculosis Infertility India Beaded Fallopian Tubes Endometrial Biopsy ATT RIPE",
+    "Obstetrics",
+    "Pregnancy",
+    "initiating standard 6-month antituberculous therapy promptly when endometrial PCR/granuloma proves",
+    "ICMR Genital TB Guide",
+    "https://www.icmr.gov.in/"
+  ],
+  [
+    "Vaginal Candidiasis Recurrent 4+ Episodes/Year Weekly Oral Fluconazole 6 Months Culture",
+    "Obstetrics",
+    "Pregnancy",
+    "testing fungal culture for non-albicans Candida glabrata before prolonged azole maintenance",
+    "NBE Gynecology Infections",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Deep Vein Thrombosis Pregnancy Leg Left-Sided Iliac Compression Iliocaval LMWH Warfarin Ban",
+    "Obstetrics",
+    "Cardiovascular",
+    "explaining left predominance from right common iliac artery compressing left iliac vein plus uterus",
+    "FOGSI VTE Guidelines",
+    "https://www.fogsi.org/"
+  ],
+  [
+    "Congenital Diaphragmatic Hernia Bochdalek Scaphoid Abdomen Bowel Sounds Thorax Intubate",
+    "Pediatrics",
+    "Respiratory",
+    "intubating immediately and placing nasogastric tube avoiding bag-mask gastric bowel inflation",
+    "IAP Neonatal Guidelines",
+    "https://iapindia.org/"
+  ],
+  [
+    "Transposition of Great Arteries Egg-On-String CXR Rashkind Balloon Atrial Septostomy PGE1",
+    "Pediatrics",
+    "Cardiovascular",
+    "maintaining ductal/atrial mixing urgently before neonatal arterial switch within 2 weeks of life",
+    "IAP Pediatric Cardiology",
+    "https://iapindia.org/"
+  ],
+  [
+    "Reye Syndrome Aspirin Post-Viral Influenza Varicella Microvesicular Fatty Liver Encephalopathy",
+    "Pediatrics",
+    "Gastrointestinal",
+    "prohibiting aspirin in children < 18 years with viral fevers except Kawasaki or JIA indications",
+    "NBE Pediatric Pharmacology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Indian Childhood Cirrhosis Copper Cooking Vessels Mallory Hyaline Orcein Stain Hepatomegaly",
+    "Pediatrics",
+    "Gastrointestinal",
+    "recognizing historical dietary hepatic copper overload cured with brass/copper vessel avoidance",
+    "IAP Pediatric Hepatology",
+    "https://iapindia.org/"
+  ],
+  [
+    "Kangaroo Mother Care Low Birth Weight Skin-to-Skin Thermoregulation Breastfeeding Mortality",
+    "Pediatrics",
+    "General Principles",
+    "implementing continuous skin-to-skin holding reducing neonatal hypothermia, sepsis, and mortality",
+    "NHM India Newborn Care",
+    "https://nhm.gov.in/"
+  ],
+  [
+    "National Immunization Schedule India BCG Birth Pentavalent 6 10 14 Weeks MR 9 Months",
+    "Pediatrics",
+    "General Principles",
+    "giving fractional IPV intradermally alongside pentavalent and rotavirus under UIP India",
+    "UIP India Schedule",
+    "https://nhm.gov.in/"
+  ],
+  [
+    "Juvenile Nasopharyngeal Angiofibroma Adolescent Male Recurrent Epistaxis Holman-Miller Antral",
+    "Pediatrics",
+    "Respiratory",
+    "never biopsying vascular nasopharyngeal mass in clinic prior to preoperative embolization excision",
+    "AOI Pediatric ENT",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Wilms TumorBeckwith-Wiedemann Syndrome WAGR Deletion Ultrasound Monitoring Q3Months",
+    "Pediatrics",
+    "Renal",
+    "performing serial abdominal ultrasound screening every 3 months until age 8 in overgrowth syndromes",
+    "IAP Pediatric Oncology",
+    "https://iapindia.org/"
+  ],
+  [
+    "Congenital Rubella Syndrome Cataract Deafness PDA Blueberry Muffin Rash Maternal Screening",
+    "Pediatrics",
+    "Cardiovascular",
+    "vaccinating non-immune women pre-pregnancy while delaying conception 1 month after MMR shot",
+    "IAP Immunization Guide",
+    "https://iapindia.org/"
+  ],
+  [
+    "Delusional Disorder Fixed Non-Bizarre Jealousy Persecutory Intact Functioning Low-Dose Antipsychotic",
+    "Psychiatry",
+    "Behavioral Health",
+    "distinguishing preserved personality and single encapsulated delusion from disorganized schizophrenia",
+    "IPS Indian Psychiatry",
+    "https://indianpsychiatricsociety.org/"
+  ],
+  [
+    "Trichotillomania Hair-Pulling Disorder Habit Reversal Training NAC Adjunctive CBT Care",
+    "Psychiatry",
+    "Behavioral Health",
+    "examining uneven broken hair lengths and non-scarring scalp patches without fungal fluorescence",
+    "NBE Behavioral Psychiatry",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Delirium Tremens Alcohol Withdrawal Hallucinations Autonomic Storm Lorazepam Diazepam Thiamine",
+    "Psychiatry",
+    "Behavioral Health",
+    "titrating symptom-triggered parenteral benzodiazepines urgently before giving IV glucose solutions",
+    "IPS Addiction Guidelines",
+    "https://indianpsychiatricsociety.org/"
+  ],
+  [
+    "Dying Declaration Section 32 BSA Indian Evidence Act Doctor Mental Fitness Recording Rules",
+    "Ethics",
+    "General Principles",
+    "certifying full sound mental state before magistrate or medical officer records unpressured statement",
+    "NBE Forensic & Ethics",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Professional Infamous Conduct Adultery Kickback Dichotomy State Medical Council Suspension",
+    "Ethics",
+    "General Principles",
+    "upholding NMC ethical regulations forbidding diagnostic fee-splitting commissions or unapproved ads",
+    "NMC Medical Ethics India",
+    "https://www.nmc.org.in/"
+  ],
+  [
+    "Grievous Hurt BNS Criteria Emasculation Permanent Vision Ear Disfigurement Fracture 15-Day Pain",
+    "Ethics",
+    "General Principles",
+    "documenting exact anatomic dimensions, weapon traits, and healing window objectively in MLC reports",
+    "NBE Forensic Jurisprudence",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Autopsy Rigor Mortis Sequence Eyelids Neck Jaw Limbs Algor Livor Postmortem Interval Sizing",
+    "Ethics",
+    "General Principles",
+    "recognizing fixed non-blanching postmortem hypostasis after 6-12 hours shows positional tampering",
+    "NBE Forensic Medicine",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Comprehensive Geriatric Assessment Frailty Index Beers Criteria Anticholinergic Burden Delirium",
+    "Geriatrics",
+    "General Principles",
+    "deprescribing diphenhydramine, tricyclics, and oxybutynin reducing cognitive falls burden",
+    "NBE Geriatric Care",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Demographic Cycle Five Stages India Late Expanding Stage Falling Death High Population Growth",
+    "Biostatistics",
+    "General Principles",
+    "identifying stage 3 low death rate and declining birth rate driving decelerating demographic momentum",
+    "PSM Park Epidemiology",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Cold Chain Vaccine Vial Monitor VVM Stage 3/4 Discard Unopened Inner Square Darkens",
+    "Biostatistics",
+    "General Principles",
+    "verifying VVM inner square remains lighter than outer circle prior to administering clinic vaccines",
+    "UIP Cold Chain Manual",
+    "https://nhm.gov.in/"
+  ],
+  [
+    "Chi-Square Test Categorical Proportions Yates Correction Fisher Exact Small Cell Expected < 5",
+    "Biostatistics",
+    "General Principles",
+    "switching to Fisher exact test whenever any 2x2 expected cell count drops below five",
+    "NBE Biostatistics Core",
+    "https://natboard.edu.in/"
+  ],
+  [
+    "Pearson Correlation Coefficient r -1 to +1 Linear Strength R-Squared Explained Variance",
+    "Biostatistics",
+    "General Principles",
+    "interpreting r-squared as proportion of outcome variance explained without implying direct causation",
+    "ICMR Biostatistics Guide",
+    "https://www.icmr.gov.in/"
+  ]
+]
+
+MRCP_TOPICS = [
+  [
+    "Right Ventricular Myocardial Infarction Inferior STEMI Clear Lungs JVP Kussmaul Saline Loading",
+    "Medicine",
+    "Cardiovascular",
+    "avoiding nitrates and diuretics strictly in hypotensive RV infarction favoring cautious saline bolus",
+    "ESC/RCP Acute Cardiology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Cardiac Tamponade Electrical Alternans Pulsus Paradoxus Equalization Diastolic Pressures Drain",
+    "Medicine",
+    "Cardiovascular",
+    "performing immediate bedside pericardiocentesis before mechanical ventilation positive pressure drops preload",
+    "RCP Acute Cardiology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Arrhythmogenic Right Ventricular Cardiomyopathy Epsilon Wave T-Inversion V1-V3 Sudden Syncope",
+    "Medicine",
+    "Cardiovascular",
+    "diagnosing fibrofatty RV myocardial replacement via cardiac MRI and restricting competitive sports",
+    "ESC Cardiomyopathy Guidelines",
+    "https://www.escardio.org/"
+  ],
+  [
+    "Infective Endocarditis Prosthetic Valve Staphylococcus Epidermidis Rifampicin Gentamicin Vancomycin",
+    "Medicine",
+    "Cardiovascular",
+    "adding oral rifampicin once bacteremia clears ~3-5 days to penetrate prosthetic biofilm safely",
+    "ESC/BSAC Endocarditis",
+    "https://www.escardio.org/"
+  ],
+  [
+    "Long QT Syndrome Congenital Jervell-Lange-Nielsen Sensorineural Deafness Propranolol ICD",
+    "Medicine",
+    "Cardiovascular",
+    "prescribing non-selective nadolol or propranolol and banning QT-prolonging drugs via CredibleMeds",
+    "RCP Inherited Arrhythmias",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Pulmonary Arterial Hypertension Idiopathic Right Heart Catheter Mean PAP > 20 Bosentan Sildenafil",
+    "Medicine",
+    "Respiratory",
+    "performing acute vasoreactivity testing during right heart catheterization before CCB/ERA choice",
+    "ESC/ERS Pulmonary HTN 2022",
+    "https://www.escardio.org/"
+  ],
+  [
+    "Churg-Strauss EGPA Adult-Onset Asthma Peripheral Eosinophilia Mononeuritis ANCA Mepolizumab",
+    "Medicine",
+    "Respiratory",
+    "screening cardiac troponin/MRI urgently because eosinophilic myocarditis causes primary EGPA deaths",
+    "BSR Vasculitis Guidelines",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Alveolar Proteinosis Milky BAL Periodic Acid-Schiff GM-CSF Autoantibodies Whole Lung Lavage",
+    "Medicine",
+    "Respiratory",
+    "identifying crazy-paving HRCT pattern treated definitively by therapeutic whole-lung lavage",
+    "BTS Rare Lung Disease",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Lambert-Eaton Myasthenic Syndrome Small Cell Lung Cancer Proximal Weakness Autonomic Increment",
+    "Neurology",
+    "Respiratory",
+    "confirming > 100% compound muscle action potential facilitation post-exercise and CT thorax screening",
+    "RCP Neuro-Oncology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Lymphangioleiomyomatosis Premenopausal Female Spontaneous Pneumothorax Chylothorax VEGF-D Sirolimus",
+    "Medicine",
+    "Respiratory",
+    "measuring serum VEGF-D > 800 pg/mL sparing surgical lung biopsy in tuberous-associated cysts",
+    "BTS LAM Guidelines",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Autoimmune Hepatitis Type 1 Smooth Muscle ANA IgG Prednisolone Azathioprine Remission",
+    "Medicine",
+    "Gastrointestinal",
+    "checking TPMT activity prior to azathioprine steroid-sparing maintenance after liver biopsy",
+    "BSG Autoimmune Hepatitis",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Primary Sclerosing Cholangitis Ulcerative Colitis Beads-on-String MRCP Cholangiocarcinoma Risk",
+    "Medicine",
+    "Gastrointestinal",
+    "performing annual surveillance colonoscopy from PSC diagnosis due to markedly elevated colon cancer risk",
+    "BSG PSC Guidelines",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "IgG4-Related Sclerosing Cholangitis Mimicking Klatskin Tumor Elevated Serum IgG4 Steroid Cure",
+    "Medicine",
+    "Gastrointestinal",
+    "obtaining histopathology immunostaining > 10 IgG4+ plasma cells/HPF before radical biliary surgery",
+    "BSG Pancreatobiliary",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Whipple Disease Tropheryma Whipplei PAS-Positive Macrophages Arthralgia Diarrhea Ceftriaxone",
+    "Microbiology",
+    "Gastrointestinal",
+    "giving 2 weeks IV ceftriaxone followed by 12 months oral co-trimoxazole preventing CNS relapse",
+    "RCP Infectious Gastro",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Hereditary Hemochromatosis Arthropathy Hook Osteophytes Diabetes Cirrhosis Phlebotomy",
+    "Medicine",
+    "Gastrointestinal",
+    "starting weekly venesection aiming serum ferritin 50-100 mcg/L while joint pain often persists",
+    "BSG Iron Overload Guide",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Polyglandular Autoimmune Syndrome Type 2 Schmidt Addison Hashimoto Type 1 Diabetes Replacement",
+    "Medicine",
+    "Endocrine",
+    "starting glucocorticoid hydrocortisone before thyroxine replacement to avoid precipitating adrenal crisis",
+    "SfE Endocrine Emergencies",
+    "https://www.endocrinology.org/"
+  ],
+  [
+    "Insulinoma Whipple Triad Supervised 72-Hour Fast Elevated C-Peptide Proinsulin Endoscopic EUS",
+    "Medicine",
+    "Endocrine",
+    "distinguishing endogenous hyperinsulinism from surreptitious insulin injection by elevated C-peptide",
+    "RCP Endocrinology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Diabetes Insipidus Cranial Desmopressin Versus Nephrogenic Water Deprivation Test Copeptin",
+    "Medicine",
+    "Endocrine",
+    "measuring hypertonic-saline stimulated plasma copeptin safely replacing cumbersome water deprivation",
+    "SfE Vasopressin Consensus",
+    "https://www.endocrinology.org/"
+  ],
+  [
+    "MODY Maturity Onset Diabetes Young HNF1A Sulfonylurea Sensitive Autosomal Dominant No Ketoacidosis",
+    "Genetics",
+    "Endocrine",
+    "switching misdiagnosed HNF1A MODY safely from insulin injections to low-dose gliclazide tablets",
+    "RCP Monogenic Diabetes",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Carcinoid Syndrome Flushing Diarrhea Tricuspid Regurgitation Urinary 5-HIAA Octreotide Echo",
+    "Medicine",
+    "Endocrine",
+    "ordering transthoracic echocardiogram proactively for right-sided fibrous carcinoid valvulopathy",
+    "UKINETS Neuroendocrine",
+    "https://www.ukinets.org/"
+  ],
+  [
+    "Granulomatosis With Polyangiitis c-ANCA PR3 Saddle Nose Alveolar Hemorrhage Rituximab",
+    "Medicine",
+    "Renal",
+    "inducing remission in life/organ-threatening AAV with cyclophosphamide or rituximab plus steroids",
+    "BSR ANCA Vasculitis",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Microscopic Polyangiitis p-ANCA MPO Pauci-Immune Crescentic Nephritis Pulmonary Capillaritis",
+    "Medicine",
+    "Renal",
+    "differentiating MPA from GPA by negative granulomas on biopsy and myeloperoxidase p-ANCA specificity",
+    "UK Kidney Vasculitis",
+    "https://ukkidney.org/"
+  ],
+  [
+    "Alport Syndrome COL4A5 X-Linked Anterior Lenticonus Sensorineural Deafness Basket-Weave GBM",
+    "Genetics",
+    "Renal",
+    "starting early ACE inhibitor ramipril slowing progression of hereditary proteinuric kidney failure",
+    "UKKA Rare Renal",
+    "https://ukkidney.org/"
+  ],
+  [
+    "Bartter Versus Gitelman Syndrome Hypokalemic Alkalosis Urine Calcium Distinction Loop vs Thiazide",
+    "Physiology",
+    "Renal",
+    "identifying hypocalciuria and hypomagnesemia specifically favoring distal DCT Gitelman mutation",
+    "RCP Tubular Disorders",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Hemolytic Uremic Syndrome Atypical Complement Factor H Eculizumab Ravulizumab C5 Blockade",
+    "Medicine",
+    "Renal",
+    "vaccinating against meningococci alongside antibiotic prophylaxis before initiating C5 complement inhibitor",
+    "NICE / UKKA aHUS",
+    "https://ukkidney.org/"
+  ],
+  [
+    "Warm Versus Cold Autoimmune Hemolytic Anemia DAT IgG Steroids Versus IgM Rituximab Sutimlimab",
+    "Medicine",
+    "Hematology",
+    "avoiding cold room exposures and recognizing steroids poorly help cold agglutinin IgM hemolysis",
+    "BSH AIHA Guidelines",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Waldenstrom Macroglobulinemia IgM Paraprotein MYD88 Hyperviscosity Plasmapheresis Zanubrutinib",
+    "Medicine",
+    "Hematology",
+    "performing immediate plasmapheresis for retinal sausage-vein bleeding or hyperviscosity confusion",
+    "BSH Waldenstrom Guide",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Acute Promyelocytic Leukemia t(15;17) Auer Rods DIC Immediate ATRA Arsenic Trioxide",
+    "Medicine",
+    "Hematology",
+    "starting all-trans retinoic acid on morphologic suspicion alone before cytogenetic confirmation",
+    "BSH Acute Leukemia",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Myelodysplastic Syndrome 5q Deletion Lenalidomide Ring Sideroblasts SF3B1 Luspatercept",
+    "Medicine",
+    "Hematology",
+    "treating low-risk del(5q) transfusion-dependent anemia specifically with oral lenalidomide",
+    "BSH MDS Guidelines",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Antiphospholipid Catastrophic Triple Anticoagulation Steroids Plasma Exchange IVIG ICU",
+    "Medicine",
+    "Hematology",
+    "recognizing > 3 organ microthromboses within one week demanding urgent anticoagulation + steroids + PLEX",
+    "BSH Antiphospholipid",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Systemic Sclerosis Scleroderma Renal Crisis Sudden Malignant Hypertension ACE Inhibitor Captopril",
+    "Medicine",
+    "Renal",
+    "starting captopril or ACE inhibitor immediately despite rising creatinine saving renal perfusion",
+    "BSR Scleroderma Guide",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Dermatomyositis Gottron Papules Heliotrope Rash Anti-TIF1-Gamma Occult Malignancy Screen",
+    "Medicine",
+    "Musculoskeletal",
+    "screening age-appropriate/CT malignancy workup aggressively especially with anti-TIF1-gamma/NXP2",
+    "BSR Myositis Guidelines",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Behcet Disease Pathergy Oral Genital Ulcers Posterior Uveitis Cerebral Venous Azathioprine",
+    "Medicine",
+    "Musculoskeletal",
+    "using infliximab or cyclosporine alongside steroids for sight-threatening retinal vasculitis",
+    "BSR Behcet Consensus",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Reactive Arthritis Post-Chlamydia Campylobacter Circinate Balanitis Keratoderma Blenorrhagica",
+    "Medicine",
+    "Musculoskeletal",
+    "treating active urogenital chlamydial trigger alongside NSAIDs while testing HLA-B27/HIV",
+    "BASHH / BSR Reactive",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "SAPHO Syndrome Synovitis Acne Pustulosis Hyperostosis Osteitis Anterior Chest Wall Bisphosphonate",
+    "Medicine",
+    "Musculoskeletal",
+    "recognizing sternoclavicular hyperostosis bone scan bullhead sign avoiding unnecessary osteomyelitis biopsy",
+    "RCP Rheumatology Pearls",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Porphyria Cutanea Tarda Blistering Hands Hypertrichosis Hepatitis C Phlebotomy Hydroxychloroquine",
+    "Medicine",
+    "Dermatology",
+    "excluding hemochromatosis HFE and HCV while initiating low-dose hydroxychloroquine/venesection",
+    "BAD Porphyria Guide",
+    "https://www.bad.org.uk/"
+  ],
+  [
+    "Pyoderma Gangrenosum Pathergy Violaceous Undermined Edge Ulcer IBD Steroids Avoid Debridement",
+    "Medicine",
+    "Dermatology",
+    "prohibiting surgical debridement that severely worsens pathergic ulcer expansion before immunosuppression",
+    "BAD Ulcerative Skin",
+    "https://www.bad.org.uk/"
+  ],
+  [
+    "Mycosis Fungoides Cutaneous T-Cell Lymphoma Poikiloderma Pautrier Microabscess PUVA Bexarotene",
+    "Pathology",
+    "Dermatology",
+    "biopsying persistent asymmetric non-sun-exposed plaques showing epidermotropic cerebriform T cells",
+    "BAD Cutaneous Lymphoma",
+    "https://www.bad.org.uk/"
+  ],
+  [
+    "Sweet Syndrome Acute Febrile Neutrophilic Dermatosis AML Trigger Systemic Prednisolone",
+    "Medicine",
+    "Dermatology",
+    "evaluating underlying myelodysplasia or AML immediately upon tender plum-colored neutrophilic plaques",
+    "RCP Dermatology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Necrobiosis Lipoidica Diabeticorum Shin Atrophic Telangiectatic Plaques Steroid Care",
+    "Medicine",
+    "Dermatology",
+    "warning glycemic tightening alone rarely reverses established pretibial plaques and avoiding trauma",
+    "BAD Diabetes Skin",
+    "https://www.bad.org.uk/"
+  ],
+  [
+    "Progressive Multifocal Leukoencephalopathy JC Virus Natalizumab Non-Enhancing White Matter MRI",
+    "Neurology",
+    "Nervous System",
+    "stopping natalizumab immediately with plasma exchange despite IRIS risk upon JC CSF PCR positivity",
+    "ABN MS Drug Safety",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Autoimmune Encephalitis Anti-NMDA Ovarian Teratoma Faciobrachial Dystonic LGI1 Steroids IVIG",
+    "Neurology",
+    "Nervous System",
+    "removing occult ovarian teratoma promptly alongside steroids, IVIG, or rituximab immunotherapy",
+    "ABN Encephalitis Guide",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Creutzfeldt-Jakob Sporadic Prion Rapid Dementia Myoclonus CSF RT-QuIC Cortical Ribbon MRI",
+    "Neurology",
+    "Nervous System",
+    "detecting misfolded prion seeding reliably via CSF RT-QuIC avoiding hazardous brain biopsy",
+    "NCJDRSU Edinburgh Prion",
+    "https://www.cjd.ed.ac.uk/"
+  ],
+  [
+    "CADASIL Notch3 Autosomal Dominant Migraine Early Subcortical Strokes Anterior Temporal MRI",
+    "Genetics",
+    "Nervous System",
+    "identifying anterior temporal pole white-matter T2 hyperintensities on MRI avoiding anticoagulation",
+    "ABN Stroke Genetics",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Chronic Inflammatory Demyelinating Polyneuropathy Proximal Distal Areflexia CSF Protein IVIG",
+    "Neurology",
+    "Nervous System",
+    "distinguishing chronic > 8 week steroid/IVIG-responsive CIDP from acute monophasic Guillain-Barre",
+    "EAN/PNS CIDP 2021",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Millard-Gubler Syndrome Ventral Pons Ipsilateral VI VII Contralateral Hemiplegia Stroke",
+    "Anatomy",
+    "Nervous System",
+    "localizing crossed lateral rectus/facial palsy with corticospinal weakness to caudal basis pontis",
+    "RCP Neuroanatomy",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Wallenberg Lateral Medullary PICA Ipsilateral Horner Dysphagia Crossed Pain Temperature Spinothalamic",
+    "Anatomy",
+    "Nervous System",
+    "localizing nucleus ambiguus hoarseness and descending sympathetic Horner to vertebral/PICA infarct",
+    "RCP Brainstem Syndromes",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Dorsal Midbrain Parinaud Syndrome Pineal Tumor Upward Gaze Palsy Convergence-Retraction Light-Near",
+    "Neurology",
+    "Nervous System",
+    "ordering contrast brain MRI targeting tectal/pineal mass causing obstructive aqueductal hydrocephalus",
+    "ABN Neuro-Ophthalmology",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Cerebral Venous Sinus Thrombosis OCP Hypercoagulable Headache Papilledema Therapeutic LMWH",
+    "Neurology",
+    "Cardiovascular",
+    "anticoagulating fully with LMWH even when venous hemorrhagic infarction coexists on head CT",
+    "RCP Stroke Guidelines",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Myotonic Dystrophy Cardiac Conduction Respiratory Weakness Avoidance Depolarizing Succinylcholine",
+    "Neurology",
+    "Musculoskeletal",
+    "warning anesthetists strictly against succinylcholine hyperkalemic arrest or severe prolonged myotonia",
+    "RCP Neuromuscular Care",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Cytomegalovirus Retinitis HIV CD4 < 50 Pizza-Pie Hemorrhage Oral Valganciclovir ART Delay",
+    "Microbiology",
+    "Nervous System",
+    "deferring ART briefly ~2 weeks in CNS/ocular opportunistic risks versus urgent valganciclovir induction",
+    "BHIVA Opportunistic Guide",
+    "https://www.bhiva.org/"
+  ],
+  [
+    "Histoplasmosis Progressive Disseminated Immunocompromised Pancytopenia Urine Antigen Amphotericin",
+    "Microbiology",
+    "Hematology",
+    "performing urine/serum Histoplasma antigen and bone marrow culture showing tiny intracellular yeasts",
+    "BSAC Fungal Infections",
+    "https://bsac.org.uk/"
+  ],
+  [
+    "Strongyloides Stercoralis Corticosteroid Disseminated Gram-Negative Sepsis Ivermectin",
+    "Microbiology",
+    "Gastrointestinal",
+    "screening unexplained eosinophilia prior to systemic immunosuppression in former tropical residents",
+    "RCP Tropical Medicine",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Nocardia Asteroides Brain Lung Abscess Immunocompromised Partially Acid-Fast Trimethoprim-SMX",
+    "Microbiology",
+    "Nervous System",
+    "treating disseminated nocardiosis for 6-12 months with high-dose co-trimoxazole plus imipenem/amikacin",
+    "UKHSA Bacteriology",
+    "https://www.gov.uk/"
+  ],
+  [
+    "Whipple Endocarditis Culture-Negative Fever Arthralgia Tropheryma PCR Valve Histology",
+    "Microbiology",
+    "Cardiovascular",
+    "requesting broad-range 16S rRNA PCR on excised valve tissue in blood-culture-negative endocarditis",
+    "BSAC Endocarditis Guide",
+    "https://bsac.org.uk/"
+  ],
+  [
+    "Common Variable Immunodeficiency Recurrent Sinopneumonia Low IgG IgA Bronchiectasis IVIG",
+    "Immunology",
+    "Respiratory",
+    "screening serum immunoglobulins and vaccine responses in adults with unexplained bronchiectasis",
+    "BSACI Primary Immunodef",
+    "https://www.bsaci.org/"
+  ],
+  [
+    "Hereditary Angioedema C1-Esterase Inhibitor Low C4 ACE Inhibitor Trigger Icatibant",
+    "Immunology",
+    "Respiratory",
+    "administering C1-INH concentrate or bradykinin antagonist icatibant rather than useless epinephrine/steroids",
+    "BSACI Angioedema Guide",
+    "https://www.bsaci.org/"
+  ],
+  [
+    "IgG4-Related Retroperitoneal Fibrosis Hydronephrosis Biopsy Rituximab Prednisolone Ureter",
+    "Immunology",
+    "Renal",
+    "decompression via JJ stents plus immunosuppressive steroids rather than major surgical ureterolysis",
+    "RCP Autoimmune Care",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Hyper-IgE Job Syndrome STAT3 Retained Primary Teeth Cold Staph Abscesses Pneumatoceles",
+    "Immunology",
+    "Dermatology",
+    "maintaining antistaphylococcal prophylaxis and antifungal coverage for chronic mucocutaneous candidiasis",
+    "UKPIN Immunodeficiency",
+    "https://www.ukpin.org.uk/"
+  ],
+  [
+    "Leukocyte Adhesion Deficiency Delayed Umbilical Separation High Neutrophils Absent Pus",
+    "Immunology",
+    "General Principles",
+    "confirming CD18 beta-2 integrin absence on flow cytometry in severe non-purulent soft tissue infections",
+    "RCP Clinical Immunology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Amiodarone Thyrotoxicosis Type 1 Hypervascular Iodine Excess Versus Type 2 Destructive Steroids",
+    "Pharmacology",
+    "Endocrine",
+    "distinguishing hypervascular Doppler Type 1 carbimazole response from avascular Type 2 prednisolone",
+    "SfE Amiodarone Thyroid",
+    "https://www.endocrinology.org/"
+  ],
+  [
+    "Aminophylline Narrow Therapeutic Toxicity Seizures Tachycardia Activated Charcoal Hemodialysis",
+    "Pharmacology",
+    "Respiratory",
+    "remembering macrolides, ciprofloxacin, and smoking cessation acutely spike serum theophylline levels",
+    "TOXBASE Theophylline",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Rifampicin CYP450 Induction Transplant Cyclosporine Rejection Warfarin Contraceptive Failure",
+    "Pharmacology",
+    "General Principles",
+    "monitoring INR and calcineurin immunosuppressant troughs closely whenever adding/stopping rifamycins",
+    "BNF CYP450 Interactions",
+    "https://bnf.nice.org.uk/"
+  ],
+  [
+    "Hydroxychloroquine Retinal Toxicity Bull's-Eye Maculopathy Annual OCT After 5 Years",
+    "Pharmacology",
+    "Nervous System",
+    "limiting daily dose <= 5 mg/kg real body weight and baseline/year-5 spectral-domain OCT screening",
+    "RCOphth Hydroxychloroquine",
+    "https://www.rcophth.ac.uk/"
+  ],
+  [
+    "Checkpoint Inhibitor Pembrolizumab Hypophysitis Colitis Myocarditis High-Dose Methylprednisolone",
+    "Pharmacology",
+    "Endocrine",
+    "holding immunotherapy immediately and giving urgent high-dose steroids for immune-related myocarditis",
+    "ESMO/UKONS Toxicities",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Acute Intermittent Porphyria Neurovisceral Crisis Hyponatremia Porphobilinogen Hemin Arginate",
+    "Biochemistry",
+    "Nervous System",
+    "testing light-protected fresh random urine porphobilinogen during acute abdominal pain attack",
+    "UK Porphyria Network",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Alkaptonuria Homogentisate Dioxygenase Black Urine Ochronosis Spine Disc Calcification Nitisinone",
+    "Biochemistry",
+    "Musculoskeletal",
+    "inhibiting 4-hydroxyphenylpyruvate dioxygenase via nitisinone slowing articular ochronotic arthropathy",
+    "RCP Metabolic Adult",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Gout Hyperuricemia Lesch-Nyhan HGPRT Self-Mutilation Choreoathetosis Allopurinol",
+    "Biochemistry",
+    "General Principles",
+    "differentiating X-linked neurologic self-biting uric acid nephropathy from benign adult gout",
+    "RCP Inherited Metabolic",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Homocystinuria Cystathionine Beta-Synthase Marfanoid Downward Lens Dislocation Thrombosis B6",
+    "Genetics",
+    "Cardiovascular",
+    "distinguishing downward inferonasal lens subluxation and venous thrombosis from upward Marfan ectopia",
+    "RCP Genetics Comparison",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Von Hippel-Lindau Retinal Capillary Hemangioblastoma Cerebellar RCC Pheochromocytoma Screening",
+    "Genetics",
+    "Renal",
+    "surveilling yearly plasma metanephrines, retinal exams, and biennial abdominal/neuroaxis MRI",
+    "BSG/UKCGG VHL Guide",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Pregnancy Acute Fatty Liver Swansea Criteria Hypoglycemia Coagulopathy Immediate Delivery",
+    "Obstetrics",
+    "Pregnancy",
+    "monitoring neonatal long-chain 3-hydroxyacyl-CoA dehydrogenase LCHAD genetics alongside delivery",
+    "RCOG Liver Pregnancy",
+    "https://www.rcog.org.uk/"
+  ],
+  [
+    "Obstetric Pulmonary Hypertension Eisenmenger High Maternal Mortality Effective Contraception",
+    "Obstetrics",
+    "Cardiovascular",
+    "counseling multidisciplinary pre-pregnancy avoidance of gestation in severe fixed pulmonary hypertension",
+    "ESC Cardio-Pregnancy",
+    "https://www.escardio.org/"
+  ],
+  [
+    "Systemic Lupus Erythematosus Pregnancy Anti-Ro/La Neonatal Lupus Congenital Heart Block",
+    "Obstetrics",
+    "Pregnancy",
+    "continuing hydroxychloroquine safely throughout pregnancy and monitoring fetal PR echocardiography",
+    "BSR Pregnancy Rheum Drugs",
+    "https://www.rheumatology.org.uk/"
+  ],
+  [
+    "Epilepsy Pregnancy Lamotrigine Dose Escalation Clearance Increase Postpartum Taper Avoidance",
+    "Obstetrics",
+    "Nervous System",
+    "measuring trough lamotrigine levels each trimester and tapering promptly postpartum to avoid toxicity",
+    "RCOG Epilepsy Pregnancy 68",
+    "https://www.rcog.org.uk/"
+  ],
+  [
+    "Lithium Pregnancy First Trimester Ebstein Risk Shared Decision Maternal Relapse Balance",
+    "Obstetrics",
+    "Behavioral Health",
+    "performing targeted fetal echocardiography at 20 weeks when continuing essential maternal lithium",
+    "NICE CG192 Antenatal Mental",
+    "https://www.nice.org.uk/guidance/cg192"
+  ],
+  [
+    "Chronic Myeloid Leukemia Blast Crisis Acute Myeloid Lymphoid Transformation Dasatinib Ponatinib",
+    "Pathology",
+    "Hematology",
+    "performing BCR-ABL kinase domain sequencing checking T315I resistance requiring ponatinib/asciminib",
+    "BSH CML Guidelines",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Renal Oncocytoma Chromophobe Carcinoma Central Stellate Scar Distinction Immunostains",
+    "Pathology",
+    "Renal",
+    "avoiding misinterpreting benign central scar imaging alone because chromophobe RCC mimics oncocytoma",
+    "RCP Renal Pathology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Pancreatic Neuroendocrine Tumor Sporadic MEN1 Insulinoma Gastrinoma Chromogranin A",
+    "Pathology",
+    "Gastrointestinal",
+    "screening fasting gastrin after stopping PPI >= 1 week in refractory multiple duodenal ulcers",
+    "BSG NET Pathology",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Gastric MALT Lymphoma Helicobacter Pylori Eradication Stage I Remission Confirmation",
+    "Pathology",
+    "Gastrointestinal",
+    "completing triple/quadruple H. pylori cure achieving histologic regression in > 75% low-grade t(11;18)-negative",
+    "BSH Marginal Zone Lymphoma",
+    "https://b-s-h.org.uk/"
+  ],
+  [
+    "Minimal Change Versus Focal Segmental Glomerulosclerosis Steroid Resistance APOL1 Risk",
+    "Pathology",
+    "Renal",
+    "evaluating secondary adaptive hyperfiltration vs primary podocytopathy on electron microscopy effacement",
+    "UKKA Glomerulopathy",
+    "https://ukkidney.org/"
+  ],
+  [
+    "Baroreceptor Carotid Sinus Glossopharyngeal IX Nucleus Solitarius Vagal Efferent Arc",
+    "Physiology",
+    "Cardiovascular",
+    "explaining sudden postural hypotension after bilateral neck irradiation damaging carotid sinus afferents",
+    "RCP Cardiovascular Phys",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Anion Gap Osmolal Gap Methanol Ethylene Glycol Oxalate Calcium Crystalluria Fomepizole",
+    "Physiology",
+    "Renal",
+    "calculating osmolal gap > 10 early before toxic metabolites convert into high-anion-gap acidosis",
+    "TOXBASE Toxic Alcohols",
+    "https://www.toxbase.org/"
+  ],
+  [
+    "Cerebral Autoregulation Chronic Hypertension Rightward Shift Avoiding Rapid IV Nitroprusside Drop",
+    "Physiology",
+    "Nervous System",
+    "lowering acute malignant hypertension BP carefully <= 20-25% in first 24h preventing watershed infarct",
+    "RCP Acute Hypertension",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Carbon Monoxide Dissociation Curve Left Shift Inhibiting Mitochondrial Cytochrome Oxidase",
+    "Physiology",
+    "Respiratory",
+    "causing tissue hypoxia despite normal dissolved arterial PaO2 on standard blood gas analysis",
+    "RCP Respiratory Physiology",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Henderson-Hasselbalch Winters Formula Chronic Respiratory Compensation Delta-Delta Anion Gap",
+    "Physiology",
+    "Renal",
+    "identifying mixed non-anion-gap or metabolic alkalosis whenever delta ratio deviates from 1-2",
+    "RCP Acid-Base Core",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Superior Vena Cava Obstruction Lung Cancer Lymphoma Stenting Steroids Tissue Biopsy Prior",
+    "Medicine",
+    "Cardiovascular",
+    "obtaining urgent CT-guided/EBUS histology prior to radiotherapy so curable lymphoma is not masked",
+    "NICE NG122 Lung Cancer",
+    "https://www.nice.org.uk/guidance/ng122"
+  ],
+  [
+    "Mesothelioma Malignant Pleural Biopsy Talc Pleurodesis Indwelling Catheter Asbestosis History",
+    "Surgery",
+    "Respiratory",
+    "notifying coroner and industrial disease compensation schemes promptly on malignant mesothelioma",
+    "BTS Mesothelioma 2018",
+    "https://www.brit-thoracic.org.uk/"
+  ],
+  [
+    "Cholangiocarcinoma Hilar Klatskin Painless Obstructive Jaundice CA 19-9 ERCP Stenting Resection",
+    "Surgery",
+    "Gastrointestinal",
+    "excluding primary sclerosing cholangitis and obtaining staging CT prior to palliative plastic/metal stent",
+    "BSG Cholangiocarcinoma",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Pheochromocytoma Paraganglioma SDHB Mutation Metastatic Risk Annual Plasma Metanephrines",
+    "Surgery",
+    "Endocrine",
+    "offering germline SDHx genetic testing universally in all paragangliomas and pheochromocytomas",
+    "SfE Adrenal Guidelines",
+    "https://www.endocrinology.org/"
+  ],
+  [
+    "Spontaneous Bacterial Peritonitis Secondary Gut Perforation Runyon Criteria Polymicrobial Surgery",
+    "Surgery",
+    "Gastrointestinal",
+    "suspecting perforated viscus when ascitic total protein > 10 g/L, glucose < 2.8, and high LDH coexist",
+    "BSG Cirrhosis Ascites",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Geriatric Orthostatic Hypotension Postprandial Midodrine Fludrocortisone Compression Stockings",
+    "Geriatrics",
+    "Cardiovascular",
+    "educating head-of-bed elevation 10-15 degrees and checking supine hypertension before midodrine",
+    "RCP Geriatric Syncope",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Osteomalacia Vitamin D Elderly Bone Pain Pseudofractures Looser Zones Proximal Myopathy",
+    "Geriatrics",
+    "Musculoskeletal",
+    "measuring serum alkaline phosphatase, calcium, phosphate, PTH, and 25-OH-D in unexplained proximal weakness",
+    "NOS Vitamin D Guidelines",
+    "https://theros.org.uk/"
+  ],
+  [
+    "Inappropriate Polypharmacy Anticholinergic Cognitive Scale Urinary Retention Confusion Fall",
+    "Geriatrics",
+    "Behavioral Health",
+    "replacing tricyclic neuropathic pain or sedating antihistamines with safer targeted alternatives",
+    "BGS Frailty Prescribing",
+    "https://www.bgs.org.uk/"
+  ],
+  [
+    "Catatonia Bush-FrancisLorazepam Challenge Autonomic Malignant ECT Neurosurgery Rule-Out",
+    "Psychiatry",
+    "Behavioral Health",
+    "administering diagnostic IV lorazepam challenge yielding rapid transient resolution of mutism/posturing",
+    "BAP Catatonia Guidelines",
+    "https://www.bap.org.uk/"
+  ],
+  [
+    "Conversion Functional Neurological Disorder Hoover Sign Positive Diagnosis Multidisciplinary Physio",
+    "Neurology",
+    "Behavioral Health",
+    "delivering transparent positive physical sign demonstration empowering neuro-rehabilitation recovery",
+    "ABN Functional Neurology",
+    "https://www.theabn.org/"
+  ],
+  [
+    "Confidentiality Deceased Patient GMC Continuing Duty Public Interest Harm Balancing",
+    "Ethics",
+    "General Principles",
+    "maintaining confidentiality post-mortem unless statutory public interest or next-of-kin cause clarity overrides",
+    "GMC Confidentiality 2017",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Research Ethics Equipoise Clinical Trial Placebos Standard-of-Care Declaration of Helsinki",
+    "Ethics",
+    "General Principles",
+    "requiring genuine clinical uncertainty between trial arms before randomizing patients ethically",
+    "HRA / GMC Research Ethics",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Kaplan-Meier Hazard Ratio Proportionality Non-Proportional Crossing Survival Curves Log-Rank",
+    "Biostatistics",
+    "General Principles",
+    "recognizing crossover or delayed immunotherapy effects violate proportional hazards assumptions",
+    "RCP Medical Statistics",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Mendelian Randomization Instrumental Variable Genetic Variant Minimizing Reverse Causation",
+    "Biostatistics",
+    "General Principles",
+    "exploiting random allele assortment at conception to test causal biomarker-disease links",
+    "RCP Epidemiology Methods",
+    "https://www.rcp.ac.uk/"
+  ],
+  [
+    "Receiver Operating Characteristic AUC 0.5 Random Versus 1.0 Perfect Test Calibration Plot",
+    "Biostatistics",
+    "General Principles",
+    "evaluating calibration agreement alongside discrimination AUC before deploying risk prediction scores",
+    "BMJ Statistics Note",
+    "https://www.bmj.com/"
+  ]
+]
+
+FCPS_TOPICS = [
+  [
+    "Brachial Artery Cubital Fossa Bicipital Aponeurosis Median Nerve Supracondylar Fracture",
+    "Anatomy",
+    "Cardiovascular",
+    "protecting median nerve and brachial artery lying medially beneath bicipital aponeurosis",
+    "CPSP Upper Limb Anatomy",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Pudendal Nerve S2-S4 Alcock Canal Ischial Spine Block Episiotomy Obstetric Analgesia",
+    "Anatomy",
+    "Pregnancy",
+    "palpating sacrospinous ligament at ischial spine to deliver transvaginal perineal block",
+    "CPSP Pelvic Anatomy",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Recurrent Laryngeal Nerve Inferior Thyroid Artery Ligament of Berry Thyroidectomy Safety",
+    "Anatomy",
+    "Endocrine",
+    "identifying posterior suspensory ligament of Berry carefully where nerve runs closest to gland",
+    "CPSP Head Neck Anatomy",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Coronary Circulation Right Dominance Posterior Descending Artery AV Nodal Branch Supply",
+    "Anatomy",
+    "Cardiovascular",
+    "explaining high incidence of transient AV nodal block in inferior myocardial infarction",
+    "CPSP Thorax Anatomy",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Cardiac Action Potential Sinoatrial Pacemaker Funny Channels Phase 4 Hyperpolarization",
+    "Physiology",
+    "Cardiovascular",
+    "slowing diastolic depolarization slope with ivabradine selectively reducing sinus rate without hypotension",
+    "CPSP Cardiac Physiology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Alveolar-Arterial Oxygen Gradient V/Q Mismatch Diffusion Defect Hypoventilation Distinction",
+    "Physiology",
+    "Respiratory",
+    "normal A-a gradient identifying pure extrapulmonary hypoventilation from narcotic overdose",
+    "CPSP Respiratory Phys",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Tubuloglomerular Feedback Adenosine Macula Densa Loop Diuretic Blunting Autoregulation",
+    "Physiology",
+    "Renal",
+    "explaining why furosemide disrupts macula densa chloride sensing despite high distal delivery",
+    "CPSP Renal Physiology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Gastric Acid Secretion Parietal Cell Gastrin CCK2 Histamine H2 Acetylcholine M3 PPI Block",
+    "Physiology",
+    "Gastrointestinal",
+    "blocking final common H+/K+ ATPase pump irreversibly for potent meal-stimulated acid control",
+    "CPSP GI Physiology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Urea Cycle Hyperammonemia Carbamoyl Phosphate Synthetase N-Acetylglutamate Activation",
+    "Biochemistry",
+    "General Principles",
+    "administering carglumic acid bypassing NAGS deficiency to restore mitochondrial CPS1 activity",
+    "CPSP Metabolism Blueprint",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Heme Synthesis Lead Poisoning ALA Dehydratase Ferrochelatase Basophilic Stippling Succimer",
+    "Biochemistry",
+    "Hematology",
+    "accumulating protoporphyrin and delta-ALA causing abdominal colic, wrist drop, and Burton gum lines",
+    "CPSP Biochem Toxicology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Coagulation Extrinsic Factor VII Warfarin Intrinsic VIII IX XI XII Hemophilia Mixing Study",
+    "Pathology",
+    "Hematology",
+    "performing 1:1 normal plasma mixing study distinguishing factor deficiency correction from lupus inhibitor",
+    "CPSP Hematology Pathology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Necrotizing Granulomatous Caseation Tuberculosis Versus Non-Caseating Sarcoidosis Asteroid",
+    "Pathology",
+    "Respiratory",
+    "pairing Ziehl-Neelsen AFB culture and molecular GeneXpert MTB/RIF to confirm active TB definitively",
+    "CPSP Pathology IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Carcinoid Appendix Neuroendocrine Tumor Tip > 2 cm Right Hemicolectomy Indication",
+    "Pathology",
+    "Gastrointestinal",
+    "completing formal right hemicolectomy if tumor >= 2 cm, mesoappendiceal invasion, or base positive",
+    "CPSP GI Surgical Path",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Ovarian Tumors Surface Epithelial Serous Psammoma Bodies Versus Mucinous Pseudomyxoma",
+    "Pathology",
+    "Pregnancy",
+    "checking primary appendiceal mucinous neoplasm alongside ovary whenever pseudomyxoma peritonei presents",
+    "CPSP Gynec Pathology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Clear Cell Renal Carcinoma VHL Loss Golden Yellow Lipid-Rich Glycogen Cytoplasm Biopsy",
+    "Pathology",
+    "Renal",
+    "linking HIF-1alpha stabilization and VEGF overexpression directly to tyrosine kinase therapy targets",
+    "CPSP Uropathology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Beta-Blocker Cardioselective Bisoprolol Metoprolol Versus Non-Selective Propranolol Asthma",
+    "Pharmacology",
+    "Cardiovascular",
+    "avoiding non-selective beta-blockers in reactive bronchospasm favoring cautious bisoprolol in HFrEF",
+    "CPSP Cardiac Pharm",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Heparin Unfractionated Protamine Sulfate Versus LMWH Partial Protamine Reversal Anti-Xa",
+    "Pharmacology",
+    "Hematology",
+    "monitoring aPTT in renal failure using unfractionated heparin over renally cleared enoxaparin",
+    "CPSP Pharmacology IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Antiarrhythmic Vaughan Williams Amiodarone Thyroid Pulmonary Fibrosis Corneal Deposits Baseline",
+    "Pharmacology",
+    "Cardiovascular",
+    "ordering baseline TFTs, LFTs, chest radiograph, and PFTs before chronic oral amiodarone",
+    "CPSP Arrhythmia Pharm",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Vancomycin-Resistant Enterococcus Linezolid Daptomycin Myopathy Serotonin Toxicity Caution",
+    "Pharmacology",
+    "General Principles",
+    "preferring linezolid for VRE pneumonia because pulmonary surfactant inactivates daptomycin completely",
+    "CPSP Infectious Pharm",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Metformin Lactic Acidosis Contraindication eGFR < 30 Hold Contrast Recovery Resume 48 Hours",
+    "Pharmacology",
+    "Endocrine",
+    "rechecking renal creatinine 48 hours after iodinated contrast before restarting metformin safely",
+    "CPSP Endocrine Pharm",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Crimean-Congo Hemorrhagic Fever Tick Livestock Ribavirin Strict Viral Hemorrhagic Isolation",
+    "Microbiology",
+    "Hematology",
+    "instituting strict droplet/contact barrier PPE immediately in febrile Pakistan livestock handlers with bleeding",
+    "NIH Pakistan CCHF Guide",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Naegleria Fowleri Primary Amebic Meningoencephalitis Freshwater Nasal Sinus Miltefosine",
+    "Microbiology",
+    "Nervous System",
+    "advising boiled/chlorinated water strictly for ablution nasal rinsing during hot Karachi summers",
+    "NIH Pakistan Naegleria",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Helicobacter Pylori Urea Breath Culture Susceptibility Clarithromycin Resistance Bismuth Quad",
+    "Microbiology",
+    "Gastrointestinal",
+    "prescribing 14-day bismuth quadruple regimen reliably in high macrolide resistance regions",
+    "PSG Pakistan H. Pylori",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Cytomegalovirus Solid Organ Kidney Transplant Valganciclovir Prophylaxis Owl-Eye Inclusions",
+    "Microbiology",
+    "Renal",
+    "giving valganciclovir prophylaxis matching donor-positive recipient-negative serostatus mismatches",
+    "CPSP Transplant ID",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Mucormycosis Rhino-Orbital-Cerebral Uncontrolled DKA Black Necrotic Eschar Liposomal Amphotericin",
+    "Microbiology",
+    "Endocrine",
+    "combining urgent surgical debridement, DKA reversal, and high-dose liposomal amphotericin B",
+    "CPSP Mycology Emergency",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Myasthenia Gravis Thymoma MuSK Antibody Negative Rituximab Refractory Crisis Management",
+    "Immunology",
+    "Nervous System",
+    "selecting rituximab early in MuSK-positive myasthenia gravis resistant to pyridostigmine",
+    "CPSP Clinical Immunology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "HLA-B27 Axial Arthropathy Acute Anterior Uveitis Photophobia Urgent Slit-Lamp Steroid Drops",
+    "Immunology",
+    "Musculoskeletal",
+    "referring unilateral painful red photophobic eye same-day in ankylosing spondylitis patients",
+    "CPSP Rheumatology IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Beta-Thalassemia Major Preimplantation Prenatal Chorionic Villus Sampling HBB Mutation Pakistan",
+    "Genetics",
+    "Hematology",
+    "offering early first-trimester CVS DNA analysis when both parents carry beta-thalassemia trait",
+    "CPSP Clinical Genetics",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Spinal Muscular Atrophy SMN1 Deletion Nusinersen Gene Replacement Zolgensma Newborn Hypotonia",
+    "Genetics",
+    "Nervous System",
+    "confirming homozygous SMN1 exon 7 deletion prior to early disease-modifying antisense therapy",
+    "CPSP Neurogenetics",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Acute Coronary Syndrome Post-MI Mechanical Complications VSD Papillary Rupture Free Wall",
+    "Medicine",
+    "Cardiovascular",
+    "performing immediate transthoracic echo differentiating acute mitral papillary rupture from VSD shunt",
+    "PSC Cardiology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Pericardial Effusion Tuberculous Endemic Diagnostic Pericardiocentesis Adenosine Deaminase Steroids",
+    "Medicine",
+    "Cardiovascular",
+    "adding adjunctive corticosteroids cautiously in HIV-negative tuberculous constrictive pericarditis",
+    "CPSP Medicine IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Hypertensive Emergency Papilledema Retinal Hemorrhage IV Labetalol Nitroprusside MAP Target",
+    "Medicine",
+    "Cardiovascular",
+    "reducing mean arterial pressure 20-25% within first hour preventing cerebral/renal hypoperfusion",
+    "CPSP Acute Medicine",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Interstitial Lung Disease Idiopathic Nonspecific IPF Pirfenidone High-Resolution CT Pattern",
+    "Medicine",
+    "Respiratory",
+    "excluding connective tissue disease rheumatoid/scleroderma serology before labeling IPF idiopathic",
+    "CPSP Pulmonology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Massive Hemoptysis Bronchial Artery Embolization Lateralize Bleeding Lung Downward Airway Protect",
+    "Medicine",
+    "Respiratory",
+    "positioning bleeding lung dependent side down protecting healthy contralateral lung oxygenation",
+    "CPSP Pulmonary Emergency",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Acute Severe Asthma Silent Chest ABG Normalization Warning Magnesium Sulfate Aminophylline",
+    "Medicine",
+    "Respiratory",
+    "preparing rapid-sequence intubation immediately when exhausted asthmatic shows rising PaCO2",
+    "CPSP ICU Respiratory",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Acute Pancreatitis Atlanta Severity Organ Failure > 48h Fluid Lactated Ringer Enteral Feed",
+    "Medicine",
+    "Gastrointestinal",
+    "starting oral/nasojejunal feeding within 24-48 hours rather than prolonged NPO fasting",
+    "CPSP Gastroenterology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Norfloxacin Secondary Prophylaxis",
+    "Medicine",
+    "Gastrointestinal",
+    "continuing indefinite secondary antibiotic prophylaxis after first SBP recovery until transplant",
+    "PSSLD Cirrhosis Guide",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Inflammatory Bowel Disease Differentiating Ileocecal Tuberculosis Biopsy ATT Before Biologics",
+    "Medicine",
+    "Gastrointestinal",
+    "excluding intestinal TB rigorously via CT enterography and ileocolonic histology prior to anti-TNF",
+    "CPSP GI Pakistan",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Diabetic Neuropathy Autonomic Gastroparesis Metoclopramide Erythromycin Small Frequent Meals",
+    "Medicine",
+    "Endocrine",
+    "diagnosing gastric emptying scintigraphy after upper endoscopy excludes mechanical outlet obstruction",
+    "CPSP Endocrinology IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Cushing Disease Pituitary Corticotroph Adenoma Inferior Petrosal Sinus Sampling CRH Test",
+    "Medicine",
+    "Endocrine",
+    "using bilateral IPSS to distinguish pituitary ACTH source from ectopic bronchial carcinoid tumor",
+    "CPSP Endocrine FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Lupus Nephritis Cyclophosphamide Versus Mycophenolate Fertility Preservation GnRH Agonist",
+    "Medicine",
+    "Renal",
+    "preferring oral mycophenolate mofetil over gonadotoxic cyclophosphamide in young reproductive women",
+    "CPSP Nephrology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Contrast Nephropathy Versus Cholesterol Atheroemboli Eosinophilia Livedo Reticularis Blue Toe",
+    "Medicine",
+    "Renal",
+    "distinguishing delayed subacute post-angiogram eosinophilic renal failure from transient contrast AKI",
+    "CPSP Vascular Nephrology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Polycythemia Secondary Chronic Hypoxia COPD High Altitude EPO Elevated Normal Oxygenation",
+    "Medicine",
+    "Hematology",
+    "avoiding indiscriminate venesection unless symptomatic hyperviscosity hematocrit > 0.56 threatens",
+    "CPSP Hematology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Sickle Cell Acute Splenic Sequestration Sudden Splenomegaly Anemia Hypovolemic Shock Transfuse",
+    "Medicine",
+    "Hematology",
+    "transfusion carefully to avoid sudden post-sequestration hyperviscosity hematocrit overshoot",
+    "CPSP Hematology Emergency",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Systemic Vasculitis Cryoglobulinemic Hepatitis C Purpura Arthralgia Low C4 Rheumatoid Factor",
+    "Medicine",
+    "Musculoskeletal",
+    "treating HCV eradication with sofosbuvir-velpatasvir alongside rituximab in severe neuropathy/nephritis",
+    "CPSP Rheumatology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Psoriatic Arthritis Dactylitis Nail Pitting Pencil-in-Cup Methotrexate Anti-TNF IL-17 Biologic",
+    "Medicine",
+    "Musculoskeletal",
+    "screening axial spine involvement separately because NSAIDs and biologics outperform methotrexate",
+    "CPSP Arthritis Standards",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Dermatomyositis Versus Polymyositis Statin Immune-Mediated Necrotizing Anti-HMGCR Myopathy",
+    "Medicine",
+    "Musculoskeletal",
+    "testing anti-HMGCR autoantibodies when severe proximal CK > 5000 myopathy persists off statins",
+    "CPSP Neuromuscular FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Cerebral Venous Thrombosis Puerperal Dehydration Postpartum Headache CT Venogram Anticoagulation",
+    "Neurology",
+    "Pregnancy",
+    "recognizing postpartum hypercoagulable dural sinus thrombosis promptly and starting therapeutic LMWH",
+    "CPSP Obstetric Neurology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Transverse Myelitis Acute Paraplegia Sensory Level MRI Spine Exclude Compression Pulse Steroid",
+    "Neurology",
+    "Nervous System",
+    "performing urgent whole-spine MRI with gadolinium before lumbar puncture in acute paraparesis",
+    "CPSP Neurology IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Idiopathic Intracranial Hypertension Obese Female Papilledema Weight Loss Acetazolamide Shunt",
+    "Neurology",
+    "Nervous System",
+    "monitoring automated visual fields closely to detect subtle peripheral constriction threatening blindness",
+    "CPSP Neuro-Ophthalmology",
+    "https://www.cpsp.ac.uk/"
+  ],
+  [
+    "Schizophrenia Negative Symptoms Alogia Anhedonia Clozapine Augmentation Psychosocial Rehab",
+    "Psychiatry",
+    "Behavioral Health",
+    "differentiating primary schizophrenia deficit from secondary extrapyramidal bradykinesia or depression",
+    "CPSP Psychiatry FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Postpartum Psychosis Bipolar Risk Infanticide Urgency Inpatient Admission Lithium Antipsychotic",
+    "Psychiatry",
+    "Pregnancy",
+    "treating sudden postpartum insomnia, perplexity, and delusions as psychiatric emergency within 48h",
+    "CPSP Perinatal Psychiatry",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Traumatic Hemothorax Massive Chest Tube Initial > 1500 mL Or 200 mL/hr Emergency Thoracotomy",
+    "Surgery",
+    "Respiratory",
+    "mobilizing cardiothoracic operating room immediately upon massive continuous chest tube hemorrhage",
+    "CPSP Surgery IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Esophageal Corrosive Alkali Stricture Child Endoscopy Grading Early Dilatation Gastric Pull-Up",
+    "Surgery",
+    "Gastrointestinal",
+    "avoiding neutralizers, emetics, or blind nasogastric tube insertion after acute caustic ingestion",
+    "CPSP Pediatric/GI Surgery",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Hepatocellular Carcinoma Cirrhotic Milan Criteria Liver Transplant Single < 5 cm Up To 3 < 3 cm",
+    "Surgery",
+    "Gastrointestinal",
+    "referring compensated cirrhotic early HCC within Milan criteria for curative transplantation",
+    "CPSP HPB Surgery FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Rectal Prolapse Full-Thickness Concentric Rings Elderly Altemeier Perineal Versus Delorme",
+    "Surgery",
+    "Gastrointestinal",
+    "choosing perineal Delorme mucosal sleeve resection in frail elderly unfit for abdominal rectopexy",
+    "CPSP Colorectal FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Anal Fissure Posterior Midline Chronic Sentinel Pile Lateral Internal Sphincterotomy Botulinum",
+    "Surgery",
+    "Gastrointestinal",
+    "using topical GTN/diltiazem 8 weeks first-line and reserving sphincterotomy while protecting continence",
+    "CPSP Proctology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Phyllodes Tumor Rapidly Enlarging Breast Leaf-Like Clefts Wide Excision 1 cm Clear Margin",
+    "Surgery",
+    "General Principles",
+    "excising with 1 cm histologically negative margins without routine axillary lymph node dissection",
+    "CPSP Breast Surgery",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Medullary Thyroid Carcinoma Calcification High Calcitonin CEA Total Thyroidectomy Central Neck",
+    "Surgery",
+    "Endocrine",
+    "checking RET germline mutation and serum metanephrines universally prior to central neck clearance",
+    "CPSP Endocrine Surgery",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Varicocele Left Side Nutcracker Psoas Bag of Worms Subinguinal Microsurgical Repair",
+    "Surgery",
+    "Renal",
+    "investigating sudden new right-sided or non-reducible varicocele via abdominal ultrasound for renal mass",
+    "CPSP Urology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Posterior Urethral Valves Newborn Bilateral Hydronephrosis Keyhole Sign Cystoscopic Ablation",
+    "Surgery",
+    "Renal",
+    "decompressing bladder urgently with tiny infant feeding tube before definitive endoscopic valve ablation",
+    "CPSP Pediatric Urology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Open Gustilo Anderson Grade IIIB Tibial Fracture Debridement Early Flap External Fixation",
+    "Surgery",
+    "Musculoskeletal",
+    "administering immediate IV cefazolin plus aminoglycoside and tetanus prophylaxis upon open fracture",
+    "CPSP Orthopedics FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Carpal Scapholunate Dissociation Terry Thomas Gap > 3 mm FOOSH MRI Ligament Repair",
+    "Surgery",
+    "Musculoskeletal",
+    "identifying widened > 3 mm scapholunate joint interval on clenched-fist AP radiograph post-FOOSH",
+    "CPSP Hand Orthopedics",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Subarachnoid Hemorrhage Endovascular Coiling Versus Microsurgical Clipping Vasospasm Triple-H",
+    "Surgery",
+    "Nervous System",
+    "maintaining euvolemic induced hypertension and nimodipine rather than hypervolemic hemodilution",
+    "CPSP Neurosurgery FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Acute Mastoiditis Post-Otitis Fluctuant Postauricular Pinna Down Outward Cortical Mastoidectomy",
+    "Surgery",
+    "Nervous System",
+    "combining IV ceftriaxone, myringotomy, and cortical mastoidectomy when subperiosteal abscess forms",
+    "CPSP ENT FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Laryngeal Carcinoma Supraglottic Versus Glottic Hoarseness Microlaryngoscopy Biopsy Staging",
+    "Surgery",
+    "Respiratory",
+    "evaluating persistent smoker hoarseness > 3 weeks urgently with flexible nasolaryngoscopy",
+    "CPSP Head Neck ENT",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Rhegmatogenous Versus Exudative Serous Retinal Detachment Shifting Fluid VKH Diagnosis",
+    "Surgery",
+    "Nervous System",
+    "recognizing bilateral exudative detachment with CSF pleocytosis and poliosis as Vogt-Koyanagi-Harada",
+    "CPSP Ophthalmology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Open Globe Eye Rupture Tear-Drop Pupil Rigid Fox Shield No Tonometry Urgent Ophthalmic Repair",
+    "Surgery",
+    "Nervous System",
+    "avoiding ocular pressure palpation, eye drops, or ultrasound over suspected penetrating globe injury",
+    "CPSP Ocular Trauma",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Arteriovenous Fistula Brescia-Cimino Radiocephalic Maturation 6 Weeks Dialysis Vascular Access",
+    "Surgery",
+    "Renal",
+    "preserving non-dominant forearm cephalic veins strictly from venipuncture in advanced CKD Stage 4",
+    "CPSP Vascular & Renal",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Preterm Premature Rupture Membranes Chorioamnionitis Immediate Delivery Regardless Gestation",
+    "Obstetrics",
+    "Pregnancy",
+    "delivering promptly regardless of gestational age once intrauterine infection develops",
+    "CPSP OB/GYN IMM",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Twin Pregnancy Monochorionic Monoamniotic Cord Entanglement Inpatient Monitoring Delivery 32-34w",
+    "Obstetrics",
+    "Pregnancy",
+    "delivering monoamniotic twins via planned cesarean section around 32-34 weeks after steroids",
+    "CPSP Fetal Medicine FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Uterine Inversion Third Stage Shock Immediate Johnson Manual Replacement Hydrostatic O'Sullivan",
+    "Obstetrics",
+    "Pregnancy",
+    "replacing inverted uterus immediately manually prior to removing tightly adherent placenta",
+    "CPSP Obstetric Emergency",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Diabetes Pregnancy Tight Glucose Fasting < 95 1h < 140 Shoulder Dystocia Neonatal Hypoglycemia",
+    "Obstetrics",
+    "Pregnancy",
+    "performing planned cesarean delivery proactively when estimated fetal weight >= 4500 g in diabetics",
+    "CPSP Perinatal Endocrinology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Cervical Ectopic Pregnancy Empty Uterine Cavity Barrel Cervix Methotrexate Embolization",
+    "Obstetrics",
+    "Pregnancy",
+    "avoiding blind sharp curettage risking torrential hemorrhage in non-viable cervical gestation",
+    "CPSP Gynecology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Stress Versus Urgency Urinary Incontinence Urodynamics Detrusor Overactivity Mirabegron",
+    "Obstetrics",
+    "Renal",
+    "using beta-3 agonist mirabegron over antimuscarinics in older women with cognitive/glaucoma risk",
+    "CPSP Urogynecology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Endometrial Cancer Lynch Syndrome Type I Endometrioid Biopsy Staging TAH BSO Sentinel Node",
+    "Obstetrics",
+    "Pregnancy",
+    "performing universal mismatch repair IHC testing on resected endometrial carcinoma specimens",
+    "CPSP Gynec Oncology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Mullerian Agenesis Mayer-Rokitansky-Kuster-Hauser Normal Female 46,XX Secondary Sexual Hair",
+    "Obstetrics",
+    "Pregnancy",
+    "differentiating MRKH absent uterus 46,XX normal breasts/pubic hair from XY androgen insensitivity",
+    "CPSP Pediatric Gynecology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Asherman Syndrome Post-Curettage Secondary Amenorrhea Hysteroscopy Adhesiolysis Estrogen",
+    "Obstetrics",
+    "Pregnancy",
+    "performing hysteroscopic lysis of intrauterine synechiae followed by cyclic estrogen stenting",
+    "CPSP Reproductive Surgery",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Primary Postpartum Hemorrhage Retained Cotyledon Manual Removal Under Anesthesia Broad Cover",
+    "Obstetrics",
+    "Pregnancy",
+    "inspecting placenta systematically postpartum and exploring uterus promptly if incomplete membranes",
+    "CPSP Labor Ward FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Meconium Aspiration Syndrome Term Post-Dates Vigorous No Routine Tracheal Suction Ventilation",
+    "Pediatrics",
+    "Respiratory",
+    "initiating positive pressure ventilation promptly in non-vigorous depressed infants avoiding routine suction",
+    "CPSP Neonatal Resuscitation",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Necrotizing Enterocolitis Premature Pneumatosis Intestinalis Bowel Rest Antibiotics Peritoneal Drain",
+    "Pediatrics",
+    "Gastrointestinal",
+    "operating promptly if free intraperitoneal pneumoperitoneum or clinical deterioration despite antibiotics",
+    "CPSP NICU FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Bronchopulmonary Dysplasia Preterm Oxygen Need > 28 Days Dexamethasone Rescue Diuretics Nutrition",
+    "Pediatrics",
+    "Respiratory",
+    "targeting SpO2 90-95% gently while avoiding routine systemic corticosteroids early in first week",
+    "CPSP Neonatology FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Transient Tachypnea Newborn Elective Cesarean Fluid Retention Resolving Within 48 Hours Support",
+    "Pediatrics",
+    "Respiratory",
+    "confirming prominent perihilar streaking and interlobar fissure fluid resolving spontaneously",
+    "CPSP Newborn Care",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Celiac Crisis Severe Explosive Diarrhea Hypokalemia Hypoalbuminemia Pediatric Resuscitation Steroids",
+    "Pediatrics",
+    "Gastrointestinal",
+    "resuscitating electrolytes cautiously for refeeding risk alongside short systemic corticosteroid rescue",
+    "CPSP Pediatric GI FCPS",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Pediatric Nephrotic Syndrome Steroid-Resistant FSGS Tacrolimus Cyclosporine Renal Biopsy Genetic",
+    "Pediatrics",
+    "Renal",
+    "performing kidney biopsy and NPHS2/WT1 genetic testing before intensifying calcineurin therapy",
+    "CPSP Pediatric Nephrology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Patent Ductus Arteriosus Preterm Continuous Machinery Murmur Indomethacin Ibuprofen Acetaminophen",
+    "Pediatrics",
+    "Cardiovascular",
+    "utilizing oral/IV paracetamol safely when renal insufficiency or thrombocytopenia contraindicates NSAIDs",
+    "CPSP Pediatric Cardiology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Hypoplastic Left Heart Syndrome Ductal Dependent PGE1 Norwood Sano Bidirectional Glenn Fontan",
+    "Pediatrics",
+    "Cardiovascular",
+    "avoiding high supplemental oxygen > 21-25% that drops pulmonary resistance stealing systemic flow",
+    "CPSP Congenital Heart",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Pediatric Guillain-Barre Miller Fisher Ophthalmoplegia Ataxia Areflexia Anti-GQ1b Antibody",
+    "Pediatrics",
+    "Nervous System",
+    "recognizing anti-GQ1b triad responding safely to intravenous immunoglobulin monitoring bulbar tone",
+    "CPSP Pediatric Neurology",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Acute Lymphoblastic Leukemia High Hyperdiploidy t(12;21) Good Prognosis Versus BCR-ABL Adverse",
+    "Pediatrics",
+    "Hematology",
+    "adding imatinib/dasatinib early to chemotherapy backbone in Philadelphia-positive pediatric ALL",
+    "CPSP Pediatric Heme-Onc",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Fragile Geriatric Delirium Hyperactive Versus Hypoactive Subtypes Prognosis Medication Audit",
+    "Geriatrics",
+    "Behavioral Health",
+    "recognizing quiet hypoactive delirium carries higher missed diagnosis and mortality in elderly wards",
+    "CPSP Geriatric Medicine",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Sarcopenia Muscle Loss Grip Strength Walk Speed Resistance Exercise High Protein Elderly",
+    "Geriatrics",
+    "Musculoskeletal",
+    "combining progressive resistance training with 1.2 g/kg daily protein reversing functional decline",
+    "CPSP Healthy Aging",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Pressure Ulcer Stage 4 Bone Exposure Negative Pressure Wound Vacuum Nutrition Debridement",
+    "Geriatrics",
+    "Dermatology",
+    "confirming absence of deep osteomyelitis or untreated PAD before vacuum-assisted wound closure",
+    "CPSP Geriatric Wound Care",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Clinical Governance Audit Cycle Standards Baseline Measurement Change Re-Audit Improvement",
+    "Ethics",
+    "General Principles",
+    "completing second re-audit loop after practice intervention rather than stopping at data collection",
+    "CPSP Clinical Audit",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Research Ethics Authorship ICMJE Four Criteria Substantial Contribution Drafting Final Approval",
+    "Ethics",
+    "General Principles",
+    "rejecting gift or honorary authorship strictly unless all four ICMJE criteria are genuinely satisfied",
+    "CPSP Research Ethics",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Organ Donation Brain Death Certification Two Independent Physicians Apnea Test Absence Sedation",
+    "Ethics",
+    "Nervous System",
+    "excluding hypothermia, metabolic encephalopathy, and neuromuscular blockers prior to brainstem testing",
+    "CPSP Intensive Care Ethics",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "ANOVA One-Way Comparing >= 3 Group Means Post-Hoc Tukey Bonferroni Correction Type I Guard",
+    "Biostatistics",
+    "General Principles",
+    "preventing alpha inflation from repeated pairwise t-tests by applying ANOVA followed by post-hoc tests",
+    "CPSP CPSP Research Workshop",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Bland-Altman Plot Method Agreement Mean Difference Limits Bias Diagnostic Lab Concordance",
+    "Biostatistics",
+    "General Principles",
+    "evaluating systematic offset and limits of agreement rather than misusing Pearson r correlation",
+    "CPSP Method Comparison",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Logistic Regression Odds Ratio Dichotomous Outcome Adjustment Confounders Hosmer-Lemeshow",
+    "Biostatistics",
+    "General Principles",
+    "interpreting exponentiated beta coefficients as adjusted odds ratios per unit predictor rise",
+    "CPSP Multivariate Stats",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Diagnostic Bayes Theorem Pre-Test Odds Likelihood Ratio Nomogram Clinical Decision Threshold",
+    "Biostatistics",
+    "General Principles",
+    "combining pre-test clinical suspicion with test likelihood ratio to determine post-test action",
+    "CPSP Evidence Medicine",
+    "https://www.cpsp.edu.pk/"
+  ],
+  [
+    "Attrition Bias Differential Loss To Follow-Up Randomized Trials Multiple Imputation Sensitivity",
+    "Biostatistics",
+    "General Principles",
+    "evaluating asymmetric dropout rates between intervention and control arms before trusting conclusions",
+    "CPSP Critical Appraisal",
+    "https://www.cpsp.edu.pk/"
+  ]
+]

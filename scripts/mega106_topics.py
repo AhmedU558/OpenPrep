@@ -1,0 +1,2410 @@
+# Auto-generated Mega-Batch 106 topics (NLE 100, MRCEM 100, SMLE 100)
+
+NLE_TOPICS = [
+  [
+    "Stable Angina Pectoris Sublingual GTN Aspirin Atorvastatin Beta-Blocker Lifestyle Counseling",
+    "Medicine",
+    "Cardiovascular",
+    "performing exercise ECG or stress echo before invasive angiography in typical exertional angina",
+    "PMDC NLE Cardiology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Atrial Flutter Sawtooth Waves Carotid Sinus Massage Rate Control Radiofrequency Ablation",
+    "Medicine",
+    "Cardiovascular",
+    "providing high curative success via cavotricuspid isthmus catheter ablation plus stroke anticoagulation",
+    "NLE Arrhythmia Care",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Infective Endocarditis IV Drug User Tricuspid Staph Aureus Septic Pulmonary Emboli Vancomycin",
+    "Microbiology",
+    "Cardiovascular",
+    "suspicion of right-sided tricuspid vegetation when recurrent cavitary lung nodules accompany bacteremia",
+    "PMDC Infectious Cardiology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Dilated Cardiomyopathy Alcohol Abstinence Peripartum Viral GDMT ICD Ejection Fraction <= 35%",
+    "Medicine",
+    "Cardiovascular",
+    "counseling complete alcohol cessation alongside guideline-directed quadruple heart failure therapy",
+    "NLE Cardiology Blueprint",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Thoracic Aortic Aneurysm Descending Tear Severe Back Pain BP Control Nicardipine Beta-Blocker",
+    "Medicine",
+    "Cardiovascular",
+    "achieving heart rate < 60 bpm and SBP 100-120 mmHg rapidly prior to endovascular TEVAR review",
+    "PMDC Acute Vascular",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bronchial Asthma Step-Up Inhaled Budesonide Formoterol Technique Spacer Device Review",
+    "Medicine",
+    "Respiratory",
+    "verifying metered-dose inhaler technique and adherence before escalating systemic steroids",
+    "NLE Respiratory Guide",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Hospital-Acquired Pneumonia Late Onset > 5 Days Antipseudomonal Cefepime Piperacillin MRSA Cover",
+    "Microbiology",
+    "Respiratory",
+    "narrowing empiric broad antibiotics promptly at 48-72h guided by respiratory culture results",
+    "PMDC Hospital Infections",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pleural Effusion Transudate Heart Failure Nephrotic Cirrhosis Diuretics Treating Cause",
+    "Medicine",
+    "Respiratory",
+    "avoiding repeated unnecessary chest tube drainage in uncomplicated bilateral transudative CHF effusions",
+    "NLE Pulmonology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pulmonary Tuberculosis Multidrug-Resistant Non-Adherence GeneXpert Rifampicin Resistance Test",
+    "Microbiology",
+    "Respiratory",
+    "performing rapid molecular GeneXpert MTB/RIF on every presumptive TB sputum sample first",
+    "NTP Pakistan TB Guide",
+    "https://ntp.gov.pk/"
+  ],
+  [
+    "Diabetic Hyperglycemic Hyperosmolar State Elderly UTI Trigger Slow Insulin Electrolyte Balance",
+    "Medicine",
+    "Endocrine",
+    "searching actively for precipitating pneumonia, sepsis, or silent myocardial infarction alongside fluids",
+    "PMDC Endocrine Emergencies",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Hypothyroidism Myxedema Coma Hypothermia Bradycardia IV Levothyroxine Hydrocortisone Cover",
+    "Medicine",
+    "Endocrine",
+    "administering IV hydrocortisone concurrently with IV levothyroxine until adrenal insufficiency excluded",
+    "NLE ICU Endocrinology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Primary Hyperaldosteronism Hypokalemia Hypertension Renin-Aldosterone Ratio Screening",
+    "Medicine",
+    "Endocrine",
+    "withholding spironolactone and eplerenone 4 weeks before plasma aldosterone-renin ratio testing",
+    "PMDC Endocrine Hypertension",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acromegaly Visual Field Bitemporal Hemianopia Enlarged Jaw Hands Octreotide Transsphenoidal",
+    "Medicine",
+    "Endocrine",
+    "monitoring obstructive sleep apnea, cardiomyopathy, and colonoscopy screening in acromegalic adults",
+    "NLE Pituitary Disorders",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Peptic Ulcer Perforation H. Pylori NSAID Discontinuation Triple Eradication Follow-Up",
+    "Medicine",
+    "Gastrointestinal",
+    "testing stool antigen or urea breath test >= 4 weeks post-therapy confirming ulcer eradication",
+    "PMDC Gastroenterology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Hepatitis B Supportive Care Avoiding Unnecessary Antivirals Unless Fulminant Failure",
+    "Medicine",
+    "Gastrointestinal",
+    "starting tenofovir/entecavir immediately only if acute hepatitis B causes INR >= 1.5 coagulopathy",
+    "NLE Hepatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Spontaneous Bacterial Peritonitis Cefotaxime IV Albumin 1.5 g/kg Day 1 1.0 g/kg Day 3",
+    "Medicine",
+    "Gastrointestinal",
+    "adding weight-based IV albumin markedly lowering hepatorenal AKI and in-hospital mortality",
+    "PMDC Liver Emergencies",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Gallstone Pancreatitis Elevated ALT > 3x Normal Early Cholecystectomy Same Hospitalization",
+    "Surgery",
+    "Gastrointestinal",
+    "performing index cholecystectomy before discharge in mild biliary pancreatitis avoiding 30% relapse",
+    "NLE General Surgery",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pre-Renal Azotemia BUN/Cr > 20 Urine Sodium < 20 FeNa < 1% Isotonic Crystalloid Response",
+    "Medicine",
+    "Renal",
+    "interpreting fractional excretion of urea < 35% reliably when prior loop diuretics distort FeNa",
+    "PMDC Nephrology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Nephritic Versus Nephrotic Syndrome Red Cell Casts Hypertension Versus Heavy Proteinuria Lipiduria",
+    "Medicine",
+    "Renal",
+    "performing early kidney biopsy in unexplained adult nephrotic syndrome excluding membranous/FSGS",
+    "NLE Renal Diagnosis",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Rhabdomyolysis Crush Injury CK > 5000 Dark Urine No RBCs Aggressive Normal Saline Flush",
+    "Medicine",
+    "Renal",
+    "monitoring serum potassium and hypocalcemia closely while forcing 200-300 mL/hr urine flow",
+    "PMDC Acute Kidney Injury",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Iron Deficiency Anemia Pica Spoon Nails Koilonychia Reticulocyte Rise Day 7 Oral Ferrous",
+    "Medicine",
+    "Hematology",
+    "continuing oral elemental iron 3-6 months after hemoglobin normalizes to replenish ferritin stores",
+    "NLE Hematology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Myeloid Leukemia Auer Rods Hyperleukocytosis Leukapheresis Cytarabine Daunorubicin",
+    "Medicine",
+    "Hematology",
+    "treating symptomatic leukostasis pulmonary hypoxia immediately via hydroxyurea/leukapheresis hydration",
+    "PMDC Hematology Onco",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Disseminated Intravascular Coagulation Sepsis Abruption Low Fibrinogen High D-Dimer Treat Cause",
+    "Medicine",
+    "Hematology",
+    "giving cryoprecipitate when bleeding DIC presents with fibrinogen < 100 mg/dL alongside underlying cure",
+    "NLE Coagulation Emergency",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Gout Acute Podagra Indomethacin Colchicine Prednisolone Avoiding Starting Allopurinol Acutely",
+    "Medicine",
+    "Musculoskeletal",
+    "starting urate-lowering therapy weeks after flare resolves or continuing chronic allopurinol uninterrupted",
+    "PMDC Rheumatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Osteomyelitis Vertebral Staphylococcus Back Pain Fever MRI Whole Spine IV Vancomycin",
+    "Medicine",
+    "Musculoskeletal",
+    "obtaining blood cultures and CT-guided bone biopsy before starting empiric antibiotics in stable hosts",
+    "NLE Infectious Spine",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Rheumatoid Arthritis Cervical Atlantoaxial Subluxation Pre-Operative Neck Flexion X-Ray",
+    "Medicine",
+    "Musculoskeletal",
+    "screening atlantoaxial stability prior to elective endotracheal intubation in longstanding RA",
+    "PMDC Rheumatology Safety",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Typhoid Mary Chronic Gallbladder Carrier Oral Ciprofloxacin Or Cholecystectomy",
+    "Microbiology",
+    "Gastrointestinal",
+    "eradicating asymptomatic hepatobiliary S. Typhi carriage via prolonged fluoroquinolone or cholecystectomy",
+    "PMDC Enteric Control",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Brucellosis Undulant Fever Endemic Dairy Worker Rose Bengal Wright Agglutination Doxycycline",
+    "Microbiology",
+    "Musculoskeletal",
+    "combining doxycycline 6 weeks with streptomycin/gentamicin reducing spondylitis relapse risk",
+    "NLE Zoonotic Diseases",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Cholera Acute Profuse Rice-Water Diarrhea Severe Dehydration Oral Ringers Lactate Doxycycline",
+    "Microbiology",
+    "Gastrointestinal",
+    "prioritizing aggressive isotonic fluid deficit replacement within 3-4h above antibiotic therapy",
+    "WHO / NIH Cholera Guide",
+    "https://www.nih.org.pk/"
+  ],
+  [
+    "Visceral Leishmaniasis Northern Areas Pakistan Liposomal Amphotericin Pentavalent Antimonial",
+    "Microbiology",
+    "Hematology",
+    "monitoring ECG QTc arrhythmias closely whenever older sodium stibogluconate antimonials are used",
+    "NLE Parasitic Medicine",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Subacute Combined Degeneration Spinal Cord Dorsal Columns Lateral Corticospinal B12 Parenteral",
+    "Neurology",
+    "Hematology",
+    "giving IM hydroxocobalamin rather than isolated folic acid that masks anemia while worsening cord damage",
+    "PMDC Neuro-Hematology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Migraine With Aura Acute Sumatriptan Contraindicated Coronary Heart Disease Hemiplegic",
+    "Neurology",
+    "Nervous System",
+    "avoiding vasoconstrictive triptans in basilar/hemiplegic migraine, stroke history, or ischemic heart",
+    "NLE Neurology Pharmacology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Trigeminal Neuralgia Idiopathic Versus Young MS Patient MRI Carbamazepine Pain Control",
+    "Neurology",
+    "Nervous System",
+    "performing brain MRI in trigeminal neuralgia under age 40 or bilateral symptoms ruling out MS plaque",
+    "PMDC Headache & Pain",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Cluster Seizures Acute Alcohol Withdrawal Lorazepam IV Avoidance Long-Term Phenytoin",
+    "Neurology",
+    "Behavioral Health",
+    "treating alcohol withdrawal seizures acutely with benzodiazepines rather than chronic antiepileptics",
+    "NLE Emergency Neurology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Wernicke Korsakoff Confusion Ophthalmoplegia Ataxia IV Thiamine 500 mg Three Times Daily",
+    "Neurology",
+    "Nervous System",
+    "delivering high-dose parenteral thiamine before intravenous dextrose administration unconditionally",
+    "PMDC Nutritional Neuro",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Scabies Classic Burrow Webspace Nocturnal Pruritus Permethrin Neck-to-Toe Oral Ivermectin",
+    "Medicine",
+    "Dermatology",
+    "counseling post-scabetic itching continues 2-4 weeks despite successful mite eradication",
+    "NLE Dermatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Tinea Capitis Child Boggy Kerion Scaling Oral Griseofulvin Terbinafine Selenium Shampoo",
+    "Pediatrics",
+    "Dermatology",
+    "using systemic oral antifungal rather than ineffective topical creams to penetrate infected hair shafts",
+    "PMDC Pediatric Derm",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Herpes Simplex Encephalitis High-Dose Aciclovir Hydrate Preventing Renal Crystal Nephropathy",
+    "Microbiology",
+    "Renal",
+    "maintaining robust intravenous hydration alongside acyclovir preventing intratubular crystal AKI",
+    "NLE Renal Safety",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Generalized Exanthematous Pustulosis Amoxicillin Pinpoint Pustules Steroid Stop Drug",
+    "Pharmacology",
+    "Dermatology",
+    "distinguishing acute sterile drug pustulosis resolving rapidly on cessation from bacterial sepsis",
+    "PMDC Adverse Reactions",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Stevens-Johnson Syndrome Sulfamethoxazole Allopurinol Anticonvulsant Ophthalmic Lubrication",
+    "Medicine",
+    "Dermatology",
+    "obtaining daily ophthalmology exams preventing symblepharon corneal scarring blindness",
+    "NLE Dermatology Emergency",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Cholecystitis Murphy Sign Thickened Wall Pericholecystic Fluid Laparoscopic Early",
+    "Surgery",
+    "Gastrointestinal",
+    "recognizing emphysematous cholecystitis diabetic gas wall requires emergent surgical/antibiotic control",
+    "PMDC Acute Abdomen",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Meckel Diverticulum Rule of 2s Painless Melena Child Tc-99m Pertechnetate Scan Wedge Resection",
+    "Surgery",
+    "Gastrointestinal",
+    "ordering technetium-99m Meckel scan detecting ectopic gastric acid-secreting mucosa preoperatively",
+    "NLE Pediatric Surgery",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Psoas Abscess Tuberculous Cold Spine Fluctuant Groin Percutaneous Drainage RIPE Therapy",
+    "Surgery",
+    "Musculoskeletal",
+    "confirming vertebral Pott source via MRI spine rather than draining inguinal swelling blindly alone",
+    "PMDC Orthopedic/GI",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Mesenteric Lymphadenitis Recent URI Right Iliac Pain Mimicking Appendicitis Supportive Care",
+    "Surgery",
+    "Gastrointestinal",
+    "differentiating self-limiting viral mesenteric adenitis by ultrasound normal appendix preservation",
+    "NLE Surgical Diagnosis",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Breast Abscess Lactational Fluctuant Needle Aspiration Repeated Or Incision Continuing Feeds",
+    "Surgery",
+    "Pregnancy",
+    "preferring ultrasound-guided needle aspiration over open incision preserving lactation cosmetic integrity",
+    "PMDC Breast Surgery",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Thyroid Nodule Hot Autonomous Hyperfunctioning Low Risk Malignancy Radioiodine Ablation",
+    "Surgery",
+    "Endocrine",
+    "omitting FNA biopsy on hot hyperfunctioning thyroid adenoma due to exceedingly low malignancy rate",
+    "NLE Endocrine Surgery",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Subcutaneous Emphysema Massive Pneumomediastinum Tracheobronchial Tear Bronchoscopy Repair",
+    "Surgery",
+    "Respiratory",
+    "performing bronchoscopy urgently when persistent massive air leak continues after tube thoracostomy",
+    "PMDC Thoracic Trauma",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Compartment Syndrome Forearm Volkmann Ischemic Contracture Supracondylar Immediate Fasciotomy",
+    "Surgery",
+    "Musculoskeletal",
+    "removing tight circular plaster cast down to skin padding first before surgical decompression",
+    "NLE Fracture Complications",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Posterior Hip Dislocation Dashboard Injury Shortened Adducted Internally Rotated Sciatic Check",
+    "Surgery",
+    "Musculoskeletal",
+    "reducing hip emergently under sedation within 6 hours to prevent femoral head osteonecrosis",
+    "PMDC Orthopedic Trauma",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Ankle Sprain Ottawa Rules Malleolar Tenderness Unable Bear Weight 4 Steps Radiograph Trigger",
+    "Surgery",
+    "Musculoskeletal",
+    "applying Ottawa Ankle Rules accurately sparing unnecessary X-rays in benign ligament sprains",
+    "NLE Emergency Ortho",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Prostate Specific Antigen Interpretation Urinary Tract Infection Prostatitis Catheter Delay",
+    "Surgery",
+    "Renal",
+    "deferring serum PSA screening for 6 weeks following acute urinary infection or instrumentation",
+    "PMDC Urology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Fournier Gangrene Diabetic Scrotal Swelling Subcutaneous Crepitus Emergent Debridement",
+    "Surgery",
+    "Renal",
+    "performing rapid broad-spectrum coverage plus extensive necrotic fascial excision saving life",
+    "NLE Urological Emergency",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Varicocele Adolescent Grade III Testicular Growth Asymmetry Microsurgical Ligation Indication",
+    "Surgery",
+    "Renal",
+    "operating selectively when ipsilateral testicular hypotrophy > 20% volume gap develops",
+    "PMDC Adolescent Urology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Retropharyngeal Abscess Child Fever Neck Hyperextension Wide Prevertebral Shadow IV Drainage",
+    "Surgery",
+    "Respiratory",
+    "securing airway cautiously and draining fluctuant abscess transorally with broad anaerobic cover",
+    "NLE ENT Pediatric",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Orbital Blowout Fracture Floor Trapdoor Inferior Rectus Diplopia Upward Gaze Enophthalmos",
+    "Surgery",
+    "Nervous System",
+    "releasing entrapped pediatric white-eyed trapdoor muscle urgently within 24-48h preserving motility",
+    "PMDC Maxillofacial ENT",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Chemical Alkali Eye Burn Immediate Copious Tap Water Saline Irrigation 30 Min Check pH",
+    "Surgery",
+    "Nervous System",
+    "irrigating continuously immediately on arrival before visual acuity chart or slit-lamp delay",
+    "NLE Ophthalmic Emergency",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Diabetic Ketoacidosis Pregnancy Lower Glucose Threshold Rapid Fetal Distress Monitoring",
+    "Obstetrics",
+    "Pregnancy",
+    "recognizing euglycemic DKA occurs at lower glucose in gestation requiring IV fluids + insulin + K",
+    "PMDC Obstetric Medicine",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Ectopic Pregnancy Methotrexate Follow-Up Day 4 Day 7 Quantitative hCG >= 15% Drop Check",
+    "Obstetrics",
+    "Pregnancy",
+    "expecting transient hCG rise between days 1-4 before requiring > 15% fall from day 4 to day 7",
+    "NLE Early Pregnancy",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Placenta Previa Conservative Inpatient Tocolysis Steroids Elective Cesarean 36-37 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "administering antenatal betamethasone between 24-34 weeks anticipating potential preterm hemorrhage",
+    "PMDC Obstetrics Ward",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Puerperal Sepsis Group A Streptococcus Endometritis Necrotizing Myometritis Broad IV Cover",
+    "Obstetrics",
+    "Pregnancy",
+    "isolating invasive GAS rapidly and treating with clindamycin + piperacillin-tazobactam ICU",
+    "NLE Maternal Safety",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Shoulder Dystocia Post-Procedure Erb Palsy Maternal Third-Degree Tear Neonatal Clavicle Check",
+    "Obstetrics",
+    "Pregnancy",
+    "inspecting anal sphincter integrity and checking newborn Moro reflex post-dystocia delivery",
+    "PMDC Labor Complications",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Gestational Trophoblastic Partial Mole Triploid 69,XXY Fetal Parts Present Suction Curettage",
+    "Obstetrics",
+    "Pregnancy",
+    "continuing weekly beta-hCG surveillance following evacuation just as in complete hydatidiform mole",
+    "NLE Gynecologic Path",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Fibroid Degeneration Red Necrosis Pregnancy Acute Focal Tenderness Fever Conservative Analgesia",
+    "Obstetrics",
+    "Pregnancy",
+    "managing painful fibroid red degeneration conservatively with rest and analgesia avoiding myomectomy",
+    "PMDC Antenatal Gyn",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bacterial Vaginosis Versus Trichomoniasis Strawberry Cervix Green Frothy Wet Mount Metronidazole",
+    "Obstetrics",
+    "Pregnancy",
+    "treating sexual partner concurrently in Trichomonas vaginalis to prevent immediate reinfection",
+    "NLE STI Gynecology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Postmenopausal Ovarian Mass Risk Assessment Ultrasound CA-125 Laparotomy Staging Oncology",
+    "Obstetrics",
+    "General Principles",
+    "referring elevated RMI postmenopausal complex adnexal cysts to gynecologic oncology center",
+    "PMDC Oncology Screening",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Pelvic Inflammatory Disease Inpatient Criteria Tubo-Ovarian Abscess Pregnancy IV",
+    "Obstetrics",
+    "Pregnancy",
+    "admitting pregnant, failed-outpatient, severe vomiting, or TOA patients for parenteral cefoxitin/doxy",
+    "NLE Gynecology ID",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Neonatal Sepsis Late-Onset > 72h Staph Epidermidis Gram Negatives Vancomycin Gentamicin",
+    "Pediatrics",
+    "General Principles",
+    "evaluating central catheter lines and CSF lumbar puncture before tailoring targeted antibiotics",
+    "PMDC Neonatology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Congenital Diaphragmatic Hernia Survival Gentle Ventilation Permissive Hypercapnia Surgery Delay",
+    "Pediatrics",
+    "Respiratory",
+    "stabilizing pulmonary hypertension medically before delayed operative diaphragmatic repair",
+    "NLE NICU Care",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Bronchiolitis Apnea Premature Infant < 6 Weeks Hospital Monitoring High-Flow Humidified",
+    "Pediatrics",
+    "Respiratory",
+    "admitting infants under 3 months or ex-preterm proactively due to sudden viral apnea risk",
+    "PMDC Pediatric Ward",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Rheumatic Fever Sydenham Chorea Emotional Lability Haloperidol Valproate Penicillin",
+    "Pediatrics",
+    "Nervous System",
+    "starting secondary benzathine penicillin prophylaxis even when isolated chorea appears late",
+    "NLE Pediatric Cardiology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Pediatric Hypertension Secondary Renal Parenchymal Coarctation BP Cuff Sizing Child",
+    "Pediatrics",
+    "Renal",
+    "verifying upper and lower extremity blood pressures with renal ultrasound in hypertensive children",
+    "PMDC Pediatric Nephrology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Henoch-Schonlein Severe Abdominal GI Vasculitis Intussusception Prednisolone Symptomatic",
+    "Pediatrics",
+    "Gastrointestinal",
+    "obtaining abdominal ultrasound immediately in severe cramping HSP pain ruling out ileoileal intussusception",
+    "NLE Pediatric Rheum",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Galactosemia Jaundice Cataracts E. Coli Neonatal Sepsis Reducing Substances Stop Breastmilk",
+    "Pediatrics",
+    "Endocrine",
+    "switching urgently from human milk/lactose formula to soy-based formula preventing liver failure",
+    "PMDC Metabolic Pediatrics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Iron Deficiency Toddler Excessive Whole Cow Milk > 24 oz/Day Dietary Change Oral Drops",
+    "Pediatrics",
+    "Hematology",
+    "limiting cow milk below 16 oz daily after age 1 and adding iron-rich solid foods alongside ferrous",
+    "NLE Well-Child Clinic",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Epstein-Barr Splenomegaly Contact Sports Avoidance Lymphocytosis Atypical T Cells Steroids Airway",
+    "Pediatrics",
+    "Hematology",
+    "giving short corticosteroid rescue only for severe tonsillar airway obstruction or autoimmune cytopenia",
+    "PMDC Adolescent ID",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Measles Encephalitis Pneumonia Subacute Complication Airborne Isolation Vitamin A Prophylaxis",
+    "Pediatrics",
+    "Nervous System",
+    "offering MMR post-exposure within 72h or immunoglobulin within 6 days for susceptible contacts",
+    "NLE Public Health Peds",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Panic Disorder Recurrent Unexpected Attacks Breathing Retraining CBT SSRI Avoidance Benzodiazepine",
+    "Psychiatry",
+    "Behavioral Health",
+    "ruling out hyperthyroidism, pheochromocytoma, and arrhythmia cleanly before initiating SSRI + CBT",
+    "PMDC Psychiatry",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Lithium Toxicity Chronic Vomiting Dehydration Tremor Ataxia Stop Lithium Saline Infusion",
+    "Psychiatry",
+    "Renal",
+    "correcting sodium/volume deficit with normal saline restoring renal lithium clearance steadily",
+    "NLE Psychopharmacology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Factitious Disorder Munchausen Falsifying Symptoms Primary Emotional Sick Role Care",
+    "Psychiatry",
+    "Behavioral Health",
+    "distinguishing internal psychological sick-role need from external financial/legal malingering gain",
+    "PMDC Behavioral Science",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Acute Stress Disorder < 1 Month Post-Trauma Supportive Trauma CBT Avoiding Benzodiazepine",
+    "Psychiatry",
+    "Behavioral Health",
+    "diagnosing PTSD only when intrusive/avoidant symptoms persist beyond 1 full month post-event",
+    "NLE Mental Health",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Oppositional Defiant Disorder Behavioral Parent Management Training Distinguishing Conduct",
+    "Psychiatry",
+    "Behavioral Health",
+    "differentiating ODD defiant irritability from severe Conduct Disorder violation of rights/aggression",
+    "PMDC Child Psychiatry",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Elderly Urinary Incontinence Overflow Diabetic Retention Alpha-Blocker Self-Catheterization",
+    "Geriatrics",
+    "Renal",
+    "measuring post-void residual volume via bladder scan before prescribing anticholinergics",
+    "PMDC Geriatrics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Elder Abuse Neglect Unexplained Bruising Malnutrition Dehydration Safe Private Inquiry Report",
+    "Geriatrics",
+    "General Principles",
+    "interviewing older dependent patient privately alongside multidisciplinary social protection review",
+    "NLE Geriatric Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Osteoporotic Vertebral Compression Fracture Sudden Back Pain Conservative Mobilization Brace",
+    "Geriatrics",
+    "Musculoskeletal",
+    "initiating calcitonin/analgesia plus bisphosphonate/denosumab osteoprotection early post-fracture",
+    "PMDC Bone Health",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Patient Autonomy Surrogate Substitute Decision Best Interests Unconscious Emergency Care",
+    "Ethics",
+    "General Principles",
+    "treating life-threatening emergency immediately under implied consent when no valid refusal exists",
+    "PMDC Code of Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Confidentiality Breach Exceptions Statutory Infectious Reporting Court Subpoena Child Harm",
+    "Ethics",
+    "General Principles",
+    "disclosing minimum necessary medical facts strictly to authorized legal/child protection officials",
+    "NLE Medical Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Informed Consent Surgical Procedure Language Interpreter Comprehension Documentation Capacity",
+    "Ethics",
+    "General Principles",
+    "utilizing certified medical interpreter rather than minor family member for high-stakes surgical consent",
+    "PMDC Clinical Ethics",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Medical Record Ownership Patient Right Copies Confidentiality Alteration Prohibition Integrity",
+    "Ethics",
+    "General Principles",
+    "appending dated transparent addendum rather than erasing or altering original contemporaneous notes",
+    "NLE Professionalism",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Maternal Mortality Rate Formula Pregnancy Deaths Per 100,000 Live Births Direct Indirect",
+    "Biostatistics",
+    "Pregnancy",
+    "separating direct obstetric hemorrhage/eclampsia deaths from indirect heart disease exacerbation",
+    "PMDC Community Health",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Infant Mortality Rate Neonatal Post-Neonatal Indicator Socioeconomic Primary Care Sensitive",
+    "Biostatistics",
+    "General Principles",
+    "calculating deaths under 1 year per 1,000 live births within same calendar year cleanly",
+    "NLE Public Health Stats",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Sensitivity Outweighs Specificity Screening High Burden Curable Early Stage Disease",
+    "Biostatistics",
+    "General Principles",
+    "confirming positive high-sensitivity initial screen via high-specificity secondary diagnostic test",
+    "PMDC Screening Criteria",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Recall Bias Retrospective Case-Control Study Mothers Congenital Malformation Blinding",
+    "Biostatistics",
+    "General Principles",
+    "using prospective cohorts or objective medical pharmacy records eliminating differential recall distortion",
+    "NLE Epidemiology Bias",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Confidence Interval 95% Null Hypothesis Value 1.0 Odds Ratio Relative Risk Zero Difference",
+    "Biostatistics",
+    "General Principles",
+    "concluding statistical non-significance at alpha 0.05 whenever ratio 95% CI spans 1.0",
+    "PMDC Research Stats",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Organophosphate Poisoning Respiratory Muscle Paralysis Intermediate Syndrome ICU Ventilation",
+    "Pharmacology",
+    "Nervous System",
+    "monitoring airway ventilation 24-96h post-cholinergic crisis recovery for nicotinic neck/diaphragm weakness",
+    "NLE Toxicology Care",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Carbon Monoxide Charcoal Heater Winter Pakistan Family Poisoning Headache Hyperbaric Care",
+    "Pharmacology",
+    "Respiratory",
+    "considering hyperbaric oxygen for pregnant women, loss of consciousness, or carboxyhemoglobin > 25%",
+    "PMDC Winter Toxicology",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Snakebite Polyvalent Antivenom Anaphylaxis Test Dose Obsolete Pre-Treat Standby Epinephrine",
+    "Pharmacology",
+    "General Principles",
+    "omitting unreliable intradermal skin test dose and keeping IM epinephrine ready during infusion",
+    "WHO / NLE Snakebite",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Iron Overdose Child Deferoxamine Chelation Vin-Rose Urine Whole Bowel Irrigation Radiology",
+    "Pharmacology",
+    "Gastrointestinal",
+    "obtaining abdominal radiograph checking radiopaque ferrous tablets and starting IV deferoxamine",
+    "PMDC Pediatric Tox",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Phenylketonuria Guthrie Heel Prick Phenylalanine Hydroxylase Restrictive Diet BH4 Cofactor",
+    "Biochemistry",
+    "Nervous System",
+    "screening newborn after establishing milk protein intake preventing irreversible intellectual disability",
+    "NLE Genetic Screening",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Cystinuria Autosomal Recessive Hexagonal Crystals Sodium Nitroprusside Hydration Alkalinize",
+    "Biochemistry",
+    "Renal",
+    "promoting high fluid > 3 L/day and urinary alkalinization citrate preventing recurrent staghorn stones",
+    "PMDC Renal Biochem",
+    "https://www.pmdc.pk/"
+  ],
+  [
+    "Dorsal Column Medial Lemniscus Vibration Proprioception Romberg Positivity Cerebellar Distinction",
+    "Anatomy",
+    "Nervous System",
+    "confirming sensory ataxia worsens dramatically with eyes closed unlike persistent cerebellar ataxia",
+    "NLE Neuroanatomy",
+    "https://www.pmdc.pk/"
+  ]
+]
+
+MRCEM_TOPICS = [
+  [
+    "Resuscitation Council UK Adult ALS Shockable VF/pVT Amiodarone 300 mg After Third Shock",
+    "Medicine",
+    "Cardiovascular",
+    "minimizing peri-shock chest compression pauses < 5 seconds while delivering 300 mg IV amiodarone",
+    "RCUK ALS 2021",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "ALS Non-Shockable PEA Asystole Epinephrine 1 mg Immediate 4Hs 4Ts Reversible Causes",
+    "Medicine",
+    "Cardiovascular",
+    "performing focused bedside ultrasound checking tamponade, tension pneumothorax, and massive PE",
+    "RCUK Reversible Causes",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Post-ROSC Care Targeted Temperature Control Normothermia <= 37.5 C Avoiding Hyperthermia",
+    "Medicine",
+    "Cardiovascular",
+    "preventing fever actively above 37.5 C while securing coronary angiography if STEMI/shock",
+    "RCEM Post-Arrest Care",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Bradycardia Adverse Signs Atropine 500 mcg Repeating Up To 3 mg Transcutaneous Pacing",
+    "Medicine",
+    "Cardiovascular",
+    "escalating promptly to isoprenaline/epinephrine infusion or external pacing when atropine fails",
+    "RCUK Bradycardia Algorithm",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Narrow Complex Regular Tachycardia Vagal Valsalva Modified Leg Raise Adenosine 6 12 18 mg",
+    "Medicine",
+    "Cardiovascular",
+    "using modified postural Valsalva 15s strain followed by supine leg elevation boosting SVT conversion",
+    "RCEM SVT Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Atrial Fibrillation Pre-Excited WPW Irregular Broad Avoid AV Nodal Blockers Procainamide DC",
+    "Medicine",
+    "Cardiovascular",
+    "prohibiting adenosine, verapamil, digoxin, and beta-blockers strictly in rapid AF via accessory pathway",
+    "RCUK Broad Tachycardia",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Massive Pulmonary Embolism Cardiac Arrest Thrombolysis Alteplase 50 mg CPR Continuation 60-90m",
+    "Medicine",
+    "Respiratory",
+    "continuing prolonged CPR at least 60-90 minutes after administering fibrinolysis in suspected PE arrest",
+    "RCUK Special Circumstances",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Acute Aortic Dissection Emergency Unilateral Pulse Deficit Widened Mediastinum CT Angiogram",
+    "Medicine",
+    "Cardiovascular",
+    "initiating IV labetalol or esmolol targeting HR < 60 and SBP 100-120 prior to vascular transfer",
+    "RCEM Acute Aorta",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pneumothorax Primary Spontaneous Needle Aspiration 2nd ICS Midclavicular Versus Ambulatory",
+    "Surgery",
+    "Respiratory",
+    "selecting conservative or ambulatory Heimlich valve care in stable mildly symptomatic young adults",
+    "BTS/RCEM Pleural 2023",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Asthma Life-Threatening Near-Fatal PEFR < 33% Silent Chest IV Magnesium Sulfate 2 g 20 Min",
+    "Medicine",
+    "Respiratory",
+    "administering oxygen-driven salbutamol/ipratropium, IV hydrocortisone, and magnesium sulfate early",
+    "BTS/SIGN Acute Asthma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Anaphylaxis Refractory Epinephrine Infusion Persistent Shock Airway Stridor Fluid Bolus",
+    "Immunology",
+    "Respiratory",
+    "starting low-dose peripheral IV epinephrine infusion promptly if two IM doses fail to restore BP",
+    "RCUK Anaphylaxis 2021",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Drowning Resuscitation Five Initial Rescue Breaths Hypoxia Reversal Warm Gentle Handling",
+    "Medicine",
+    "Respiratory",
+    "delivering 5 rescue breaths first before chest compressions because drowning arrest is hypoxic",
+    "RCUK Drowning Protocol",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Accidental Hypothermia Swiss Staging Mild Shivering Severe < 28 C Ventricular Fibrillation",
+    "Medicine",
+    "Cardiovascular",
+    "withholding amiodarone and limiting defibrillation shocks to 3 below 30 C until rewarmed",
+    "RCUK Hypothermia ALS",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Hyperkalemia Life-Threatening CaCl2 Membrane Stabilization Insulin 10 Units Dextrose 25 g",
+    "Medicine",
+    "Renal",
+    "protecting myocardium immediately with 10 mL 10% IV calcium chloride or 30 mL calcium gluconate",
+    "UKKA Hyperkalemia 2023",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "DKA Joint British Diabetes Societies Fixed Rate Insulin 0.1 U/kg/hr Continue Long-Acting Basal",
+    "Medicine",
+    "Endocrine",
+    "continuing patient's usual subcutaneous basal insulin glargine alongside fixed-rate IV insulin",
+    "JBDS DKA Emergency",
+    "https://abcd.care/"
+  ],
+  [
+    "Toxic Alcohol Ethylene Glycol Metabolic Acidosis Calcium Oxalate Oral/IV Fomepizole Ethanol",
+    "Pharmacology",
+    "Renal",
+    "giving fomepizole immediately suppressing alcohol dehydrogenase formation of toxic glycolic/oxalic acids",
+    "NPIS / RCEM Toxicology",
+    "https://www.npis.org/"
+  ],
+  [
+    "Cyanide Smoke Inhalation House Fire Elevated Lactate > 10 Hydroxocobalamin Cyanokit Antidote",
+    "Pharmacology",
+    "Respiratory",
+    "administering IV hydroxocobalamin 5 g empirically in enclosed-space fire victims with severe lactic acidosis",
+    "NPIS Fire Cyanide",
+    "https://www.npis.org/"
+  ],
+  [
+    "Tricyclic Antidepressant Overdose QRS > 100 ms Rightward Axis IV Sodium Bicarbonate",
+    "Pharmacology",
+    "Cardiovascular",
+    "bolusing 50 mEq 8.4% sodium bicarbonate repeatedly targeting QRS narrowing and serum pH 7.50-7.55",
+    "RCEM Toxicology ECG",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Calcium Channel Blocker Amlodipine Overdose Vasoplegia High-Dose Insulin Dextrose Norepinephrine",
+    "Pharmacology",
+    "Cardiovascular",
+    "escalating high-dose insulin up to 1-10 units/kg/hr with dextrose monitoring and early pressors",
+    "NPIS CCB Toxicity",
+    "https://www.npis.org/"
+  ],
+  [
+    "Digoxin Massive Acute Toxicity Fab Antibody Fragments Hyperkalemia > 5.0 Ventricular Block",
+    "Pharmacology",
+    "Cardiovascular",
+    "avoiding IV calcium in suspected digoxin toxicity traditionally while prioritizing Digibind Fab dosing",
+    "TOXBASE / RCEM Digoxin",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Local Anesthetic Systemic Toxicity Perioral Tingling Seizures 20% Lipid Emulsion Intralipid",
+    "Pharmacology",
+    "Nervous System",
+    "infusing 1.5 mL/kg 20% Intralipid bolus immediately alongside avoiding propofol and lidocaine",
+    "AAGBI LAST Safety",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Methemoglobinemia Benzocaine Nitrites Chocolate Blood SpO2 85% Refractory Methylene Blue",
+    "Pharmacology",
+    "Hematology",
+    "administering 1-2 mg/kg IV methylene blue while checking G6PD deficiency risk of hemolysis",
+    "NPIS Methemoglobinemia",
+    "https://www.npis.org/"
+  ],
+  [
+    "Major Trauma Bleeding Tranexamic Acid CRASH-2 1 g Within 3 Hours Pelvic Binder Massive Pack",
+    "Surgery",
+    "Hematology",
+    "never giving tranexamic acid beyond 3 hours post-trauma injury where hemorrhage mortality rises",
+    "NICE NG39 Major Trauma",
+    "https://www.nice.org.uk/guidance/ng39"
+  ],
+  [
+    "Open Book Pelvic Ring Fracture Hemodynamic Shock Immediate Greater Trochanter Binder Placement",
+    "Surgery",
+    "Musculoskeletal",
+    "positioning pelvic binder centered directly over greater trochanters before aggressive log-rolling",
+    "RCEM Trauma Pelvic",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Cervical Spine Clearance Canadian C-Spine Rule NEXUS Alert Stable GCS 15 Midline Pain",
+    "Surgery",
+    "Nervous System",
+    "avoiding risky active neck rotation testing unless all dangerous mechanism and low-risk steps clear",
+    "NICE NG41 Spinal Injury",
+    "https://www.nice.org.uk/guidance/ng41"
+  ],
+  [
+    "Head Injury NICE NG232 CT Within 1 Hour GCS < 13 Anticoagulant Bleed Reversal Immediate",
+    "Surgery",
+    "Nervous System",
+    "performing non-contrast head CT urgently within 1h for anticoagulated head trauma even with GCS 15",
+    "NICE NG232 Head Injury",
+    "https://www.nice.org.uk/guidance/ng232"
+  ],
+  [
+    "Concussion Return to Play Graduated Stepwise Rest 24-48h Cognitive/Physical Symptom Guided",
+    "Neurology",
+    "Nervous System",
+    "mandating immediate removal from play and structured medical clearance before contact sport return",
+    "UK Concussion Sport 2023",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Burn Depth Superficial Partial Full Thickness Escharotomy Circumferential Chest Extremity",
+    "Surgery",
+    "Dermatology",
+    "performing emergency lateral chest/limb escharotomies when tight full-thickness eschar restricts breathing/pulse",
+    "BBA Burn Guidelines",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "High-Pressure Paint Grease Injection Injury Innocent Pinhole Immediate Hand Surgical Debride",
+    "Surgery",
+    "Musculoskeletal",
+    "referring benign-appearing high-pressure finger puncture emergently for wide operative tendon sheath washout",
+    "RCEM Hand Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Flexor Tendon Sheath Infection Kanavel Four Cardinal Signs Urgent IV Antibiotics Operative Wash",
+    "Surgery",
+    "Musculoskeletal",
+    "recognizing flexed resting finger posture, fusiform swelling, tenderness, and passive extension pain",
+    "RCEM Hand Infections",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Lunate Perilunate Dislocation Spilled Teacup Sign Median Nerve Compression Urgent Reduction",
+    "Surgery",
+    "Musculoskeletal",
+    "examining lateral wrist radiograph Carpal arcs closely so volar lunate dislocation is not missed",
+    "RCEM Wrist Radiology",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Maisonneuve Proximal Fibular Fracture Deltoid Ligament Rupture Full Tibia Fibula X-Ray",
+    "Surgery",
+    "Musculoskeletal",
+    "palpating and radiographing proximal fibula in isolated medial ankle tenderness or syndesmosis widen",
+    "RCEM Ankle Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Lisfranc Midfoot Tarsometatarsal Fracture-Dislocation Plantar Bruising Weight-Bearing CT",
+    "Surgery",
+    "Musculoskeletal",
+    "maintaining non-weight-bearing suspicion when plantar ecchymosis follows midfoot twisting injury",
+    "RCEM Foot Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Patellar Dislocation Lateral Acute Reduction Extending Knee Gentle Medial Patella Push",
+    "Surgery",
+    "Musculoskeletal",
+    "checking post-reduction sky-line view radiograph for osteochondral loose fragment inside joint",
+    "RCEM Knee Acute",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Anterior Shoulder Dislocation Cunningham Milch Kocher Reduction Axillary Nerve Regimental Badge",
+    "Surgery",
+    "Musculoskeletal",
+    "documenting deltoid lateral regimental badge sensation and radial pulse before and after reduction",
+    "RCEM Shoulder Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Septic Bursitis Olecranon Versus Septic Joint Preserved Painless Passive Range Aspiration",
+    "Medicine",
+    "Musculoskeletal",
+    "distinguishing superficial olecranon fluctuance from deep elbow intra-articular septic effusion",
+    "RCEM Soft Tissue Care",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Bite Wound Dog Cat Pasteurella Multocida Co-Amoxiclav Prophylaxis Do Not Primary Close Hand",
+    "Microbiology",
+    "Dermatology",
+    "leaving deep hand puncture bite wounds open after washout and giving co-amoxiclav prophylaxis",
+    "NICE NG184 Bites",
+    "https://www.nice.org.uk/guidance/ng184"
+  ],
+  [
+    "Tetanus-Prone Wound Soil Contamination Human Immunoglobulin Plus Boost Unvaccinated Check",
+    "Microbiology",
+    "General Principles",
+    "giving intramuscular tetanus immunoglobulin at separate site alongside booster in dirty high-risk wounds",
+    "UKHSA Green Book Tetanus",
+    "https://www.gov.uk/"
+  ],
+  [
+    "Subarachnoid Hemorrhage Early 6-Hour CT Rule-Out Ottawa SAH Rule Non-Traumatic Thunderclap",
+    "Neurology",
+    "Nervous System",
+    "avoiding lumbar puncture safely when negative modern thin-slice head CT completes within 6 hours",
+    "NICE NG228 SAH",
+    "https://www.nice.org.uk/guidance/ng228"
+  ],
+  [
+    "Cerebral Herniation Uncal Pupil Dilated Cushing Bradycardia Mannitol 3% Hypertonic Saline",
+    "Neurology",
+    "Nervous System",
+    "elevating head 30 degrees, loosening tight neck collars, and giving osmotherapy temporarily pre-OR",
+    "RCEM Neurocritical Care",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Spinal Cord Compression Metastatic Cauda Back Pain Bilateral Weakness IV Dexamethasone MRI",
+    "Surgery",
+    "Nervous System",
+    "giving immediate 16 mg IV/oral dexamethasone alongside urgent whole-spine MRI within 24 hours",
+    "NICE NG234 MSCC",
+    "https://www.nice.org.uk/guidance/ng234"
+  ],
+  [
+    "Botulism Wound Injection Drug User Descending Cranial Palsies Normal Mentation Antitoxin",
+    "Microbiology",
+    "Nervous System",
+    "securing airway proactively upon declining vital capacity and contacting UKHSA for urgent equine antitoxin",
+    "UKHSA Botulism Alert",
+    "https://www.gov.uk/"
+  ],
+  [
+    "Status Migrainosus IV Prochlorperazine Metoclopramide Hydration Avoiding Opioids ED",
+    "Neurology",
+    "Nervous System",
+    "avoiding morphine/codeine strictly in acute migraine due to rebound sensitization and inferior efficacy",
+    "RCEM Headache Care",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "GI Bleed Lower Glasgow-Blatchford Upper Risk Stratification Safe Outpatient Discharge Score 0",
+    "Medicine",
+    "Gastrointestinal",
+    "discharging selected stable non-variceal upper GI bleed scores 0-1 safely with outpatient endoscopy",
+    "NICE CG141 GI Bleed",
+    "https://www.nice.org.uk/guidance/cg141"
+  ],
+  [
+    "Variceal Esophageal Bleed Terlipressin IV Ceftriaxone Sengstaken-Blakemore Rescue Tube",
+    "Surgery",
+    "Gastrointestinal",
+    "securing endotracheal airway before inserting Sengstaken balloon tamponade in torrential shock",
+    "BSG Variceal Bleed",
+    "https://www.bsg.org.uk/"
+  ],
+  [
+    "Mesenteric Vein Thrombosis Subacute Abdominal Pain Contrast Venous Phase CT Heparin",
+    "Surgery",
+    "Gastrointestinal",
+    "starting immediate systemic anticoagulation upon portal/SMV thrombus without infarcted bowel signs",
+    "RCEM Acute Abdomen",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Swallowed Button Battery Esophageal Impacted Emergency Endoscopic Removal Honey Pre-Hospital",
+    "Pediatrics",
+    "Gastrointestinal",
+    "giving small spoons of honey safely in children > 1 year within 12h of ingestion en route to OR",
+    "RCEM / ESPGHAN Battery",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Ruptured Abdominal Aortic Aneurysm Permissive Hypotension SBP 70-90 Rapid EVAR/Open Transfer",
+    "Surgery",
+    "Cardiovascular",
+    "restricting vigorous crystalloid boluses aiming only mentation/radial pulse avoiding clot blowout",
+    "NICE NG156 AAA Emergency",
+    "https://www.nice.org.uk/guidance/ng156"
+  ],
+  [
+    "Ureteric Colic Pregnant Woman Ultrasound Hydration Avoiding NSAIDs Opioid/Paracetamol Relief",
+    "Obstetrics",
+    "Renal",
+    "prohibiting NSAIDs in third-trimester pregnancy due to premature ductus arteriosus closure risk",
+    "RCEM Pregnant Renal Colic",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Eclampsia Pregnant Emergency Left Lateral Tilt Magnesium Sulfate 4 g Loading Infusion Lab",
+    "Obstetrics",
+    "Pregnancy",
+    "turning convulsing pregnant woman left lateral avoiding aortocaval compression before IV magnesium",
+    "RCOG/RCEM Maternity",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Perimortem Cesarean Resuscitative Hysterotomy Arrest > 20 Weeks Within 4 Minutes Survival",
+    "Obstetrics",
+    "Pregnancy",
+    "delivering fetus within 4-5 minutes of maternal arrest above umbilicus fundus restoring venous return",
+    "RCUK Maternal Arrest",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Anti-D Rh Negative First Trimester Threatened Miscarriage Ectopic Trauma Indication RCOG",
+    "Obstetrics",
+    "Pregnancy",
+    "administering 250 IU anti-D for surgical evacuation, ectopic, or bleeding >= 12 weeks gestation",
+    "NICE NG126 Anti-D",
+    "https://www.nice.org.uk/guidance/ng126"
+  ],
+  [
+    "Postpartum Secondary Hemorrhage > 24h Retained Products Endometritis Oral Co-Amoxiclav Scan",
+    "Obstetrics",
+    "Pregnancy",
+    "treating presumed endometritis promptly with broad antibiotics plus ultrasound for retained tissue",
+    "RCOG PPH Secondary",
+    "https://www.rcog.org.uk/"
+  ],
+  [
+    "Pediatric Cardiorespiratory Arrest 15:2 Compressions Ventilations Wet Weight Formula Age+4 x 2",
+    "Pediatrics",
+    "Cardiovascular",
+    "starting 5 initial rescue breaths before 15:2 chest compressions in pediatric hypoxic cardiac arrest",
+    "APLS / RCUK Peds ALS",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Pediatric Supraventricular Tachycardia Infant HR > 220 Ice Bag Dive Adenosine 100 mcg/kg",
+    "Pediatrics",
+    "Cardiovascular",
+    "delivering rapid IV adenosine via large proximal vein followed instantly by normal saline flush",
+    "APLS Peds Arrhythmia",
+    "https://www.resus.org.uk/"
+  ],
+  [
+    "Pediatric Head Trauma PECARN CATCH Score Vomiting Scalp Hematoma Observation Versus CT",
+    "Pediatrics",
+    "Nervous System",
+    "observing low-risk children closely 4-6h avoiding unnecessary pediatric cranial radiation exposure",
+    "NICE NG232 Child Head",
+    "https://www.nice.org.uk/guidance/ng232"
+  ],
+  [
+    "Nursemaid Elbow Pulled Elbow Radial Head Subluxation Supination Flexion Immediate Relief",
+    "Pediatrics",
+    "Musculoskeletal",
+    "performing hyperpronation or supination-flexion maneuver cleanly without X-ray if classic pull history",
+    "RCEM Pediatric Ortho",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Foreign Body Bronchus Sudden Choke Unilateral Wheeze Hyperinflation Bronchoscopy",
+    "Pediatrics",
+    "Respiratory",
+    "ordering expiratory/decubitus chest view and urgent rigid bronchoscopy even with normal initial X-ray",
+    "RCEM Peds Airway",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Button Battery Nose Esophagus Alkaline Caustic Perforation Emergent Extraction",
+    "Pediatrics",
+    "Respiratory",
+    "differentiating double-rim halo radiopaque sign from smooth flat coin urgently on chest/neck X-ray",
+    "RCEM Peds Toxicology",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Paracetamol Overdose Staggered Versus Single Acute Immediate NAC Protocol",
+    "Pediatrics",
+    "Gastrointestinal",
+    "starting N-acetylcysteine immediately without awaiting 4-hour level in staggered or unknown-time doses",
+    "NPIS Pediatric Paracetamol",
+    "https://www.npis.org/"
+  ],
+  [
+    "Safeguarding Children Fabricated Induced Illness Munchausen by Proxy Escalation Senior Lead",
+    "Pediatrics",
+    "General Principles",
+    "involving named safeguarding pediatrician discreetly before confronting caregiver about inconsistencies",
+    "RCPCH Safeguarding",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pediatric Septic Shock Fluid Resuscitation 10 mL/kg Reassess Hepatomegaly Crepitations Early Inotrope",
+    "Pediatrics",
+    "Cardiovascular",
+    "assessing liver edge and lung bases after each 10 mL/kg crystalloid bolus avoiding fluid overload",
+    "APLS/NICE Sepsis Child",
+    "https://www.nice.org.uk/guidance/ng240"
+  ],
+  [
+    "Toddler Limp Septic Hip Kocher Fever Weight Bearing WBC ESR CRP Ultrasound Aspiration",
+    "Pediatrics",
+    "Musculoskeletal",
+    "distinguishing benign transient synovitis from surgical septic hip via inflammatory markers and effusion",
+    "RCEM Pediatric Limp",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "POCUS Focused Assessment Trauma FAST Four Views Morison Splenorenal Pelvis Pericardial",
+    "Surgery",
+    "Cardiovascular",
+    "recognizing negative FAST never excludes retroperitoneal bleed, hollow viscus tear, or solid injury",
+    "RCEM Core POCUS",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "POCUS E-FAST Thoracic Pleural Line Absence Comet Tails Lung Sliding Pneumothorax Detection",
+    "Surgery",
+    "Respiratory",
+    "scanning anterior 2nd-4th intercostal spaces supine where free intrapleural air collects highest",
+    "RCEM E-FAST Ultrasound",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "POCUS Early Pregnancy Intrauterine Gestational Sac Yolk Sac Ectopic Rule-Out Transvaginal",
+    "Obstetrics",
+    "Pregnancy",
+    "confirming intrauterine pregnancy safely only once yolk sac or fetal pole appears inside true sac",
+    "RCEM POCUS Early Preg",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "POCUS Soft Tissue Abscess Cobblestone Cellulitis Versus Hypoechoic Swirl Pus Aspiration",
+    "Surgery",
+    "Dermatology",
+    "using bedside linear probe color Doppler preventing accidental incision of pseudoaneurysm mimicking pus",
+    "RCEM Ultrasound Guided",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Rapid Sequence Intubation Ketamine Hemodynamic Unstable Asthma Hypotension Rocuronium Dose",
+    "Pharmacology",
+    "Respiratory",
+    "preferring ketamine 1-2 mg/kg IV over propofol in hypotensive shock and severe status asthmaticus",
+    "RCEM Airway Drugs",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Procedural Sedation Propofol Ketofol Capnography End-Tidal CO2 Continuous Monitoring",
+    "Pharmacology",
+    "General Principles",
+    "maintaining dedicated airway clinician and continuous waveform capnography throughout ED sedation",
+    "RCEM Safe Sedation",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Fascia Iliaca Compartment Nerve Block Neck of Femur Fracture Opioid-Sparing Levobupivacaine",
+    "Pharmacology",
+    "Musculoskeletal",
+    "aspirating gently under ultrasound guidance before injecting local anesthetic to prevent intravascular toxicity",
+    "RCEM Hip Pain Guideline",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Digital Ring Block Plain Lidocaine Epinephrine Safety Myths Necrosis Avoidance End Artery",
+    "Pharmacology",
+    "Musculoskeletal",
+    "using plain lidocaine or validated cautious low-concentration avoiding tourniquet digital ischemia",
+    "RCEM Minor Injuries",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Behavioral Disturbance Excited Delirium Physical Restraint Danger Immediate Sedation",
+    "Psychiatry",
+    "Behavioral Health",
+    "avoiding prolonged prone restraint compression asphyxia and treating hyperthermia/acidosis rapidly",
+    "RCEM Acute Disturbance",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Self-Harm Assessment Emergency Safe Haven Psychosocial Risk Factors Over Non-Suicidal Tool",
+    "Psychiatry",
+    "Behavioral Health",
+    "conducting full compassionate psychosocial needs assessment rather than crude numeric risk checklists",
+    "NICE NG225 Self-Harm",
+    "https://www.nice.org.uk/guidance/ng225"
+  ],
+  [
+    "Mental Capacity Refusal Life-Saving ED Care Fluctuating Delirium Intoxication Assessment",
+    "Ethics",
+    "General Principles",
+    "treating urgently under Doctrine of Necessity if intoxication impairs capacity and delay risks death",
+    "GMC Capacity Urgent Care",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Elderly Rib Fractures Thoracic Trauma Incentive Spirometry Regional Serratus Block Pneumonia",
+    "Geriatrics",
+    "Respiratory",
+    "providing early serratus anterior or erector spinae regional analgesia preventing fatal pneumonia",
+    "RCEM Silver Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Frailty Clinical Score CFS Screening ED Front Door Comprehensive Geriatric Multidisciplinary",
+    "Geriatrics",
+    "General Principles",
+    "scoring baseline pre-illness 2-week function via Clinical Frailty Scale rather than acute delirium",
+    "RCEM Geriatric ED",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Epistaxis Caudal Septal Hematoma Child Blunt Nasal Trauma Urgent Incision Drainage Necrosis",
+    "Surgery",
+    "Nervous System",
+    "examining nasal septum inside every nasal trauma patient so septal hematoma does not destroy cartilage",
+    "RCEM Nasal Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Periorbital Ecchymosis Panda Eyes Battle Sign CSF Rhinorrhea Halo Sign Base Skull Fracture",
+    "Surgery",
+    "Nervous System",
+    "avoiding nasogastric tube and nasal packing in suspected anterior cranial fossa skull fracture",
+    "RCEM Trauma Airway",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Sudden Painless Monocular Loss Retinal Artery Occlusion Ocular Massage Carbon Dioxide Stroke",
+    "Neurology",
+    "Nervous System",
+    "managing acute CRAO within stroke TIA acute vascular pathways including GCA ESR/CRP check",
+    "RCEM Acute Vision Loss",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Acute Glaucoma Corneal Edema Mid-Dilated Pupil IV Acetazolamide Topical Timolol Pilocarpine",
+    "Surgery",
+    "Nervous System",
+    "avoiding topiramate/anticholinergics while giving systemic acetazolamide plus topical beta-blocker",
+    "RCEM Eye Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Ludwig Angina Submandibular Bilateral Induration Tongue Elevation Early Awake Fiberoptic Airway",
+    "Surgery",
+    "Respiratory",
+    "securing awake intubation or tracheostomy proactively prior to sudden complete glottic airway loss",
+    "RCEM ENT Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Mastoiditis Versus External Otitis Malignant Pseudomonas Immunocompromised Elderly IV Cipro",
+    "Microbiology",
+    "Nervous System",
+    "suspecting necrotizing malignant otitis externa when severe nocturnal ear pain persists in elderly diabetics",
+    "RCEM ENT Infections",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Scrotal Trauma Ultrasound Tunica Albuginea Rupture Hematocele Emergent Exploration Salvage",
+    "Surgery",
+    "Renal",
+    "repairing testicular rupture within 72h maximizing hormonal and spermatogenic parenchymal salvage",
+    "RCEM Acute Scrotum",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Urinary Retention Female Suspect Pelvic Mass Cauda Equina Neurological MS Over Prostate",
+    "Medicine",
+    "Renal",
+    "performing full lower-limb neurologic and pelvic exam in every acute female urinary retention case",
+    "RCEM Urology Urgent",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Paraphimosis Manual Reduction Ice Osmotic Sugar Dundee Multiple Needle Technique Dorsal Slit",
+    "Surgery",
+    "Renal",
+    "returning foreskin over glans promptly after analgesia and edema compression before glans ischemia",
+    "RCEM Minor Procedures",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Priapism Erectile Dysfunction Medications Aspiration Corporal Blood Gas Phenylephrine Wash",
+    "Surgery",
+    "Renal",
+    "confirming dark hypoxic acidotic cavernosal blood gas prior to alpha-adrenergic phenylephrine",
+    "BAUS/RCEM Priapism",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Meningococcal Purpura Fulminans Early Petechiae Glass Test IV Ceftriaxone Rifampicin Contacts",
+    "Microbiology",
+    "Dermatology",
+    "prescribing single oral ciprofloxacin chemoprophylaxis urgently to household kissing contacts",
+    "UKHSA Meningococcal",
+    "https://www.gov.uk/"
+  ],
+  [
+    "Malaria Prophylaxis Failure Fever Incubation Up To 1 Year Post-Travel Blood Film RDT",
+    "Microbiology",
+    "Hematology",
+    "performing three serial blood films 12-24h apart if high clinical suspicion persists post-first negative",
+    "PHE UK Malaria",
+    "https://www.gov.uk/"
+  ],
+  [
+    "Cold Sore Eczema Herpeticum Punched-Out Vesicles Monomorphic Urgent IV Aciclovir Eye Check",
+    "Pediatrics",
+    "Dermatology",
+    "recognizing secondary HSV dissemination on atopic eczema skin as urgent medical emergency needing aciclovir",
+    "RCEM Pediatric Rash",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Staphylococcal Scalded Skin Syndrome Nikolsky Positive Infant Cleavage Granular IV Flucloxacillin",
+    "Pediatrics",
+    "Dermatology",
+    "contrasting superficial mucosal-sparing SSSS exfoliative toxin against severe mucosal SJS/TEN",
+    "RCEM Derm Emergencies",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Pneumomediastinum Spontaneous Young Asthmatic Hamman Crunch Conservative Analgesia Check",
+    "Medicine",
+    "Respiratory",
+    "excluding Boerhaave esophageal rupture carefully when emesis preceded subcutaneous neck crepitus",
+    "RCEM Chest Pain Care",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Electrical Injury High-Voltage AC Arrhythmia Deep Muscle Compartment Syndrome Myoglobinuria",
+    "Surgery",
+    "Cardiovascular",
+    "protecting kidneys from hidden deep-tissue myoglobinuria despite benign superficial entrance burns",
+    "RCEM Environmental Trauma",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Smoke Inhalation Carbonaceous Sputum Stridor Prophylactic Early Endotracheal Intubation",
+    "Surgery",
+    "Respiratory",
+    "intubating early with largest possible tube before massive laryngeal edema occludes airway",
+    "ATLS/RCEM Burns",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Major Incident Triage Sieve Walking Injured Dead Priority 1-3 Respiratory Rate Capillary",
+    "Surgery",
+    "General Principles",
+    "classifying walking wounded Priority 3 first before rapidly assessing airway/breathing/circulation",
+    "NARU UK Major Incident",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "CBRN Chemical Hazmat Organophosphate Decontamination Zone Strip Wash Atropine Oxime",
+    "Pharmacology",
+    "General Principles",
+    "securing staff PPE and dry/wet decontamination outside clean ED doors before resuscitation",
+    "RCEM CBRN Protocols",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Domestic Abuse Stalking ED Screening Private Inquiry Independent Domestic Violence Advisor",
+    "Ethics",
+    "Behavioral Health",
+    "documenting exact body-map injuries objectively and offering safe confidential IDVA referral",
+    "RCEM Domestic Abuse",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Witnessing Police Statements Confidentiality Consent Court Witness Factual Neutrality",
+    "Ethics",
+    "General Principles",
+    "maintaining objective non-speculative factual clinical tone limited to directly observed facts",
+    "GMC Witness Guidance",
+    "https://www.gmc-uk.org/"
+  ],
+  [
+    "Diagnostic Bayes Rule-Out Wells PE Low Score PERC Criteria D-Dimer Avoiding Over-CT",
+    "Biostatistics",
+    "Respiratory",
+    "applying PERC negative 8 criteria safely in low-pretest probability avoiding D-dimer radiation spiral",
+    "RCEM Evidence-Based EM",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Clinical Decision Rules Sensitivity > 99% External Validation Ottawa Ankle Canadian CT Head",
+    "Biostatistics",
+    "General Principles",
+    "checking exclusion criteria age/anticoagulation carefully before applying validated decision rules",
+    "RCEM Critical Appraisal",
+    "https://rcem.ac.uk/"
+  ],
+  [
+    "Quality Improvement Run Chart Shift 6 Points Trend 5 Points Non-Random Process Improvement",
+    "Biostatistics",
+    "General Principles",
+    "distinguishing sustained system shift from random common-cause ED wait-time variation",
+    "RCEM QIP Methodology",
+    "https://rcem.ac.uk/"
+  ]
+]
+
+SMLE_TOPICS = [
+  [
+    "Acute Decompensated Heart Failure Wet-Warm IV Furosemide Nitroglycerin Transition GDMT",
+    "Medicine",
+    "Cardiovascular",
+    "continuing evidence-based beta-blocker during mild congestion unless cardiogenic shock hypotension",
+    "Saudi Heart Association HF",
+    "https://www.sha.org.sa/"
+  ],
+  [
+    "Pericarditis Acute Pleuritic Chest Pain Concave PR Depression Colchicine Ibuprofen 3 Months",
+    "Medicine",
+    "Cardiovascular",
+    "adding 3 months oral colchicine alongside high-dose NSAIDs halving recurrent pericarditis rate",
+    "SHA Pericardial Guide",
+    "https://www.sha.org.sa/"
+  ],
+  [
+    "Hypertension Saudi National Screening Lifestyle DASH Weight Reduction ACEi ARB CCB Thiazide",
+    "Medicine",
+    "Cardiovascular",
+    "confirming persistent office BP >= 140/90 with home logs before initiating combination antihypertensive",
+    "Saudi MOH Hypertension",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Venous Thromboembolism Cancer-Associated Edoxaban Rivaroxaban Apixaban Versus LMWH GI Risk",
+    "Medicine",
+    "Hematology",
+    "preferring LMWH over oral factor Xa inhibitors in unresected luminal GI/genitourinary cancers",
+    "SCFHS Hematology Onco",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Deep Vein Thrombosis Iliofemoral May-Thurner Anticoagulation Compression Stockings Review",
+    "Medicine",
+    "Cardiovascular",
+    "maintaining therapeutic anticoagulation >= 3 months preventing fatal PE and post-thrombotic limb",
+    "Saudi Vascular Guide",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Bronchial Asthma Stepwise ICS-Formoterol Reliever Biologics Omalizumab Mepolizumab Severe",
+    "Medicine",
+    "Respiratory",
+    "phenotyping severe refractory eosinophilic or allergic asthma before initiating targeted biologics",
+    "Saudi Thoracic Society",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Pulmonary Embolism Submassive Right Ventricular Strain Elevated Troponin Anticoagulation ICU",
+    "Medicine",
+    "Respiratory",
+    "monitoring closely for decompensation without routine systemic thrombolysis unless shock evolves",
+    "SCFHS Critical Pulmonology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Sarcoidosis Saudi Prevalence Bilateral Hilar Adenopathy Non-Caseating Granuloma Steroid Trial",
+    "Medicine",
+    "Respiratory",
+    "excluding pulmonary tuberculosis microbiologically first in endemic regions before steroid therapy",
+    "Saudi Thoracic Sarcoid",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Lung Nodule Solitary Incidental Low-Risk Fleischner Criteria Follow-Up Thin-Section CT",
+    "Medicine",
+    "Respiratory",
+    "comparing prior chest imaging first before ordering invasive biopsy on stable benign nodules",
+    "SCFHS Pulmonology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Type 2 Diabetes SGLT2 Inhibitor Empagliflozin Heart Failure Kidney Protection Weight Loss",
+    "Medicine",
+    "Endocrine",
+    "counseling genital mycotic hygiene and euglycemic ketoacidosis hydration sick-day pauses",
+    "Saudi Diabetes Guide 2024",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Osteoporosis Vitamin D Deficiency Saudi High Sun Avoidance Screening Supplement Cholecalciferol",
+    "Medicine",
+    "Endocrine",
+    "repleting severe 25-OH-D < 20 ng/mL with high-dose weekly vitamin D3 before bisphosphonates",
+    "Saudi Osteoporosis Guide",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Hyperthyroidism Graves Methimazole Agranulocytosis Sore Throat Urgent CBC Discontinuation",
+    "Medicine",
+    "Endocrine",
+    "warning every patient starting antithyroid drugs to check urgent WBC if fever or sore throat appears",
+    "SCFHS Endocrine Safety",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Adrenal Incidentaloma Unenhanced CT Attenuation < 10 HU Autonomous Cortisol Dexamethasone Test",
+    "Medicine",
+    "Endocrine",
+    "ordering 1 mg overnight dexamethasone suppression and plasma metanephrines for every > 1 cm nodule",
+    "SCFHS Endocrinology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Gastroesophageal Reflux Alarm Symptoms Dysphagia Weight Loss Early Upper Endoscopy PPI",
+    "Medicine",
+    "Gastrointestinal",
+    "performing EGD promptly rather than prolonged empiric PPI when age > 55 or dysphagia exists",
+    "Saudi GI Guidelines",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Peptic Ulcer Disease Bleeding Forrest Ia-IIb Endoscopic Dual Hemostasis Epinephrine Clip",
+    "Medicine",
+    "Gastrointestinal",
+    "continuing high-dose IV proton pump inhibitor 72h post-endoscopic hemostasis of high-risk ulcers",
+    "SCFHS Acute GI",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Chronic Hepatitis C Screening Baby Boomers Universal Direct-Acting Antivirals Cirrhosis Check",
+    "Medicine",
+    "Gastrointestinal",
+    "staging liver fibrosis non-invasively via elastography FIB-4 prior to 8-12 week DAA cure",
+    "Saudi MOH HCV Program",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Acute Kidney Injury Intrinsic Acute Tubular Necrosis Muddy Brown Granular Casts Avoidance Nephrotoxin",
+    "Medicine",
+    "Renal",
+    "adjusting renally cleared antimicrobials and avoiding triple-whammy NSAID+ACEi+diuretic harm",
+    "Saudi Nephrology Care",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Nephrolithiasis Uric Acid Radiolucent Stone Potassium Citrate Alkalinization Allopurinol",
+    "Medicine",
+    "Renal",
+    "dissolving pure uric acid stones medically via urinary pH 6.5-7.0 alkalinization avoiding surgery",
+    "SCFHS Renal Calculi",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Polycythemia Vera Thrombosis Prevention Low-Dose Aspirin Hydroxyurea Phlebotomy",
+    "Medicine",
+    "Hematology",
+    "distinguishing true JAK2+ PV from smoking or OSA secondary polycythemia via serum erythropoietin",
+    "Saudi Hematology Guide",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Vitamin B12 Deficiency Metformin Prolonged Use Vegetarian Gastritis Parenteral Oral Replace",
+    "Medicine",
+    "Hematology",
+    "checking annual B12 levels in long-term metformin or post-bariatric sleeve gastrectomy patients",
+    "SCFHS Hematology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Rheumatoid Arthritis Anti-CCP Specificity Methotrexate Biologic TB Hepatitis Screening Prior",
+    "Medicine",
+    "Musculoskeletal",
+    "screening latent TB with IGRA/CXR and HBV serology universally before anti-TNF initiation",
+    "Saudi Rheumatology Guide",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Systemic Lupus Erythematosus Discoid Photosensitivity Sunscreen Hydroxychloroquine Retinal Screen",
+    "Medicine",
+    "Musculoskeletal",
+    "maintaining lifelong hydroxychloroquine reducing lupus flares, thrombosis, and organ damage",
+    "SCFHS Autoimmune Care",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Dengue Fever Saudi Jeddah Warning Signs Abdominal Pain Persistent Vomiting Fluid Resuscitation",
+    "Microbiology",
+    "Hematology",
+    "hospitalizing dengue patients promptly with rising hematocrit and mucosal bleeding without NSAIDs",
+    "Saudi PHA Vector Guide",
+    "https://www.pha.gov.sa/"
+  ],
+  [
+    "Cutaneous Leishmaniasis Sandfly Painless Nodulo-Ulcerative East/Central KSA Cryo Antimonial",
+    "Microbiology",
+    "Dermatology",
+    "confirming Leishmania tropica/major smear or PCR before intralesional sodium stibogluconate or cryo",
+    "Saudi MOH Leishmania",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Middle East Respiratory Syndrome Camel Exposure Healthcare Outbreak Airborne Triage Screening",
+    "Microbiology",
+    "Respiratory",
+    "applying visual respiratory triage immediately on ED arrival for fever + camel exposure",
+    "Saudi MOH Infection Control",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Salmonella Bacteremia Sickle Cell Osteomyelitis Ceftriaxone Ciprofloxacin Prolonged Therapy",
+    "Microbiology",
+    "Musculoskeletal",
+    "covering both Salmonella species and S. aureus empirically in febrile sickle cell bone infection",
+    "SCFHS Infectious Pediatrics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "HIV Screening Routine Consent Opt-Out Western Blot Fourth-Gen Ag/Ab ART Immediate Start",
+    "Microbiology",
+    "General Principles",
+    "initiating integrase-based single-tablet ART promptly upon confirmation reducing transmission",
+    "Saudi National AIDS Program",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Herpes Zoster Elderly Vaccination Recombinant Shingrix Prevention Postherpetic Neuralgia",
+    "Microbiology",
+    "Dermatology",
+    "offering non-live recombinant adjuvanted zoster vaccine safely even to immunocompromised adults",
+    "Saudi Immunization Manual",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Transient Ischemic Attack Carotid Stenosis ABCD2 Antiplatelet Statin Urgent Stroke Workup",
+    "Neurology",
+    "Nervous System",
+    "performing urgent brain MRI/CT and carotid duplex within 24h preventing disabling major stroke",
+    "Saudi Stroke Association",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Epilepsy Pregnancy Women Folic Acid 4-5 mg Monotherapy Lamotrigine Levetiracetam Safest",
+    "Neurology",
+    "Pregnancy",
+    "never discontinuing essential antiseizure drugs abruptly due to high status epilepticus fetal hazard",
+    "SCFHS Neuro-Obstetrics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Cluster Headache High-Flow 100% Oxygen Verapamil Prevention ECG PR Monitoring",
+    "Neurology",
+    "Nervous System",
+    "starting high-flow non-rebreather oxygen 12-15 L/min acutely while titrating verapamil prophylaxis",
+    "SCFHS Neurology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Multiple Sclerosis Optic Neuritis Painful Eye Movement IV Methylprednisolone MRI Brain",
+    "Neurology",
+    "Nervous System",
+    "avoiding prolonged low-dose oral prednisone alone which raises recurrent optic neuritis risk",
+    "Saudi Neurology Society",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Major Depressive Disorder SSRI Initiation Black Box Young Adult Suicide Monitoring First 4 Weeks",
+    "Psychiatry",
+    "Behavioral Health",
+    "reviewing adolescents and young adults weekly during first month of SSRI initiation for activation",
+    "SCFHS Psychiatry",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Generalized Anxiety Disorder Buspirone Escitalopram CBT Avoiding Chronic Alprazolam",
+    "Psychiatry",
+    "Behavioral Health",
+    "counseling patients SSRIs take 4-6 weeks for full anxiolytic efficacy alongside structured CBT",
+    "Saudi Mental Health Guide",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Obsessive Compulsive Disorder SSRI Fluvoxamine Sertraline CBT Exposure Hierarchy",
+    "Psychiatry",
+    "Behavioral Health",
+    "escalating SSRI toward higher licensed OCD doses for 10-12 weeks before assessing partial failure",
+    "SCFHS Behavioral Med",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Hemorrhagic Shock Class III Blood Loss > 30% Unmatched Type O-Negative Packed RBC Cryo",
+    "Surgery",
+    "Cardiovascular",
+    "activating balanced 1:1:1 blood product resuscitation early avoiding dilutional coagulopathy",
+    "Saudi ATLS Trauma",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Bariatric Surgery Sleeve Gastrectomy Micronutrient Deficiency B12 Iron Calcium Thiamine Hair",
+    "Surgery",
+    "Gastrointestinal",
+    "recognizing intractable post-sleeve vomiting threatens acute thiamine-deficient Wernicke palsy",
+    "Saudi Obesity Surgery",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Chronic Pancreatitis Exocrine Insufficiency Calcifications Pancrelipase Alcohol Smoking Stop",
+    "Surgery",
+    "Gastrointestinal",
+    "managing chronic calcific pancreatic pain starting smoking cessation, enzymes, and endoscopic drainage",
+    "SCFHS GI Surgery",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Gastric Ulcer Versus Duodenal Biopsy Rule Out Malignancy Follow-Up Endoscopy 8 Weeks",
+    "Surgery",
+    "Gastrointestinal",
+    "repeating EGD after 8-12 weeks PPI therapy in gastric ulcers to ensure complete healing no cancer",
+    "SCFHS Surgery",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Colorectal Screening Saudi National Age 45-75 FIT Colonoscopy High-Risk Family History",
+    "Surgery",
+    "Gastrointestinal",
+    "initiating screening colonoscopy age 40 or 10 years earlier than youngest affected first-degree relative",
+    "Saudi Colorectal Program",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Thyroid Storm Post-Thyroidectomy Rare Hypoparathyroidism Chvostek Trousseau IV Calcium Gluconate",
+    "Surgery",
+    "Endocrine",
+    "treating symptomatic post-op carpopedal spasm or laryngospasm urgently with IV 10% calcium gluconate",
+    "SCFHS Endocrine Surgery",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Inguinal Hernia Infant Premature Non-Spontaneous Closure Prompt Elective Repair Strangulation",
+    "Surgery",
+    "Gastrointestinal",
+    "repairing reducible pediatric inguinal hernia shortly after diagnosis avoiding high incarceration rate",
+    "SCFHS Pediatric Surgery",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Developmental Dysplasia Hip Infant Breech Female Family History Ultrasound 4-6 Weeks Screen",
+    "Pediatrics",
+    "Musculoskeletal",
+    "screening all breech deliveries at 4-6 weeks via hip ultrasound regardless of normal Barlow exam",
+    "Saudi Pediatric Ortho",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Osteomyelitis Acute Hematogenous Child Metaphysis MRSA Clindamycin Vancomycin MRI",
+    "Surgery",
+    "Musculoskeletal",
+    "obtaining blood cultures and starting empiric anti-MRSA IV coverage immediately in febrile bone pain",
+    "SCFHS Ortho Pediatrics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Plantar Fasciitis First-Step Morning Heel Pain Stretching Calf Orthotics Avoiding Steroid Rupture",
+    "Surgery",
+    "Musculoskeletal",
+    "emphasizing eccentric calf/plantar stretching and supportive heel cups before rare corticosteroid shots",
+    "SCFHS Musculoskeletal",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Renal Cell Carcinoma Stauffer Syndrome Hepatic Dysfunction Paraneoplastic Nephrectomy Cure",
+    "Surgery",
+    "Renal",
+    "recognizing reversible non-metastatic elevated ALP resolves after radical nephrectomy of primary RCC",
+    "SCFHS Urology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Cryptorchidism Undescended Testis Orchidopexy Age 6-12 Months Preserving Fertility Malignancy",
+    "Surgery",
+    "Renal",
+    "operating before age 12-18 months enabling palpable testicular cancer self-examination and fertility",
+    "SCFHS Pediatric Urology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Congenital Glaucoma Infant Epiphora Photophobia Buphthalmos Corneal Haziness Trabeculotomy",
+    "Surgery",
+    "Nervous System",
+    "referring tearing photophobic large-cornea infant emergently for ophthalmic pressure measurement",
+    "SCFHS Ophthalmology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Epistaxis Hereditary Hemorrhagic Telangiectasia Posterior Packing Cautery Nasal Humidification",
+    "Surgery",
+    "Respiratory",
+    "applying targeted nasal mucosal lubrication and iron replacement while screening pulmonary AVMs",
+    "SCFHS ENT",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Deep Neck Space Infection Parapharyngeal Medial Tonsil Displacement Trismus CT Contrast Drain",
+    "Surgery",
+    "Respiratory",
+    "securing airway cautiously before surgical drainage and IV ampicillin-sulbactam/clindamycin",
+    "SCFHS ENT Emergency",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Pregnancy Acute Appendicitis MRI Non-Contrast Safe Fetal Radiation Avoidance Early Appendectomy",
+    "Obstetrics",
+    "Pregnancy",
+    "choosing non-contrast abdominal MRI when graded-compression ultrasound proves inconclusive",
+    "SCFHS OB Surgery",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Asymptomatic Bacteriuria Pregnancy Screening First Prenatal Nitrofurantoin Cephalexin Cure",
+    "Obstetrics",
+    "Renal",
+    "treating asymptomatic pregnant bacteriuria 4-7 days preventing 30% progression to pyelonephritis",
+    "Saudi MOH Antenatal",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Pregnancy Pyelonephritis Fever Flank Pain IV Ceftriaxone Hydration Respiratory ARDS Risk",
+    "Obstetrics",
+    "Renal",
+    "admitting pregnant pyelonephritis universally for parenteral ceftriaxone and monitoring pulmonary edema",
+    "SCFHS High-Risk OB",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Gestational Thrombocytopenia Benign Mild Term > 70,000 Epidural Safe Versus Immune ITP",
+    "Obstetrics",
+    "Hematology",
+    "observing mild third-trimester incidental thrombocytopenia >= 100k safely without fetal sampling",
+    "SCFHS Obstetric Hematology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Recurrent Pregnancy Loss >= 2-3 Losses Antiphospholipid Parental Karyotype Uterine Septum",
+    "Obstetrics",
+    "Pregnancy",
+    "evaluating lupus anticoagulant, anticardiolipin, anti-beta2-GPI, TSH, and 3D uterine ultrasound",
+    "SCFHS Reproductive",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Oligohydramnios AFI < 5 cm Ruptured Membranes Renal Agenesis Fetal Growth Induction 37 Weeks",
+    "Obstetrics",
+    "Pregnancy",
+    "performing sterile speculum nitrazine/ferning check first to exclude occult membrane rupture",
+    "SCFHS Perinatology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Postpartum Depression Versus Blues 2-Week Persistence Bonding Screening EPDS Early Support",
+    "Obstetrics",
+    "Behavioral Health",
+    "maintaining close maternal/infant follow-up and distinguishing benign day-3-10 tearfulness from depression",
+    "Saudi Maternal Mental",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Stress Urinary Incontinence Pelvic Floor Exercises Pessary Midurethral Sling Refractory",
+    "Obstetrics",
+    "Renal",
+    "confirming cough stress leakage and negative urinalysis before structured conservative pelvic rehab",
+    "SCFHS Gynecology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Lichen Sclerosus Postmenopausal Vulvar Ivory White Wrinkled Pruritus Ultrapotent Clobetasol",
+    "Obstetrics",
+    "Dermatology",
+    "biopsying refractory thickened plaques to exclude differentiated vulvar intraepithelial neoplasia",
+    "SCFHS Vulvar Care",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Prolactinoma Microadenoma Bromocriptine Preferred Conception Macroadenoma Visual Field Check",
+    "Obstetrics",
+    "Endocrine",
+    "performing baseline formal visual fields and discontinuing dopamine agonist once positive test if micro",
+    "SCFHS Endocrine OB",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Neonatal Conjunctivitis Gonococcal Hyperacute Day 2-5 IV Ceftriaxone Single Dose Saline Wash",
+    "Pediatrics",
+    "Nervous System",
+    "treating acute purulent ophthalmia emergently to prevent rapid corneal perforation blindness",
+    "Saudi Neonatal Guide",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Phenylketonuria Saudi Consanguinity Newborn Screening Guthrie Card Dietary Phe Restriction",
+    "Pediatrics",
+    "Nervous System",
+    "maintaining lifelong maternal phenylalanine control pre-conception preventing teratogenic microcephaly",
+    "MOH Newborn Screen",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Neonatal Necrotizing Enterocolitis Prematurity Breastmilk Prevention Radiograph Pneumoperitoneum",
+    "Pediatrics",
+    "Gastrointestinal",
+    "encouraging maternal expressed human milk strongly reducing NEC incidence in VLBW preterms",
+    "SCFHS NICU Standards",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Acute Otitis Externa Swimmer Ear Tragal Tenderness Pseudomonas Ciprofloxacin Ear Drops",
+    "Pediatrics",
+    "Nervous System",
+    "instilling topical fluoroquinolone/steroid drops with ear wick rather than oral antibiotics",
+    "SCFHS Pediatric ENT",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Acute Rheumatic Fever Arthritis Dramatic Salicylate Response Migratory Large Joints Echo",
+    "Pediatrics",
+    "Musculoskeletal",
+    "completing echocardiogram in every suspected ARF case even without audible cardiac murmur",
+    "Saudi Pediatric Heart",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Immune Thrombocytopenia Child Post-Viral Isolated Petechiae Observation Avoiding Splenectomy",
+    "Pediatrics",
+    "Hematology",
+    "observing stable mild skin-only pediatric ITP safely without invasive marrow biopsy or steroids",
+    "SCFHS Pediatric Heme",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Scarlet Fever Child Centor Pharyngitis Penicillin Amoxicillin Preventing Acute Rheumatic Fever",
+    "Pediatrics",
+    "Respiratory",
+    "giving full 10-day oral penicillin V or single IM benzathine penicillin eradicating GABHS completely",
+    "SCFHS Pediatric ID",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Enuresis Child Rule Out Diabetes UTI Constipation Motivational Alarm Desmopressin Second",
+    "Pediatrics",
+    "Renal",
+    "treating underlying pediatric constipation first because loaded rectum compresses bladder capacity",
+    "SCFHS General Pediatrics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Childhood Lead Poisoning Traditional Kohl Surma Microcytic Basophilic Stippling Succimer",
+    "Pediatrics",
+    "Hematology",
+    "counseling families strictly against traditional lead-containing cosmetics/remedies alongside chelation",
+    "Saudi Pediatric Toxicology",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Pertussis Infant Maternal Tdap Booster 27-36 Weeks Cocooning Post-Exposure Erythromycin",
+    "Pediatrics",
+    "Respiratory",
+    "immunizing pregnant mothers each pregnancy transferring high protective maternal anti-pertussis IgG",
+    "Saudi MOH Immunization",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Normal Grief Versus Major Depression Preoccupation Deceased Self-Esteem Intact Suicidality",
+    "Psychiatry",
+    "Behavioral Health",
+    "distinguishing fluctuating grief pangs preserved self-worth from pervasive anhedonia worthlessness",
+    "SCFHS Psychiatry",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Anorexia Nervosa Amenorrhea Lanugo Bradycardia ECG Medical Stabilization Admission Criteria",
+    "Psychiatry",
+    "Behavioral Health",
+    "hospitalizing promptly for bradycardia < 45 bpm, orthostatic hypotension, hypothermia, or < 75% IBW",
+    "SCFHS Adolescent Med",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Tardive Dyskinesia Chronic First-Gen Antipsychotic Orofacial Lip Smacking Valbenazine Switch",
+    "Psychiatry",
+    "Nervous System",
+    "switching carefully toward clozapine or quetiapine alongside VMAT2 inhibitor valbenazine/deutetrabenazine",
+    "SCFHS Psychopharmacology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Elderly Urinary Tract Asymptomatic Colonization Avoiding Antibiotics Preventing C. Difficile",
+    "Geriatrics",
+    "Renal",
+    "withholding urine cultures and antibiotics unless new focal dysuria, fever, or sepsis arises",
+    "Saudi Antimicrobial Care",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Alzheimer Disease Gradual Episodic Memory Donepezil Rivastigmine Memantine Caregiver Support",
+    "Geriatrics",
+    "Nervous System",
+    "adding NMDA antagonist memantine safely in moderate-to-severe stages alongside cholinesterase blocker",
+    "SCFHS Geriatrics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Pressure Ulcer Malnutrition Shear Repositioning Stage III-IV Flap Debridement",
+    "Geriatrics",
+    "Dermatology",
+    "protecting bony sacrum/heels via 2-hour turning schedule and high-protein zinc/vitamin nutrition",
+    "Saudi Nursing Quality",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Autonomy Informed Refusal Family Pressure Disclosure Consent Competent Patient Primacy",
+    "Ethics",
+    "General Principles",
+    "speaking directly with competent adult patient privately before involving family in health decisions",
+    "SCFHS Ethics Manual",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Do Not Resuscitate DNR Order Saudi Fatwa Scholarly Consensus Three Consultants Medical Futility",
+    "Ethics",
+    "General Principles",
+    "documenting unanimous three-consultant medical determination of terminal futility sensitively with family",
+    "Saudi Health Council DNR",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Physician Wellness Burnout Peer Safety Mandatory Impaired Colleague Intervention Patient Guard",
+    "Ethics",
+    "General Principles",
+    "escalating suspected colleague impairment confidentially through hospital physician health committee",
+    "SCFHS Professionalism",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Clinical Error Root Cause Analysis Just Culture System Fix Over Blaming Junior Resident",
+    "Ethics",
+    "General Principles",
+    "implementing barcode medication double-checks rather than punitive firing after near-miss dosing slip",
+    "Saudi CBAHI Patient Safety",
+    "https://www.cbahi.gov.sa/"
+  ],
+  [
+    "Pre-Market Diagnostic Sensitivity PPV Disease Prevalence Drop Routine Population Screening",
+    "Biostatistics",
+    "General Principles",
+    "explaining low PPV in asymptomatic screening cohorts demands secondary confirmatory testing",
+    "SCFHS Biostatistics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Confounding Bias Stratification Mantel-Haenszel Randomization Restriction Matching",
+    "Biostatistics",
+    "General Principles",
+    "controlling known and unknown confounders equally via true concealed randomization in RCTs",
+    "SCFHS Research Methods",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Standard Error of Mean Versus Standard Deviation Confidence Interval Sample Size Square Root",
+    "Biostatistics",
+    "General Principles",
+    "narrowing 95% confidence interval by quadrupling study sample size without shrinking population SD",
+    "SCFHS Evidence Stats",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Hawthorne Effect Study Participants Altering Behavior Under Direct Observation Blinding",
+    "Biostatistics",
+    "General Principles",
+    "minimizing observer-induced performance bias via adequate follow-up acclimation and masking",
+    "SCFHS Epidemiology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Positive Predictive Value Increases Higher Prevalence High-Risk Targeted Clinic Testing",
+    "Biostatistics",
+    "General Principles",
+    "selecting symptomatic or high-risk cohorts to lift clinical diagnostic PPV utility substantially",
+    "SCFHS Biostats Review",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Beta-Blockers Perioperative Continuation Avoiding Abrupt Withdrawal Rebound Tachycardia",
+    "Pharmacology",
+    "Cardiovascular",
+    "continuing chronic beta-blocker uninterrupted on surgery morning while avoiding starting high-dose acutely",
+    "SCFHS Perioperative Med",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Digoxin Renal Clearance Dose Reduction Elderly Toxicity Hypomagnesemia Verapamil Interaction",
+    "Pharmacology",
+    "Cardiovascular",
+    "reducing digoxin maintenance dose by 50% when adding amiodarone or verapamil inhibitor",
+    "SCFHS Cardiac Pharm",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Isotretinoin Severe Nodulocystic Acne Teratogenicity Two Contraception Monthly Pregnancy Test",
+    "Pharmacology",
+    "Dermatology",
+    "checking baseline fasting lipids, transaminases, and negative serum pregnancy test before isotretinoin",
+    "Saudi Dermatology Drug",
+    "https://www.moh.gov.sa/"
+  ],
+  [
+    "Vancomycin Infusion Rate Red Man Syndrome Histamine Prevention Slow Infusion Over 2 Hours",
+    "Pharmacology",
+    "General Principles",
+    "restarting slower diluted infusion safely alongside diphenhydramine distinguishing true IgE anaphylaxis",
+    "SCFHS Antimicrobial Safety",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Aminoglycoside Therapeutic Drug Monitoring Peak Efficacy Trough Oto-Nephrotoxicity Guard",
+    "Pharmacology",
+    "Renal",
+    "adjusting dosing interval proactively whenever elevated amikacin/gentamicin pre-dose trough appears",
+    "SCFHS Nephro-Pharm",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "G6PD Screening Mediterranean Variant Common Saudi Arabia Avoiding Rasburicase Dapsone TMP-SMX",
+    "Genetics",
+    "Hematology",
+    "performing quantitative G6PD activity assay prior to rasburicase, primaquine, or dapsone exposure",
+    "Saudi Hematology Genetics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Alpha-Thalassemia Hydrops Fetalis Four-Gene Deletion Eastern Province Preconception Carrier Screen",
+    "Genetics",
+    "Pregnancy",
+    "interpreting microcytic hypochromic normal HbA2/HbF indices accurately via alpha-globin molecular test",
+    "SCFHS Genetic Screen",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Osteogenesis Imperfecta Type I Blue Sclera Recurrent Fractures Hearing Loss Pamidronate",
+    "Genetics",
+    "Musculoskeletal",
+    "differentiating COL1A1 collagen fragility dentinogenesis imperfecta carefully from child physical abuse",
+    "SCFHS Pediatric Genetics",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Sideroblastic Anemia Ringed Sideroblasts Prussian Blue Pyridoxine B6 Isoniazid Alcohol",
+    "Pathology",
+    "Hematology",
+    "withdrawing offending alcohol or lead/isoniazid toxicity while trialing high-dose vitamin B6",
+    "SCFHS Hematology Path",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Paget Disease of Bone Elevated Isolated ALP Deafness Bowing Bisphosphonate Zoledronate",
+    "Pathology",
+    "Musculoskeletal",
+    "ordering serum alkaline phosphatase and bone scintigraphy before single-dose IV zoledronate",
+    "SCFHS Bone Pathology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Crohn Granulomas Skip Lesions Transmural Fistulas Versus Ulcerative Continuous Crypt Abscesses",
+    "Pathology",
+    "Gastrointestinal",
+    "recognizing cobblestone non-caseating transmural strictures predispose to perianal/enterovesical fistulas",
+    "SCFHS GI Pathology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Carotid Sinus Hypersensitivity Elderly Tight Collar Shaving Syncope Dual-Chamber Pacemaker",
+    "Physiology",
+    "Cardiovascular",
+    "confirming >= 3 second ventricular pause during careful monitored carotid massage avoiding bruit",
+    "SCFHS Syncope Physiology",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Hypoventilation Respiratory Acidosis Chronic COPD Renal Bicarbonate Compensation Expected Rise",
+    "Physiology",
+    "Respiratory",
+    "applying 3.5-4 mEq/L HCO3 rise per 10 mmHg PaCO2 increase distinguishing acute vs chronic hypercapnia",
+    "SCFHS Acid-Base Phys",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Femoral Nerve Injury Pelvic Retractor Lithotomy Absent Patellar Reflex Quadriceps Buckling",
+    "Anatomy",
+    "Musculoskeletal",
+    "examining knee extension weakness and anterior medial thigh numbness post-pelvic surgery",
+    "SCFHS Surgical Anatomy",
+    "https://www.scfhs.org.sa/"
+  ],
+  [
+    "Trigeminal Nerve Corneal Blink Reflex Afferent V1 Nasociliary Efferent VII Orbicularis Oculi",
+    "Anatomy",
+    "Nervous System",
+    "localizing absent bilateral blink to V1 sensory lesion vs absent ipsilateral blink to facial nerve palsy",
+    "SCFHS Neuroanatomy",
+    "https://www.scfhs.org.sa/"
+  ]
+]
