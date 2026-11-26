@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-50173",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity Improve. Focused assessment demonstrates checking ferritin < 100 or TSAT < 20% in symptomatic HFrEF and giving IV iron over ineffective oral pills. Clinical observations show blood pressure of 123/81 mm Hg, pulse rate of 91/min, respiratory rate of 19/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm chronic heart failure iron deficiency iv ferric carboxymaltose exercise capacity improve. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Checking ferritin < 100 or TSAT < 20% in symptomatic HFrEF and giving IV iron over ineffective oral pills",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves checking ferritin < 100 or TSAT < 20% in symptomatic HFrEF and giving IV iron over ineffective oral pills. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity Improve.\n\nClinical Discussion: This clinical vignette highlights Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity Improve. Definitive evidence-based care centers on checking ferritin < 100 or TSAT < 20% in symptomatic HFrEF and giving IV iron over ineffective oral pills. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity Improve.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Heart Failure Iron Deficiency IV Ferric Carboxymaltose Exercise Capacity Improve."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association",
+        "url": "https://www.sha.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50174",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery EF < 55%. Focused assessment demonstrates referring asymptomatic severe chronic aortic regurgitation for valve replacement if LV EF <= 55% or dilation. Clinical observations show blood pressure of 124/82 mm Hg, pulse rate of 92/min, respiratory rate of 20/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm aortic regurgitation chronic wide pulse pressure corrigan quincke valve surgery ef < 55%. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Referring asymptomatic severe chronic aortic regurgitation for valve replacement if LV EF <= 55% or dilation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves referring asymptomatic severe chronic aortic regurgitation for valve replacement if LV EF <= 55% or dilation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery EF < 55%.\n\nClinical Discussion: This clinical vignette highlights Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery EF < 55%. Definitive evidence-based care centers on referring asymptomatic severe chronic aortic regurgitation for valve replacement if LV EF <= 55% or dilation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery EF < 55%.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Aortic Regurgitation Chronic Wide Pulse Pressure Corrigan Quincke Valve Surgery EF < 55%."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Cardiology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50175",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Gen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Genetic Counseling. Focused assessment demonstrates recommending avoiding competitive burst sports alongside cascade screening in adolescent relatives. Clinical observations show blood pressure of 125/83 mm Hg, pulse rate of 93/min, respiratory rate of 21/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm hypertrophic cardiomyopathy family screening first-degree relatives ecg echo genetic counseling. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Recommending avoiding competitive burst sports alongside cascade screening in adolescent relatives",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves recommending avoiding competitive burst sports alongside cascade screening in adolescent relatives. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Genetic Counseling.\n\nClinical Discussion: This clinical vignette highlights Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Genetic Counseling. Definitive evidence-based care centers on recommending avoiding competitive burst sports alongside cascade screening in adolescent relatives. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Genetic Counseling.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Hypertrophic Cardiomyopathy Family Screening First-Degree Relatives ECG Echo Genetic Counseling."
+    ],
+    "references": [
+      {
+        "label": "SHA Inherited Cardiac",
+        "url": "https://www.sha.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50176",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electrophysiology. Focused assessment demonstrates admitting exertional syncope immediately over benign orthostatic or vasovagal tilt testing. Clinical observations show blood pressure of 126/84 mm Hg, pulse rate of 62/min, respiratory rate of 14/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm syncope cardiac exertional family sudden death prolonged qtc echo holter electrophysiology. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Admitting exertional syncope immediately over benign orthostatic or vasovagal tilt testing",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves admitting exertional syncope immediately over benign orthostatic or vasovagal tilt testing. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electrophysiology.\n\nClinical Discussion: This clinical vignette highlights Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electrophysiology. Definitive evidence-based care centers on admitting exertional syncope immediately over benign orthostatic or vasovagal tilt testing. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electrophysiology.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Syncope Cardiac Exertional Family Sudden Death Prolonged QTc Echo Holter Electrophysiology."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Acute Cardiology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50177",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Ora",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Oral Factor Xa. Focused assessment demonstrates confirming stable hemodynamics, normal RV echo/BNP, and reliable follow-up before safe same-day discharge. Clinical observations show blood pressure of 127/85 mm Hg, pulse rate of 63/min, respiratory rate of 15/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm pulmonary embolism outpatient low risk hestia spesi 0 early discharge direct oral factor xa. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Confirming stable hemodynamics, normal RV echo/BNP, and reliable follow-up before safe same-day discharge",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves confirming stable hemodynamics, normal RV echo/BNP, and reliable follow-up before safe same-day discharge. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Oral Factor Xa.\n\nClinical Discussion: This clinical vignette highlights Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Oral Factor Xa. Definitive evidence-based care centers on confirming stable hemodynamics, normal RV echo/BNP, and reliable follow-up before safe same-day discharge. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Oral Factor Xa.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Pulmonary Embolism Outpatient Low Risk Hestia sPESI 0 Early Discharge Direct Oral Factor Xa."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic VTE",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50178",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variation. Focused assessment demonstrates performing serial 2-hourly peak expiratory flow diaries across working and off-duty weeks confirming. Clinical observations show blood pressure of 128/86 mm Hg, pulse rate of 64/min, respiratory rate of 16/min, and temperature of 38.3C. Targeted diagnostic investigations and clinical review confirm occupational asthma bakery spray painter peak flow serial work vs holiday variation. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Performing serial 2-hourly peak expiratory flow diaries across working and off-duty weeks confirming",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing serial 2-hourly peak expiratory flow diaries across working and off-duty weeks confirming. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variation.\n\nClinical Discussion: This clinical vignette highlights Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variation. Definitive evidence-based care centers on performing serial 2-hourly peak expiratory flow diaries across working and off-duty weeks confirming. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variation.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Occupational Asthma Bakery Spray Painter Peak Flow Serial Work vs Holiday Variation."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Occupational Lung",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50179",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural Biopsy. Focused assessment demonstrates favoring medical thoracoscopy over blind pleural biopsy achieving high histologic diagnostic yield. Clinical observations show blood pressure of 129/87 mm Hg, pulse rate of 65/min, respiratory rate of 17/min, and temperature of 36.5C. Targeted diagnostic investigations and clinical review confirm pleural mesothelioma unilateral effusion asbestos exposure thoracoscopic pleural biopsy. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Favoring medical thoracoscopy over blind pleural biopsy achieving high histologic diagnostic yield",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves favoring medical thoracoscopy over blind pleural biopsy achieving high histologic diagnostic yield. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural Biopsy.\n\nClinical Discussion: This clinical vignette highlights Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural Biopsy. Definitive evidence-based care centers on favoring medical thoracoscopy over blind pleural biopsy achieving high histologic diagnostic yield. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural Biopsy.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Pleural Mesothelioma Unilateral Effusion Asbestos Exposure Thoracoscopic Pleural Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Oncology",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50180",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exclusion. Focused assessment demonstrates excluding nontuberculous mycobacteria sputum infection cleanly before starting chronic macrolide prophylaxis. Clinical observations show blood pressure of 130/68 mm Hg, pulse rate of 66/min, respiratory rate of 18/min, and temperature of 36.6C. Targeted diagnostic investigations and clinical review confirm bronchiectasis sputum azithromycin prophylaxis frequent exacerbations qt ntm exclusion. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Excluding nontuberculous mycobacteria sputum infection cleanly before starting chronic macrolide prophylaxis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves excluding nontuberculous mycobacteria sputum infection cleanly before starting chronic macrolide prophylaxis. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exclusion.\n\nClinical Discussion: This clinical vignette highlights Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exclusion. Definitive evidence-based care centers on excluding nontuberculous mycobacteria sputum infection cleanly before starting chronic macrolide prophylaxis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exclusion.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Bronchiectasis Sputum Azithromycin Prophylaxis Frequent Exacerbations QT NTM Exclusion."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Pulmonology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50181",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes Lifestyle. Focused assessment demonstrates recommending 7% body weight loss, 150 min weekly activity, or metformin in high-risk prediabetes. Clinical observations show blood pressure of 131/69 mm Hg, pulse rate of 67/min, respiratory rate of 19/min, and temperature of 36.7C. Targeted diagnostic investigations and clinical review confirm diabetes mellitus screening adult saudi arabia age >= 35 overweight prediabetes lifestyle. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Recommending 7% body weight loss, 150 min weekly activity, or metformin in high-risk prediabetes",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves recommending 7% body weight loss, 150 min weekly activity, or metformin in high-risk prediabetes. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes Lifestyle.\n\nClinical Discussion: This clinical vignette highlights Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes Lifestyle. Definitive evidence-based care centers on recommending 7% body weight loss, 150 min weekly activity, or metformin in high-risk prediabetes. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes Lifestyle.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Diabetes Mellitus Screening Adult Saudi Arabia Age >= 35 Overweight Prediabetes Lifestyle."
+    ],
+    "references": [
+      {
+        "label": "Saudi Diabetes Guide",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50182",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan Syndrome. Focused assessment demonstrates replacing glucocorticoids prior to levothyroxine avoiding life-threatening adrenal crisis precipitation. Clinical observations show blood pressure of 132/70 mm Hg, pulse rate of 68/min, respiratory rate of 20/min, and temperature of 36.8C. Targeted diagnostic investigations and clinical review confirm hypopituitarism pan-hypopituitary cortisol before thyroxine replacement sheehan syndrome. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Replacing glucocorticoids prior to levothyroxine avoiding life-threatening adrenal crisis precipitation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves replacing glucocorticoids prior to levothyroxine avoiding life-threatening adrenal crisis precipitation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan Syndrome.\n\nClinical Discussion: This clinical vignette highlights Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan Syndrome. Definitive evidence-based care centers on replacing glucocorticoids prior to levothyroxine avoiding life-threatening adrenal crisis precipitation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan Syndrome.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Hypopituitarism Pan-Hypopituitary Cortisol Before Thyroxine Replacement Sheehan Syndrome."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Endocrinology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50183",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low Phosphate. Focused assessment demonstrates treating nutritional osteomalacia promptly with oral ergocalciferol/cholecalciferol + calcium supplement. Clinical observations show blood pressure of 133/71 mm Hg, pulse rate of 69/min, respiratory rate of 21/min, and temperature of 36.9C. Targeted diagnostic investigations and clinical review confirm osteomalacia vitamin d deficiency pseudofractures proximal weakness high alp low phosphate. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Treating nutritional osteomalacia promptly with oral ergocalciferol/cholecalciferol + calcium supplement",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves treating nutritional osteomalacia promptly with oral ergocalciferol/cholecalciferol + calcium supplement. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low Phosphate.\n\nClinical Discussion: This clinical vignette highlights Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low Phosphate. Definitive evidence-based care centers on treating nutritional osteomalacia promptly with oral ergocalciferol/cholecalciferol + calcium supplement. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low Phosphate.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Osteomalacia Vitamin D Deficiency Pseudofractures Proximal Weakness High ALP Low Phosphate."
+    ],
+    "references": [
+      {
+        "label": "Saudi Bone Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50184",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodine Treatment. Focused assessment demonstrates evaluating autonomous toxic multinodular goiter uptake scan before radioactive iodine choice. Clinical observations show blood pressure of 134/72 mm Hg, pulse rate of 70/min, respiratory rate of 14/min, and temperature of 37.0C. Targeted diagnostic investigations and clinical review confirm subclinical hyperthyroidism atrial fibrillation bone loss methimazole radioiodine treatment. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Evaluating autonomous toxic multinodular goiter uptake scan before radioactive iodine choice",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves evaluating autonomous toxic multinodular goiter uptake scan before radioactive iodine choice. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodine Treatment.\n\nClinical Discussion: This clinical vignette highlights Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodine Treatment. Definitive evidence-based care centers on evaluating autonomous toxic multinodular goiter uptake scan before radioactive iodine choice. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodine Treatment.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Subclinical Hyperthyroidism Atrial Fibrillation Bone Loss Methimazole Radioiodine Treatment."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Thyroid Care",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50185",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss 10%. Focused assessment demonstrates screening hepatocellular carcinoma every 6 months with ultrasound once MASH fibrosis advances F4. Clinical observations show blood pressure of 135/73 mm Hg, pulse rate of 71/min, respiratory rate of 15/min, and temperature of 37.1C. Targeted diagnostic investigations and clinical review confirm non-alcoholic steatohepatitis cirrhosis vitamin e pioglitazone glp-1 weight loss 10%. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Screening hepatocellular carcinoma every 6 months with ultrasound once MASH fibrosis advances F4",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves screening hepatocellular carcinoma every 6 months with ultrasound once MASH fibrosis advances F4. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss 10%.\n\nClinical Discussion: This clinical vignette highlights Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss 10%. Definitive evidence-based care centers on screening hepatocellular carcinoma every 6 months with ultrasound once MASH fibrosis advances F4. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss 10%.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Non-Alcoholic Steatohepatitis Cirrhosis Vitamin E Pioglitazone GLP-1 Weight Loss 10%."
+    ],
+    "references": [
+      {
+        "label": "Saudi GI Hepatology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50186",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persistent CBD. Focused assessment demonstrates avoiding routine urgent ERCP within 24h in mild predicted gallstone pancreatitis lacking cholangitis. Clinical observations show blood pressure of 136/74 mm Hg, pulse rate of 72/min, respiratory rate of 16/min, and temperature of 37.2C. Targeted diagnostic investigations and clinical review confirm acute pancreatitis gallstone urgent ercp only if concurrent cholangitis or persistent cbd. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Avoiding routine urgent ERCP within 24h in mild predicted gallstone pancreatitis lacking cholangitis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves avoiding routine urgent ERCP within 24h in mild predicted gallstone pancreatitis lacking cholangitis. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persistent CBD.\n\nClinical Discussion: This clinical vignette highlights Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persistent CBD. Definitive evidence-based care centers on avoiding routine urgent ERCP within 24h in mild predicted gallstone pancreatitis lacking cholangitis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persistent CBD.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Acute Pancreatitis Gallstone Urgent ERCP ONLY If Concurrent Cholangitis Or Persistent CBD."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Gastroenterology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50187",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparati",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparation Clipping. Focused assessment demonstrates performing rapid purge colonoscopy within 24h after hemodynamic stabilization identifying bleeding diverticulum. Clinical observations show blood pressure of 137/75 mm Hg, pulse rate of 73/min, respiratory rate of 17/min, and temperature of 37.3C. Targeted diagnostic investigations and clinical review confirm diverticular bleeding brisk painless elderly resuscitation colonoscopy preparation clipping. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Performing rapid purge colonoscopy within 24h after hemodynamic stabilization identifying bleeding diverticulum",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing rapid purge colonoscopy within 24h after hemodynamic stabilization identifying bleeding diverticulum. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparation Clipping.\n\nClinical Discussion: This clinical vignette highlights Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparation Clipping. Definitive evidence-based care centers on performing rapid purge colonoscopy within 24h after hemodynamic stabilization identifying bleeding diverticulum. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparation Clipping.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Diverticular Bleeding Brisk Painless Elderly Resuscitation Colonoscopy Preparation Clipping."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Acute GI",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50188",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Bre",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Breastfeeding. Focused assessment demonstrates continuing biologic IBD maintenance therapy uninterrupted during pregnancy avoiding severe flare fetal loss. Clinical observations show blood pressure of 138/76 mm Hg, pulse rate of 74/min, respiratory rate of 18/min, and temperature of 37.4C. Targeted diagnostic investigations and clinical review confirm inflammatory bowel disease vedolizumab ustekinumab anti-tnf safety pregnancy breastfeeding. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Continuing biologic IBD maintenance therapy uninterrupted during pregnancy avoiding severe flare fetal loss",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves continuing biologic IBD maintenance therapy uninterrupted during pregnancy avoiding severe flare fetal loss. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Breastfeeding.\n\nClinical Discussion: This clinical vignette highlights Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Breastfeeding. Definitive evidence-based care centers on continuing biologic IBD maintenance therapy uninterrupted during pregnancy avoiding severe flare fetal loss. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Breastfeeding.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Inflammatory Bowel Disease Vedolizumab Ustekinumab Anti-TNF Safety Pregnancy Breastfeeding."
+    ],
+    "references": [
+      {
+        "label": "Saudi IBD Consensus",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50189",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monito",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monitoring. Focused assessment demonstrates counseling abundant water intake matching aquaresis while checking hepatic LFTs regularly on tolvaptan. Clinical observations show blood pressure of 139/77 mm Hg, pulse rate of 75/min, respiratory rate of 19/min, and temperature of 37.5C. Targeted diagnostic investigations and clinical review confirm polycystic kidney tolvaptan aquaresis hypernatremia thirst hepatotoxicity monitoring. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Counseling abundant water intake matching aquaresis while checking hepatic LFTs regularly on tolvaptan",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling abundant water intake matching aquaresis while checking hepatic LFTs regularly on tolvaptan. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monitoring.\n\nClinical Discussion: This clinical vignette highlights Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monitoring. Definitive evidence-based care centers on counseling abundant water intake matching aquaresis while checking hepatic LFTs regularly on tolvaptan. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monitoring.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Polycystic Kidney Tolvaptan Aquaresis Hypernatremia Thirst Hepatotoxicity Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Saudi Nephrology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50190",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Re",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Response. Focused assessment demonstrates excluding hidden NSAID exposure and screening lymphoma in adult-onset minimal change nephrotic. Clinical observations show blood pressure of 110/78 mm Hg, pulse rate of 76/min, respiratory rate of 20/min, and temperature of 37.6C. Targeted diagnostic investigations and clinical review confirm minimal change disease adult hodgkin lymphoma nsaid trigger oral prednisolone response. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Excluding hidden NSAID exposure and screening lymphoma in adult-onset minimal change nephrotic",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves excluding hidden NSAID exposure and screening lymphoma in adult-onset minimal change nephrotic. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Response.\n\nClinical Discussion: This clinical vignette highlights Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Response. Definitive evidence-based care centers on excluding hidden NSAID exposure and screening lymphoma in adult-onset minimal change nephrotic. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Response.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Minimal Change Disease Adult Hodgkin Lymphoma NSAID Trigger Oral Prednisolone Response."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Nephrology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50191",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motilit",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motility Agents. Focused assessment demonstrates avoiding bactericidal antibiotics and loperamide in bloody EHEC diarrhea reducing hemolytic uremic risk. Clinical observations show blood pressure of 111/79 mm Hg, pulse rate of 77/min, respiratory rate of 21/min, and temperature of 37.7C. Targeted diagnostic investigations and clinical review confirm thrombotic microangiopathy shiga toxin e. coli o157:h7 avoid antibiotics motility agents. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Avoiding bactericidal antibiotics and loperamide in bloody EHEC diarrhea reducing hemolytic uremic risk",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves avoiding bactericidal antibiotics and loperamide in bloody EHEC diarrhea reducing hemolytic uremic risk. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motility Agents.\n\nClinical Discussion: This clinical vignette highlights Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motility Agents. Definitive evidence-based care centers on avoiding bactericidal antibiotics and loperamide in bloody EHEC diarrhea reducing hemolytic uremic risk. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motility Agents.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Thrombotic Microangiopathy Shiga Toxin E. Coli O157:H7 Avoid Antibiotics Motility Agents."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Hematology ID",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50192",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib Care. Focused assessment demonstrates testing BCR-ABL kinase mutations promptly when molecular milestone failure or rising transcript occurs. Clinical observations show blood pressure of 112/80 mm Hg, pulse rate of 78/min, respiratory rate of 14/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm chronic myeloid leukemia tyrosine kinase resistance bcr-abl sequencing ponatinib care. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Testing BCR-ABL kinase mutations promptly when molecular milestone failure or rising transcript occurs",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves testing BCR-ABL kinase mutations promptly when molecular milestone failure or rising transcript occurs. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib Care.\n\nClinical Discussion: This clinical vignette highlights Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib Care. Definitive evidence-based care centers on testing BCR-ABL kinase mutations promptly when molecular milestone failure or rising transcript occurs. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib Care.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Myeloid Leukemia Tyrosine Kinase Resistance BCR-ABL Sequencing Ponatinib Care."
+    ],
+    "references": [
+      {
+        "label": "Saudi Oncology Guide",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50193",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Join",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Joint Replace. Focused assessment demonstrates referring debilitating pain refractory to conservative weight/exercise/analgesia for total arthroplasty. Clinical observations show blood pressure of 113/81 mm Hg, pulse rate of 79/min, respiratory rate of 15/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm osteoarthritis hip acetaminophen topical nsaids weight loss intra-articular joint replace. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Referring debilitating pain refractory to conservative weight/exercise/analgesia for total arthroplasty",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves referring debilitating pain refractory to conservative weight/exercise/analgesia for total arthroplasty. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Joint Replace.\n\nClinical Discussion: This clinical vignette highlights Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Joint Replace. Definitive evidence-based care centers on referring debilitating pain refractory to conservative weight/exercise/analgesia for total arthroplasty. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Joint Replace.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Osteoarthritis Hip Acetaminophen Topical NSAIDs Weight Loss Intra-Articular Joint Replace."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Orthopedics",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50194",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Ti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Titration. Focused assessment demonstrates starting 50 mg allopurinol daily in CKD stage 4 titrating safely upward monitoring rash hypersensitivity. Clinical observations show blood pressure of 114/82 mm Hg, pulse rate of 80/min, respiratory rate of 16/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm gout chronic renal failure colchicine reduction allopurinol start low go slow titration. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Starting 50 mg allopurinol daily in CKD stage 4 titrating safely upward monitoring rash hypersensitivity",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves starting 50 mg allopurinol daily in CKD stage 4 titrating safely upward monitoring rash hypersensitivity. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Titration.\n\nClinical Discussion: This clinical vignette highlights Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Titration. Definitive evidence-based care centers on starting 50 mg allopurinol daily in CKD stage 4 titrating safely upward monitoring rash hypersensitivity. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Titration.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Gout Chronic Renal Failure Colchicine Reduction Allopurinol Start Low Go Slow Titration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Rheumatology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50195",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Hematology",
+    "topic": "Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavirin Caution. Focused assessment demonstrates investigating recent slaughterhouse/camel tick contact in acute febrile thrombocytopenia/encephalitis. Clinical observations show blood pressure of 115/83 mm Hg, pulse rate of 81/min, respiratory rate of 17/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm alkhurma hemorrhagic fever tick/livestock western saudi arabia supportive ribavirin caution. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Investigating recent slaughterhouse/camel tick contact in acute febrile thrombocytopenia/encephalitis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves investigating recent slaughterhouse/camel tick contact in acute febrile thrombocytopenia/encephalitis. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavirin Caution.\n\nClinical Discussion: This clinical vignette highlights Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavirin Caution. Definitive evidence-based care centers on investigating recent slaughterhouse/camel tick contact in acute febrile thrombocytopenia/encephalitis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavirin Caution.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Alkhurma Hemorrhagic Fever Tick/Livestock Western Saudi Arabia Supportive Ribavirin Caution."
+    ],
+    "references": [
+      {
+        "label": "Saudi PHA Zoonoses",
+        "url": "https://www.pha.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50196",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 Days. Focused assessment demonstrates initiating oral doxycycline promptly on prolonged unexplained fever with normal CXR or mild transaminitis. Clinical observations show blood pressure of 116/84 mm Hg, pulse rate of 82/min, respiratory rate of 18/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm q fever hepatitis pneumonia unpasteurized milk pastoral exposure doxycycline 14 days. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Initiating oral doxycycline promptly on prolonged unexplained fever with normal CXR or mild transaminitis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves initiating oral doxycycline promptly on prolonged unexplained fever with normal CXR or mild transaminitis. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 Days.\n\nClinical Discussion: This clinical vignette highlights Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 Days. Definitive evidence-based care centers on initiating oral doxycycline promptly on prolonged unexplained fever with normal CXR or mild transaminitis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 Days.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Q Fever Hepatitis Pneumonia Unpasteurized Milk Pastoral Exposure Doxycycline 14 Days."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH Infectious",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50197",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder Squamous. Focused assessment demonstrates performing cystoscopy urgently for terminal hematuria in older adults from former endemic regions. Clinical observations show blood pressure of 117/85 mm Hg, pulse rate of 83/min, respiratory rate of 19/min, and temperature of 38.3C. Targeted diagnostic investigations and clinical review confirm schistosomiasis bilharziasis freshwater snails praziquantel hepatomegaly bladder squamous. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Performing cystoscopy urgently for terminal hematuria in older adults from former endemic regions",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing cystoscopy urgently for terminal hematuria in older adults from former endemic regions. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder Squamous.\n\nClinical Discussion: This clinical vignette highlights Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder Squamous. Definitive evidence-based care centers on performing cystoscopy urgently for terminal hematuria in older adults from former endemic regions. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder Squamous.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Schistosomiasis Bilharziasis Freshwater Snails Praziquantel Hepatomegaly Bladder Squamous."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Tropical Med",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50198",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aci",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aciclovir. Focused assessment demonstrates admitting pregnant or adult smokers developing tachypnea/rash for prompt IV aciclovir. Clinical observations show blood pressure of 118/86 mm Hg, pulse rate of 84/min, respiratory rate of 20/min, and temperature of 36.5C. Targeted diagnostic investigations and clinical review confirm varicella adult primary pneumonia respiratory distress airborne isolation iv aciclovir. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Admitting pregnant or adult smokers developing tachypnea/rash for prompt IV aciclovir",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves admitting pregnant or adult smokers developing tachypnea/rash for prompt IV aciclovir. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aciclovir.\n\nClinical Discussion: This clinical vignette highlights Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aciclovir. Definitive evidence-based care centers on admitting pregnant or adult smokers developing tachypnea/rash for prompt IV aciclovir. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aciclovir.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Varicella Adult Primary Pneumonia Respiratory Distress Airborne Isolation IV Aciclovir."
+    ],
+    "references": [
+      {
+        "label": "Saudi Infection Control",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50199",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Iverme",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Ivermectin. Focused assessment demonstrates isolating institutionalized crusted scabies patients on contact precautions due to extreme mite burden. Clinical observations show blood pressure of 119/87 mm Hg, pulse rate of 85/min, respiratory rate of 21/min, and temperature of 36.6C. Targeted diagnostic investigations and clinical review confirm scabies crusted norwegian immunocompromised repeated permethrin plus oral ivermectin. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Isolating institutionalized crusted scabies patients on contact precautions due to extreme mite burden",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves isolating institutionalized crusted scabies patients on contact precautions due to extreme mite burden. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Ivermectin.\n\nClinical Discussion: This clinical vignette highlights Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Ivermectin. Definitive evidence-based care centers on isolating institutionalized crusted scabies patients on contact precautions due to extreme mite burden. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Ivermectin.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Scabies Crusted Norwegian Immunocompromised Repeated Permethrin Plus Oral Ivermectin."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Dermatology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50200",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progress",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progression. Focused assessment demonstrates counseling daily high-SPF sunscreen use and periodic full skin check in fair sun-damaged elders. Clinical observations show blood pressure of 120/68 mm Hg, pulse rate of 86/min, respiratory rate of 14/min, and temperature of 36.7C. Targeted diagnostic investigations and clinical review confirm actinic keratosis cryotherapy topical 5-fluorouracil imiquimod squamous progression. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Counseling daily high-SPF sunscreen use and periodic full skin check in fair sun-damaged elders",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling daily high-SPF sunscreen use and periodic full skin check in fair sun-damaged elders. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progression.\n\nClinical Discussion: This clinical vignette highlights Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progression. Definitive evidence-based care centers on counseling daily high-SPF sunscreen use and periodic full skin check in fair sun-damaged elders. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progression.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Actinic Keratosis Cryotherapy Topical 5-Fluorouracil Imiquimod Squamous Progression."
+    ],
+    "references": [
+      {
+        "label": "Saudi Skin Prevention",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50201",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamine Guard. Focused assessment demonstrates avoiding opioid narcotics in emergency migraine treatment preventing rebound medication-overuse headaches. Clinical observations show blood pressure of 121/69 mm Hg, pulse rate of 87/min, respiratory rate of 15/min, and temperature of 36.8C. Targeted diagnostic investigations and clinical review confirm migraine status emergency iv metoclopramide ketorolac magnesium dihydroergotamine guard. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Avoiding opioid narcotics in emergency migraine treatment preventing rebound medication-overuse headaches",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves avoiding opioid narcotics in emergency migraine treatment preventing rebound medication-overuse headaches. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamine Guard.\n\nClinical Discussion: This clinical vignette highlights Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamine Guard. Definitive evidence-based care centers on avoiding opioid narcotics in emergency migraine treatment preventing rebound medication-overuse headaches. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamine Guard.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Migraine Status Emergency IV Metoclopramide Ketorolac Magnesium Dihydroergotamine Guard."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Acute Neurology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50202",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymomatous. Focused assessment demonstrates performing extended transsternal/thoracoscopic thymectomy under age 65 improving long-term remission. Clinical observations show blood pressure of 122/70 mm Hg, pulse rate of 88/min, respiratory rate of 16/min, and temperature of 36.9C. Targeted diagnostic investigations and clinical review confirm myasthenia gravis thymectomy benefit early generalized achr positive non-thymomatous. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Performing extended transsternal/thoracoscopic thymectomy under age 65 improving long-term remission",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing extended transsternal/thoracoscopic thymectomy under age 65 improving long-term remission. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymomatous.\n\nClinical Discussion: This clinical vignette highlights Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymomatous. Definitive evidence-based care centers on performing extended transsternal/thoracoscopic thymectomy under age 65 improving long-term remission. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymomatous.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Myasthenia Gravis Thymectomy Benefit Early Generalized AChR Positive Non-Thymomatous."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurology Society",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50203",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Behavioral Health",
+    "topic": "Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol Worsen. Focused assessment demonstrates choosing quetiapine or low-dose clozapine preserving motor dopamine pathways over typical blockers. Clinical observations show blood pressure of 123/71 mm Hg, pulse rate of 89/min, respiratory rate of 17/min, and temperature of 37.0C. Targeted diagnostic investigations and clinical review confirm parkinson disease psychosis pimavanserin quetiapine clozapine avoid haloperidol worsen. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Choosing quetiapine or low-dose clozapine preserving motor dopamine pathways over typical blockers",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves choosing quetiapine or low-dose clozapine preserving motor dopamine pathways over typical blockers. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol Worsen.\n\nClinical Discussion: This clinical vignette highlights Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol Worsen. Definitive evidence-based care centers on choosing quetiapine or low-dose clozapine preserving motor dopamine pathways over typical blockers. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol Worsen.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Parkinson Disease Psychosis Pimavanserin Quetiapine Clozapine Avoid Haloperidol Worsen."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Neuropsychiatry",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50204",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Trigg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Triggered. Focused assessment demonstrates switching to lorazepam or oxazepam cleanly in cirrhotic liver failure avoiding active metabolite accumulation. Clinical observations show blood pressure of 124/72 mm Hg, pulse rate of 90/min, respiratory rate of 18/min, and temperature of 37.1C. Targeted diagnostic investigations and clinical review confirm alcohol withdrawal diazepam chlordiazepoxide loading fixed vs ciwa symptom-triggered. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Switching to lorazepam or oxazepam cleanly in cirrhotic liver failure avoiding active metabolite accumulation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves switching to lorazepam or oxazepam cleanly in cirrhotic liver failure avoiding active metabolite accumulation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Triggered.\n\nClinical Discussion: This clinical vignette highlights Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Triggered. Definitive evidence-based care centers on switching to lorazepam or oxazepam cleanly in cirrhotic liver failure avoiding active metabolite accumulation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Triggered.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Alcohol Withdrawal Diazepam Chlordiazepoxide Loading Fixed Vs CIWA Symptom-Triggered."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Psychiatry",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50205",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Saf",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Safety. Focused assessment demonstrates evaluating mixed agitation depression symptoms carefully avoiding destabilizing antidepressant monotherapy. Clinical observations show blood pressure of 125/73 mm Hg, pulse rate of 91/min, respiratory rate of 19/min, and temperature of 37.2C. Targeted diagnostic investigations and clinical review confirm bipolar disorder mixed features quetiapine lurasidone valproate suicide risk safety. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Evaluating mixed agitation depression symptoms carefully avoiding destabilizing antidepressant monotherapy",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves evaluating mixed agitation depression symptoms carefully avoiding destabilizing antidepressant monotherapy. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Safety.\n\nClinical Discussion: This clinical vignette highlights Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Safety. Definitive evidence-based care centers on evaluating mixed agitation depression symptoms carefully avoiding destabilizing antidepressant monotherapy. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Safety.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Bipolar Disorder Mixed Features Quetiapine Lurasidone Valproate Suicide Risk Safety."
+    ],
+    "references": [
+      {
+        "label": "Saudi Mental Health",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50206",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Esc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Escalation. Focused assessment demonstrates establishing regular scheduled primary visits validating real suffering while focusing functional goals. Clinical observations show blood pressure of 126/74 mm Hg, pulse rate of 92/min, respiratory rate of 20/min, and temperature of 37.3C. Targeted diagnostic investigations and clinical review confirm somatic pain disorder chronic multimodal pain rehab cbt avoiding poly-opioid escalation. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Establishing regular scheduled primary visits validating real suffering while focusing functional goals",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves establishing regular scheduled primary visits validating real suffering while focusing functional goals. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Escalation.\n\nClinical Discussion: This clinical vignette highlights Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Escalation. Definitive evidence-based care centers on establishing regular scheduled primary visits validating real suffering while focusing functional goals. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Escalation.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Somatic Pain Disorder Chronic Multimodal Pain Rehab CBT Avoiding Poly-Opioid Escalation."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Behavioral Med",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50207",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Hematology",
+    "topic": "Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization Angiography. Focused assessment demonstrates performing selective angioembolization when contrast CT shows active blush extravasation or pseudoaneurysm. Clinical observations show blood pressure of 127/75 mm Hg, pulse rate of 93/min, respiratory rate of 21/min, and temperature of 37.4C. Targeted diagnostic investigations and clinical review confirm blunt splenic injury stable grade iv interventional splenic artery embolization angiography. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Performing selective angioembolization when contrast CT shows active blush extravasation or pseudoaneurysm",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing selective angioembolization when contrast CT shows active blush extravasation or pseudoaneurysm. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization Angiography.\n\nClinical Discussion: This clinical vignette highlights Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization Angiography. Definitive evidence-based care centers on performing selective angioembolization when contrast CT shows active blush extravasation or pseudoaneurysm. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization Angiography.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Blunt Splenic Injury Stable Grade IV Interventional Splenic Artery Embolization Angiography."
+    ],
+    "references": [
+      {
+        "label": "Saudi Trauma ATLS",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50208",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation S",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation Supportive. Focused assessment demonstrates verifying normal compressible appendix on ultrasound sparing unnecessary negative laparoscopy. Clinical observations show blood pressure of 128/76 mm Hg, pulse rate of 62/min, respiratory rate of 14/min, and temperature of 37.5C. Targeted diagnostic investigations and clinical review confirm mesenteric adenitis pediatric rlq pain preceding viral pharyngitis observation supportive. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Verifying normal compressible appendix on ultrasound sparing unnecessary negative laparoscopy",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves verifying normal compressible appendix on ultrasound sparing unnecessary negative laparoscopy. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation Supportive.\n\nClinical Discussion: This clinical vignette highlights Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation Supportive. Definitive evidence-based care centers on verifying normal compressible appendix on ultrasound sparing unnecessary negative laparoscopy. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation Supportive.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Mesenteric Adenitis Pediatric RLQ Pain Preceding Viral Pharyngitis Observation Supportive."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Pediatric Surgery",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50209",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Dra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Drainage. Focused assessment demonstrates decompressing septic gallbladder radiologically bridging critical medical patients safely. Clinical observations show blood pressure of 129/77 mm Hg, pulse rate of 63/min, respiratory rate of 15/min, and temperature of 37.6C. Targeted diagnostic investigations and clinical review confirm acute cholecystitis elderly high operative risk percutaneous cholecystostomy drainage. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Decompressing septic gallbladder radiologically bridging critical medical patients safely",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves decompressing septic gallbladder radiologically bridging critical medical patients safely. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Drainage.\n\nClinical Discussion: This clinical vignette highlights Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Drainage. Definitive evidence-based care centers on decompressing septic gallbladder radiologically bridging critical medical patients safely. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Drainage.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Acute Cholecystitis Elderly High Operative Risk Percutaneous Cholecystostomy Drainage."
+    ],
+    "references": [
+      {
+        "label": "SCFHS HPB Surgery",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50210",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Ha",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Hartmann. Focused assessment demonstrates using self-expanding metallic stent as bridge to elective single-stage anastomosis or palliation. Clinical observations show blood pressure of 130/78 mm Hg, pulse rate of 64/min, respiratory rate of 16/min, and temperature of 37.7C. Targeted diagnostic investigations and clinical review confirm colorectal cancer obstruction acute left-sided endoscopic stent bridge versus hartmann. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Using self-expanding metallic stent as bridge to elective single-stage anastomosis or palliation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves using self-expanding metallic stent as bridge to elective single-stage anastomosis or palliation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Hartmann.\n\nClinical Discussion: This clinical vignette highlights Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Hartmann. Definitive evidence-based care centers on using self-expanding metallic stent as bridge to elective single-stage anastomosis or palliation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Hartmann.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Colorectal Cancer Obstruction Acute Left-Sided Endoscopic Stent Bridge Versus Hartmann."
+    ],
+    "references": [
+      {
+        "label": "Saudi Colorectal Guide",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50211",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palliative. Focused assessment demonstrates performing core needle biopsy immediately securing airway and checking BRAF V600E mutation. Clinical observations show blood pressure of 131/79 mm Hg, pulse rate of 65/min, respiratory rate of 17/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm thyroid cancer anaplastic rapid hard neck mass tracheal compression biopsy palliative. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Performing core needle biopsy immediately securing airway and checking BRAF V600E mutation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing core needle biopsy immediately securing airway and checking BRAF V600E mutation. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palliative.\n\nClinical Discussion: This clinical vignette highlights Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palliative. Definitive evidence-based care centers on performing core needle biopsy immediately securing airway and checking BRAF V600E mutation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palliative.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Thyroid Cancer Anaplastic Rapid Hard Neck Mass Tracheal Compression Biopsy Palliative."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Endocrine Onco",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50212",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Va",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Vascular. Focused assessment demonstrates draining plantar space abscess emergently first before arterial bypass/angioplasty revascularization. Clinical observations show blood pressure of 132/80 mm Hg, pulse rate of 66/min, respiratory rate of 18/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm diabetic foot wet gangrene gas crepitus empiric broad iv surgical debridement vascular. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Draining plantar space abscess emergently first before arterial bypass/angioplasty revascularization",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves draining plantar space abscess emergently first before arterial bypass/angioplasty revascularization. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Vascular.\n\nClinical Discussion: This clinical vignette highlights Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Vascular. Definitive evidence-based care centers on draining plantar space abscess emergently first before arterial bypass/angioplasty revascularization. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Vascular.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Diabetic Foot Wet Gangrene Gas Crepitus Empiric Broad IV Surgical Debridement Vascular."
+    ],
+    "references": [
+      {
+        "label": "Saudi Diabetic Foot",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50213",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone G",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone Graft. Focused assessment demonstrates referring proximal pole scaphoid waist non-union early for internal headless screw fixation. Clinical observations show blood pressure of 133/81 mm Hg, pulse rate of 67/min, respiratory rate of 19/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm scaphoid fracture non-union dorsal intercalated instability herbert screw bone graft. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Referring proximal pole scaphoid waist non-union early for internal headless screw fixation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves referring proximal pole scaphoid waist non-union early for internal headless screw fixation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone Graft.\n\nClinical Discussion: This clinical vignette highlights Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone Graft. Definitive evidence-based care centers on referring proximal pole scaphoid waist non-union early for internal headless screw fixation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone Graft.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Scaphoid Fracture Non-Union Dorsal Intercalated Instability Herbert Screw Bone Graft."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Orthopedics",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50214",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stab",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stabilization. Focused assessment demonstrates counseling high recurrence rate in young active adults < 25 after initial traumatic dislocation. Clinical observations show blood pressure of 134/82 mm Hg, pulse rate of 68/min, respiratory rate of 20/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm anterior shoulder dislocation hill-sachs bankart young athlete arthroscopic stabilization. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Counseling high recurrence rate in young active adults < 25 after initial traumatic dislocation",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling high recurrence rate in young active adults < 25 after initial traumatic dislocation. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stabilization.\n\nClinical Discussion: This clinical vignette highlights Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stabilization. Definitive evidence-based care centers on counseling high recurrence rate in young active adults < 25 after initial traumatic dislocation. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stabilization.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Anterior Shoulder Dislocation Hill-Sachs Bankart Young Athlete Arthroscopic Stabilization."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Sports Ortho",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50215",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Im",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Improvement. Focused assessment demonstrates counseling potential decreased libido/ejaculate volume and 6-month delay before maximal symptom relief. Clinical observations show blood pressure of 135/83 mm Hg, pulse rate of 69/min, respiratory rate of 21/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm benign prostatic hyperplasia dutasteride sexual dysfunction urinary flow rate improvement. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Counseling potential decreased libido/ejaculate volume and 6-month delay before maximal symptom relief",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling potential decreased libido/ejaculate volume and 6-month delay before maximal symptom relief. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Improvement.\n\nClinical Discussion: This clinical vignette highlights Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Improvement. Definitive evidence-based care centers on counseling potential decreased libido/ejaculate volume and 6-month delay before maximal symptom relief. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Improvement.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Benign Prostatic Hyperplasia Dutasteride Sexual Dysfunction Urinary Flow Rate Improvement."
+    ],
+    "references": [
+      {
+        "label": "Saudi Urology Guide",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50216",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicoc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicocelectomy. Focused assessment demonstrates performing subinguinal microscopic ligation for clinically palpable varicocele with impaired semen count. Clinical observations show blood pressure of 136/84 mm Hg, pulse rate of 70/min, respiratory rate of 14/min, and temperature of 38.3C. Targeted diagnostic investigations and clinical review confirm testicular varicocele subfertility abnormal semen analysis microsurgical varicocelectomy. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Performing subinguinal microscopic ligation for clinically palpable varicocele with impaired semen count",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing subinguinal microscopic ligation for clinically palpable varicocele with impaired semen count. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicocelectomy.\n\nClinical Discussion: This clinical vignette highlights Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicocelectomy. Definitive evidence-based care centers on performing subinguinal microscopic ligation for clinically palpable varicocele with impaired semen count. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicocelectomy.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Testicular Varicocele Subfertility Abnormal Semen Analysis Microsurgical Varicocelectomy."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Reproductive Urol",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50217",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Preve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Prevention. Focused assessment demonstrates performing vitreoretinal repair for macula-threatening tractional detachment alongside panretinal laser. Clinical observations show blood pressure of 137/85 mm Hg, pulse rate of 71/min, respiratory rate of 15/min, and temperature of 36.5C. Targeted diagnostic investigations and clinical review confirm retinal detachment diabetes traction neovascular vitrectomy tight glycemic prevention. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Performing vitreoretinal repair for macula-threatening tractional detachment alongside panretinal laser",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing vitreoretinal repair for macula-threatening tractional detachment alongside panretinal laser. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Prevention.\n\nClinical Discussion: This clinical vignette highlights Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Prevention. Definitive evidence-based care centers on performing vitreoretinal repair for macula-threatening tractional detachment alongside panretinal laser. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Prevention.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Retinal Detachment Diabetes Traction Neovascular Vitrectomy Tight Glycemic Prevention."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Ophthalmology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50218",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Masto",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Mastoid Surgery. Focused assessment demonstrates advising strict dry-ear water precautions and arranging high-resolution temporal CT surgery planning. Clinical observations show blood pressure of 138/86 mm Hg, pulse rate of 72/min, respiratory rate of 16/min, and temperature of 36.6C. Targeted diagnostic investigations and clinical review confirm chronic otitis media perforated ear cholesteatoma marginal conductive loss mastoid surgery. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Advising strict dry-ear water precautions and arranging high-resolution temporal CT surgery planning",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves advising strict dry-ear water precautions and arranging high-resolution temporal CT surgery planning. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Mastoid Surgery.\n\nClinical Discussion: This clinical vignette highlights Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Mastoid Surgery. Definitive evidence-based care centers on advising strict dry-ear water precautions and arranging high-resolution temporal CT surgery planning. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Mastoid Surgery.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Chronic Otitis Media Perforated Ear Cholesteatoma Marginal Conductive Loss Mastoid Surgery."
+    ],
+    "references": [
+      {
+        "label": "SCFHS ENT",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50219",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Br",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Breastfeed. Focused assessment demonstrates monitoring outpatient BP days 3-6 postpartum closely when physiological blood pressure peak rebounds. Clinical observations show blood pressure of 139/87 mm Hg, pulse rate of 73/min, respiratory rate of 17/min, and temperature of 36.7C. Targeted diagnostic investigations and clinical review confirm preeclampsia postpartum antihypertensive labetalol nifedipine methyldopa safe breastfeed. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Monitoring outpatient BP days 3-6 postpartum closely when physiological blood pressure peak rebounds",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves monitoring outpatient BP days 3-6 postpartum closely when physiological blood pressure peak rebounds. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Breastfeed.\n\nClinical Discussion: This clinical vignette highlights Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Breastfeed. Definitive evidence-based care centers on monitoring outpatient BP days 3-6 postpartum closely when physiological blood pressure peak rebounds. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Breastfeed.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Preeclampsia Postpartum Antihypertensive Labetalol Nifedipine Methyldopa Safe Breastfeed."
+    ],
+    "references": [
+      {
+        "label": "Saudi OB/GYN Guide",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50220",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postp",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postprandial. Focused assessment demonstrates maintaining fasting < 95 mg/dL, 1h < 140 mg/dL, and 2h < 120 mg/dL sparing macrosomia hypoglycemia. Clinical observations show blood pressure of 110/68 mm Hg, pulse rate of 74/min, respiratory rate of 18/min, and temperature of 36.8C. Targeted diagnostic investigations and clinical review confirm gestational diabetes insulin detemir lispro safe maternal glycemic targets postprandial. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Maintaining fasting < 95 mg/dL, 1h < 140 mg/dL, and 2h < 120 mg/dL sparing macrosomia hypoglycemia",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves maintaining fasting < 95 mg/dL, 1h < 140 mg/dL, and 2h < 120 mg/dL sparing macrosomia hypoglycemia. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postprandial.\n\nClinical Discussion: This clinical vignette highlights Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postprandial. Definitive evidence-based care centers on maintaining fasting < 95 mg/dL, 1h < 140 mg/dL, and 2h < 120 mg/dL sparing macrosomia hypoglycemia. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postprandial.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Gestational Diabetes Insulin Detemir Lispro Safe Maternal Glycemic Targets Postprandial."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH GDM",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50221",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics Guard. Focused assessment demonstrates obtaining adequate regional/general anesthesia before manual exploration and giving prophylactic antibiotic. Clinical observations show blood pressure of 111/69 mm Hg, pulse rate of 75/min, respiratory rate of 19/min, and temperature of 36.9C. Targeted diagnostic investigations and clinical review confirm postpartum hemorrhage retained placenta manual exploration oxytocin antibiotics guard. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Obtaining adequate regional/general anesthesia before manual exploration and giving prophylactic antibiotic",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves obtaining adequate regional/general anesthesia before manual exploration and giving prophylactic antibiotic. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics Guard.\n\nClinical Discussion: This clinical vignette highlights Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics Guard. Definitive evidence-based care centers on obtaining adequate regional/general anesthesia before manual exploration and giving prophylactic antibiotic. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics Guard.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Postpartum Hemorrhage Retained Placenta Manual Exploration Oxytocin Antibiotics Guard."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Labor Emergencies",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50222",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection M",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection Methotrexate. Focused assessment demonstrates recognizing interstitial eccentric sac thin < 5 mm myometrial mantle carries catastrophic bleeding risk. Clinical observations show blood pressure of 112/70 mm Hg, pulse rate of 76/min, respiratory rate of 20/min, and temperature of 37.0C. Targeted diagnostic investigations and clinical review confirm ectopic pregnancy interstitial cornual risk rupture hemorrhage wedge resection methotrexate. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Recognizing interstitial eccentric sac thin < 5 mm myometrial mantle carries catastrophic bleeding risk",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves recognizing interstitial eccentric sac thin < 5 mm myometrial mantle carries catastrophic bleeding risk. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection Methotrexate.\n\nClinical Discussion: This clinical vignette highlights Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection Methotrexate. Definitive evidence-based care centers on recognizing interstitial eccentric sac thin < 5 mm myometrial mantle carries catastrophic bleeding risk. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection Methotrexate.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Ectopic Pregnancy Interstitial Cornual Risk Rupture Hemorrhage Wedge Resection Methotrexate."
+    ],
+    "references": [
+      {
+        "label": "SCFHS High-Risk Gyn",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50223",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 26 Weeks. Focused assessment demonstrates referring stage II-IV monochorionic TTTS promptly to fetal therapy center for fetoscopic laser surgery. Clinical observations show blood pressure of 113/71 mm Hg, pulse rate of 77/min, respiratory rate of 21/min, and temperature of 37.1C. Targeted diagnostic investigations and clinical review confirm twin-twin transfusion quintero staging fetoscopic laser ablation anastomoses < 26 weeks. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Referring stage II-IV monochorionic TTTS promptly to fetal therapy center for fetoscopic laser surgery",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves referring stage II-IV monochorionic TTTS promptly to fetal therapy center for fetoscopic laser surgery. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 26 Weeks.\n\nClinical Discussion: This clinical vignette highlights Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 26 Weeks. Definitive evidence-based care centers on referring stage II-IV monochorionic TTTS promptly to fetal therapy center for fetoscopic laser surgery. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 26 Weeks.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Twin-Twin Transfusion Quintero Staging Fetoscopic Laser Ablation Anastomoses < 26 Weeks."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Fetal Medicine",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50224",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Scree",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Screen Avoid. Focused assessment demonstrates treating symptomatic bacterial vaginosis cleanly while avoiding asymptomatic low-risk universal screening. Clinical observations show blood pressure of 114/72 mm Hg, pulse rate of 78/min, respiratory rate of 14/min, and temperature of 37.2C. Targeted diagnostic investigations and clinical review confirm bacterial vaginosis preterm delivery asymptomatic high-risk versus routine screen avoid. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Treating symptomatic bacterial vaginosis cleanly while avoiding asymptomatic low-risk universal screening",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves treating symptomatic bacterial vaginosis cleanly while avoiding asymptomatic low-risk universal screening. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Screen Avoid.\n\nClinical Discussion: This clinical vignette highlights Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Screen Avoid. Definitive evidence-based care centers on treating symptomatic bacterial vaginosis cleanly while avoiding asymptomatic low-risk universal screening. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Screen Avoid.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Bacterial Vaginosis Preterm Delivery Asymptomatic High-Risk Versus Routine Screen Avoid."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Antenatal Gyn",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50225",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained Bleed. Focused assessment demonstrates offering non-hormonal SSRI paroxetine/venlafaxine, gabapentin, or fezolinetant for vasomotor hot flashes. Clinical observations show blood pressure of 115/73 mm Hg, pulse rate of 79/min, respiratory rate of 15/min, and temperature of 37.3C. Targeted diagnostic investigations and clinical review confirm menopause hormone therapy contraindications breast cancer active vte unexplained bleed. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Offering non-hormonal SSRI paroxetine/venlafaxine, gabapentin, or fezolinetant for vasomotor hot flashes",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves offering non-hormonal SSRI paroxetine/venlafaxine, gabapentin, or fezolinetant for vasomotor hot flashes. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained Bleed.\n\nClinical Discussion: This clinical vignette highlights Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained Bleed. Definitive evidence-based care centers on offering non-hormonal SSRI paroxetine/venlafaxine, gabapentin, or fezolinetant for vasomotor hot flashes. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained Bleed.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Menopause Hormone Therapy Contraindications Breast Cancer Active VTE Unexplained Bleed."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Gynecology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50226",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Pres",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Preservation. Focused assessment demonstrates diagnosing hourglass barrel cervix without sliding sign early by color Doppler ultrasound. Clinical observations show blood pressure of 116/74 mm Hg, pulse rate of 80/min, respiratory rate of 16/min, and temperature of 37.4C. Targeted diagnostic investigations and clinical review confirm cervical ectopic methotrexate intra-sac kcl avoiding hysterectomy fertility preservation. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Diagnosing hourglass barrel cervix without sliding sign early by color Doppler ultrasound",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves diagnosing hourglass barrel cervix without sliding sign early by color Doppler ultrasound. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Preservation.\n\nClinical Discussion: This clinical vignette highlights Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Preservation. Definitive evidence-based care centers on diagnosing hourglass barrel cervix without sliding sign early by color Doppler ultrasound. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Preservation.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Cervical Ectopic Methotrexate Intra-Sac KCl Avoiding Hysterectomy Fertility Preservation."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Gynec Emergency",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50227",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fe",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fertility. Focused assessment demonstrates performing karyotype early in tall normal-breast or delayed-puberty primary amenorrhea before puberty delay. Clinical observations show blood pressure of 117/75 mm Hg, pulse rate of 81/min, respiratory rate of 17/min, and temperature of 37.5C. Targeted diagnostic investigations and clinical review confirm primary amenorrhea swyer 46,xy streak gonads gonadectomy estrogen replacement fertility. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Performing karyotype early in tall normal-breast or delayed-puberty primary amenorrhea before puberty delay",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves performing karyotype early in tall normal-breast or delayed-puberty primary amenorrhea before puberty delay. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fertility.\n\nClinical Discussion: This clinical vignette highlights Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fertility. Definitive evidence-based care centers on performing karyotype early in tall normal-breast or delayed-puberty primary amenorrhea before puberty delay. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fertility.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Primary Amenorrhea Swyer 46,XY Streak Gonads Gonadectomy Estrogen Replacement Fertility."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Reproductive Endo",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50228",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Che",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Check. Focused assessment demonstrates continuing pump or direct feeding from affected breast while selecting antistaphylococcal beta-lactam/clinda. Clinical observations show blood pressure of 118/76 mm Hg, pulse rate of 82/min, respiratory rate of 18/min, and temperature of 37.6C. Targeted diagnostic investigations and clinical review confirm mastitis breastfeeding lactational mrsa risk clindamycin vancomycin drainage check. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Continuing pump or direct feeding from affected breast while selecting antistaphylococcal beta-lactam/clinda",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves continuing pump or direct feeding from affected breast while selecting antistaphylococcal beta-lactam/clinda. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Check.\n\nClinical Discussion: This clinical vignette highlights Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Check. Definitive evidence-based care centers on continuing pump or direct feeding from affected breast while selecting antistaphylococcal beta-lactam/clinda. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Check.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Mastitis Breastfeeding Lactational MRSA Risk Clindamycin Vancomycin Drainage Check."
+    ],
+    "references": [
+      {
+        "label": "Saudi Breastfeeding",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50229",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm < 28w. Focused assessment demonstrates placing newborns < 28-32 weeks immediately without drying into polyethylene bag under radiant warmer. Clinical observations show blood pressure of 119/77 mm Hg, pulse rate of 83/min, respiratory rate of 19/min, and temperature of 37.7C. Targeted diagnostic investigations and clinical review confirm neonatal hypothermia kangaroo care delivery room plastic wrap extremely preterm < 28w. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Placing newborns < 28-32 weeks immediately without drying into polyethylene bag under radiant warmer",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves placing newborns < 28-32 weeks immediately without drying into polyethylene bag under radiant warmer. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm < 28w.\n\nClinical Discussion: This clinical vignette highlights Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm < 28w. Definitive evidence-based care centers on placing newborns < 28-32 weeks immediately without drying into polyethylene bag under radiant warmer. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm < 28w.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Neonatal Hypothermia Kangaroo Care Delivery Room Plastic Wrap Extremely Preterm < 28w."
+    ],
+    "references": [
+      {
+        "label": "Saudi NICU Care",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50230",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxidants. Focused assessment demonstrates educating families at discharge regarding fava beans, naphthalene mothballs, henna, and sulfonamides. Clinical observations show blood pressure of 120/78 mm Hg, pulse rate of 84/min, respiratory rate of 20/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm g6pd neonatal jaundice kernicterus exchange threshold phototherapy avoiding oxidants. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Educating families at discharge regarding fava beans, naphthalene mothballs, henna, and sulfonamides",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves educating families at discharge regarding fava beans, naphthalene mothballs, henna, and sulfonamides. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxidants.\n\nClinical Discussion: This clinical vignette highlights G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxidants. Definitive evidence-based care centers on educating families at discharge regarding fava beans, naphthalene mothballs, henna, and sulfonamides. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxidants.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for G6PD Neonatal Jaundice Kernicterus Exchange Threshold Phototherapy Avoiding Oxidants."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neonatal Screen",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50231",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal Prophylaxis. Focused assessment demonstrates administering RSV monoclonal immunoprophylaxis protecting premature and CHD infants across RSV season. Clinical observations show blood pressure of 121/79 mm Hg, pulse rate of 85/min, respiratory rate of 21/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm bronchiolitis high-risk congenital heart bpd palivizumab nirsevimab monoclonal prophylaxis. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Administering RSV monoclonal immunoprophylaxis protecting premature and CHD infants across RSV season",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves administering RSV monoclonal immunoprophylaxis protecting premature and CHD infants across RSV season. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal Prophylaxis.\n\nClinical Discussion: This clinical vignette highlights Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal Prophylaxis. Definitive evidence-based care centers on administering RSV monoclonal immunoprophylaxis protecting premature and CHD infants across RSV season. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal Prophylaxis.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Bronchiolitis High-Risk Congenital Heart BPD Palivizumab Nirsevimab Monoclonal Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Pulm",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50232",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuret",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuretics. Focused assessment demonstrates adding oral prednisolone alongside salicylates only when moderate-severe active carditis/CHF presents. Clinical observations show blood pressure of 122/80 mm Hg, pulse rate of 86/min, respiratory rate of 14/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm acute rheumatic carditis corticosteroids severe pancarditis heart failure diuretics. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Adding oral prednisolone alongside salicylates only when moderate-severe active carditis/CHF presents",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves adding oral prednisolone alongside salicylates only when moderate-severe active carditis/CHF presents. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuretics.\n\nClinical Discussion: This clinical vignette highlights Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuretics. Definitive evidence-based care centers on adding oral prednisolone alongside salicylates only when moderate-severe active carditis/CHF presents. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuretics.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Acute Rheumatic Carditis Corticosteroids Severe Pancarditis Heart Failure Diuretics."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Heart",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50233",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide Levamisole. Focused assessment demonstrates using levamisole or mycophenolate steroid-sparing maintenance in frequently relapsing steroid-sensitive. Clinical observations show blood pressure of 123/81 mm Hg, pulse rate of 87/min, respiratory rate of 15/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm pediatric nephrotic syndrome relapse frequent steroid toxicity cyclophosphamide levamisole. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Using levamisole or mycophenolate steroid-sparing maintenance in frequently relapsing steroid-sensitive",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves using levamisole or mycophenolate steroid-sparing maintenance in frequently relapsing steroid-sensitive. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide Levamisole.\n\nClinical Discussion: This clinical vignette highlights Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide Levamisole. Definitive evidence-based care centers on using levamisole or mycophenolate steroid-sparing maintenance in frequently relapsing steroid-sensitive. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide Levamisole.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Pediatric Nephrotic Syndrome Relapse Frequent Steroid Toxicity Cyclophosphamide Levamisole."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Pediatric Nephro",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50234",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15-17 mm. Focused assessment demonstrates confirming diagnosis non-invasively via bedside pyloric muscle ultrasound avoiding upper GI contrast barium. Clinical observations show blood pressure of 124/82 mm Hg, pulse rate of 88/min, respiratory rate of 16/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm hypertrophic pyloric stenosis ultrasound muscle thickness >= 3-4 mm length >= 15-17 mm. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Confirming diagnosis non-invasively via bedside pyloric muscle ultrasound avoiding upper GI contrast barium",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves confirming diagnosis non-invasively via bedside pyloric muscle ultrasound avoiding upper GI contrast barium. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15-17 mm.\n\nClinical Discussion: This clinical vignette highlights Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15-17 mm. Definitive evidence-based care centers on confirming diagnosis non-invasively via bedside pyloric muscle ultrasound avoiding upper GI contrast barium. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15-17 mm.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Hypertrophic Pyloric Stenosis Ultrasound Muscle Thickness >= 3-4 mm Length >= 15-17 mm."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Pediatric GI",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50235",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final He",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final Height. Focused assessment demonstrates reassuring parents low-dose ICS prevents hospitalizations and chronic remodeling with ~1 cm transient effect. Clinical observations show blood pressure of 125/83 mm Hg, pulse rate of 89/min, respiratory rate of 17/min, and temperature of 38.3C. Targeted diagnostic investigations and clinical review confirm childhood asthma inhaled budesonide fluticasone growth velocity minimal final height. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Reassuring parents low-dose ICS prevents hospitalizations and chronic remodeling with ~1 cm transient effect",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves reassuring parents low-dose ICS prevents hospitalizations and chronic remodeling with ~1 cm transient effect. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final Height.\n\nClinical Discussion: This clinical vignette highlights Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final Height. Definitive evidence-based care centers on reassuring parents low-dose ICS prevents hospitalizations and chronic remodeling with ~1 cm transient effect. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final Height.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Childhood Asthma Inhaled Budesonide Fluticasone Growth Velocity Minimal Final Height."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Asthma",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50236",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Inject",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Injector Two. Focused assessment demonstrates prescribing two weight-appropriate epinephrine autoinjectors with school/home written emergency plans. Clinical observations show blood pressure of 126/84 mm Hg, pulse rate of 90/min, respiratory rate of 18/min, and temperature of 36.5C. Targeted diagnostic investigations and clinical review confirm pediatric anaphylaxis biphasic delayed shock observation epinephrine auto-injector two. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Prescribing two weight-appropriate epinephrine autoinjectors with school/home written emergency plans",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves prescribing two weight-appropriate epinephrine autoinjectors with school/home written emergency plans. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Injector Two.\n\nClinical Discussion: This clinical vignette highlights Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Injector Two. Definitive evidence-based care centers on prescribing two weight-appropriate epinephrine autoinjectors with school/home written emergency plans. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Injector Two.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Pediatric Anaphylaxis Biphasic Delayed Shock Observation Epinephrine Auto-Injector Two."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Peds Allergy",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50237",
+    "exam": "SMLE",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Co",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Counseling. Focused assessment demonstrates facilitating empathetic culturally sensitive preimplantation IVF testing options for carrier couples. Clinical observations show blood pressure of 127/85 mm Hg, pulse rate of 91/min, respiratory rate of 19/min, and temperature of 36.6C. Targeted diagnostic investigations and clinical review confirm consanguinity autosomal recessive saudi genetic carrier screening pre-marital counseling. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Facilitating empathetic culturally sensitive preimplantation IVF testing options for carrier couples",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves facilitating empathetic culturally sensitive preimplantation IVF testing options for carrier couples. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Counseling.\n\nClinical Discussion: This clinical vignette highlights Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Counseling. Definitive evidence-based care centers on facilitating empathetic culturally sensitive preimplantation IVF testing options for carrier couples. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Counseling.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Consanguinity Autosomal Recessive Saudi Genetic Carrier Screening Pre-Marital Counseling."
+    ],
+    "references": [
+      {
+        "label": "Saudi Premarital Program",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50238",
+    "exam": "SMLE",
+    "subject": "Genetics",
+    "system": "Respiratory",
+    "topic": "Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alf",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alfa Hypertonic. Focused assessment demonstrates combining nebulized dornase alfa with 7% hypertonic saline daily before chest physiotherapy airway clear. Clinical observations show blood pressure of 128/86 mm Hg, pulse rate of 92/min, respiratory rate of 20/min, and temperature of 36.7C. Targeted diagnostic investigations and clinical review confirm cystic fibrosis saudi arabia sweat test cftr sequencing azithromycin dornase alfa hypertonic. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Combining nebulized dornase alfa with 7% hypertonic saline daily before chest physiotherapy airway clear",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves combining nebulized dornase alfa with 7% hypertonic saline daily before chest physiotherapy airway clear. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alfa Hypertonic.\n\nClinical Discussion: This clinical vignette highlights Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alfa Hypertonic. Definitive evidence-based care centers on combining nebulized dornase alfa with 7% hypertonic saline daily before chest physiotherapy airway clear. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alfa Hypertonic.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Cystic Fibrosis Saudi Arabia Sweat Test CFTR Sequencing Azithromycin Dornase Alfa Hypertonic."
+    ],
+    "references": [
+      {
+        "label": "Saudi CF Center",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50239",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Fami",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Family Sudden. Focused assessment demonstrates obtaining thorough personal syncope and early family cardiac death history before starting methylphenidate. Clinical observations show blood pressure of 129/87 mm Hg, pulse rate of 93/min, respiratory rate of 21/min, and temperature of 36.8C. Targeted diagnostic investigations and clinical review confirm attention deficit hyperactivity cardiac screening prior stimulants personal family sudden. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Obtaining thorough personal syncope and early family cardiac death history before starting methylphenidate",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves obtaining thorough personal syncope and early family cardiac death history before starting methylphenidate. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Family Sudden.\n\nClinical Discussion: This clinical vignette highlights Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Family Sudden. Definitive evidence-based care centers on obtaining thorough personal syncope and early family cardiac death history before starting methylphenidate. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Family Sudden.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Attention Deficit Hyperactivity Cardiac Screening Prior Stimulants Personal Family Sudden."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Child Psychiatry",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50240",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Endocrine",
+    "topic": "Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutritio",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutrition Primary Cure. Focused assessment demonstrates emphasizing oral contraceptives mask amenorrhea falsely without improving trabecular bone recovery like weight gain. Clinical observations show blood pressure of 130/68 mm Hg, pulse rate of 62/min, respiratory rate of 14/min, and temperature of 36.9C. Targeted diagnostic investigations and clinical review confirm anorexia nervosa osteopenia estrogen contraindicated weight restoration nutrition primary cure. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Emphasizing oral contraceptives mask amenorrhea falsely without improving trabecular bone recovery like weight gain",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves emphasizing oral contraceptives mask amenorrhea falsely without improving trabecular bone recovery like weight gain. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutrition Primary Cure.\n\nClinical Discussion: This clinical vignette highlights Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutrition Primary Cure. Definitive evidence-based care centers on emphasizing oral contraceptives mask amenorrhea falsely without improving trabecular bone recovery like weight gain. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutrition Primary Cure.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Anorexia Nervosa Osteopenia Estrogen Contraindicated Weight Restoration Nutrition Primary Cure."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Adolescent Med",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50241",
+    "exam": "SMLE",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polyp",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polypharmacy Stop. Focused assessment demonstrates checking occult urinary retention or fecal impaction systematically prior to low-dose haloperidol crisis. Clinical observations show blood pressure of 131/69 mm Hg, pulse rate of 63/min, respiratory rate of 15/min, and temperature of 37.0C. Targeted diagnostic investigations and clinical review confirm geriatric delirium prevention hospital sleep hygiene daylight hearing aids polypharmacy stop. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Checking occult urinary retention or fecal impaction systematically prior to low-dose haloperidol crisis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves checking occult urinary retention or fecal impaction systematically prior to low-dose haloperidol crisis. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polypharmacy Stop.\n\nClinical Discussion: This clinical vignette highlights Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polypharmacy Stop. Definitive evidence-based care centers on checking occult urinary retention or fecal impaction systematically prior to low-dose haloperidol crisis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polypharmacy Stop.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Geriatric Delirium Prevention Hospital Sleep Hygiene Daylight Hearing Aids Polypharmacy Stop."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Geriatrics",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50242",
+    "exam": "SMLE",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars Shoes. Focused assessment demonstrates conducting timed Up-and-Go and orthostatic blood pressure screening routinely in elders >= 65 years. Clinical observations show blood pressure of 132/70 mm Hg, pulse rate of 64/min, respiratory rate of 16/min, and temperature of 37.1C. Targeted diagnostic investigations and clinical review confirm frailty sarcopenia fall prevention vitamin d resistance exercise home grab bars shoes. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Conducting timed Up-and-Go and orthostatic blood pressure screening routinely in elders >= 65 years",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves conducting timed Up-and-Go and orthostatic blood pressure screening routinely in elders >= 65 years. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars Shoes.\n\nClinical Discussion: This clinical vignette highlights Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars Shoes. Definitive evidence-based care centers on conducting timed Up-and-Go and orthostatic blood pressure screening routinely in elders >= 65 years. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars Shoes.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Frailty Sarcopenia Fall Prevention Vitamin D Resistance Exercise Home Grab Bars Shoes."
+    ],
+    "references": [
+      {
+        "label": "Saudi Elderly Care",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50243",
+    "exam": "SMLE",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering Locks. Focused assessment demonstrates assessing caregiver exhaustion depression routinely at every clinic visit alongside patient safety check. Clinical observations show blood pressure of 133/71 mm Hg, pulse rate of 65/min, respiratory rate of 17/min, and temperature of 37.2C. Targeted diagnostic investigations and clinical review confirm alzheimer caregiver burden respite education behavioral redirect safe wandering locks. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Assessing caregiver exhaustion depression routinely at every clinic visit alongside patient safety check",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves assessing caregiver exhaustion depression routinely at every clinic visit alongside patient safety check. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering Locks.\n\nClinical Discussion: This clinical vignette highlights Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering Locks. Definitive evidence-based care centers on assessing caregiver exhaustion depression routinely at every clinic visit alongside patient safety check. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering Locks.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Alzheimer Caregiver Burden Respite Education Behavioral Redirect Safe Wandering Locks."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Dementia Care",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50244",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Informed Consent Language Barrier Certified Interpreter Over Minor Child Family ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Informed Consent Language Barrier Certified Interpreter Over Minor Child Family Member. Focused assessment demonstrates avoiding minor children translating sensitive cancer or surgical discussions preserving accuracy and dignity. Clinical observations show blood pressure of 134/72 mm Hg, pulse rate of 66/min, respiratory rate of 18/min, and temperature of 37.3C. Targeted diagnostic investigations and clinical review confirm informed consent language barrier certified interpreter over minor child family member. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Avoiding minor children translating sensitive cancer or surgical discussions preserving accuracy and dignity",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves avoiding minor children translating sensitive cancer or surgical discussions preserving accuracy and dignity. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Informed Consent Language Barrier Certified Interpreter Over Minor Child Family Member.\n\nClinical Discussion: This clinical vignette highlights Informed Consent Language Barrier Certified Interpreter Over Minor Child Family Member. Definitive evidence-based care centers on avoiding minor children translating sensitive cancer or surgical discussions preserving accuracy and dignity. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Informed Consent Language Barrier Certified Interpreter Over Minor Child Family Member.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Informed Consent Language Barrier Certified Interpreter Over Minor Child Family Member."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Ethics Standards",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50245",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Confidentiality HIV Partner Notification Public Health Counseling Voluntary Firs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Confidentiality HIV Partner Notification Public Health Counseling Voluntary First Duty. Focused assessment demonstrates supporting patient disclosure first while reporting confirmed cases securely to MOH preventive surveillance. Clinical observations show blood pressure of 135/73 mm Hg, pulse rate of 67/min, respiratory rate of 19/min, and temperature of 37.4C. Targeted diagnostic investigations and clinical review confirm confidentiality hiv partner notification public health counseling voluntary first duty. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Supporting patient disclosure first while reporting confirmed cases securely to MOH preventive surveillance",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves supporting patient disclosure first while reporting confirmed cases securely to MOH preventive surveillance. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Confidentiality HIV Partner Notification Public Health Counseling Voluntary First Duty.\n\nClinical Discussion: This clinical vignette highlights Confidentiality HIV Partner Notification Public Health Counseling Voluntary First Duty. Definitive evidence-based care centers on supporting patient disclosure first while reporting confirmed cases securely to MOH preventive surveillance. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Confidentiality HIV Partner Notification Public Health Counseling Voluntary First Duty.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Confidentiality HIV Partner Notification Public Health Counseling Voluntary First Duty."
+    ],
+    "references": [
+      {
+        "label": "Saudi AIDS Law Ethics",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50246",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard Care. Focused assessment demonstrates maintaining objective contemporaneous EHR clinical reasoning protecting patient safety and accountability. Clinical observations show blood pressure of 136/74 mm Hg, pulse rate of 68/min, respiratory rate of 20/min, and temperature of 37.5C. Targeted diagnostic investigations and clinical review confirm medical malpractice saudi shariah health professions law documentation standard care. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Maintaining objective contemporaneous EHR clinical reasoning protecting patient safety and accountability",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves maintaining objective contemporaneous EHR clinical reasoning protecting patient safety and accountability. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard Care.\n\nClinical Discussion: This clinical vignette highlights Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard Care. Definitive evidence-based care centers on maintaining objective contemporaneous EHR clinical reasoning protecting patient safety and accountability. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard Care.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Medical Malpractice Saudi Shariah Health Professions Law Documentation Standard Care."
+    ],
+    "references": [
+      {
+        "label": "Saudi Health Law Code",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50247",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Research Ethics Institutional Review Board Informed Consent Vulnerable Populatio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Research Ethics Institutional Review Board Informed Consent Vulnerable Populations. Focused assessment demonstrates requiring formal IRB approval and voluntary separate consent before enrolling hospital patients in trials. Clinical observations show blood pressure of 137/75 mm Hg, pulse rate of 69/min, respiratory rate of 21/min, and temperature of 37.6C. Targeted diagnostic investigations and clinical review confirm research ethics institutional review board informed consent vulnerable populations. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Requiring formal IRB approval and voluntary separate consent before enrolling hospital patients in trials",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves requiring formal IRB approval and voluntary separate consent before enrolling hospital patients in trials. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Research Ethics Institutional Review Board Informed Consent Vulnerable Populations.\n\nClinical Discussion: This clinical vignette highlights Research Ethics Institutional Review Board Informed Consent Vulnerable Populations. Definitive evidence-based care centers on requiring formal IRB approval and voluntary separate consent before enrolling hospital patients in trials. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Research Ethics Institutional Review Board Informed Consent Vulnerable Populations.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Research Ethics Institutional Review Board Informed Consent Vulnerable Populations."
+    ],
+    "references": [
+      {
+        "label": "NCBE Saudi Research",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50248",
+    "exam": "SMLE",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Confounding Regression Stratification Effect Modification Biological Interaction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Confounding Regression Stratification Effect Modification Biological Interaction Difference. Focused assessment demonstrates reporting stratum-specific estimates cleanly when biological effect modification exists across age/sex. Clinical observations show blood pressure of 138/76 mm Hg, pulse rate of 70/min, respiratory rate of 14/min, and temperature of 37.7C. Targeted diagnostic investigations and clinical review confirm confounding regression stratification effect modification biological interaction difference. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Reporting stratum-specific estimates cleanly when biological effect modification exists across age/sex",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves reporting stratum-specific estimates cleanly when biological effect modification exists across age/sex. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Confounding Regression Stratification Effect Modification Biological Interaction Difference.\n\nClinical Discussion: This clinical vignette highlights Confounding Regression Stratification Effect Modification Biological Interaction Difference. Definitive evidence-based care centers on reporting stratum-specific estimates cleanly when biological effect modification exists across age/sex. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Confounding Regression Stratification Effect Modification Biological Interaction Difference.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Confounding Regression Stratification Effect Modification Biological Interaction Difference."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Biostatistics",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50249",
+    "exam": "SMLE",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out Power. Focused assessment demonstrates recognizing negative high-sensitivity D-dimer in low pretest clinic robustly excludes thromboembolism. Clinical observations show blood pressure of 139/77 mm Hg, pulse rate of 71/min, respiratory rate of 15/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm diagnostic accuracy negative predictive value increases low prevalence rule-out power. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Recognizing negative high-sensitivity D-dimer in low pretest clinic robustly excludes thromboembolism",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves recognizing negative high-sensitivity D-dimer in low pretest clinic robustly excludes thromboembolism. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out Power.\n\nClinical Discussion: This clinical vignette highlights Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out Power. Definitive evidence-based care centers on recognizing negative high-sensitivity D-dimer in low pretest clinic robustly excludes thromboembolism. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out Power.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Diagnostic Accuracy Negative Predictive Value Increases Low Prevalence Rule-Out Power."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Evidence Stats",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50250",
+    "exam": "SMLE",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic Review. Focused assessment demonstrates checking clinical trial registries prospectively preventing selectively unpublished null findings distortion. Clinical observations show blood pressure of 110/78 mm Hg, pulse rate of 72/min, respiratory rate of 16/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm publication bias funnel plot asymmetry missing small negative studies systematic review. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Checking clinical trial registries prospectively preventing selectively unpublished null findings distortion",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves checking clinical trial registries prospectively preventing selectively unpublished null findings distortion. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic Review.\n\nClinical Discussion: This clinical vignette highlights Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic Review. Definitive evidence-based care centers on checking clinical trial registries prospectively preventing selectively unpublished null findings distortion. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic Review.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Publication Bias Funnel Plot Asymmetry Missing Small Negative Studies Systematic Review."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Research Methods",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50251",
+    "exam": "SMLE",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk. Focused assessment demonstrates ensuring 80-90% statistical power calculation beforehand avoiding prematurely discarding useful treatments. Clinical observations show blood pressure of 111/79 mm Hg, pulse rate of 73/min, respiratory rate of 17/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm p-value type ii beta error underpowered sample size false negative clinical risk. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Ensuring 80-90% statistical power calculation beforehand avoiding prematurely discarding useful treatments",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves ensuring 80-90% statistical power calculation beforehand avoiding prematurely discarding useful treatments. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk.\n\nClinical Discussion: This clinical vignette highlights P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk. Definitive evidence-based care centers on ensuring 80-90% statistical power calculation beforehand avoiding prematurely discarding useful treatments. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for P-Value Type II Beta Error Underpowered Sample Size False Negative Clinical Risk."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Biostats",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50252",
+    "exam": "SMLE",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit. Focused assessment demonstrates avoiding causal inference claims from single-point cross-sectional prevalence odds ratios alone. Clinical observations show blood pressure of 112/80 mm Hg, pulse rate of 74/min, respiratory rate of 18/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm odds ratio cross-sectional prevalence study temporal ambiguity confounding limit. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Avoiding causal inference claims from single-point cross-sectional prevalence odds ratios alone",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves avoiding causal inference claims from single-point cross-sectional prevalence odds ratios alone. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit.\n\nClinical Discussion: This clinical vignette highlights Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit. Definitive evidence-based care centers on avoiding causal inference claims from single-point cross-sectional prevalence odds ratios alone. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Odds Ratio Cross-Sectional Prevalence Study Temporal Ambiguity Confounding Limit."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Epidemiology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50253",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contradiction. Focused assessment demonstrates prohibiting lisinopril/enalapril permanently after lip/tongue edema and cautioning sacubitril-valsartan. Clinical observations show blood pressure of 113/81 mm Hg, pulse rate of 75/min, respiratory rate of 19/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm ace inhibitor angioedema bradykinin accumulation airway swelling permanent contradiction. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Prohibiting lisinopril/enalapril permanently after lip/tongue edema and cautioning sacubitril-valsartan",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves prohibiting lisinopril/enalapril permanently after lip/tongue edema and cautioning sacubitril-valsartan. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contradiction.\n\nClinical Discussion: This clinical vignette highlights ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contradiction. Definitive evidence-based care centers on prohibiting lisinopril/enalapril permanently after lip/tongue edema and cautioning sacubitril-valsartan. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contradiction.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for ACE Inhibitor Angioedema Bradykinin Accumulation Airway Swelling Permanent Contradiction."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Drug Safety",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50254",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban. Focused assessment demonstrates counseling steady consistent daily green-vegetable intake rather than zero restriction stabilizing INR. Clinical observations show blood pressure of 114/82 mm Hg, pulse rate of 76/min, respiratory rate of 20/min, and temperature of 38.3C. Targeted diagnostic investigations and clinical review confirm warfarin vitamin k dietary fluctuation leafy greens consistency rather total ban. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Counseling steady consistent daily green-vegetable intake rather than zero restriction stabilizing INR",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling steady consistent daily green-vegetable intake rather than zero restriction stabilizing INR. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban.\n\nClinical Discussion: This clinical vignette highlights Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban. Definitive evidence-based care centers on counseling steady consistent daily green-vegetable intake rather than zero restriction stabilizing INR. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Warfarin Vitamin K Dietary Fluctuation Leafy Greens Consistency Rather Total Ban."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Anticoagulation",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50255",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check. Focused assessment demonstrates holding metformin promptly during acute septic shock, heart failure decompensation, or contrast AKI. Clinical observations show blood pressure of 115/83 mm Hg, pulse rate of 77/min, respiratory rate of 21/min, and temperature of 36.5C. Targeted diagnostic investigations and clinical review confirm metformin discontinuation heart failure hypoxia sepsis lactate risk renal check. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Holding metformin promptly during acute septic shock, heart failure decompensation, or contrast AKI",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves holding metformin promptly during acute septic shock, heart failure decompensation, or contrast AKI. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check.\n\nClinical Discussion: This clinical vignette highlights Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check. Definitive evidence-based care centers on holding metformin promptly during acute septic shock, heart failure decompensation, or contrast AKI. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Metformin Discontinuation Heart Failure Hypoxia Sepsis Lactate Risk Renal Check."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Diabetes Drugs",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50256",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-Prescribe. Focused assessment demonstrates tapering chronic omeprazole gradually when mild GERD resolves avoiding rebound acid hypersecretion. Clinical observations show blood pressure of 116/84 mm Hg, pulse rate of 78/min, respiratory rate of 14/min, and temperature of 36.6C. Targeted diagnostic investigations and clinical review confirm ppi long-term risks c. difficile hypomagnesemia b12 bone fracture step-down de-prescribe. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Tapering chronic omeprazole gradually when mild GERD resolves avoiding rebound acid hypersecretion",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves tapering chronic omeprazole gradually when mild GERD resolves avoiding rebound acid hypersecretion. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-Prescribe.\n\nClinical Discussion: This clinical vignette highlights PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-Prescribe. Definitive evidence-based care centers on tapering chronic omeprazole gradually when mild GERD resolves avoiding rebound acid hypersecretion. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-Prescribe.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for PPI Long-Term Risks C. Difficile Hypomagnesemia B12 Bone Fracture Step-Down De-Prescribe."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Prescribing",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50257",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analge",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analgesic. Focused assessment demonstrates counseling lithium patients strictly to avoid over-the-counter NSAIDs choosing paracetamol instead. Clinical observations show blood pressure of 117/85 mm Hg, pulse rate of 79/min, respiratory rate of 15/min, and temperature of 36.7C. Targeted diagnostic investigations and clinical review confirm lithium nsaids ibuprofen diclofenac elevation toxicity acetaminophen safe analgesic. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Counseling lithium patients strictly to avoid over-the-counter NSAIDs choosing paracetamol instead",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves counseling lithium patients strictly to avoid over-the-counter NSAIDs choosing paracetamol instead. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analgesic.\n\nClinical Discussion: This clinical vignette highlights Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analgesic. Definitive evidence-based care centers on counseling lithium patients strictly to avoid over-the-counter NSAIDs choosing paracetamol instead. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analgesic.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Lithium NSAIDs Ibuprofen Diclofenac Elevation Toxicity Acetaminophen Safe Analgesic."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Psychopharmacology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50258",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune Check. Focused assessment demonstrates identifying acute window-phase HBV infection solely by IgM anti-HBc when HBsAg briefly clears. Clinical observations show blood pressure of 118/86 mm Hg, pulse rate of 80/min, respiratory rate of 16/min, and temperature of 36.8C. Targeted diagnostic investigations and clinical review confirm hepatitis b serology anti-hbc igm window period isolated igg vaccination immune check. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Identifying acute window-phase HBV infection solely by IgM anti-HBc when HBsAg briefly clears",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves identifying acute window-phase HBV infection solely by IgM anti-HBc when HBsAg briefly clears. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune Check.\n\nClinical Discussion: This clinical vignette highlights Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune Check. Definitive evidence-based care centers on identifying acute window-phase HBV infection solely by IgM anti-HBc when HBsAg briefly clears. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune Check.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Hepatitis B Serology Anti-HBc IgM Window Period Isolated IgG Vaccination Immune Check."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Clinical Micro",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50259",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Dist",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Distinction. Focused assessment demonstrates selecting IGRA preferentially in BCG-vaccinated Saudi healthcare workers avoiding false TST reactions. Clinical observations show blood pressure of 119/87 mm Hg, pulse rate of 81/min, respiratory rate of 17/min, and temperature of 36.9C. Targeted diagnostic investigations and clinical review confirm tuberculosis latent quantiferon interferon-gamma release assay bcg immunity distinction. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Selecting IGRA preferentially in BCG-vaccinated Saudi healthcare workers avoiding false TST reactions",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves selecting IGRA preferentially in BCG-vaccinated Saudi healthcare workers avoiding false TST reactions. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Distinction.\n\nClinical Discussion: This clinical vignette highlights Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Distinction. Definitive evidence-based care centers on selecting IGRA preferentially in BCG-vaccinated Saudi healthcare workers avoiding false TST reactions. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Distinction.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Tuberculosis Latent QuantiFERON Interferon-Gamma Release Assay BCG Immunity Distinction."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH TB Screen",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50260",
+    "exam": "SMLE",
+    "subject": "Immunology",
+    "system": "Musculoskeletal",
+    "topic": "Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity. Focused assessment demonstrates testing serum CH50 screen in early-onset severe familial systemic lupus erythematosus presentations. Clinical observations show blood pressure of 120/68 mm Hg, pulse rate of 82/min, respiratory rate of 18/min, and temperature of 37.0C. Targeted diagnostic investigations and clinical review confirm complement classical pathway deficiency c1q c2 c4 severe lupus like autoimmunity. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Testing serum CH50 screen in early-onset severe familial systemic lupus erythematosus presentations",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves testing serum CH50 screen in early-onset severe familial systemic lupus erythematosus presentations. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity.\n\nClinical Discussion: This clinical vignette highlights Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity. Definitive evidence-based care centers on testing serum CH50 screen in early-onset severe familial systemic lupus erythematosus presentations. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Complement Classical Pathway Deficiency C1q C2 C4 Severe Lupus Like Autoimmunity."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Immunology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50261",
+    "exam": "SMLE",
+    "subject": "Immunology",
+    "system": "General Principles",
+    "topic": "Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1-3 Hours. Focused assessment demonstrates drawing serial serum tryptase at 1h, 3h, and baseline 24h confirming ambiguous intraoperative anaphylaxis. Clinical observations show blood pressure of 121/69 mm Hg, pulse rate of 83/min, respiratory rate of 19/min, and temperature of 37.1C. Targeted diagnostic investigations and clinical review confirm anaphylaxis biphasic reaction mast cell tryptase elevation blood sample within 1-3 hours. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Drawing serial serum tryptase at 1h, 3h, and baseline 24h confirming ambiguous intraoperative anaphylaxis",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves drawing serial serum tryptase at 1h, 3h, and baseline 24h confirming ambiguous intraoperative anaphylaxis. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1-3 Hours.\n\nClinical Discussion: This clinical vignette highlights Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1-3 Hours. Definitive evidence-based care centers on drawing serial serum tryptase at 1h, 3h, and baseline 24h confirming ambiguous intraoperative anaphylaxis. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1-3 Hours.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Anaphylaxis Biphasic Reaction Mast Cell Tryptase Elevation Blood Sample Within 1-3 Hours."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Allergy Care",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50262",
+    "exam": "SMLE",
+    "subject": "Genetics",
+    "system": "Gastrointestinal",
+    "topic": "Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleischer. Focused assessment demonstrates screening all first-degree siblings via serum ceruloplasmin, LFTs, slit-lamp, and ATP7B genotyping. Clinical observations show blood pressure of 122/70 mm Hg, pulse rate of 84/min, respiratory rate of 20/min, and temperature of 37.2C. Targeted diagnostic investigations and clinical review confirm wilson disease atp7b copper accumulation cirrhosis hemolytic crisis kayser-fleischer. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Screening all first-degree siblings via serum ceruloplasmin, LFTs, slit-lamp, and ATP7B genotyping",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves screening all first-degree siblings via serum ceruloplasmin, LFTs, slit-lamp, and ATP7B genotyping. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleischer.\n\nClinical Discussion: This clinical vignette highlights Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleischer. Definitive evidence-based care centers on screening all first-degree siblings via serum ceruloplasmin, LFTs, slit-lamp, and ATP7B genotyping. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleischer.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Wilson Disease ATP7B Copper Accumulation Cirrhosis Hemolytic Crisis Kayser-Fleischer."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Genetics",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50263",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofreq",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofrequency. Focused assessment demonstrates maintaining once-daily PPI even in asymptomatic Barrett esophagus reducing progression to adenocarcinoma. Clinical observations show blood pressure of 123/71 mm Hg, pulse rate of 85/min, respiratory rate of 21/min, and temperature of 37.3C. Targeted diagnostic investigations and clinical review confirm barrett esophagus goblet cell metaplasia ppi chemoprevention dysplasia radiofrequency. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      },
+      {
+        "text": "Maintaining once-daily PPI even in asymptomatic Barrett esophagus reducing progression to adenocarcinoma",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves maintaining once-daily PPI even in asymptomatic Barrett esophagus reducing progression to adenocarcinoma. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofrequency.\n\nClinical Discussion: This clinical vignette highlights Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofrequency. Definitive evidence-based care centers on maintaining once-daily PPI even in asymptomatic Barrett esophagus reducing progression to adenocarcinoma. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofrequency.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Barrett Esophagus Goblet Cell Metaplasia PPI Chemoprevention Dysplasia Radiofrequency."
+    ],
+    "references": [
+      {
+        "label": "SCFHS GI Pathology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50264",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Eryth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Erythropoietin. Focused assessment demonstrates evaluating hypercalcemia, polycythemia, and left varicocele promptly with abdominal CT contrast. Clinical observations show blood pressure of 124/72 mm Hg, pulse rate of 86/min, respiratory rate of 14/min, and temperature of 37.4C. Targeted diagnostic investigations and clinical review confirm renal cell carcinoma clear cell pas glycogen lipid vhl loss paraneoplastic erythropoietin. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Evaluating hypercalcemia, polycythemia, and left varicocele promptly with abdominal CT contrast",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves evaluating hypercalcemia, polycythemia, and left varicocele promptly with abdominal CT contrast. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Erythropoietin.\n\nClinical Discussion: This clinical vignette highlights Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Erythropoietin. Definitive evidence-based care centers on evaluating hypercalcemia, polycythemia, and left varicocele promptly with abdominal CT contrast. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Erythropoietin.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Renal Cell Carcinoma Clear Cell PAS Glycogen Lipid VHL Loss Paraneoplastic Erythropoietin."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Uropathology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50265",
+    "exam": "SMLE",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplas",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplasia. Focused assessment demonstrates recognizing pink stromal amyloid deposits positive for Congo red distinguishing MTC from follicular adenoma. Clinical observations show blood pressure of 125/73 mm Hg, pulse rate of 87/min, respiratory rate of 15/min, and temperature of 37.5C. Targeted diagnostic investigations and clinical review confirm thyroid medullary carcinoma amyloid stroma congo red calcitonin c-cell hyperplasia. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Recognizing pink stromal amyloid deposits positive for Congo red distinguishing MTC from follicular adenoma",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves recognizing pink stromal amyloid deposits positive for Congo red distinguishing MTC from follicular adenoma. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild diabetic ketoacidosis",
+        "correct": false,
+        "explanation": "Incorrect: Alkalinization therapy in DKA with arterial pH > 6.9 provides no clinical benefit and precipitates paradoxical CSF acidosis and hypokalemia."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplasia.\n\nClinical Discussion: This clinical vignette highlights Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplasia. Definitive evidence-based care centers on recognizing pink stromal amyloid deposits positive for Congo red distinguishing MTC from follicular adenoma. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplasia.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Thyroid Medullary Carcinoma Amyloid Stroma Congo Red Calcitonin C-Cell Hyperplasia."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Endocrine Path",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50266",
+    "exam": "SMLE",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man is examined in a clinical scenario aligned with SCFHS SMLE standards with clinical features consistent with Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affinity. Focused assessment demonstrates explaining maternal-to-fetal placental oxygen transfer relies on HbF insensitivity to 2,3-BPG binding. Clinical observations show blood pressure of 126/74 mm Hg, pulse rate of 88/min, respiratory rate of 16/min, and temperature of 37.6C. Targeted diagnostic investigations and clinical review confirm oxygen dissociation left shift alkalosis cold low 2,3-bpg fetal hemoglobin affinity. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Routine lumbar puncture prior to non-contrast head CT in an encephalopathic patient with papilledema",
+        "correct": false,
+        "explanation": "Incorrect: Performing dural puncture with unexcluded intracranial mass effect or elevated ICP risks catastrophic transtentorial herniation."
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Explaining maternal-to-fetal placental oxygen transfer relies on HbF insensitivity to 2,3-BPG binding",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves explaining maternal-to-fetal placental oxygen transfer relies on HbF insensitivity to 2,3-BPG binding. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affinity.\n\nClinical Discussion: This clinical vignette highlights Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affinity. Definitive evidence-based care centers on explaining maternal-to-fetal placental oxygen transfer relies on HbF insensitivity to 2,3-BPG binding. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affinity.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Oxygen Dissociation Left Shift Alkalosis Cold Low 2,3-BPG Fetal Hemoglobin Affinity."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Physiology",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50267",
+    "exam": "SMLE",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man attends the specialized clinic at King Faisal Specialist Hospital Riyadh with clinical features consistent with Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi Drop. Focused assessment demonstrates explaining severe bilateral renal artery stenosis develops acute GFR crash when ACE inhibitor dilates efferent. Clinical observations show blood pressure of 127/75 mm Hg, pulse rate of 89/min, respiratory rate of 17/min, and temperature of 37.7C. Targeted diagnostic investigations and clinical review confirm glomerular filtration rate efferent arteriolar constriction angiotensin ii acei drop. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "correct": false,
+        "explanation": "Incorrect: Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications."
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "correct": false,
+        "explanation": "Incorrect: Latent immunological reactivity without microbiological exclusion of active disease does not justify inappropriate empiric monotherapy."
+      },
+      {
+        "text": "Explaining severe bilateral renal artery stenosis develops acute GFR crash when ACE inhibitor dilates efferent",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves explaining severe bilateral renal artery stenosis develops acute GFR crash when ACE inhibitor dilates efferent. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Empiric anti-pseudomonal carbapenem therapy for mild uncomplicated cystitis",
+        "correct": false,
+        "explanation": "Incorrect: Broad-spectrum carbapenems must be reserved for severe multi-drug resistant systemic infections to curb antimicrobial resistance."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi Drop.\n\nClinical Discussion: This clinical vignette highlights Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi Drop. Definitive evidence-based care centers on explaining severe bilateral renal artery stenosis develops acute GFR crash when ACE inhibitor dilates efferent. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi Drop.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Glomerular Filtration Rate Efferent Arteriolar Constriction Angiotensin II ACEi Drop."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Renal Phys",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50268",
+    "exam": "SMLE",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man is evaluated in the emergency bay at King Abdulaziz Medical City Jeddah with clinical features consistent with Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm Loss. Focused assessment demonstrates testing finger abduction/adduction interossei and medial C8-T1 sensation alongside Adson radial check. Clinical observations show blood pressure of 128/76 mm Hg, pulse rate of 90/min, respiratory rate of 18/min, and temperature of 37.8C. Targeted diagnostic investigations and clinical review confirm thoracic outlet compression lower trunk t1 intrinsic hand wasting medial forearm loss. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "correct": false,
+        "explanation": "Incorrect: Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes."
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated minor head injury",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk head injuries without cortical hemorrhage."
+      },
+      {
+        "text": "Testing finger abduction/adduction interossei and medial C8-T1 sensation alongside Adson radial check",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves testing finger abduction/adduction interossei and medial C8-T1 sensation alongside Adson radial check. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Rapid intravenous administration of 100% free water in severe chronic hypernatremia",
+        "correct": false,
+        "explanation": "Incorrect: Overly rapid correction of chronic hypernatremia induces sudden intracellular osmotic fluid shifts, cerebral edema, and seizures."
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "correct": false,
+        "explanation": "Incorrect: Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm Loss.\n\nClinical Discussion: This clinical vignette highlights Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm Loss. Definitive evidence-based care centers on testing finger abduction/adduction interossei and medial C8-T1 sensation alongside Adson radial check. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm Loss.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Thoracic Outlet Compression Lower Trunk T1 Intrinsic Hand Wasting Medial Forearm Loss."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Anatomy Core",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50269",
+    "exam": "SMLE",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man presents to the primary academic unit at King Saud University Medical City Riyadh with clinical features consistent with Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure. Focused assessment demonstrates testing flexor pollicis longus and index FDP tip flexion distinguishing pure motor AIN palsy. Clinical observations show blood pressure of 129/77 mm Hg, pulse rate of 91/min, respiratory rate of 19/min, and temperature of 37.9C. Targeted diagnostic investigations and clinical review confirm median nerve anterior interosseous supracondylar child ok sign pinch failure. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "correct": false,
+        "explanation": "Incorrect: Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest."
+      },
+      {
+        "text": "Testing flexor pollicis longus and index FDP tip flexion distinguishing pure motor AIN palsy",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves testing flexor pollicis longus and index FDP tip flexion distinguishing pure motor AIN palsy. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Prophylactic platelet transfusion for stable non-bleeding patients with platelet count > 20 x 10^9/L",
+        "correct": false,
+        "explanation": "Incorrect: Prophylactic transfusions in stable patients without active bleeding carry risks of alloimmunization and TRALI without clinical benefit."
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "correct": false,
+        "explanation": "Incorrect: Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition."
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "correct": false,
+        "explanation": "Incorrect: Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure.\n\nClinical Discussion: This clinical vignette highlights Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure. Definitive evidence-based care centers on testing flexor pollicis longus and index FDP tip flexion distinguishing pure motor AIN palsy. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Median Nerve Anterior Interosseous Supracondylar Child OK Sign Pinch Failure."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Trauma Anatomy",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50270",
+    "exam": "SMLE",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is admitted to the medical ward at King Fahad Specialist Hospital Dammam with clinical features consistent with Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing. Focused assessment demonstrates differentiating extracranial parotid branch injury sparing taste/lacrimation from proximal temporal bone lesion. Clinical observations show blood pressure of 130/78 mm Hg, pulse rate of 92/min, respiratory rate of 20/min, and temperature of 38.0C. Targeted diagnostic investigations and clinical review confirm facial nerve stylomastoid foramen forehead cheek muscles parotid surgery sparing. Which clinical action best adheres to Saudi Ministry of Health and SCFHS consensus standards?",
+    "options": [
+      {
+        "text": "Differentiating extracranial parotid branch injury sparing taste/lacrimation from proximal temporal bone lesion",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves differentiating extracranial parotid branch injury sparing taste/lacrimation from proximal temporal bone lesion. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "correct": false,
+        "explanation": "Incorrect: Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality."
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "correct": false,
+        "explanation": "Incorrect: Empiric fluoroquinolones risk severe adverse effects including tendinopathy and select for multidrug-resistant pathogens when unindicated."
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "correct": false,
+        "explanation": "Incorrect: Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis."
+      },
+      {
+        "text": "Immediate invasive coronary angiography before baseline stabilization and ECG review",
+        "correct": false,
+        "explanation": "Incorrect: Catheterization suite mobilization without initial clinical triage and standard 12-lead electrocardiography delays targeted medical therapy."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing.\n\nClinical Discussion: This clinical vignette highlights Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing. Definitive evidence-based care centers on differentiating extracranial parotid branch injury sparing taste/lacrimation from proximal temporal bone lesion. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Facial Nerve Stylomastoid Foramen Forehead Cheek Muscles Parotid Surgery Sparing."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Head & Neck",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50271",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia K",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old man undergoes consultant ward review at Asir Central Hospital Abha with clinical features consistent with Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia KSA. Focused assessment demonstrates administering PCV20/PCV15 + PPSV23 sequence protecting elderly diabetics, chronic lung, and sickle hosts. Clinical observations show blood pressure of 131/79 mm Hg, pulse rate of 93/min, respiratory rate of 21/min, and temperature of 38.1C. Targeted diagnostic investigations and clinical review confirm pneumococcal conjugate polysaccharide sequential vaccine adults >= 65 asplenia ksa. Which of the following is the most appropriate next step in clinical care per Saudi SCFHS guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "correct": false,
+        "explanation": "Incorrect: Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression."
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "correct": false,
+        "explanation": "Incorrect: Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted clinical indication is inappropriate."
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "correct": false,
+        "explanation": "Incorrect: Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm."
+      },
+      {
+        "text": "Long-term therapeutic anticoagulation for isolated low-risk muscular calf vein thrombosis",
+        "correct": false,
+        "explanation": "Incorrect: Distal isolated calf DVT without proximal extension or severe symptoms is managed with surveillance ultrasound rather than prolonged anticoagulation."
+      },
+      {
+        "text": "Administering PCV20/PCV15 + PPSV23 sequence protecting elderly diabetics, chronic lung, and sickle hosts",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves administering PCV20/PCV15 + PPSV23 sequence protecting elderly diabetics, chronic lung, and sickle hosts. This directly addresses the core mechanism and prevents complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia KSA.\n\nClinical Discussion: This clinical vignette highlights Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia KSA. Definitive evidence-based care centers on administering PCV20/PCV15 + PPSV23 sequence protecting elderly diabetics, chronic lung, and sickle hosts. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia KSA.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Pneumococcal Conjugate Polysaccharide Sequential Vaccine Adults >= 65 Asplenia KSA."
+    ],
+    "references": [
+      {
+        "label": "Saudi Adult Vaccine",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-50272",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 83-year-old man attends the ambulatory center at Security Forces Hospital Makkah with clinical features consistent with Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy Chemo. Focused assessment demonstrates examining testes carefully at routine follow-up visits detecting painless firm asymmetric enlargement early. Clinical observations show blood pressure of 132/80 mm Hg, pulse rate of 62/min, respiratory rate of 14/min, and temperature of 38.2C. Targeted diagnostic investigations and clinical review confirm acute lymphoblastic leukemia pediatric testicular relapse sanctuary site biopsy chemo. What is the definitive diagnostic test or guideline-recommended management strategy?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic administration in a hypovolemic or hypotensive patient",
+        "correct": false,
+        "explanation": "Incorrect: Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury."
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "correct": false,
+        "explanation": "Incorrect: Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis."
+      },
+      {
+        "text": "Empiric macrolide monotherapy for severe hospital-acquired pneumonia",
+        "correct": false,
+        "explanation": "Incorrect: Macrolide monotherapy lacks activity against Pseudomonas aeruginosa, MRSA, and enteric Gram-negative bacilli responsible for nosocomial pneumonia."
+      },
+      {
+        "text": "Examining testes carefully at routine follow-up visits detecting painless firm asymmetric enlargement early",
+        "correct": true,
+        "explanation": "Correct: Based on authoritative specialty consensus and guideline recommendations, the optimal response for this clinical scenario involves examining testes carefully at routine follow-up visits detecting painless firm asymmetric enlargement early. This directly addresses the core mechanism and prevents complications."
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "correct": false,
+        "explanation": "Incorrect: Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications."
+      }
+    ],
+    "explanation": "Educational Objective: Apply accurate diagnostic reasoning, pathophysiological insight, and guideline-directed management for Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy Chemo.\n\nClinical Discussion: This clinical vignette highlights Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy Chemo. Definitive evidence-based care centers on examining testes carefully at routine follow-up visits detecting painless firm asymmetric enlargement early. Prompt recognition and guideline-concordant intervention optimize clinical safety and long-term outcomes. The remaining options represent suboptimal interventions, unindicated therapies, or delayed care pathways.",
+    "objective": "Implement evidence-based clinical reasoning and guideline-directed care for Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy Chemo.",
+    "keyPoints": [
+      "Implement evidence-based clinical reasoning and guideline-directed care for Acute Lymphoblastic Leukemia Pediatric Testicular Relapse Sanctuary Site Biopsy Chemo."
+    ],
+    "references": [
+      {
+        "label": "SCFHS Pediatric Onco",
+        "url": "https://www.scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
