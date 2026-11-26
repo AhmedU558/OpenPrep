@@ -519,6 +519,15 @@ import { questions as bIntl515 } from '../../content/bank/international/batch-in
 import { questions as bIntl516 } from '../../content/bank/international/batch-intl-516';
 import { questions as bIntl517 } from '../../content/bank/international/batch-intl-517';
 import { questions as bIntl518 } from '../../content/bank/international/batch-intl-518';
+import { questions as bIntl519 } from '../../content/bank/international/batch-intl-519';
+import { questions as bIntl520 } from '../../content/bank/international/batch-intl-520';
+import { questions as bIntl521 } from '../../content/bank/international/batch-intl-521';
+import { questions as bIntl522 } from '../../content/bank/international/batch-intl-522';
+import { questions as bIntl523 } from '../../content/bank/international/batch-intl-523';
+import { questions as bIntl524 } from '../../content/bank/international/batch-intl-524';
+import { questions as bIntl525 } from '../../content/bank/international/batch-intl-525';
+import { questions as bIntl526 } from '../../content/bank/international/batch-intl-526';
+import { questions as bIntl527 } from '../../content/bank/international/batch-intl-527';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -635,12 +644,15 @@ describe('international question bank expansion', () => {
   ...bIntl507, ...bIntl508, ...bIntl509,
   ...bIntl510, ...bIntl511, ...bIntl512,
   ...bIntl513, ...bIntl514, ...bIntl515,
-  ...bIntl516, ...bIntl517, ...bIntl518
+  ...bIntl516, ...bIntl517, ...bIntl518,
+  ...bIntl519, ...bIntl520, ...bIntl521,
+  ...bIntl522, ...bIntl523, ...bIntl524,
+  ...bIntl525, ...bIntl526, ...bIntl527
   ];
 
-  it('contains 50972 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(50972);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(50972);
+  it('contains 51872 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(51872);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(51872);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
