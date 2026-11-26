@@ -508,6 +508,15 @@ import { questions as bIntl497 } from '../content/bank/international/batch-intl-
 import { questions as bIntl498 } from '../content/bank/international/batch-intl-498';
 import { questions as bIntl499 } from '../content/bank/international/batch-intl-499';
 import { questions as bIntl500 } from '../content/bank/international/batch-intl-500';
+import { questions as bIntl501 } from '../content/bank/international/batch-intl-501';
+import { questions as bIntl502 } from '../content/bank/international/batch-intl-502';
+import { questions as bIntl503 } from '../content/bank/international/batch-intl-503';
+import { questions as bIntl504 } from '../content/bank/international/batch-intl-504';
+import { questions as bIntl505 } from '../content/bank/international/batch-intl-505';
+import { questions as bIntl506 } from '../content/bank/international/batch-intl-506';
+import { questions as bIntl507 } from '../content/bank/international/batch-intl-507';
+import { questions as bIntl508 } from '../content/bank/international/batch-intl-508';
+import { questions as bIntl509 } from '../content/bank/international/batch-intl-509';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -618,6 +627,9 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl492, ...bIntl493, ...bIntl494,
   ...bIntl495, ...bIntl496, ...bIntl497,
   ...bIntl498, ...bIntl499, ...bIntl500,
+  ...bIntl501, ...bIntl502, ...bIntl503,
+  ...bIntl504, ...bIntl505, ...bIntl506,
+  ...bIntl507, ...bIntl508, ...bIntl509,
 ];
 
 interface IngestOptions {
