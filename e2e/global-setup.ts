@@ -4,6 +4,7 @@ import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient } from '../src/generated/prisma/client';
 import { seed } from '../prisma/seed';
 import { questions } from '../content/bank/batch-01';
+import imageQuestions from '../content/usmle-images/batch-01.json' with { type: 'json' };
 import { specs } from '../content/bank/expansion/batch-16';
 import { validateExpansion } from '../src/lib/bank-expansion';
 import { testDatabaseUrl } from '../scripts/test-database';
@@ -26,11 +27,13 @@ export default async function setup() {
       const actor = await db.user.create({ data: { id: 'e2e-bank-author', email: 'bank-author@test.localhost', name: 'Fixture author', role: 'ADMIN' } });
       const { approveFixtureRights } = await import('../tests/fixtures/rights');
       await content.importQuestions(actor, questions, false, true);
+      const imageImport = await content.importQuestions(actor, imageQuestions, false, true);
+      if (imageImport.created !== 3 || imageImport.errors.length) throw new Error('Image-question fixture import failed');
       const expansion=validateExpansion(16,specs,[]);
       if(expansion.accepted.length!==94)throw new Error('Expansion E2E fixture failed expected quality dispositions');
       await content.importQuestions(actor, expansion.accepted, false, true);
       for (const q of await db.question.findMany({ select: { id: true } })) await approveFixtureRights(actor, q.id);
-      for (const q of await db.question.findMany({ where: { OR:[{code:{startsWith:'op26-'}},{code:{startsWith:'op26x-'}}] } })) await content.setStatus(actor, q.id, 'PUBLISHED');
+      for (const q of await db.question.findMany({ where: { OR:[{code:{startsWith:'op26-'}},{code:{startsWith:'op26x-'}},{code:{startsWith:'op-img-'}}] } })) await content.setStatus(actor, q.id, 'PUBLISHED');
     } finally { await appDb.$disconnect(); }
   } finally {
     if (primary === undefined) delete process.env.DATABASE_URL;

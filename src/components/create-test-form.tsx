@@ -51,6 +51,7 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
   const [count, setCount] = useState(10);
   const [blocks, setBlocks] = useState(1);
   const [q, setQ] = useState('');
+  const [hasImage, setHasImage] = useState(false);
   const [collectionId, setCollection] = useState(initialCollection ?? '');
   const [negativeMark, setNeg] = useState(0);
   const [error, setError] = useState('');
@@ -67,6 +68,7 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
     const r = await createTestAction({
       mode, pool, difficulty, examIds, subjectIds, systemIds, topicIds: topicId ? [topicId] : [], count, blocks, q, negativeMark,
       collectionId: collectionId || undefined,
+      hasImage: hasImage || undefined,
     });
     if (r.ok) router.push(`/test/${r.data}`);
     else { setError(r.error); setBusy(false); }
@@ -180,6 +182,10 @@ export function CreateTestForm({ facets, poolCounts, collections, initialCollect
             <label htmlFor="q" className="text-sm font-semibold">Keyword <span className="font-normal text-muted">(optional)</span></label>
             <input id="q" value={q} onChange={(e) => setQ(e.target.value)} maxLength={200} placeholder="e.g. bradykinin" className={cx(inputCls, 'mt-1.5')} />
           </div>
+          <label className="flex cursor-pointer items-center gap-2 rounded-lg border border-line bg-surface px-3 py-2 text-sm">
+            <input type="checkbox" className="accent-[var(--brand)]" checked={hasImage} onChange={(e) => setHasImage(e.target.checked)} />
+            <span>Clinical exhibits only (ECGs, X-rays &amp; charts)</span>
+          </label>
           {collections.length > 0 && (
             <div>
               <label htmlFor="collection" className="text-sm font-semibold">Study list <span className="font-normal text-muted">(optional)</span></label>

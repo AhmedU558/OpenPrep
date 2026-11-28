@@ -1,10 +1,11 @@
 'use client';
-import { useEffect, useRef, useState, type ReactNode } from 'react';
+import { useEffect, useId, useRef, useState, type ReactNode } from 'react';
 import { evaluate } from '@/lib/calc';
 import { cx, inputCls } from '../ui';
 
 export function Dialog({ open, onClose, title, children, wide }: { open: boolean; onClose: () => void; title: string; children: ReactNode; wide?: boolean }) {
   const ref = useRef<HTMLDialogElement>(null);
+  const titleId = useId();
   useEffect(() => {
     const d = ref.current;
     if (!d) return;
@@ -12,10 +13,10 @@ export function Dialog({ open, onClose, title, children, wide }: { open: boolean
     if (!open && d.open) d.close();
   }, [open]);
   return (
-    <dialog ref={ref} onClose={onClose} aria-labelledby="dlg-title"
+    <dialog ref={ref} onClose={onClose} aria-labelledby={titleId}
       className={cx('m-auto w-[min(92vw,560px)] rounded-2xl border border-line bg-surface p-0 text-ink backdrop:bg-black/40', wide && 'w-[min(96vw,900px)]')}>
       <div className="flex items-center justify-between border-b border-line px-5 py-3">
-        <h2 id="dlg-title" className="font-semibold">{title}</h2>
+        <h2 id={titleId} className="font-semibold">{title}</h2>
         <button type="button" onClick={onClose} className="rounded-lg px-2 py-1 text-muted hover:bg-surface-2" aria-label="Close">✕</button>
       </div>
       <div className="max-h-[75vh] overflow-auto p-5">{children}</div>

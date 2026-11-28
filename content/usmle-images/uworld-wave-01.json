@@ -1,0 +1,1808 @@
+[
+  {
+    "code": "op-uw-s1-0001",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Ventricular pressure-volume loops and myocardial contractility",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A healthy volunteer participates in an invasive cardiovascular physiology study measuring continuous left ventricular pressure and volume. Loop A represents resting baseline, and Loop B is recorded 10 minutes after an intravenous infusion is started. Based on the pressure-volume relationships shown, the infused agent most directly mimics the hemodynamic effect of which physiologic signal?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-04.png",
+    "imageAlt": "Left ventricular pressure-volume graph showing baseline Loop A and post-intervention Loop B with a steeper end-systolic pressure-volume line, lower end-systolic volume, higher peak pressure, and unchanged end-diastolic volume.",
+    "options": [
+      {
+        "text": "Alpha-1 adrenergic arteriolar vasoconstriction raising total peripheral resistance",
+        "correct": false,
+        "explanation": "Pure afterload elevation increases end-systolic volume and narrows stroke volume while leaving the end-systolic pressure-volume relationship (ESPVR) slope unchanged, which contrasts with Loop B."
+      },
+      {
+        "text": "Beta-1 adrenergic Gs-coupled adenylyl cyclase activation in ventricular myocytes",
+        "correct": true,
+        "explanation": "Loop B exhibits a steeper ESPVR slope, lower end-systolic volume, and larger stroke volume at constant preload (EDV 125 mL). This defines positive inotropy driven by beta-1 Gs-cAMP-PKA phosphorylation of L-type calcium channels and phospholamban."
+      },
+      {
+        "text": "Venous capacitance dilation reducing central venous return to the right atrium",
+        "correct": false,
+        "explanation": "Venodilation lowers left ventricular end-diastolic volume and shifts the right vertical filling boundary leftward along the EDPVR curve, whereas Loop B retains the same 125 mL EDV."
+      },
+      {
+        "text": "Muscarinic M2 receptor stimulation slowing sinoatrial nodal diastolic depolarization",
+        "correct": false,
+        "explanation": "Parasympathetic M2 activation slows heart rate and minimally reduces atrial contractility rather than steepening the ventricular end-systolic elastance slope."
+      },
+      {
+        "text": "Acute mitral valve chordae rupture creating regurgitant flow into the left atrium",
+        "correct": false,
+        "explanation": "Acute mitral regurgitation eliminates the vertical isovolumetric contraction segment as blood regurgitates early into the left atrium, whereas Loop B preserves vertical isovolumetric contraction."
+      }
+    ],
+    "explanation": "The shift from Loop A to Loop B demonstrates pure positive inotropy: end-diastolic volume stays fixed at 125 mL, end-systolic volume drops from ~55 mL to ~34 mL, stroke volume widens, and the end-systolic pressure-volume relationship (ESPVR) rotates upward and leftward (steeper elastance slope).\n\nInotropy rises when sympathetic beta-1 stimulation activates Gs protein, adenylyl cyclase, and protein kinase A, increasing systolic calcium influx through L-type channels and accelerating sarcoplasmic reticulum calcium reuptake via phospholamban phosphorylation.",
+    "objective": "Identify positive inotropy on a left ventricular pressure-volume loop by recognizing a steeper ESPVR slope and reduced end-systolic volume.",
+    "keyPoints": [
+      "Steeper ESPVR slope and smaller end-systolic volume signify enhanced contractility.",
+      "Pure afterload increases end-systolic volume without changing ESPVR slope."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Physiology, Cardiac Cycle and Pressure-Volume Loops",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK459327/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0002",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Spirometry flow-volume loops and elastic recoil loss",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man with a 45-pack-year smoking history undergoes pulmonary function testing for progressive exertional dyspnea. His measured spirometry trace (solid curve) is plotted alongside his predicted reference trace (dashed curve). Which structural or mechanical alteration best accounts for the contour and volume-axis displacement of the solid curve?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-05.png",
+    "imageAlt": "Spirometry flow-volume graph showing positive expiration above and negative inspiration below, comparing a normal dashed curve against a solid curve shifted leftward to higher lung volumes with decreased peak expiratory flow and upward concavity.",
+    "options": [
+      {
+        "text": "Increased alveolar-capillary interstitial collagen deposition lowering lung compliance",
+        "correct": false,
+        "explanation": "Pulmonary fibrosis decreases lung compliance, shifting the flow-volume loop rightward toward lower total lung capacity and residual volume with a tall, narrow profile rather than leftward hyperinflation."
+      },
+      {
+        "text": "Destruction of alveolar elastic fibers reducing outward radial airway traction",
+        "correct": true,
+        "explanation": "The solid loop shifts leftward toward higher TLC (~7.6 L) and RV (~3.6 L), lowers peak expiratory flow, and exhibits classic downward scooping (coving) of the expiratory curve due to early small-airway collapse during forced expiration in emphysema."
+      },
+      {
+        "text": "Circumferential subglottic tracheal scar producing fixed upper airway narrowing",
+        "correct": false,
+        "explanation": "Fixed extrathoracic or intrathoracic tracheal stenosis flattens both the inspiratory and expiratory limbs equally into a box-like plateau without hyperinflation or expiratory scooping."
+      },
+      {
+        "text": "Bilateral diaphragmatic weakness impairing inspiratory chest wall expansion",
+        "correct": false,
+        "explanation": "Neuromuscular inspiratory weakness diminishes total lung capacity (rightward shift) and symmetric peak efforts rather than increasing TLC and producing scooped expiratory flow limitation."
+      },
+      {
+        "text": "Dynamic extrathoracic vocal cord adduction during quiet and forced inspiration",
+        "correct": false,
+        "explanation": "Variable extrathoracic obstruction selectively flattens the lower inspiratory limb while leaving the upper expiratory curve and lung volumes largely intact."
+      }
+    ],
+    "explanation": "The patient trace demonstrates classic obstructive lung disease mechanics: total lung capacity increases (shifting left along the inverted volume axis), residual volume increases markedly from air trapping, peak expiratory flow drops, and the descending expiratory limb bows inward (coved/scooped appearance).\n\nIn emphysema, protease-mediated destruction of elastin increases compliance and removes elastic tethering on small distal bronchioles. During forced expiration, positive pleural pressure exceeds intraluminal airway pressure prematurely (dynamic airway compression), tapering expiratory flow sharply at low lung volumes.",
+    "objective": "Interpret an obstructive flow-volume loop showing hyperinflation (leftward shift) and scooped expiratory flow limitation.",
+    "keyPoints": [
+      "Loss of elastic recoil shifts TLC/RV left and causes early dynamic airway collapse.",
+      "Restrictive diseases shift the loop rightward with reduced TLC and preserved expiratory slope."
+    ],
+    "references": [
+      {
+        "label": "GOLD Global Strategy for COPD Diagnosis and Spirometry",
+        "url": "https://goldcopd.org/gold-reports/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0003",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Hematology",
+    "topic": "Oxygen-hemoglobin dissociation curve shifts and tissue unloading",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old athlete completes an intense 15-minute uphill sprint. Within working quadriceps capillary beds, blood pH falls to 7.18, partial pressure of CO₂ rises, and local muscle temperature reaches 39.2°C. Compared with Curve Y representing resting arterial blood, which curve and physiologic mechanism correspond to hemoglobin behavior inside the exercising muscle capillaries?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-06.png",
+    "imageAlt": "Graph plotting hemoglobin oxygen saturation from 0 to 100 percent against partial pressure of oxygen from 0 to 110 mm Hg, showing Curve X shifted left (P50 17), Curve Y baseline (P50 27), and Curve Z shifted right (P50 42).",
+    "options": [
+      {
+        "text": "Curve X; R-state stabilization reducing tissue oxygen extraction",
+        "correct": false,
+        "explanation": "Curve X (lower P50 = 17 mm Hg) is left-shifted and holds oxygen more tightly, which impairs peripheral unloading rather than matching exercising muscle."
+      },
+      {
+        "text": "Curve Z; T-state stabilization facilitating peripheral oxygen unloading",
+        "correct": true,
+        "explanation": "Elevated temperature, increased H+ (acidosis), and higher PCO2 in active muscle stabilize the taut (T) deoxygenated hemoglobin conformation via the Bohr effect, shifting dissociation rightward to Curve Z (P50 = 42 mm Hg) and releasing more O2 at tissue PO2 (~20–40 mm Hg)."
+      },
+      {
+        "text": "Curve X; decreased 2,3-bisphosphoglycerate synthesis within erythrocytes",
+        "correct": false,
+        "explanation": "Stored banked blood depleted of 2,3-BPG shifts left toward Curve X; exercising skeletal muscle shows an acute right shift."
+      },
+      {
+        "text": "Curve Z; fetal gamma-globin chains showing diminished 2,3-BPG affinity",
+        "correct": false,
+        "explanation": "Fetal hemoglobin (HbF) binds 2,3-BPG poorly and produces a left shift (Curve X), not the right shift depicted in Curve Z."
+      },
+      {
+        "text": "Curve Y; complete cooperative saturation unaffected by local tissue metabolites",
+        "correct": false,
+        "explanation": "Hemoglobin affinity is allosterically modulated by protons, CO2, temperature, and 2,3-BPG rather than remaining static at P50 = 27 mm Hg."
+      }
+    ],
+    "explanation": "Active skeletal muscle generates heat, lactic acid (elevated H+), and CO₂. All three decrease hemoglobin affinity for oxygen, shifting the curve rightward from Curve Y (P50 = 27 mm Hg) to Curve Z (P50 = 42 mm Hg).\n\nPhysically, protons and CO₂ stabilize salt bridges in the deoxygenated T (taut) state (the Bohr effect), promoting oxygen unloading in systemic capillaries while minimally impairing pulmonary oxygen uptake along the flat upper plateau near alveolar PO₂ = 100 mm Hg.",
+    "objective": "Distinguish right-shifted (Curve Z, T-state stabilized) from left-shifted (Curve X, R-state stabilized) oxygen-hemoglobin dissociation curves.",
+    "keyPoints": [
+      "Heat, H+, PCO2, and 2,3-BPG shift the curve right (Curve Z), stabilizing the T state.",
+      "Fetal Hb, low 2,3-BPG, alkalosis, and hypothermia shift the curve left (Curve X)."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Physiology, Oxyhemoglobin Dissociation Curve",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539815/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0004",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Ventricular action potential prolongation and antiarrhythmic ion currents",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An electrophysiology experiment records intracellular transmembrane voltage in a Purkinje-ventricular preparation before (solid trace) and after perfusion with an antiarrhythmic compound labeled Drug X (dashed trace). Which ionic mechanism best explains the action potential change shown, and which arrhythmia risk increases as a direct consequence?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-07.png",
+    "imageAlt": "Ventricular cardiomyocyte action potential graph showing Baseline solid curve and After Drug X dashed curve with identical phase 4 resting potential and phase 0 upstroke velocity but markedly prolonged plateau/phase 3 repolarization.",
+    "options": [
+      {
+        "text": "Rapid voltage-gated sodium channel blockade; monomorphic ventricular tachycardia",
+        "correct": false,
+        "explanation": "Sodium channel blockers (Class IA/IB/IC) blunt the slope and height of phase 0 depolarization; here phase 0 upstroke is completely unchanged."
+      },
+      {
+        "text": "Delayed rectifier potassium current (IKr) blockade; torsades de pointes",
+        "correct": true,
+        "explanation": "Drug X preserves phase 0 upstroke while selectively prolonging phase 3 repolarization and APD90—the hallmark of Class III potassium channel (IKr/hERG) blockade (e.g., dofetilide, ibutilide, sotalol). Prolonged repolarization promotes L-type calcium channel reactivation, early afterdepolarizations, and torsades de pointes."
+      },
+      {
+        "text": "L-type calcium channel antagonism; accelerated sinoatrial Wenckebach conduction",
+        "correct": false,
+        "explanation": "Class IV L-type calcium blockers flatten phase 2 and primarily slow SA/AV nodal phase 0 and phase 4 rather than prolonging ventricular phase 3 repolarization."
+      },
+      {
+        "text": "HCN funny-current inhibition; sinus node pause without QT prolongation",
+        "correct": false,
+        "explanation": "Ivabradine selectively inhibits pacemaker If channels during phase 4 in SA nodal tissue and does not widen the ventricular action potential."
+      },
+      {
+        "text": "Na+/K+-ATPase inhibition; bidirectional premature ventricular beats via Ca2+ overload",
+        "correct": false,
+        "explanation": "Cardiac glycosides typically shorten action potential duration (scooping ST segment) rather than widening APD90."
+      }
+    ],
+    "explanation": "Comparing the dashed trace to baseline demonstrates an identical resting membrane potential (-90 mV) and unaltered rapid phase 0 sodium upstroke, paired with pronounced lengthening of phase 3 repolarization (APD90 extended from ~310 ms to ~440 ms).\n\nBlocking delayed rectifier potassium efflux (IKr, Class III action) slows repolarization and lengthens both the effective refractory period and surface QT interval. Prolonged phase 2/3 voltage recovery allows L-type calcium channels to recover from inactivation and trigger early afterdepolarizations (EADs) that initiate torsades de pointes.",
+    "objective": "Identify Class III potassium channel blockade from selective prolongation of phase 3 ventricular repolarization and link it to EADs/torsades.",
+    "keyPoints": [
+      "Class III agents prolong APD90 and QT without reducing phase 0 slope.",
+      "Delayed repolarization predisposes to early afterdepolarizations and torsades de pointes."
+    ],
+    "references": [
+      {
+        "label": "FDA / DailyMed Antiarrhythmic Pharmacology & QT Prolongation Reference",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK548292/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0005",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Lineweaver-Burk kinetics and reversible enzyme inhibition",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A biochemist assays an isolated metabolic enzyme across increasing substrate concentrations with and without Drug Y, generating the Lineweaver-Burk plot shown. Which kinetic conclusion accurately characterizes Drug Y?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-08.png",
+    "imageAlt": "Double-reciprocal Lineweaver-Burk plot of 1/V0 versus 1/[S] showing two lines intersecting exactly on the vertical y-axis, with the red dashed inhibitor line having a steeper slope and x-intercept closer to zero (-0.2 vs -0.5).",
+    "options": [
+      {
+        "text": "Drug Y binds covalently to an allosteric pocket, lowering maximal reaction velocity",
+        "correct": false,
+        "explanation": "Noncompetitive or irreversible allosteric inhibition lowers Vmax, which raises the y-intercept (1/Vmax) above the control line rather than keeping it identical."
+      },
+      {
+        "text": "Drug Y increases apparent Km without altering Vmax and is overcome by excess substrate",
+        "correct": true,
+        "explanation": "Both lines cross at the exact same y-intercept (1/Vmax unchanged), while the x-intercept (-1/Km) moves closer to zero (-0.5 to -0.2), proving apparent Km increased from 2 mM to 5 mM—classic reversible competitive inhibition."
+      },
+      {
+        "text": "Drug Y binds exclusively to the enzyme-substrate complex, lowering both Km and Vmax proportionally",
+        "correct": false,
+        "explanation": "Uncompetitive inhibition yields parallel lines on a Lineweaver-Burk plot rather than intersecting at a shared y-axis intercept."
+      },
+      {
+        "text": "Drug Y acts as a positive allosteric effector increasing catalytic efficiency kcat/Km",
+        "correct": false,
+        "explanation": "An activator shifts -1/Km leftward away from zero and lowers slope, whereas Drug Y increases the slope and raises apparent Km."
+      },
+      {
+        "text": "Drug Y reduces enzyme concentration in the assay by 50 percent",
+        "correct": false,
+        "explanation": "Halving total enzyme concentration cuts Vmax in half and doubles the y-intercept without changing Km."
+      }
+    ],
+    "explanation": "On a Lineweaver-Burk plot, the y-intercept equals 1/Vmax and the x-intercept equals -1/Km. Because Drug Y shares the identical y-intercept, maximal velocity Vmax is unchanged. Simultaneously, -1/Km shifts from -0.5 mM⁻¹ (Km = 2 mM) to -0.2 mM⁻¹ (Km′ = 5 mM), meaning higher substrate concentration is needed to achieve half-maximal velocity.\n\nThis is the signature of reversible competitive inhibition at the active site, which excess substrate can completely outcompete.",
+    "objective": "Interpret a shared y-intercept with steeper slope on a Lineweaver-Burk plot as competitive inhibition.",
+    "keyPoints": [
+      "Competitive inhibitors increase apparent Km (-1/Km moves toward 0) while leaving Vmax (y-intercept) unchanged.",
+      "Noncompetitive inhibitors raise the y-intercept (lower Vmax) with unchanged x-intercept."
+    ],
+    "references": [
+      {
+        "label": "NCBI Bookshelf: Biochemistry, Enzyme Kinetics and Inhibition",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557652/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0006",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Renal",
+    "topic": "Renal glucose titration, threshold splay, and transport maximum",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "The graph illustrates proximal tubular glucose filtration, reabsorption, and excretion across escalating plasma glucose concentrations in a healthy adult. If a patient begins taking a selective inhibitor of the proximal convoluted tubule SGLT2 cotransporter, how do Curves B and C primarily shift at a plasma glucose of 150 mg/dL?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-09.png",
+    "imageAlt": "Renal glucose titration graph plotting rate (mg/min) against plasma glucose (mg/dL): Curve A rises linearly from 0 to 750; Curve B matches Curve A until ~200 mg/dL then plateaus at 375 mg/min; Curve C stays at 0 until ~200 mg/dL then rises parallel to Curve A.",
+    "options": [
+      {
+        "text": "Curve B rises above Curve A while Curve C remains unchanged at zero",
+        "correct": false,
+        "explanation": "Tubular reabsorption can never exceed filtered load (Curve A) unless active tubular glucose secretion occurred; SGLT2 inhibition reduces reabsorption."
+      },
+      {
+        "text": "Curve B plateaus at a lower transport maximum and Curve C rises earlier below 150 mg/dL",
+        "correct": true,
+        "explanation": "SGLT2 in the S1/S2 proximal tubule normally reabsorbs ~90% of filtered glucose. Inhibiting SGLT2 lowers total renal Tm (Curve B plateau drops) and shifts the excretion threshold (Curve C inflection) leftward so glucosuria appears at normoglycemia (~150 mg/dL)."
+      },
+      {
+        "text": "Curve A shifts downward proportionally while Tm remains fixed at 375 mg/min",
+        "correct": false,
+        "explanation": "Filtered load (Curve A = GFR x plasma glucose) depends on glomerular filtration rate and plasma glucose rather than SGLT2 transporter blockade, aside from minor tubuloglomerular feedback reductions."
+      },
+      {
+        "text": "Curve B loses its horizontal plateau and becomes completely superimposed on Curve A",
+        "correct": false,
+        "explanation": "Removing the plateau would imply unlimited active glucose reabsorption without saturation—the opposite of transporter blockade."
+      },
+      {
+        "text": "Curve C disappears completely until plasma glucose exceeds 400 mg/dL",
+        "correct": false,
+        "explanation": "Inhibiting SGLT2 promotes earlier urinary glucose excretion rather than raising the plasma threshold."
+      }
+    ],
+    "explanation": "Curve A represents filtered glucose load (GFR × plasma glucose), Curve B represents proximal tubular reabsorption (saturating at Tm = 375 mg/min due to carrier-mediated SGLT limits, with splay between ~200 and 300 mg/dL from nephron heterogeneity), and Curve C represents urinary glucose excretion (Filtered − Reabsorbed).\n\nBecause SGLT2 mediates ~90% of luminal glucose-sodium cotransport in the early proximal convoluted tubule, pharmacologic SGLT2 inhibition markedly lowers Tm (dropping Curve B's plateau) and shifts Curve C leftward so glucosuria begins well below 200 mg/dL.",
+    "objective": "Predict leftward threshold and lower Tm shifts on the renal glucose titration curve during SGLT2 transporter inhibition.",
+    "keyPoints": [
+      "Curve A = filtered load, Curve B = reabsorption (saturates at Tm), Curve C = urinary excretion.",
+      "SGLT2 inhibitors reduce Tm and lower the threshold at which Curve C begins rising."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Diabetes in CKD: SGLT2 Physiology and Clinical Guidance",
+        "url": "https://kdigo.org/guidelines/diabetes-ckd/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0007",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Pedigree inheritance analysis and recurrence probability",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A couple (II-5 and II-6) seeks prenatal genetic counseling after their son (III-3, arrow) was diagnosed with a severe early-onset bleeding disorder. No individuals in the pedigree have reduced penetrance, and new germline mutations are excluded. Assuming the unborn fetus (III-5) undergoes karyotyping that confirms a 46,XY fetus, what is the probability that fetus III-5 will inherit the disorder?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-10.png",
+    "imageAlt": "Three-generation family pedigree showing unaffected I-1 male and I-2 female with affected son II-2 (who has unaffected son III-1 and daughter III-2) and unaffected daughter II-5 (married to unaffected male II-6) with affected son III-3 (proband), unaffected daughter III-4, and unborn fetus III-5.",
+    "options": [
+      {
+        "text": "0%, because unaffected parents can only transmit autosomal dominant de novo variants",
+        "correct": false,
+        "explanation": "The condition transmits through unaffected female II-5 to III-3 and appears in maternal uncle II-2, matching a classic recessive carrier pedigree rather than de novo autosomal dominant disease."
+      },
+      {
+        "text": "25%, because both parents II-5 and II-6 must be heterozygous autosomal carriers",
+        "correct": false,
+        "explanation": "The exclusive involvement of males across maternal lineage (II-2 and III-3), presence of a carrier mother (II-5) related to an affected uncle, and absence of male-to-male transmission from II-2 to III-1 favor X-linked recessive rather than autosomal recessive inheritance."
+      },
+      {
+        "text": "50%, because mother II-5 is an obligate X-linked recessive carrier",
+        "correct": true,
+        "explanation": "Affected male II-2 has unaffected children (II-2 to III-1 rules out male-to-male transmission), while his sister II-5 has an affected son (III-3), making II-5 an obligate X-linked recessive carrier (X^A X^a). A 46,XY fetus inherits his Y chromosome from II-6 and has a 50% chance of inheriting the mutant X^a allele from II-5."
+      },
+      {
+        "text": "75%, because maternal uncle II-2 elevates baseline familial transmission risk",
+        "correct": false,
+        "explanation": "Each meiosis in an obligate carrier female transmits the mutant X chromosome with an independent 50% Mendelian probability regardless of previously affected siblings or uncles."
+      },
+      {
+        "text": "100%, because all male offspring of a carrier mother inherit maternal mitochondrial alleles",
+        "correct": false,
+        "explanation": "Mitochondrial inheritance affects both males and females (both III-2 and III-4 would inherit from an affected mother, whereas II-2 is an affected male whose mother I-2 is unaffected)."
+      }
+    ],
+    "explanation": "Key pedigree rules point directly to X-linked recessive inheritance: (1) only males (II-2, III-3) express the disorder, (2) there is no father-to-son transmission (affected II-2 has unaffected son III-1), and (3) transmission skips generation I/II through unaffected female I-2 and obligate carrier female II-5.\n\nBecause II-5 has an affected brother and an affected son, she is an obligate heterozygote (X^A X^a). Given fetal karyotype 46,XY, the probability of inheriting X^a from mother II-5 is exactly 50%.",
+    "objective": "Determine X-linked recessive inheritance from a three-generation pedigree and calculate fetal recurrence risk given 46,XY status.",
+    "keyPoints": [
+      "Affected uncle + unaffected carrier mother + affected nephew with no father-to-son transmission indicates X-linked recessive inheritance.",
+      "Conditioned on 46,XY sex, an obligate carrier mother transmits an X-linked allele with 50% probability."
+    ],
+    "references": [
+      {
+        "label": "NCBI GeneReviews / StatPearls: X-Linked Recessive Pedigree Counseling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557383/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0008",
+    "exam": "Step 1",
+    "subject": "Immunology",
+    "system": "Hematology",
+    "topic": "Flow cytometry B-cell arrest and primary humoral immunodeficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "An 11-month-old boy is evaluated for recurrent sinopulmonary infections with encapsulated *Streptococcus pneumoniae* and *Haemophilus influenzae* since 7 months of age. Physical examination notes virtually absent palatine tonsils and nonpalpable cervical lymph nodes. Peripheral blood flow cytometry is shown alongside a healthy age-matched control. Which molecular defect explains this laboratory pattern?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-11.png",
+    "imageAlt": "Side-by-side flow cytometry scatter plots of CD19 versus CD3 fluorescence: Healthy Control shows 16.4% CD19+CD3- cells in Q1 and 72.3% CD3+CD19- cells in Q4; Patient shows 0.1% CD19+ cells in Q1 and 87.3% CD3+ cells in Q4.",
+    "options": [
+      {
+        "text": "Deletion at chromosome 22q11.2 causing failure of third and fourth pharyngeal pouch development",
+        "correct": false,
+        "explanation": "22q11.2 deletion (DiGeorge syndrome) causes thymic hypoplasia and a marked deficit of CD3+ T cells in Q4 rather than normal/elevated CD3+ percentage with absent CD19+ B cells."
+      },
+      {
+        "text": "Loss-of-function mutation in Bruton tyrosine kinase (BTK) halting pre-B cell maturation",
+        "correct": true,
+        "explanation": "Flow cytometry shows 0.1% CD19+ B lymphocytes (Q1) with preserved CD3+ T cells (Q4), combined with hypoplastic lymphoid tissue (absent tonsils) and infections starting after maternal IgG wanes around 6 months—diagnostic of X-linked agammaglobulinemia from BTK deficiency."
+      },
+      {
+        "text": "Autosomal recessive NADPH oxidase defect impairing neutrophil phagocytic respiratory burst",
+        "correct": false,
+        "explanation": "Chronic granulomatous disease impairs phagocyte superoxide generation (abnormal DHR/NBT flow assay) while leaving circulating CD19+ B-cell percentages normal."
+      },
+      {
+        "text": "Defective CD40 ligand expression on activated helper T cells preventing immunoglobulin class switching",
+        "correct": false,
+        "explanation": "Hyper-IgM syndrome spares early marrow B-cell development so circulating CD19+ B-cell counts remain normal despite low IgG, IgA, and IgE."
+      },
+      {
+        "text": "Adenosine deaminase deficiency producing toxic deoxyadenosine accumulation across all lymphocytes",
+        "correct": false,
+        "explanation": "ADA-deficient severe combined immunodeficiency depletes both CD3+ T cells (Q4) and CD19+ B cells (Q1), whereas Q4 CD3+ T cells are abundant here."
+      }
+    ],
+    "explanation": "The flow cytometry panels isolate CD19 (B-lineage marker, vertical axis) against CD3 (T-lineage marker, horizontal axis). While the control displays 16.4% CD19+ B cells in quadrant Q1, the patient has 0.1% CD19+ B cells with intact CD3+ T cells (Q4).\n\nSelective absence of mature B lymphocytes alongside absent tonsils/lymph nodes and recurrent bacterial infections appearing after transplacental maternal IgG decays (~6 months) identifies X-linked agammaglobulinemia (Bruton disease), caused by mutations in the cytoplasmic tyrosine kinase BTK that block pre-B to immature B-cell differentiation in bone marrow.",
+    "objective": "Interpret peripheral blood CD19 vs CD3 flow cytometry to diagnose X-linked agammaglobulinemia (BTK deficiency).",
+    "keyPoints": [
+      "Absent CD19+ cells with normal/relatively increased CD3+ cells point to pure B-cell developmental arrest.",
+      "Maternal IgG protects infants with XLA until ~6 months of age."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: X-Linked Agammaglobulinemia (Bruton Disease)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448170/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0009",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "Restriction fragment length polymorphism (RFLP) Southern blot prenatal diagnosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A couple expecting their second child requests prenatal molecular testing via chorionic villus sampling because both parents carry a hemoglobinopathy trait. Extracted genomic DNA is digested with *MstII* and hybridized with a probe spanning the 5′ region of the β-globin gene, yielding the Southern blot shown. Which amino acid substitution and fetal genotype does the Fetus lane confirm?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-12.png",
+    "imageAlt": "Southern blot gel image after MstII restriction digest with a beta-globin probe showing five lanes: Mother (1.35 kb and 1.15 kb), Father (1.35 kb and 1.15 kb), Child 1 (1.15 kb only), Fetus (1.35 kb only), and Control (1.15 kb only).",
+    "options": [
+      {
+        "text": "Heterozygous carrier with one wild-type allele and one valine-for-glutamate substitution",
+        "correct": false,
+        "explanation": "Heterozygous carriers retain one cleavable allele (1.15 kb) and one mutant allele (1.35 kb), as seen in Mother and Father, whereas the Fetus shows only the 1.35 kb band."
+      },
+      {
+        "text": "Homozygous normal wild-type β-globin sequence with intact MstII restriction cleavage",
+        "correct": false,
+        "explanation": "Homozygous wild-type DNA cleaves completely into the 1.15 kb fragment shown in Child 1 and Healthy Control, not the 1.35 kb band."
+      },
+      {
+        "text": "Homozygous missense mutation replacing hydrophilic glutamate with hydrophobic valine at position 6",
+        "correct": true,
+        "explanation": "The HbS A->T point mutation (GAG->GTG, Glu6Val) eliminates the MstII CCTGAGG cut site, fusing the 1.15 kb and 0.2 kb fragments into a single 1.35 kb band. Having solely the 1.35 kb band establishes homozygosity for the sickle beta-globin allele."
+      },
+      {
+        "text": "Compound deletion of all four alpha-globin loci producing hydrops fetalis",
+        "correct": false,
+        "explanation": "Four-gene alpha-thalassemia deletion removes alpha-globin DNA rather than abolishing an MstII restriction site within exon 1 of the beta-globin gene."
+      },
+      {
+        "text": "Premature stop codon in beta-globin intron 1 causing beta-zero thalassemia",
+        "correct": false,
+        "explanation": "The loss of the specific CCTGAGG MstII site generating the classic 1.35 kb uncut band identifies the Glu6Val HbS missense mutation."
+      }
+    ],
+    "explanation": "Normally, *MstII* recognizes CCTGAGG spanning codon 6 of the β-globin gene, producing a 1.15 kb fragment (plus a 0.2 kb piece). An A→T transversion changes GAG (glutamate) to GTG (valine), destroying the *MstII* cut site so the enzyme produces an uncleaved 1.35 kb band.\n\nMother and Father each exhibit both 1.35 kb and 1.15 kb bands (heterozygous traits), Child 1 and Control show solely 1.15 kb (homozygous normal), and the Fetus shows solely the 1.35 kb band (homozygous HbSS).",
+    "objective": "Interpret an MstII RFLP Southern blot to distinguish homozygous HbSS, heterozygous HbAS trait, and homozygous HbAA.",
+    "keyPoints": [
+      "Loss of the MstII restriction site yields a larger 1.35 kb band in HbS alleles.",
+      "Parents with 1.35 + 1.15 kb bands are heterozygous traits; a fetus with only 1.35 kb is homozygous HbSS."
+    ],
+    "references": [
+      {
+        "label": "NCBI Bookshelf: Molecular Diagnosis of Sickle Cell Mutation by Restriction Digest",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482164/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0010",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Nervous System",
+    "topic": "Visual pathway lesion localization via static perimetry",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 38-year-old woman presents with 6 months of worsening headaches, galactorrhea, and amenorrhea. Automated static perimetry results for both eyes are shown. Compression of which neuroanatomic structure directly produces this visual field pattern?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-13.png",
+    "imageAlt": "Automated visual field perimetry circles for Left Eye (OS) and Right Eye (OD) showing complete black scotoma in the left half of Left Eye (temporal) and right half of Right Eye (temporal), sharply respecting the vertical midline.",
+    "options": [
+      {
+        "text": "Right optic nerve immediately posterior to the lamina cribrosa",
+        "correct": false,
+        "explanation": "Unilateral optic nerve compression causes monocular vision loss or central scotoma restricted to the right eye alone while sparing the left eye."
+      },
+      {
+        "text": "Crossing nasal retinal fibers within the midline optic chiasm",
+        "correct": true,
+        "explanation": "The perimetry shows bitemporal hemianopia (loss of left temporal field in OS and right temporal field in OD) alongside hyperprolactinemia symptoms (galactorrhea/amenorrhea), classic for upward compression of crossing nasal retinal fibers at the optic chiasm by a pituitary adenoma."
+      },
+      {
+        "text": "Left optic tract coursing posteriorly toward the lateral geniculate body",
+        "correct": false,
+        "explanation": "A left optic tract lesion produces right homonymous hemianopia (loss of right half in both eyes), not bilateral temporal defects."
+      },
+      {
+        "text": "Right Meyer loop sweeping around the inferior horn of the lateral ventricle",
+        "correct": false,
+        "explanation": "Damage to Meyer loop in the right temporal lobe yields a contralateral (left) superior homonymous quadrantanopia rather than bitemporal hemianopia."
+      },
+      {
+        "text": "Bilateral primary visual cortex around the calcarine sulcus with posterior pole sparing",
+        "correct": false,
+        "explanation": "Occipital pole lesions produce macular-sparing homonymous hemianopias rather than cleanly vertical-midline bitemporal loss."
+      }
+    ],
+    "explanation": "Perimetry depicts temporal field loss in both eyes (left half of OS and right half of OD) that respects the vertical midline—**bitemporal hemianopia**.\n\nLight from temporal visual fields strikes the nasal hemiretina of each eye. Nasal retinal axons decussate centrally in the optic chiasm directly superior to the sella turcica, making them selectively vulnerable to expanding pituitary tumors (such as a prolactinoma causing amenorrhea and galactorrhea).",
+    "objective": "Localize bitemporal hemianopia on visual field perimetry to crossing nasal retinal fibers at the optic chiasm.",
+    "keyPoints": [
+      "Bitemporal hemianopia localizes to the midline optic chiasm.",
+      "Nasal retinal fibers carry temporal visual field information and decussate at the chiasm."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Neuroanatomy, Visual Pathway and Chiasmal Defects",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s1-0011",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Peripheral blood smear erythrocyte polymerization and nonimmune hemolysis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 16-year-old boy has recurrent episodes of acute severe back and extremity pain precipitated by high-altitude travel and dehydration. Hemoglobin is 8.0 g/dL, indirect bilirubin is 3.1 mg/dL, reticulocyte count is 9%, and direct antiglobulin testing is negative. His peripheral blood smear is shown. Which molecular mechanism most directly induces the cellular morphology seen in the exhibit?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*\n\nExhibit: Dr Graham Beards / Wikimedia Commons, [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+    "image": "/question-images/usmle/exhibit-01.jpg",
+    "imageAlt": "Giemsa-stained peripheral blood film showing several elongated crescent-shaped erythrocytes with pointed ends alongside round normocytic cells and a segmented neutrophil.",
+    "options": [
+      {
+        "text": "Disulfide cross-linking of denatured hemoglobin into Heinz bodies from NADPH depletion",
+        "correct": false,
+        "explanation": "G6PD deficiency forms intracellular Heinz bodies and bite cells after oxidative stress rather than symmetric crescentic elongated cells."
+      },
+      {
+        "text": "Hydrophobic polymerization of deoxygenated beta-globin tetramers at position 6",
+        "correct": true,
+        "explanation": "Replacing polar glutamate with hydrophobic valine at beta-globin codon 6 permits hydrophobic aggregation between adjacent deoxygenated hemoglobin S tetramers into rigid paracrystalline fibers that distort erythrocytes into crescent/sickle shapes."
+      },
+      {
+        "text": "Ankyrin and spectrin deficiency reducing erythrocyte surface area-to-volume ratio",
+        "correct": false,
+        "explanation": "Hereditary spherocytosis produces small round hyperdense spherocytes lacking central pallor rather than elongated pointed cells."
+      },
+      {
+        "text": "Pyruvate kinase deficiency decreasing ATP generation and causing rigid echinocytes",
+        "correct": false,
+        "explanation": "Pyruvate kinase deficiency produces spiky burr cells (echinocytes) without forming elongated crescentic sickle polymers."
+      },
+      {
+        "text": "Intravascular fibrin strands mechanically shearing circulating erythrocytes into fragments",
+        "correct": false,
+        "explanation": "Microangiopathic hemolytic anemia produces irregular helmet cells and schistocytes rather than smooth crescentic rods."
+      }
+    ],
+    "explanation": "The peripheral smear reveals classic elongated, crescent-shaped erythrocytes alongside target/polychromatophilic cells, explaining chronic nonimmune extravascular/intravascular hemolysis and painful vaso-occlusive crises triggered by hypoxia or dehydration.\n\nDeoxygenated hemoglobin S exposes a hydrophobic valine patch (Glu6Val) on the surface of the β-globin chain, which binds a complementary hydrophobic pocket on adjacent tetramers, polymerizing into stiff fibers that deform the red cell membrane.\n\nBecause a blood smear supports a sickling process without differentiating HbSS from HbSC or HbS/β-thalassemia, hemoglobin electrophoresis or HPLC is required to establish the exact genotype.\n\n**Image credit:** Dr Graham Beards, *Sickle cells in blood*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sickle_cells_in_blood.jpg), [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). Wikimedia 1280-pixel thumbnail used without modification.",
+    "objective": "Connect peripheral blood smear sickled erythrocytes with hydrophobic polymerization of deoxygenated hemoglobin S.",
+    "keyPoints": [
+      "Deoxygenated HbS polymers stiffen and elongate erythrocytes (Glu6Val).",
+      "Low oxygen tension, acidosis, and cellular dehydration accelerate polymerization."
+    ],
+    "references": [
+      {
+        "label": "NHLBI: Sickle Cell Disease — Causes and Pathophysiology",
+        "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/causes"
+      },
+      {
+        "label": "Image source: Dr Graham Beards — Sickle cells in blood",
+        "url": "https://commons.wikimedia.org/wiki/File:Sickle_cells_in_blood.jpg"
+      },
+      {
+        "label": "Image license: CC-BY-SA-4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors (CC BY-SA 4.0). Exhibit: Dr Graham Beards / Wikimedia Commons (CC-BY-SA-4.0)."
+  },
+  {
+    "code": "op-uw-s2-0001",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute inferior ST-elevation myocardial infarction management and RV precautions",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old man arrives at the emergency department 40 minutes after onset of crushing substernal chest pressure and diaphoresis. Blood pressure is 88/58 mm Hg, pulse is 64/min, jugular veins are distended to the jaw, and lung fields are clear to auscultation bilaterally. His 12-lead ECG is shown. Which immediate diagnostic or therapeutic action is most appropriate alongside dual antiplatelet loading and emergent cardiac catheterization activation?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-14.png",
+    "imageAlt": "12-lead ECG at 25 mm/s and 10 mm/mV showing convex ST-segment elevations and pathologic Q waves in leads II, III, and aVF with reciprocal ST-segment depressions in leads I and aVL.",
+    "options": [
+      {
+        "text": "Administer sublingual nitroglycerin 0.4 mg immediately for coronary vasodilation",
+        "correct": false,
+        "explanation": "Hypotension with clear lungs, elevated JVP, and inferior ST elevation suggests right ventricular infarction; nitrates sharply reduce preload and can precipitate profound shock."
+      },
+      {
+        "text": "Obtain right-sided precordial leads (V4R) and administer an intravenous isotonic saline bolus",
+        "correct": true,
+        "explanation": "The ECG reveals acute inferior STEMI (STE in II, III, aVF; reciprocal depression in I, aVL; STE III > II suggesting proximal RCA occlusion). Clear lungs + hypotension + elevated JVP indicate RV involvement: verify with V4R, avoid nitrates/morphine, and support preload with IV fluids while activating primary PCI."
+      },
+      {
+        "text": "Start high-dose intravenous metoprolol tartrate to reduce myocardial oxygen demand",
+        "correct": false,
+        "explanation": "Beta-blockers are contraindicated acutely in hypotensive or preload-dependent right ventricular infarction because they blunt compensatory sympathetic tone and worsen cardiogenic shock."
+      },
+      {
+        "text": "Administer intravenous furosemide 40 mg to relieve systemic venous congestion",
+        "correct": false,
+        "explanation": "Jugular venous distention in inferior/RV STEMI reflects impaired right ventricular compliance, not left-sided volume overload (lungs are clear); diuresis dangerously drops LV preload."
+      },
+      {
+        "text": "Defer angiography for serial troponins because ST changes remain localized",
+        "correct": false,
+        "explanation": "Contiguous ST elevation >= 1 mm in >= 2 inferior leads with ischemic symptoms mandates immediate reperfusion (primary PCI) without waiting for troponin elevation."
+      }
+    ],
+    "explanation": "The ECG demonstrates acute inferior STEMI: ST-segment elevation with Q waves in leads II, III, and aVF (III > II) paired with reciprocal ST-segment depression in I and aVL—pointing strongly to proximal right coronary artery (RCA) occlusion.\n\nHypotension, clear lung fields, and elevated JVP signal right ventricular myocardial infarction. A right-sided ECG lead (V4R) should be recorded promptly to confirm RV involvement, preload should be maintained with isotonic saline, nitrates and diuretics must be strictly avoided, and emergent primary PCI should proceed.",
+    "objective": "Recognize inferior STEMI with right ventricular involvement on ECG + exam and prioritize V4R confirmation and preload support over nitrates.",
+    "keyPoints": [
+      "Inferior STEMI (STE II, III, aVF; reciprocal I, aVL depression) + hypotension + clear lungs + high JVP suggests RV infarct.",
+      "Avoid nitrates/diuretics in RV MI; give gentle IV saline and obtain lead V4R."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA Guideline for Coronary Revascularization and STEMI Care",
+        "url": "https://www.acc.org/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0002",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Acute pericarditis versus STEMI differentiation on 12-lead ECG",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old man presents with sharp central chest pain that began 1 day after recovering from an upper respiratory viral syndrome. The pain worsens when lying supine and improves when leaning forward. Temperature is 37.9°C and blood pressure is 124/76 mm Hg. His 12-lead ECG is shown. What is the most appropriate initial pharmacotherapy?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-15.png",
+    "imageAlt": "12-lead ECG showing diffuse upward-concave ST-segment elevations across I, II, III, aVL, aVF, and V2-V6 alongside PR-segment depression in multiple leads and PR elevation with ST depression in lead aVR.",
+    "options": [
+      {
+        "text": "Emergent intravenous alteplase followed by therapeutic unfractionated heparin",
+        "correct": false,
+        "explanation": "Thrombolysis and anticoagulation are contraindicated in acute pericarditis because they risk transforming benign serous inflammation into hemorrhagic pericardial effusion and cardiac tamponade."
+      },
+      {
+        "text": "High-dose ibuprofen plus daily oral colchicine",
+        "correct": true,
+        "explanation": "Diffuse concave-upward ST-segment elevations lacking reciprocal territories, paired with PR-segment depression (and PR elevation/ST depression in aVR) and pleuritic positional chest pain, diagnose acute viral pericarditis. First-line therapy is an NSAID plus colchicine (to halve recurrence risk)."
+      },
+      {
+        "text": "Oral prednisone monotherapy for 4 weeks with rapid taper",
+        "correct": false,
+        "explanation": "Systemic glucocorticoids increase the risk of recurrent pericarditis and are reserved for refractory cases or specific autoimmune/uremic indications when NSAIDs/colchicine fail or are contraindicated."
+      },
+      {
+        "text": "Sublingual nitroglycerin, aspirin, ticagrelor, and emergent PCI activation",
+        "correct": false,
+        "explanation": "Unlike focal coronary STEMI, diffuse ST elevations across non-anatomic territories with PR depression reflect subepicardial inflammation rather than acute thrombotic coronary occlusion."
+      },
+      {
+        "text": "Immediate pericardiocentesis prior to anti-inflammatory treatment",
+        "correct": false,
+        "explanation": "Blood pressure is stable (124/76 mm Hg) without tamponade physiology; an echocardiogram evaluates effusion size, and uncomplicated acute pericarditis is managed medically."
+      }
+    ],
+    "explanation": "Unlike acute myocardial infarction—which shows convex (domed) ST elevations in an anatomic coronary distribution with reciprocal ST depressions—this ECG exhibits **diffuse concave-upward ST elevations** across precordial and limb leads paired with **PR-segment depression** (and PR elevation / ST depression in aVR).\n\nTogether with viral prodrome and pleuritic positional chest pain relieved by leaning forward, the diagnosis is acute pericarditis. Standard first-line medical therapy is high-dose NSAIDs (ibuprofen or high-dose aspirin) combined with **colchicine** to prevent recurrence; anticoagulation and corticosteroids should be avoided initially.",
+    "objective": "Differentiate acute pericarditis from STEMI via diffuse concave STE + PR depression and select NSAID + colchicine therapy.",
+    "keyPoints": [
+      "Diffuse concave STE + PR depression (opposite in aVR) identifies acute pericarditis.",
+      "Combine high-dose NSAID + colchicine; avoid steroids and unnecessary anticoagulation/thrombolytics."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines for Pericardial Diseases (NSAID + Colchicine)",
+        "url": "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Pericardial-Diseases-Management-of"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0003",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Severe hyperkalemia ECG recognition and membrane stabilization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old woman with stage 4 diabetic kidney disease is brought to the emergency department for generalized weakness and lightheadedness after missing two outpatient dialysis sessions and starting spironolactone 1 week ago. Blood pressure is 110/68 mm Hg and heart rate is 62/min. Her 12-lead ECG is shown. While awaiting laboratory confirmation, what is the immediate next step in management?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-16.png",
+    "imageAlt": "12-lead ECG displaying tall narrow symmetrical peaked T waves across precordial and limb leads, broadened QRS complexes, and virtually absent/flattened P waves.",
+    "options": [
+      {
+        "text": "Intravenous furosemide infusion to promote distal potassium wasting",
+        "correct": false,
+        "explanation": "Loop diuretics act too slowly (and often fail in oliguric ESRD) to protect an acutely unstable myocardium showing QRS widening and peaked T waves."
+      },
+      {
+        "text": "Intravenous calcium gluconate over 2 to 3 minutes with continuous cardiac monitoring",
+        "correct": true,
+        "explanation": "Flattened P waves, widened QRS complexes, and tall symmetrical peaked T waves in an oliguric CKD patient on spironolactone indicate life-threatening hyperkalemia. Immediate IV calcium gluconate antagonizes membrane depolarization by raising threshold potential within 1–3 minutes before insulin/glucose and potassium elimination."
+      },
+      {
+        "text": "Oral sodium zirconium cyclosilicate suspension alone prior to repeat ECG",
+        "correct": false,
+        "explanation": "Oral potassium binders take hours to reduce serum potassium and do not protect against imminent ventricular fibrillation or sine-wave arrest."
+      },
+      {
+        "text": "Intravenous regular insulin alone without dextrose co-administration",
+        "correct": false,
+        "explanation": "While insulin shifts K+ intracellularly, giving insulin without dextrose risks severe iatrogenic hypoglycemia, and cardiac membrane stabilization with calcium still comes first when ECG changes are present."
+      },
+      {
+        "text": "Synchronized direct-current cardioversion at 100 joules",
+        "correct": false,
+        "explanation": "Cardioversion treats reentrant tachyarrhythmias, not metabolic conduction toxicity; failing to administer calcium risks progression to sine-wave arrest."
+      }
+    ],
+    "explanation": "The ECG shows the classic progressive signature of **severe hyperkalemia**: narrow, symmetrical, tall **peaked (tented) T waves** (especially in V2–V4), **flattened/absent P waves**, and **widened QRS complexes**.\n\nWhenever hyperkalemia produces ECG abnormalities, the most urgent priority is **immediate intravenous calcium gluconate** (or calcium chloride) to stabilize the cardiac membrane threshold potential within minutes, followed immediately by shifting therapies (IV regular insulin + D50W, inhaled albuterol) and potassium removal (urgent hemodialysis / loop diuretics / binders).",
+    "objective": "Identify severe hyperkalemia on ECG and administer immediate IV calcium gluconate to stabilize cardiac membrane excitability.",
+    "keyPoints": [
+      "Peaked narrow T waves, flattened P waves, and QRS widening indicate severe hyperkalemia.",
+      "IV calcium gluconate is first-line to protect the myocardium; it does not lower serum potassium."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Consensus on Potassium Management in Kidney Disease",
+        "url": "https://kdigo.org/conferences/potassium-management/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0004",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial flutter recognition on 12-lead ECG and electrophysiologic mechanism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old man with chronic obstructive pulmonary disease presents with 3 days of palpitations and mild exertional dyspnea. Blood pressure is 128/78 mm Hg and heart rate is 150/min regularly. Carotid sinus massage transiently slows the ventricular rate to reveal continuous undulating baseline deflections in leads II, III, and aVF. His resting 12-lead ECG is shown. What is the underlying electrophysiologic mechanism of this arrhythmia?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-17.png",
+    "imageAlt": "12-lead ECG displaying regular narrow QRS complexes at 150/min with continuous negative sawtooth flutter waves at 300/min most prominent in leads II, III, and aVF.",
+    "options": [
+      {
+        "text": "Multiple disorganized microreentrant wavelets firing randomly throughout both atria",
+        "correct": false,
+        "explanation": "Multiple disorganized atrial wavelets produce atrial fibrillation with an irregularly irregular ventricular rhythm and chaotic baseline, whereas here QRS intervals are regular at 150/min with organized 300/min sawtooth waves."
+      },
+      {
+        "text": "Macroreentrant circuit rotating around the tricuspid annulus across the cavotricuspid isthmus",
+        "correct": true,
+        "explanation": "Continuous negative sawtooth flutter waves at ~300/min in inferior leads II, III, and aVF with fixed 2:1 AV conduction (ventricular rate exactly 150/min) characterize typical counterclockwise macroreentrant atrial flutter dependent on the cavotricuspid isthmus."
+      },
+      {
+        "text": "Antegrade accessory pathway conduction bypassing the atrioventricular node during sinus tachycardia",
+        "correct": false,
+        "explanation": "Orthodromic/antidromic AVRT lacks 300/min sawtooth baseline waves; carotid massage either breaks AVRT abruptly or has no organized 300/min flutter unmasking."
+      },
+      {
+        "text": "Triggered early afterdepolarizations originating within Purkinje fibers",
+        "correct": false,
+        "explanation": "Ventricular EADs cause torsades de pointes or wide-complex ventricular ectopy rather than narrow-complex 150/min supraventricular rhythm with 300/min atrial flutter waves."
+      },
+      {
+        "text": "Enhanced automaticity in multiple ectopic atrial foci with three distinct P-wave morphologies",
+        "correct": false,
+        "explanation": "Multifocal atrial tachycardia (MAT) is irregularly irregular with >= 3 discrete P-wave shapes separated by an isoelectric baseline rather than continuous sawtooth waves."
+      }
+    ],
+    "explanation": "Regular narrow-complex tachycardia at exactly **150/min** is a classic bedside clue for **atrial flutter with 2:1 AV block** (atrial rate 300/min ÷ 2). Looking closely at leads II, III, and aVF confirms continuous, negative **sawtooth flutter waves** lacking any flat isoelectric baseline.\n\nTypical atrial flutter arises from a single **macroreentrant circuit** traveling through the right atrium and passing through the **cavotricuspid isthmus**—which is why catheter ablation of that isthmus achieves high definitive cure rates alongside appropriate anticoagulation based on CHA₂DS₂-VASc risk.",
+    "objective": "Identify typical atrial flutter (2:1 block at 150/min with inferior sawtooth waves) and its cavotricuspid isthmus macroreentrant mechanism.",
+    "keyPoints": [
+      "Regular tachycardia at ~150/min + inferior sawtooth waves at 300/min indicates 2:1 atrial flutter.",
+      "Typical atrial flutter is a right atrial macroreentrant loop across the cavotricuspid isthmus."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA/HRS Guideline for Management of Atrial Arrhythmias",
+        "url": "https://www.acc.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0005",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Jugular venous pressure waveform analysis in valvular regurgitation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man with a history of intravenous drug use presents with progressive lower-extremity edema, abdominal fullness, and pulsatile hepatomegaly. Cardiac auscultation reveals a holosystolic murmur heard best at the left lower sternal border that intensifies during inspiration. Simultaneous ECG and jugular venous pressure tracings are shown. Which structural lesion directly generates the prominent 24 mm Hg systolic wave?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-18.png",
+    "imageAlt": "Simultaneous ECG and right atrial/jugular venous pressure tracing comparing Normal Reference (a, x, v, y waves at 4-8 mm Hg) against Patient Trace showing obliterated x descent and a giant systolic wave peaking at 24 mm Hg concurrent with ventricular systole.",
+    "options": [
+      {
+        "text": "Severe mitral valve prolapse with posterior leaflet flail into the left atrium",
+        "correct": false,
+        "explanation": "Mitral regurgitation elevates left atrial v waves (on PCWP tracing), whereas the systemic right atrial/jugular venous waveform remains normal unless secondary pulmonary hypertension develops, and MR accentuates on expiration rather than inspiration."
+      },
+      {
+        "text": "Tricuspid valve leaflet destruction causing retrograde systolic jetting into the right atrium",
+        "correct": true,
+        "explanation": "During ventricular systole (between the QRS complex and end of T wave), normal atrial relaxation produces a downward x descent. Severe tricuspid regurgitation ejects high-pressure RV blood backward into the right atrium, obliterating the x descent and creating a giant c-v wave peaking at 24 mm Hg alongside a holosystolic murmur increasing on inspiration (Carvallo sign)."
+      },
+      {
+        "text": "Calcific constrictive pericarditis impairing early diastolic ventricular filling",
+        "correct": false,
+        "explanation": "Constrictive pericarditis preserves both systolic x descent and produces an exaggerated deep diastolic y descent (W/M pattern) with Kussmaul inspiratory JVP rise rather than a single giant systolic c-v fusion wave."
+      },
+      {
+        "text": "Complete atrioventricular dissociation causing intermittent atrial contraction against a closed tricuspid valve",
+        "correct": false,
+        "explanation": "Cannon a waves occur sporadically in AV dissociation/CHB during atrial contraction against a closed valve; here the massive 24 mm Hg wave occurs regularly during every ventricular systole (fused c-v wave) with a normal preceding a wave."
+      },
+      {
+        "text": "Cardiac tamponade compressing all four chambers and abolishing diastolic y descent",
+        "correct": false,
+        "explanation": "Cardiac tamponade blunts or abolishes the diastolic y descent while preserving a prominent systolic x descent, opposite to the systolic fusion wave shown."
+      }
+    ],
+    "explanation": "Normally, the jugular venous tracing displays an *a* wave (atrial contraction), systolic *x* descent (atrial relaxation during ventricular ejection), *v* wave (passive venous filling against a closed tricuspid valve), and diastolic *y* descent (tricuspid valve opening).\n\nIn **severe tricuspid regurgitation** (classically from right-sided infective endocarditis in people who inject drugs), systolic regurgitation into the right atrium obliterates the *x* descent and merges *c* and *v* into a **giant systolic c-v wave** peaking at 24 mm Hg, accompanied by a left lower sternal border holosystolic murmur augmented by inspiration (Carvallo sign) and pulsatile hepatomegaly.",
+    "objective": "Interpret a right atrial / JVP tracing showing obliterated x descent and giant systolic c-v waves as severe tricuspid regurgitation.",
+    "keyPoints": [
+      "Giant systolic c-v waves (replacing x descent) denote severe tricuspid regurgitation.",
+      "Tamponade abolishes the y descent; constriction creates steep x and y descents (M/W shape)."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA Valvular Heart Disease Guideline — Tricuspid Regurgitation",
+        "url": "https://www.acc.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0006",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Pulmonary artery catheter hemodynamics in acute respiratory failure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 70-year-old man develops acute hypoxemic respiratory failure and diffuse bilateral alveolar infiltrates 36 hours after admission. A flow-directed balloon catheter is advanced sequentially through the right heart chambers while recording the pressure tracing shown. Which conclusion regarding the patient's pulmonary edema is best supported by Stage 4?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-19.png",
+    "imageAlt": "Pulmonary artery catheter pressure tracing across 4 stages: Stage 1 mean 8 mm Hg, Stage 2 phasic 50/6 mm Hg, Stage 3 dicrotic-notch waveform 50/28 mm Hg, and Stage 4 damped atrial-like waveform at mean 26 mm Hg.",
+    "options": [
+      {
+        "text": "Noncardiogenic acute respiratory distress syndrome with normal left atrial filling pressure",
+        "correct": false,
+        "explanation": "ARDS diagnostic criteria require pulmonary edema not fully explained by cardiac failure (PCWP <= 18 mm Hg); Stage 4 here measures 26 mm Hg."
+      },
+      {
+        "text": "Elevated left-sided hydrostatic filling pressure indicating cardiogenic pulmonary edema",
+        "correct": true,
+        "explanation": "The sequential pressure zones track RA (mean 8 mm Hg), RV (50/6 mm Hg), PA (50/28 mm Hg with dicrotic notch), and balloon-wedged PCWP (Stage 4, mean 26 mm Hg > 18 mm Hg), reflecting markedly elevated left atrial/LV end-diastolic pressure driving hydrostatic pulmonary edema."
+      },
+      {
+        "text": "Severe precapillary pulmonary arterial hypertension with preserved left ventricular compliance",
+        "correct": false,
+        "explanation": "Precapillary pulmonary hypertension shows elevated PA pressures alongside a normal PCWP (<= 15 mm Hg), whereas Stage 4 PCWP is markedly elevated at 26 mm Hg."
+      },
+      {
+        "text": "Massive saddle pulmonary embolism creating isolated right ventricular afterload failure",
+        "correct": false,
+        "explanation": "Acute massive PE elevates RA and PA pressures while underfilling the left heart, resulting in low or normal PCWP rather than 26 mm Hg."
+      },
+      {
+        "text": "Catheter coiling inside the right ventricle causing artifactual systolic spikes",
+        "correct": false,
+        "explanation": "Right ventricular tracings show sharp high systolic peaks (50 mm Hg) dropping to near-zero diastolic troughs (6 mm Hg), matching Stage 2—whereas Stage 4 shows a flat, damped atrial-pressure waveform."
+      }
+    ],
+    "explanation": "Advancing a Swan-Ganz pulmonary artery catheter traces characteristic chamber transitions: Stage 1 is right atrium (mean 8 mm Hg), Stage 2 is right ventricle (50/6 mm Hg with low diastolic dip), Stage 3 is pulmonary artery (50/28 mm Hg with dicrotic notch and elevated diastolic step-up), and Stage 4 with the balloon inflated represents **pulmonary capillary wedge pressure (PCWP)**.\n\nA PCWP of **26 mm Hg** (normal 6–12 mm Hg; cardiogenic threshold > 18 mm Hg) directly mirrors elevated left atrial pressure, proving **cardiogenic hydrostatic pulmonary edema** rather than ARDS or precapillary pulmonary hypertension.",
+    "objective": "Interpret sequential Swan-Ganz pressure tracings to identify elevated PCWP (> 18 mm Hg) in cardiogenic pulmonary edema.",
+    "keyPoints": [
+      "PCWP approximates left atrial pressure; values > 18 mm Hg indicate elevated left-sided filling pressure.",
+      "PA tracing exhibits a dicrotic notch and higher diastolic pressure than RV (50/28 vs 50/6)."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Pulmonary Artery Catheterization and PCWP Interpretation",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482170/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0007",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Serum protein electrophoresis monoclonal gammopathy workup",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man presents with 4 months of worsening lumbar back pain, fatigue, and unintentional weight loss. Serum hemoglobin is 9.6 g/dL, calcium is 11.4 mg/dL, creatinine is 2.1 mg/dL, and total serum protein is 9.8 g/dL with albumin 3.2 g/dL. Serum protein electrophoresis is shown. Which diagnostic study is most appropriate next to confirm the diagnosis?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-20.png",
+    "imageAlt": "Serum protein electrophoresis (SPEP) densitometer graph showing solid red Patient Trace with reduced albumin and a tall, narrow needle-like spike in the gamma region compared with a broad dome in Healthy Reference.",
+    "options": [
+      {
+        "text": "24-hour urine collection for metanephrines and serum chromogranin A",
+        "correct": false,
+        "explanation": "Catecholamine metabolites evaluate pheochromocytoma rather than hypercalcemia, renal failure, anemia, and a monoclonal gamma spike."
+      },
+      {
+        "text": "Bone marrow aspiration/biopsy with immunofixation and serum free light-chain assay",
+        "correct": true,
+        "explanation": "CRAB features (hyperCalcemia, Renal insufficiency, Anemia, Bone pain) plus a narrow-based monoclonal gamma spike (M-spike) on SPEP strongly indicate multiple myeloma; diagnosis requires serum/urine immunofixation, free light-chain quantification, bone marrow biopsy (>=10% clonal plasma cells), and skeletal imaging."
+      },
+      {
+        "text": "Dual-energy X-ray absorptiometry (DEXA) scan to quantify lumbar osteopenia",
+        "correct": false,
+        "explanation": "Routine bone mineral densitometry does not detect or characterize osteolytic plasma cell lesions or clonal marrow infiltration; low-dose whole-body CT or skeletal survey is indicated."
+      },
+      {
+        "text": "Intravenous contrast-enhanced abdominal CT scan to exclude renal cell carcinoma",
+        "correct": false,
+        "explanation": "Iodinated IV contrast carries high nephrotoxicity risk in paraprotein-associated renal dysfunction (creatinine 2.1 mg/dL) and is avoided when myeloma is suspected."
+      },
+      {
+        "text": "Serum IgG4 subclass levels and salivary gland biopsy for systemic IgG4 disease",
+        "correct": false,
+        "explanation": "IgG4-related disease causes broad polyclonal hypergammaglobulinemia, unlike the sharp narrow-based monoclonal spike seen here."
+      }
+    ],
+    "explanation": "The SPEP tracing shows mildly decreased albumin alongside a tall, narrow-based **monoclonal spike (M-spike)** in the **γ-globulin zone** (in contrast to the broad dome of normal or polyclonal IgG). Coupled with hypercalcemia (11.4 mg/dL), renal insufficiency (creatinine 2.1 mg/dL), anemia (9.6 g/dL), and back pain (CRAB criteria), multiple myeloma is the leading diagnosis.\n\nConfirmation requires **serum/urine protein immunofixation** (identifying the monoclonal heavy/light chain), **serum free light-chain assay**, **bone marrow biopsy** demonstrating >=10% clonal plasma cells, and non-contrast skeletal assessment (low-dose whole-body CT or MRI).",
+    "objective": "Identify a monoclonal gamma spike on SPEP paired with CRAB findings and select confirmatory immunofixation plus bone marrow biopsy.",
+    "keyPoints": [
+      "Tall, narrow gamma spike = monoclonal paraprotein; broad dome = polyclonal hypergammaglobulinemia.",
+      "Avoid iodinated contrast in suspected myeloma with renal insufficiency (cast nephropathy)."
+    ],
+    "references": [
+      {
+        "label": "International Myeloma Working Group Diagnostic Criteria & Workup",
+        "url": "https://www.hematology.org/education/clinicians/guidelines-and-quality-care"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0008",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Pure-tone audiometry conductive hearing loss and bedside tuning-fork correlation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old woman reports slowly progressive right-sided hearing loss that worsened noticeably during her recent pregnancy. She notes that speech is paradoxically easier to understand in noisy rooms. Otoscopy shows a normal tympanic membrane with a faint reddish hue over the promontory. Her right-ear pure-tone audiogram is shown (left ear normal). Which bedside Weber and Rinne test pattern correlates with this audiogram?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-21.png",
+    "imageAlt": "Pure-tone audiogram of the right ear plotting Hearing Level (0 to 80 dB HL) against Frequency (250 to 8000 Hz): bone conduction (<) sits near 10-15 dB except a dip to 30 dB at 2000 Hz, while air conduction (O) sits at 45-55 dB across all frequencies.",
+    "options": [
+      {
+        "text": "Weber lateralizes to the left ear; Rinne air > bone bilaterally",
+        "correct": false,
+        "explanation": "A Weber lateralizing to the unaffected left ear with air > bone on the right indicates right-sided sensorineural hearing loss, whereas the wide air–bone gap proves right conductive loss."
+      },
+      {
+        "text": "Weber lateralizes to the right ear; right Rinne bone > air conduction",
+        "correct": true,
+        "explanation": "The audiogram reveals a 35–45 dB air–bone gap (normal bone thresholds ~10–15 dB except a classic 2000 Hz Carhart notch at 30 dB, elevated air thresholds 45–55 dB)—characteristic of otosclerosis causing right conductive hearing loss. Sound by bone bypasses the fixed stapes, so Weber lateralizes right and right Rinne is abnormal (BC > AC)."
+      },
+      {
+        "text": "Weber midline; bilateral symmetric high-frequency decline at 4000–8000 Hz",
+        "correct": false,
+        "explanation": "Both air and bone curves would slope downward together at 4000–8000 Hz in presbycusis without an air–bone gap."
+      },
+      {
+        "text": "Weber lateralizes to the right ear; right Rinne air > bone with a 4000 Hz dip",
+        "correct": false,
+        "explanation": "Acoustic trauma produces a sensorineural 4000 Hz notch where both air and bone conduction dip together (no air–bone gap) and Rinne remains AC > BC."
+      },
+      {
+        "text": "Weber lateralizes to the left ear; right Rinne bone > air conduction",
+        "correct": false,
+        "explanation": "In unilateral conductive loss on the right, reduced ambient masking noise makes the bone-conducted Weber tone sound louder in the affected right ear, not the left ear."
+      }
+    ],
+    "explanation": "This right-ear audiogram demonstrates a large **air–bone gap** (~35–45 dB difference between impaired air conduction [○] at 45–55 dB HL and preserved bone conduction [<] at 10–15 dB HL), along with a focal bone-conduction dip to 30 dB HL at **2000 Hz** (**Carhart notch**).\n\nCombined with progressive conductive hearing loss worsening during pregnancy, paracusis Willisii (better hearing in noisy environments), and a Schwartze sign (pinkish promontory), the diagnosis is **otosclerosis** (abnormal spongy bone fusing the stapes footplate to the oval window). Expect Weber to lateralize to the right ear and right Rinne to show bone > air conduction.",
+    "objective": "Interpret an audiogram air-bone gap with 2000 Hz Carhart notch as otosclerosis conductive loss and predict Weber/Rinne findings.",
+    "keyPoints": [
+      "Air–bone gap > 10–15 dB defines conductive hearing loss; a 2000 Hz bone dip (Carhart notch) typifies otosclerosis.",
+      "Conductive loss gives ipsilateral Weber lateralization and abnormal Rinne (BC > AC)."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Otosclerosis and Audiometric Evaluation",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK560671/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0009",
+    "exam": "Step 2 CK",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Meyer loop superior quadrantanopia localization and clinical evaluation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old man with poorly controlled hypertension experiences a transient focal seizure involving déjà vu and olfactory hallucinations followed by persistent visual difficulty noticing objects above and to his left. Bedside confrontation and automated perimetry are shown. A vascular or mass lesion in which anatomical location explains both his seizure semiology and visual field deficit?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-22.png",
+    "imageAlt": "Automated visual field perimetry showing Left Eye (OS) and Right Eye (OD) both with an absolute scotoma confined sharply to the upper-left quadrant of each eye.",
+    "options": [
+      {
+        "text": "Left parietal optic radiations (Baum loop) deep to the angular gyrus",
+        "correct": false,
+        "explanation": "Left parietal radiation damage produces a right inferior homonymous quadrantanopia ('pie on the floor'), opposite both in side and vertical quadrant."
+      },
+      {
+        "text": "Right temporal lobe optic radiations (Meyer loop)",
+        "correct": true,
+        "explanation": "The perimetry shows a left superior homonymous quadrantanopia ('pie in the sky'), localizing to the contralateral (right) inferior optic radiations sweeping anteriorly through the temporal lobe (Meyer loop). Temporal lobe irritation also produces uncinate olfactory auras and déjà vu."
+      },
+      {
+        "text": "Right superior parietal cortex sparing the temporal white matter",
+        "correct": false,
+        "explanation": "Right parietal radiation injury impairs the contralateral lower quadrant (left inferior quadrantanopia), whereas the superior quadrant is missing here."
+      },
+      {
+        "text": "Left occipital calcarine cortex supplied by the posterior cerebral artery",
+        "correct": false,
+        "explanation": "Left calcarine infarction produces a right homonymous hemianopia with macular sparing rather than a left superior quadrantanopia."
+      },
+      {
+        "text": "Midline optic chiasm inferior to the third ventricle",
+        "correct": false,
+        "explanation": "Chiasmal lesions damage crossing nasal fibers, generating heteronymous bitemporal hemianopia rather than homonymous quadrant loss."
+      }
+    ],
+    "explanation": "Both eyes show identical scotomas in the **left upper quadrant**—a **left superior homonymous quadrantanopia** ('pie in the sky'). Because post-chiasmal visual pathways carry contralateral hemifield information, left visual field loss localizes to the **right** cerebral hemisphere.\n\nFibers representing the superior visual field loop anteriorly around the temporal horn of the lateral ventricle (**Meyer loop**) in the **right temporal lobe**, explaining the combination of temporal lobe seizures (déjà vu, uncinate olfactory aura) and left superior quadrantanopia.",
+    "objective": "Localize superior homonymous quadrantanopia ('pie in the sky') to the contralateral temporal Meyer loop.",
+    "keyPoints": [
+      "Superior homonymous quadrantanopia localizes to contralateral Meyer loop (temporal lobe).",
+      "Inferior homonymous quadrantanopia ('pie on the floor') localizes to contralateral Baum loop (parietal lobe)."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Visual Field Defects and Meyer Loop",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK526094/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0010",
+    "exam": "Step 2 CK",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Receiver operating characteristic (ROC) curve threshold selection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A hospital laboratory evaluates two quantitative biomarker assays (Assay X and Assay Y) to rule out a rapidly fatal aortic emergency in the emergency department before ordering confirmatory CT angiography. On the ROC curves shown, which assay and threshold point should be chosen for this initial rule-out screening role, and why?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-23.png",
+    "imageAlt": "ROC graph plotting True Positive Rate (Sensitivity) against False Positive Rate (1 - Specificity) for Assay X (AUC 0.92) with Point 1 (Sens 0.40, FPR 0.02), Point 2 (Sens 0.87, FPR 0.11), and Point 3 (Sens 0.98, FPR 0.40), compared to Assay Y (AUC 0.72).",
+    "options": [
+      {
+        "text": "Assay X at Point 1, because maximizing specificity eliminates unnecessary confirmatory scans",
+        "correct": false,
+        "explanation": "Point 1 offers high specificity (98%) but sensitivity of only 40%, missing 60% of patients with a rapidly fatal condition—unacceptable for a rule-out screening test."
+      },
+      {
+        "text": "Assay X at Point 3, because maximizing sensitivity minimizes life-threatening false-negative misses",
+        "correct": true,
+        "explanation": "Assay X has superior overall accuracy (AUC 0.92 vs 0.72). For ruling out a lethal emergency before confirmatory CT, high sensitivity (Point 3, TPR ~0.98) is paramount so virtually no true cases are missed despite a higher false-positive rate (40%) caught on follow-up CT."
+      },
+      {
+        "text": "Assay Y at the upper-right intercept, because its curve rises linearly with disease prevalence",
+        "correct": false,
+        "explanation": "Assay Y has inferior discrimination (AUC 0.72 vs 0.92), and sensitivity/specificity along an ROC curve do not vary linearly with disease prevalence."
+      },
+      {
+        "text": "Assay X at Point 1, because positive predictive value stays constant across all cutoff thresholds",
+        "correct": false,
+        "explanation": "Raising the cutoff toward Point 1 shifts sensitivity and specificity in opposite directions and changes PPV depending on both threshold and prevalence."
+      },
+      {
+        "text": "Assay Y at AUC 0.50 diagonal, because equal true-positive and false-positive rates ensure zero bias",
+        "correct": false,
+        "explanation": "The AUC 0.50 diagonal represents random coin-flipping with zero diagnostic discrimination."
+      }
+    ],
+    "explanation": "An ROC curve plots **Sensitivity** (True Positive Rate) versus **1 − Specificity** (False Positive Rate) across all possible diagnostic cutoffs. Overall discriminative accuracy increases with the Area Under the Curve (**AUC**), making **Assay X (0.92)** markedly superior to Assay Y (0.72).\n\nWhen screening to **rule out** a potentially fatal diagnosis with an accessible confirmatory test (like D-dimer before CT angiography), clinical priority goes to **maximum sensitivity** (fewest false negatives, **SnNOut**) — represented by **Point 3** (Sensitivity ~98%, accepting FPR 40%). Point 1 conversely maximizes specificity (**SpPIn**) for a risky confirmatory rule-in decision.",
+    "objective": "Use ROC AUC and operating-point trade-offs to select a high-sensitivity rule-out screening threshold.",
+    "keyPoints": [
+      "Higher AUC reflects stronger overall diagnostic discrimination across all thresholds.",
+      "Point 3 maximizes sensitivity (rule-out screening); Point 1 maximizes specificity (confirmatory rule-in)."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Diagnostic Testing ROC Curves, Sensitivity & Specificity",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557491/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s2-0011",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Iatrogenic postprocedural pneumothorax diagnosis and management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old woman develops acute left-sided pleuritic chest pain and dyspnea 20 minutes after left subclavian venous port placement. Temperature is 36.8°C, blood pressure is 124/78 mm Hg, pulse is 102/min, and oxygen saturation is 92% on room air. Breath sounds are markedly diminished over the left upper hemithorax. Her frontal chest radiograph is shown (orientation marker 'Sin' denotes left). What is the most likely diagnosis?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*\n\nExhibit: Mikael Häggström / Wikimedia Commons, [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "image": "/question-images/usmle/exhibit-02.jpg",
+    "imageAlt": "Frontal chest radiograph with an orientation marker ('Sin' = left) showing an implanted central venous catheter entering via the left subclavian region, a sharp left visceral pleural line separated from the lateral chest wall, and absent lung markings peripherally.",
+    "options": [
+      {
+        "text": "Left hemothorax from subclavian arterial laceration pooling dependently",
+        "correct": false,
+        "explanation": "Hemothorax produces homogeneous dependent radio-opacity blunting the costophrenic angle and tracking up the chest wall rather than an apical hyperlucent zone devoid of vascular markings."
+      },
+      {
+        "text": "Iatrogenic left pneumothorax evidenced by a visible visceral pleural line",
+        "correct": true,
+        "explanation": "The radiograph clearly displays a sharp left visceral pleural line demarcating the partially collapsed lung from a hyperlucent peripheral pleural space devoid of lung markings—classic postprocedural pneumothorax without mediastinal shift."
+      },
+      {
+        "text": "Left upper-lobe collapse caused by an obstructing endobronchial mucus plug",
+        "correct": false,
+        "explanation": "Lobar atelectasis produces localized hazy opacity and ipsilateral volume loss (tracheal deviation toward the collapse and elevated hemidiaphragm) rather than hyperlucency without vascular markings."
+      },
+      {
+        "text": "Left-sided pulmonary contusion with alveolar hemorrhage",
+        "correct": false,
+        "explanation": "Pulmonary contusion appears as patchy airspace consolidation crossing non-segmental parenchyma rather than an extraparenchymal pleural air rim."
+      },
+      {
+        "text": "Massive pericardial tamponade from central venous perforation",
+        "correct": false,
+        "explanation": "Tamponade typically causes hypotension, muffled heart sounds, clear bilateral breath sounds, and an enlarged water-bottle cardiac silhouette rather than unilateral absent lung markings."
+      }
+    ],
+    "explanation": "The chest radiograph demonstrates a sharp **visceral pleural line** on the left side ('Sin') separating compressed lung parenchyma medially from a completely **lucent peripheral pleural space devoid of pulmonary vascular markings**. Notice that the trachea remains midline and blood pressure is stable (124/78 mm Hg), excluding tension physiology.\n\nSubclavian central venous catheterization carries a classic risk of puncturing the apical pleura, causing iatrogenic pneumothorax. Management depends on size, symptoms, and oxygenation: supplemental oxygen plus chest tube / small-bore pigtail catheter drainage for large or symptomatic pneumothoraces.\n\n**Image credit:** Mikael Häggström, *Expired X-ray of pneumothorax*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Expired_X-ray_of_pneumothorax.jpg), [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wikimedia 1280-pixel thumbnail used without modification.",
+    "objective": "Diagnose iatrogenic postprocedural pneumothorax on chest X-ray from a visible visceral pleural line and absent peripheral lung markings.",
+    "keyPoints": [
+      "Look for a crisp visceral pleural edge with no lung markings peripherally.",
+      "Normal blood pressure and absence of contralateral mediastinal shift distinguish simple pneumothorax from tension pneumothorax."
+    ],
+    "references": [
+      {
+        "label": "MSD Manual Professional: Pneumothorax Diagnosis and Management",
+        "url": "https://www.msdmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pneumothorax"
+      },
+      {
+        "label": "Image source: Mikael Häggström — Expired X-ray of pneumothorax",
+        "url": "https://commons.wikimedia.org/wiki/File:Expired_X-ray_of_pneumothorax.jpg"
+      },
+      {
+        "label": "Image license: CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors (CC BY-SA 4.0). Exhibit: Mikael Häggström / Wikimedia Commons (CC0-1.0)."
+  },
+  {
+    "code": "op-uw-s3-0001",
+    "exam": "Step 3",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Intrapartum late decelerations management in labor & delivery",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old woman, G1P0 at 40 weeks' gestation, is in the active phase of labor receiving an intravenous oxytocin infusion for labor augmentation. Cervical examination shows 6 cm dilation and 90% effacement. Maternal blood pressure is 118/74 mm Hg. A 6-minute segment of her continuous fetal heart rate and tocodynamometry tracing is shown. After stopping oxytocin, what is the most appropriate immediate set of intrauterine resuscitation measures?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-24.png",
+    "imageAlt": "Intrapartum cardiotocography strip (3 cm/min) showing uterine contractions peaking every 2 minutes on the lower TOCO panel and recurrent smooth symmetric FHR decelerations (nadir ~104 bpm) whose onset and nadir occur after each contraction peak, with minimal baseline variability.",
+    "options": [
+      {
+        "text": "Administer intramuscular terbutaline alone and prepare for immediate forceps delivery",
+        "correct": false,
+        "explanation": "At 6 cm dilation forceps delivery is contraindicated (requires complete 10 cm dilation), and initial resuscitation prioritizes maternal lateral repositioning, IV fluid bolus, and oxygen before considering tocolytics for tachysystole."
+      },
+      {
+        "text": "Reposition the patient into left lateral decubitus, administer an IV fluid bolus, and start supplemental oxygen",
+        "correct": true,
+        "explanation": "The tracing shows recurrent smooth late decelerations (gradual onset and nadir occurring well after the uterine contraction peak) paired with minimal baseline variability, signifying uteroplacental insufficiency. Initial management after discontinuing oxytocin is maternal left lateral repositioning (relieving aortocaval compression), IV crystalloid bolus, and supplemental O2."
+      },
+      {
+        "text": "Perform intrauterine amnioinfusion via intrauterine pressure catheter for presumed cord compression",
+        "correct": false,
+        "explanation": "Amnioinfusion treats recurrent variable (abrupt V-shaped) decelerations caused by umbilical cord compression, not gradual late decelerations from uteroplacental insufficiency."
+      },
+      {
+        "text": "Reassure the patient and continue current oxytocin titration because baseline rate stays at 142/min",
+        "correct": false,
+        "explanation": "Recurrent late decelerations—especially combined with minimal baseline variability (Category II–III concern)—signify fetal hypoxemia/uteroplacental insufficiency and must never be left untreated."
+      },
+      {
+        "text": "Administer intravenous magnesium sulfate bolus for fetal neuroprotection before membrane rupture",
+        "correct": false,
+        "explanation": "Antenatal magnesium sulfate is used for neuroprotection < 32 weeks' gestation or preeclampsia seizure prophylaxis, not for acute term intrapartum uteroplacental insufficiency."
+      }
+    ],
+    "explanation": "The cardiotocograph reveals **late decelerations**: uniform, gradual FHR drops from ~142 bpm to ~104 bpm whose onset, nadir (~25–30 seconds after peak), and recovery lag behind each uterine contraction, accompanied by **minimal baseline variability**. This pattern reflects **uteroplacental insufficiency** causing transient fetal hypoxemia.\n\nStandard step-by-step intrauterine resuscitation requires: (1) **stopping oxytocin**, (2) placing the mother in **left lateral decubitus** positioning to optimize preload and uterine perfusion, (3) giving an **IV crystalloid fluid bolus**, and (4) administering **supplemental oxygen** (and correcting maternal hypotension if present). If Category III / unresolved acidosis persists despite resuscitation, proceed to expedited delivery.",
+    "objective": "Recognize late decelerations with minimal variability on an FHR tracing and initiate intrauterine resuscitation for uteroplacental insufficiency.",
+    "keyPoints": [
+      "Late decelerations lag behind contractions (onset/nadir/recovery after peak) due to uteroplacental insufficiency.",
+      "First-line resuscitation: stop oxytocin, left lateral decubitus position, IV fluids, O2."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin No. 106 / 116: Intrapartum Fetal Heart Rate Monitoring",
+        "url": "https://www.acog.org/clinical"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0002",
+    "exam": "Step 3",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Intrapartum variable decelerations pathophysiology and amnioinfusion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old woman, G2P1 at 39 weeks' gestation, is in active labor 2 hours after spontaneous rupture of membranes with clear amniotic fluid. Pelvic examination shows 5 cm dilation and +1 station, with no palpable pulsatile mass below the presenting vertex. Her fetal heart rate tracing is shown. If recurrent decelerations persist despite maternal position changes, which pathophysiology explains this tracing and which bedside intervention is indicated?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-25.png",
+    "imageAlt": "Intrapartum cardiotocography strip showing moderate baseline FHR variability (~140 bpm) interrupted by four abrupt, sharp V-shaped FHR drops to 75-85 bpm occurring at inconsistent times relative to uterine contractions.",
+    "options": [
+      {
+        "text": "Fetal head compression raising vagal tone; routine labor observation without intervention",
+        "correct": false,
+        "explanation": "Early decelerations from head compression are shallow, gradual, and mirror contraction onset/peak symmetrically—unlike these abrupt deep V-shaped drops reaching 75 bpm out of phase with contractions."
+      },
+      {
+        "text": "Umbilical cord compression transiently raising fetal systemic resistance; intrauterine amnioinfusion",
+        "correct": true,
+        "explanation": "Abrupt onset (< 30 seconds to nadir), V/W-shaped sharp FHR drops to < 90 bpm varying in timing relative to contractions represent variable decelerations caused by intermittent umbilical cord compression (especially post-ROM). After position changes fail and cord prolapse is excluded, normal saline amnioinfusion cushions the cord."
+      },
+      {
+        "text": "Chronic placental infarction reducing intervillous oxygen reserve; emergent cesarean delivery",
+        "correct": false,
+        "explanation": "Uteroplacental insufficiency causes gradual late decelerations with diminished variability rather than abrupt variable decelerations with preserved moderate variability."
+      },
+      {
+        "text": "Severe fetal anemia producing a smooth sine-wave baseline; immediate biophysical profile",
+        "correct": false,
+        "explanation": "A sinusoidal pattern has smooth, monotonous 3–5 cycles/min oscillations without abrupt deep decelerations or normal moderate variability."
+      },
+      {
+        "text": "Uterine hyperstimulation from excess oxytocin; subcutaneous terbutaline and delivery delay",
+        "correct": false,
+        "explanation": "TOCO shows three normal contractions over 6 minutes (<= 5 in 10 min, no tachysystole), and there is no oxytocin hyperstimulation."
+      }
+    ],
+    "explanation": "The tracing displays **variable decelerations**: abrupt (< 30 s from onset to nadir), sharp V-shaped FHR drops down to ~75–85 bpm that vary in timing and morphology relative to uterine contractions, while **moderate baseline variability** (6–25 bpm) remains intact.\n\nAfter spontaneous rupture of membranes, loss of amniotic fluid predisposes to transient **umbilical cord compression**: occlusion of thin-walled umbilical vein then thick-walled arteries abruptly raises fetal systemic blood pressure and triggers baroreceptor-mediated vagal slowing. First inspect for cord prolapse and reposition the mother; if recurrent variable decelerations persist, perform **amnioinfusion** via an intrauterine catheter.",
+    "objective": "Identify variable decelerations (umbilical cord compression) on an FHR tracing and select amnioinfusion after exclusion of cord prolapse.",
+    "keyPoints": [
+      "Abrupt V-shaped FHR drops out of sync with contractions indicate variable decelerations from cord compression.",
+      "Moderate baseline variability strongly argues against current fetal metabolic acidemia."
+    ],
+    "references": [
+      {
+        "label": "ACOG Clinical Guidance: Management of Intrapartum Variable Decelerations",
+        "url": "https://www.acog.org/clinical"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0003",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Kaplan-Meier survival curve median estimation and censoring interpretation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "An oncology clinical trial randomizes 480 patients (240 per arm) with resected high-risk melanoma to adjuvant Treatment vs. Placebo and reports event-free survival over 48 months (log-rank p = 0.008), shown in the Kaplan-Meier curve. Which interpretation of the displayed survival data is statistically accurate?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-26.png",
+    "imageAlt": "Kaplan-Meier survival plot from 0 to 48 months showing Treatment Arm (solid blue) crossing 50% at 36 months and Placebo Arm (dashed red) crossing 50% at 18 months, with vertical censoring ticks and number-at-risk table.",
+    "options": [
+      {
+        "text": "Mean survival duration doubled from 18 months to 36 months in the treatment arm",
+        "correct": false,
+        "explanation": "Dropping horizontally from the 50% dashed line estimates MEDIAN survival (18 months vs 36 months), not mean survival (which cannot even be calculated until all subjects experience the event)."
+      },
+      {
+        "text": "Median event-free survival improved by 18 months, and vertical tick marks denote subjects lost before an event",
+        "correct": true,
+        "explanation": "At 50% event-free survival, Placebo crosses at 18 months and Treatment crosses at 36 months—an 18-month median gain. Vertical ticks (|) represent censored participants (lost to follow-up or event-free at study close) who leave the denominator (number at risk) without creating a downward survival step."
+      },
+      {
+        "text": "Every censored patient marked by a vertical tick must have died prior to 48 months",
+        "correct": false,
+        "explanation": "Deaths/events produce vertical downward steps in the curve; tick marks specifically represent right-censored individuals who had NOT experienced the event when last observed."
+      },
+      {
+        "text": "Survival difference lost statistical significance by month 48 because fewer than 100 patients remained at risk",
+        "correct": false,
+        "explanation": "The log-rank test (p = 0.008) evaluates the entire follow-up curve up to 48 months rather than comparing isolated point estimates when sample numbers shrink."
+      },
+      {
+        "text": "The absolute risk reduction in events at 24 months is approximately 62 percent",
+        "correct": false,
+        "explanation": "At 24 months, Treatment survival is ~68% and Placebo survival is ~36%, yielding an absolute survival difference of ~32% (32 percentage points), not 62%."
+      }
+    ],
+    "explanation": "Kaplan–Meier curves estimate time-to-event probabilities while properly accounting for **right censoring** (patients who drop out, withdraw, or reach study completion event-free—marked by **vertical ticks `|`** and reflected in decreasing `No. at risk` totals without stepping down survival).\n\nReading across the **50% horizontal survival line** gives **median** event-free survival: **18 months** for Placebo vs **36 months** for Treatment (+18 months median improvement; log-rank p = 0.008). Mean survival cannot be read directly from an incomplete follow-up curve.",
+    "objective": "Extract median survival, absolute risk difference, and right-censoring meaning from a Kaplan-Meier survival plot.",
+    "keyPoints": [
+      "The 50% probability line yields median (not mean) survival time.",
+      "Censoring ticks reduce future numbers at risk without dropping the Kaplan-Meier curve."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Kaplan-Meier Survival Analysis and Log-Rank Testing",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK563274/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0004",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Meta-analysis forest plot confidence intervals and heterogeneity appraisal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A pharmaceutical brochure presents the attached random-effects meta-analysis forest plot of five trials evaluating a novel cardioprotective agent on major adverse cardiovascular events. During an ambulatory clinic journal club, how should a physician summarize the pooled effect and study consistency shown?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-27.png",
+    "imageAlt": "Meta-analysis forest plot of five RCTs showing study squares/whiskers and a red pooled summary diamond at HR 0.84 (95% CI 0.68 to 1.04) with right tip crossing the vertical 1.0 null line, I2 = 64%, p = 0.02.",
+    "options": [
+      {
+        "text": "The pooled 16% hazard reduction is statistically significant because ALPHA-CV and GAMMA-HT favored treatment",
+        "correct": false,
+        "explanation": "Although two individual trials excluded 1.0, the pooled random-effects 95% confidence interval (0.68–1.04) crosses 1.0, meaning the overall pooled effect is not statistically significant at alpha = 0.05."
+      },
+      {
+        "text": "Pooled benefit is not statistically significant because its 95% CI crosses 1.0, with substantial trial heterogeneity",
+        "correct": true,
+        "explanation": "The summary diamond spans 0.68 to 1.04, crossing the vertical line of no effect (HR = 1.0), so statistical significance is not reached (p >= 0.05). Additionally, I² = 64% (p = 0.02) indicates moderate-to-substantial heterogeneity across included trials."
+      },
+      {
+        "text": "DELTA-DM had the narrowest confidence interval and therefore carried the highest meta-analytic weight",
+        "correct": false,
+        "explanation": "GAMMA-HT carries the largest weight (24.6%) and tightest precision (0.53–0.87), whereas DELTA-DM weights 19.5%."
+      },
+      {
+        "text": "Because the pooled point estimate of 0.84 lies left of 1.0, Type II error is excluded",
+        "correct": false,
+        "explanation": "Failure to reach statistical significance (CI crossing 1.0) actually raises concern for possible Type II error or true null effect, not exclusion of it."
+      },
+      {
+        "text": "An I² of 64% proves that fixed-effect pooling would reverse the hazard ratio above 1.50",
+        "correct": false,
+        "explanation": "I² quantifies the percentage of total between-study variation attributable to heterogeneity rather than chance; it does not predict an extreme directional reversal to HR > 1.5."
+      }
+    ],
+    "explanation": "In a ratio-based forest plot (Hazard Ratio or Odds Ratio), **1.0** is the vertical line of no effect. When the summary **diamond's 95% confidence interval crosses 1.0** (`0.68–1.04`), the pooled result is **not statistically significant** at the 5% level regardless of a favorable point estimate (`0.84`).\n\nFurthermore, **I² = 64%** (with Cochran Q heterogeneity **p = 0.02**) reveals substantial variability in effect estimates across the five trials (notice DELTA-DM trends toward harm at 1.12 while ALPHA-CV/GAMMA-HT show benefit), warranting clinical caution against promotional overinterpretation.",
+    "objective": "Critically appraise a meta-analysis forest plot where the summary diamond CI crosses 1.0 and I² demonstrates heterogeneity.",
+    "keyPoints": [
+      "Any ratio 95% CI spanning 1.0 (e.g., 0.68–1.04) is statistically non-significant.",
+      "I² > 50% with p < 0.05 indicates substantial between-study heterogeneity."
+    ],
+    "references": [
+      {
+        "label": "Cochrane Handbook: Interpreting Forest Plots and Heterogeneity (I²)",
+        "url": "https://training.cochrane.org/handbook/current/chapter-10"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0005",
+    "exam": "Step 3",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Funnel plot asymmetry and publication bias assessment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Researchers conducting an outpatient systematic review plot 18 published trials of an herbal supplement for chronic fatigue on the funnel plot shown. Larger studies cluster near the top apex while smaller, less precise studies fall toward the bottom. What bias is most strongly suggested by the plotted distribution?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-28.png",
+    "imageAlt": "Scatter funnel plot of published trial Log Odds Ratio on x-axis against Standard Error (inverted: 0.0 at top to 0.50 at bottom) showing symmetric points near the apex (SE < 0.20) but complete absence of small studies (SE 0.25-0.50) to the right toward the null.",
+    "options": [
+      {
+        "text": "Lead-time bias inflating perceived duration of follow-up in screened cohorts",
+        "correct": false,
+        "explanation": "Lead-time bias occurs when earlier screening diagnosis extends apparent survival without postponing death, which does not generate asymmetric empty quadrants in trial meta-analyses."
+      },
+      {
+        "text": "Publication bias due to selective non-publication of small null or negative trials",
+        "correct": true,
+        "explanation": "Small studies with higher standard error (bottom of plot) should scatter symmetrically on both sides of the pooled mean; here the bottom-right region near Log OR = 0 (null/harmful) is empty, characteristic of publication bias favoring small positive studies."
+      },
+      {
+        "text": "Hawthorne effect altering participant adherence equally across every trial",
+        "correct": false,
+        "explanation": "Uniform behavioral changes from observation affect randomized arms comparably and do not selectively erase lower-precision negative studies from the medical literature."
+      },
+      {
+        "text": "Attrition bias limited strictly to the largest multicenter randomized trials",
+        "correct": false,
+        "explanation": "Loss to follow-up in large studies (top apex, SE < 0.15) does not explain the missing lower-right cloud of imprecise null studies."
+      },
+      {
+        "text": "Berkson selection bias arising solely from hospital-based case-control sampling",
+        "correct": false,
+        "explanation": "Berkson bias distorts hospital-control exposure odds within individual case-control designs rather than producing missing small-study asymmetry across published RCTs."
+      }
+    ],
+    "explanation": "A **funnel plot** graphs trial effect size (horizontal axis) against study precision (`1 / SE` or inverted `Standard Error` on the vertical axis). Large, high-precision studies cluster tightly near the true pooled effect at the **top apex**, while small, lower-precision studies naturally disperse more widely toward the bottom like an inverted funnel.\n\nPronounced **asymmetry**—specifically a missing gap of small, imprecise studies near or to the right of zero (null/negative results)—is classic evidence of **publication bias** (positive small trials get published while negative/null small trials stay unpublished, artificially inflating pooled benefit).",
+    "objective": "Detect publication bias from missing small null/negative studies on an asymmetric funnel plot.",
+    "keyPoints": [
+      "Funnel plot top = large precise studies; bottom = small imprecise studies.",
+      "Missing small studies on the null/unfavorable side indicates publication bias."
+    ],
+    "references": [
+      {
+        "label": "Cochrane Handbook: Funnel Plots and Reporting Biases",
+        "url": "https://training.cochrane.org/handbook/current/chapter-13"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0006",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Behavioral Health",
+    "topic": "Narcolepsy polysomnogram hypnogram and orexin deficit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old graduate student presents for outpatient evaluation of severe daytime sleepiness causing involuntary naps during seminars, vivid dream-like hallucinations while falling asleep, and sudden knee buckling whenever he laughs heartily. Overnight nocturnal polysomnography is summarized in the hypnogram shown. Decreased cerebrospinal fluid levels of which neurotransmitter confirm the underlying pathophysiology?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-29.png",
+    "imageAlt": "7-hour nocturnal polysomnogram hypnogram showing transition from Wake through brief N1 directly into REM sleep 6 minutes after sleep onset (highlighted), followed by frequent awakenings and repeated REM periods.",
+    "options": [
+      {
+        "text": "Ventrolateral preoptic nucleus gamma-aminobutyric acid (GABA)",
+        "correct": false,
+        "explanation": "VLPO GABA promotes normal NREM sleep initiation rather than selectively suppressing early REM onset and maintaining wakefulness."
+      },
+      {
+        "text": "Lateral hypothalamic orexin (hypocretin-1)",
+        "correct": true,
+        "explanation": "Excessive daytime sleepiness, hypnagogic hallucinations, cataplexy (sudden emotion-triggered muscle atonia), and a sleep-onset REM period (SOREMP: REM occurring ~6 min after sleep onset instead of the normal ~90 min) diagnose narcolepsy type 1, caused by loss of lateral hypothalamic orexin/hypocretin neurons."
+      },
+      {
+        "text": "Pontine locus coeruleus norepinephrine sparing REM muscle atonia",
+        "correct": false,
+        "explanation": "While locus coeruleus normally withdraws during REM, degenerative loss of REM atonia causes REM sleep behavior disorder (acting out dreams) rather than daytime cataplexy and SOREMP."
+      },
+      {
+        "text": "Suprachiasmatic nucleus melatonin receptor-1 signaling",
+        "correct": false,
+        "explanation": "Melatonin governs circadian phase timing in delayed/advanced sleep phase disorders rather than triggering cataplexy or REM intrusion at sleep onset."
+      },
+      {
+        "text": "Tuberomammillary nucleus histamine overproduction",
+        "correct": false,
+        "explanation": "Histamine promotes wakefulness; excessive tuberomammillary histamine causes insomnia rather than narcoleptic sleep attacks."
+      }
+    ],
+    "explanation": "Normal adult sleep progresses from Wake → N1 → N2 → N3 slow-wave sleep, entering the first **REM period after ~90 minutes**. This nocturnal hypnogram reveals an unmistakable **sleep-onset REM period (SOREMP)** occurring just **6 minutes** after lights out, alongside fragmented nighttime sleep.\n\nPaired with excessive daytime sleepiness, hypnagogic hallucinations, and **cataplexy** (sudden emotion-triggered loss of skeletal muscle tone), this establishes **narcolepsy type 1**, driven by autoimmune destruction of **orexin (hypocretin)-producing neurons** in the **lateral hypothalamus**. Daytime wakefulness is managed with modafinil/armodafinil or solriamfetol, and cataplexy/sleep fragmentation with sodium oxybate or pitolisant.",
+    "objective": "Recognize a sleep-onset REM period (SOREMP) on a polysomnography hypnogram and link narcolepsy type 1 to hypocretin/orexin loss.",
+    "keyPoints": [
+      "Normal REM latency is ~90 min; REM <= 15 min after sleep onset (SOREMP) supports narcolepsy.",
+      "Narcolepsy with cataplexy stems from lateral hypothalamic hypocretin/orexin deficiency."
+    ],
+    "references": [
+      {
+        "label": "AASM Clinical Practice Guideline for Central Disorders of Hypersomnolence",
+        "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0007",
+    "exam": "Step 3",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Therapeutic index comparison and ambulatory drug interaction monitoring",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man with atrial fibrillation and chronic osteoarthritis has maintained stable anticoagulation/antiarrhythmic control on Drug A (whose quantal dose–response profile is shown alongside alternative Drug B). At an ambulatory visit, he reports starting a strong hepatic CYP inhibitor 5 days ago for an acute infection. Based on the plotted curves, why does Drug A pose substantially greater clinical risk than Drug B, and what principle guides dose adjustment?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-30.png",
+    "imageAlt": "Log-dose quantal response graph showing Therapeutic curve (ED50 = 10 mg), Drug A Toxic curve (TD50 = 25 mg, steep proximity), and Drug B Toxic curve (TD50 = 1,000 mg, wide margin).",
+    "options": [
+      {
+        "text": "Drug A has lower potency than Drug B, requiring dangerously higher milligram doses",
+        "correct": false,
+        "explanation": "Both agents share ED50 = 10 mg here (equal potency); the hazard stems from Drug A's narrow therapeutic index rather than lower potency."
+      },
+      {
+        "text": "Drug A has a narrow therapeutic index (TD50/ED50 = 2.5), so small clearance reductions quickly reach toxic concentrations",
+        "correct": true,
+        "explanation": "Therapeutic index equals TD50/ED50. Drug A's TI is 25/10 = 2.5 (similar to warfarin, digoxin, lithium, theophylline), meaning modest CYP inhibition can double plasma levels past TD50, whereas Drug B's TI is 1,000/10 = 100."
+      },
+      {
+        "text": "Drug A reaches 100% toxicity before any therapeutic efficacy occurs in half the population",
+        "correct": false,
+        "explanation": "ED50 (10 mg) still precedes TD50 (25 mg), so Drug A maintains therapeutic efficacy before toxicity—though with a slim safety margin."
+      },
+      {
+        "text": "Drug B carries a higher risk of idiosyncratic toxicity because its curve lies furthest right",
+        "correct": false,
+        "explanation": "Rightward displacement of Drug B's toxicity curve (TD50 = 1,000 mg) signifies a wider safety margin (higher TD50), not greater toxicity."
+      },
+      {
+        "text": "Doubling Drug A dosing frequency leaves steady-state plasma trough concentrations unchanged",
+        "correct": false,
+        "explanation": "Doubling total daily dose in linear kinetics doubles steady-state concentration, pushing Drug A directly into its toxic range."
+      }
+    ],
+    "explanation": "The **therapeutic index (TI)** equals **TD₅₀ / ED₅₀**. Reading the 50% response line yields **TI = 25 mg / 10 mg = 2.5** for Drug A versus **TI = 1,000 mg / 10 mg = 100** for Drug B.\n\nDrugs with narrow therapeutic indices (such as warfarin, digoxin, lithium, phenytoin, tacrolimus, and aminoglycosides) require proactive **therapeutic drug monitoring** and **empiric dose reduction** whenever an interacting CYP/renal inhibitor is co-prescribed in ambulatory or inpatient care.",
+    "objective": "Calculate therapeutic index (TD50/ED50) from quantal curves to explain drug-interaction toxicity monitoring.",
+    "keyPoints": [
+      "Therapeutic index = TD50 / ED50.",
+      "Narrow-TI drugs require close concentration/biomarker monitoring when interacting drugs or renal decline occur."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Therapeutic Index and Clinical Pharmacokinetics",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544267/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0008",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Complete (third-degree) atrioventricular block management in syncope",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 78-year-old man is brought to the emergency department after two unprovoked syncopal episodes at home over the past 24 hours. He takes only hydrochlorothiazide and low-dose aspirin; serum electrolytes and serial troponins are normal. Blood pressure is 86/52 mm Hg, pulse is 36/min, and he is mildly lethargic. His 12-lead ECG is shown. What is the most appropriate immediate management step?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-31.png",
+    "imageAlt": "12-lead ECG and Lead II rhythm strip showing regular independent P waves at ~86/min completely dissociated from a slow regular escape QRS rhythm at ~36/min with constantly varying PR intervals.",
+    "options": [
+      {
+        "text": "Discharge with an ambulatory 14-day Zio patch and outpatient cardiology follow-up",
+        "correct": false,
+        "explanation": "This patient has symptomatic complete AV block with hypotension (86/52 mm Hg) and bradycardia (36/min), representing an immediate inpatient emergency."
+      },
+      {
+        "text": "Apply transcutaneous pacing pads, stabilize with IV atropine/dopamine bridge if needed, and arrange permanent pacemaker placement",
+        "correct": true,
+        "explanation": "Regular P waves (~86/min) marching independently through a slow ventricular/junctional escape rhythm (~36/min) with completely varying PR intervals prove third-degree (complete) AV block. Symptomatic hemodynamic instability warrants immediate transcutaneous pacing readiness (with IV chronotropic bridge as needed) followed by permanent pacemaker after ruling out reversible causes."
+      },
+      {
+        "text": "Administer intravenous adenosine 6 mg rapid push to break nodal reentry",
+        "correct": false,
+        "explanation": "Adenosine profoundly slows AV nodal conduction and can trigger prolonged ventricular asystole in complete heart block."
+      },
+      {
+        "text": "Start oral metoprolol succinate to prevent sudden polymorphic tachycardia",
+        "correct": false,
+        "explanation": "Beta-blockers further suppress escape pacemakers and worsen symptomatic high-grade AV block."
+      },
+      {
+        "text": "Administer intravenous amiodarone bolus to restore 1:1 atrioventricular synchrony",
+        "correct": false,
+        "explanation": "Amiodarone suppresses automaticity and AV conduction, further slowing an already failing escape rhythm."
+      }
+    ],
+    "explanation": "Inspection of the Lead II rhythm strip shows regular P waves occurring at ~86/min (**atrial rate > ventricular rate**) with QRS complexes marching steadily at **36/min** and **constantly changing PR intervals**—defining **complete (third-degree) atrioventricular block** with complete AV dissociation.\n\nBecause the patient is hypotensive and symptomatic without reversible culprits (normal electrolytes, no AV-nodal blocker overdose, normal troponins; also consider Lyme carditis if epidemiologically relevant), immediately place **transcutaneous pacing pads** (use IV epinephrine/dopamine or atropine—recognizing atropine often fails in infranodal block—as a temporizing bridge) and proceed to **permanent dual-chamber pacemaker** implantation.",
+    "objective": "Diagnose third-degree AV block on ECG and prioritize immediate pacing stabilization in symptomatic bradycardia.",
+    "keyPoints": [
+      "Third-degree AV block: atrial rate > ventricular rate, regular P-P and R-R intervals, variable PR intervals.",
+      "Symptomatic complete heart block without reversible cause requires urgent pacing stabilization and permanent pacemaker."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA/HRS Bradycardia and Cardiac Conduction Delay Guideline",
+        "url": "https://www.acc.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0009",
+    "exam": "Step 3",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Torsades de pointes recognition and immediate intravenous magnesium therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old woman hospitalized for severe community-acquired pneumonia develops acute lightheadedness and near-syncope shortly after receiving intravenous levofloxacin and haloperidol for delirium. Serum potassium is 3.4 mEq/L and serum magnesium is 1.9 mg/dL (normal). Continuous telemetry captures the rhythm shown. If she remains conscious with a weak palpable pulse, what is the immediate drug of choice to suppress recurrent episodes?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-32.png",
+    "imageAlt": "Lead II telemetry strip showing two sinus beats with markedly prolonged QT intervals (585 ms) followed by an R-on-T beat initiating a polymorphic ventricular tachycardia whose QRS complexes twist smoothly around the baseline.",
+    "options": [
+      {
+        "text": "Intravenous amiodarone 150 mg over 10 minutes",
+        "correct": false,
+        "explanation": "Amiodarone is a Class III potassium-channel blocker that further prolongs QT repolarization and can perpetuate drug-induced torsades de pointes."
+      },
+      {
+        "text": "Intravenous magnesium sulfate 2 g bolus regardless of baseline magnesium level",
+        "correct": true,
+        "explanation": "A prolonged baseline QTc (585 ms) followed by twisting polymorphic VT identifies torsades de pointes triggered by QT-prolonging drugs (levofloxacin + haloperidol) and hypokalemia. First-line pharmacotherapy in hemodynamically stable/intermittent torsades is IV magnesium sulfate—even when serum magnesium is normal—plus discontinuing offending drugs and repleting potassium."
+      },
+      {
+        "text": "Intravenous procainamide infusion to suppress ectopic Purkinje automaticity",
+        "correct": false,
+        "explanation": "Procainamide (Class IA) further blocks potassium currents, lengthens QTc, and exacerbates torsades de pointes."
+      },
+      {
+        "text": "Intravenous adenosine 12 mg rapid push",
+        "correct": false,
+        "explanation": "Adenosine acts exclusively on the AV node and has zero efficacy for polymorphic ventricular tachycardia."
+      },
+      {
+        "text": "Immediate oral sotalol initiation for rate and rhythm stabilization",
+        "correct": false,
+        "explanation": "Sotalol strongly prolongs the QT interval and is contraindicated in torsades de pointes."
+      }
+    ],
+    "explanation": "Telemetry captures sinus beats with marked **QT prolongation (QTc = 585 ms)** degenerating via an R-on-T premature beat into polymorphic ventricular tachycardia with undulating QRS amplitude twisting around the baseline (**torsades de pointes**).\n\nCo-administration of QT-prolonging agents (fluoroquinolones + haloperidol) plus mild hypokalemia precipitates early afterdepolarizations. If pulseless/unstable, defibrillate immediately; if awake/intermittent, the immediate membrane-stabilizing drug of choice is **intravenous magnesium sulfate (2 g)** (effective even when serum Mg is normal!), paired with stopping offending QT-prolonging drugs, correcting hypokalemia (>4.0 mEq/L), and considering overdrive pacing or isoproterenol if bradycardia-dependent.",
+    "objective": "Identify torsades de pointes on telemetry and treat immediately with IV magnesium sulfate while avoiding Class IA/III QT-prolonging agents.",
+    "keyPoints": [
+      "IV magnesium sulfate is first-line for stable/recurrent torsades de pointes regardless of serum Mg concentration.",
+      "Avoid amiodarone, sotalol, and procainamide in prolonged-QT polymorphic VT."
+    ],
+    "references": [
+      {
+        "label": "AHA ACLS Guidelines: Polymorphic Ventricular Tachycardia / Torsades de Pointes",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0010",
+    "exam": "Step 3",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Critical care hemorrhagic shock Guyton venous return hemodynamics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old man is admitted to the surgical intensive care unit after emergent splenectomy for blunt splenic laceration with 1.8 L intraoperative blood loss. The transition from pre-operative equilibrium (Point A, solid curves) to immediate postoperative hypovolemic shock prior to resuscitation (Point B, dashed curve) is plotted on the cardiac and vascular function diagram shown. Which physiologic change accounts for the shift from Point A to Point B?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*",
+    "image": "/question-images/usmle/exhibit-33.png",
+    "imageAlt": "Vascular function and cardiac output curves showing equilibrium shifting from Point A (baseline Pra +1 mm Hg, Pmsf +7.5 mm Hg) downward and leftward to Point B (lower Pra and Pmsf +4 mm Hg).",
+    "options": [
+      {
+        "text": "Elevated mean systemic filling pressure driving leftward cardiac output curve displacement",
+        "correct": false,
+        "explanation": "Higher mean systemic filling pressure shifts the venous return x-intercept rightward (beyond +7.5 mm Hg) and raises CO above Point A, whereas here Pmsf dropped to +4 mm Hg."
+      },
+      {
+        "text": "Reduced stressed blood volume lowering mean systemic filling pressure and venous return",
+        "correct": true,
+        "explanation": "Acute hemorrhage depletes intravascular volume, dropping mean systemic filling pressure (x-intercept falls from +7.5 to +4 mm Hg), shifting the venous return curve downward/leftward, and sliding equilibrium down the intact cardiac function curve from Point A to Point B (lower Pra and lower CO)."
+      },
+      {
+        "text": "Selective severe arteriolar vasodilation steepening venous return without changing Pmsf",
+        "correct": false,
+        "explanation": "Decreased total peripheral resistance (e.g., AV fistula or early distributive sepsis) pivots the venous return curve upward (steeper slope) around an unchanged Pmsf x-intercept, elevating CO rather than dropping it."
+      },
+      {
+        "text": "Primary acute myocardial stunning flattening the cardiac function curve downward",
+        "correct": false,
+        "explanation": "Cardiogenic pump failure depresses the cardiac function curve downward, sliding equilibrium rightward to HIGHER right atrial pressure (+4 to +8 mm Hg), opposite to the low Pra (-1 mm Hg) at Point B."
+      },
+      {
+        "text": "Massive pericardial tamponade increasing right atrial pressure above +10 mm Hg",
+        "correct": false,
+        "explanation": "Pericardial tamponade impairs ventricular filling and raises right atrial pressure markedly alongside reduced cardiac output."
+      }
+    ],
+    "explanation": "On a **Guyton diagram**, the cardiac output curve plots Starling pumping performance, while the **vascular (venous return) function curve** intersects the horizontal pressure axis at **mean systemic filling pressure (Pₘₛf)**.\n\nFollowing acute 1.8 L hemorrhage, loss of stressed blood volume drops **Pₘₛf** from **+7.5 mm Hg to +4 mm Hg**, shifting the venous return curve downward and leftward. Because myocardial contractility remains intact, the equilibrium slides down the blue cardiac output curve from **Point A** to **Point B** (lower right atrial pressure AND lower cardiac output)—reversed by rapid balanced blood/crystalloid resuscitation restoring Pₘₛf.",
+    "objective": "Interpret downward/leftward Guyton venous return shifts (reduced Pmsf, low Pra, low CO) in hypovolemic hemorrhagic shock.",
+    "keyPoints": [
+      "Blood loss lowers Pmsf (x-intercept shifts left), reducing both Pra and cardiac output.",
+      "Primary cardiogenic failure shifts the CO curve down, raising Pra while lowering CO."
+    ],
+    "references": [
+      {
+        "label": "NCBI StatPearls: Hemorrhagic Shock Physiology and Venous Return",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470382/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep original educational exhibit and vignette (CC BY-SA 4.0); AI-authored; medically unreviewed."
+  },
+  {
+    "code": "op-uw-s3-0011",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial fibrillation stroke prevention in chronic ambulatory care",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old man returns to the outpatient internal medicine clinic for routine management of hypertension and type 2 diabetes mellitus. He feels well with no chest pain, dyspnea, or palpitations. Blood pressure is 134/76 mm Hg and heart rate is ~80/min. Transthoracic echocardiography shows normal ventricular function with no mechanical valve and no moderate-to-severe mitral stenosis. Serum creatinine is 0.9 mg/dL, platelets are 240,000/mm³, and he has no prior bleeding or coronary stent. His 12-lead ECG is shown. What is the most appropriate long-term thromboembolism prevention strategy?\n\n*AI-authored; medically unreviewed. Clinical scenario is synthetic.*\n\nExhibit: Dan D. Ric / Wikimedia Commons, [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/).",
+    "image": "/question-images/usmle/exhibit-03.jpg",
+    "imageAlt": "12-lead ECG at 25 mm/s and 10 mm/mV with bottom Lead II rhythm strip showing irregularly irregular narrow-complex R-R intervals without consistent discrete P waves.",
+    "options": [
+      {
+        "text": "Initiate low-dose aspirin monotherapy because his resting ventricular rate is well controlled",
+        "correct": false,
+        "explanation": "Aspirin is substantially inferior to oral anticoagulation for stroke prevention in atrial fibrillation and does not suffice in a patient with elevated thromboembolic risk."
+      },
+      {
+        "text": "Withhold anticoagulation because the patient is asymptomatic and normotensive",
+        "correct": false,
+        "explanation": "Rate control and lack of symptoms do not eliminate atrial stasis or stroke risk; long-term anticoagulation depends on CHA₂DS₂-VASc score rather than symptom control."
+      },
+      {
+        "text": "Prescribe a direct oral anticoagulant (DOAC) after discussing bleeding risk and adherence",
+        "correct": true,
+        "explanation": "The ECG demonstrates atrial fibrillation (irregularly irregular R-R intervals without discrete P waves). Age 65–74 (1 pt), hypertension (1 pt), and diabetes (1 pt) give a CHA₂DS₂-VASc score of 3 (>=2 in men). With normal renal function and no mechanical valve or moderate-to-severe mitral stenosis, a DOAC is strongly preferred over warfarin or antiplatelets."
+      },
+      {
+        "text": "Prescribe aspirin plus clopidogrel to avoid routine INR laboratory monitoring",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy provides inferior stroke protection compared with oral anticoagulation and carries similar major bleeding risk without any separate stent indication."
+      },
+      {
+        "text": "Perform elective electrical cardioversion and discontinue antithrombotic therapy if sinus rhythm returns",
+        "correct": false,
+        "explanation": "Long-term anticoagulation decisions are governed by baseline CHA₂DS₂-VASc risk factors regardless of whether a rhythm-control cardioversion strategy restores sinus rhythm."
+      }
+    ],
+    "explanation": "The ECG shows an **irregularly irregular rhythm** without discrete P waves (baseline fibrillatory undulation), diagnosing **atrial fibrillation** even though resting ventricular rate is controlled near 80/min.\n\nCalculating **CHA₂DS₂-VASc** yields **3 points** (1 for age 65–74, 1 for hypertension, 1 for diabetes). In men with CHA₂DS₂-VASc ≥ 2 (women ≥ 3) without a mechanical heart valve or moderate-to-severe mitral stenosis, guideline-directed therapy recommends **direct oral anticoagulation (DOAC)** after reviewing renal clearance, drug interactions, and bleeding risk.\n\n**Image credit:** Dan D. Ric, *Atrialfibrillation*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atrialfibrillation.jpg), [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/). Wikimedia 1280-pixel thumbnail used without modification.",
+    "objective": "Interpret atrial fibrillation on ECG, compute CHA₂DS₂-VASc, and select DOAC therapy for outpatient stroke prevention.",
+    "keyPoints": [
+      "Rate control or restored sinus rhythm does not eliminate ongoing stroke-risk anticoagulation need.",
+      "DOACs are preferred over warfarin in non-valvular AF with CHA₂DS₂-VASc >= 2 (men) / >= 3 (women)."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA/ACCP/HRS Guideline for Atrial Fibrillation Management",
+        "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/11/27/19/46/2023-acc-guideline-for-af-gl-af"
+      },
+      {
+        "label": "Image source: Dan D. Ric — Atrialfibrillation",
+        "url": "https://commons.wikimedia.org/wiki/File:Atrialfibrillation.jpg"
+      },
+      {
+        "label": "Image license: CC-BY-3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors (CC BY-SA 4.0). Exhibit: Dan D. Ric / Wikimedia Commons (CC-BY-3.0)."
+  }
+]

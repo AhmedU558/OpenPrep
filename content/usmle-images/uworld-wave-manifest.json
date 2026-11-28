@@ -1,0 +1,275 @@
+{
+  "wave": "uworld-usmle-images-wave-01",
+  "count": 33,
+  "distribution": {
+    "Step 1": 11,
+    "Step 2 CK": 11,
+    "Step 3": 11
+  },
+  "assets": [
+    {
+      "questionCode": "op-uw-s1-0001",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-04.png",
+      "sha256": "e65370adb651e3d0202907ca863ff492f733954bace72f9dfc805ebc2700ea0b",
+      "bytes": 83755,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0002",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-05.png",
+      "sha256": "6dbcba5288ea480b9ae3e460b0cddd0f95852aa7c2914097e5b00c2bf11056bf",
+      "bytes": 70376,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0003",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-06.png",
+      "sha256": "24a88b13de823b2cd616e1327e8a10f04aa16db4358da5126fc674dd7e32a064",
+      "bytes": 92756,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0004",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-07.png",
+      "sha256": "c7c236f71688caee37138f716ab62cec693a4b19e430dc86c4a1719339a3cddf",
+      "bytes": 66675,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0005",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-08.png",
+      "sha256": "af372e779d00a0363066bef84255b16247b8943786d97afa92beba64ffa76261",
+      "bytes": 56168,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0006",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-09.png",
+      "sha256": "a962559e8f4c1dd51ed033603f97cdb103ed794c67c5021c4a8141db9d2a0292",
+      "bytes": 79360,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0007",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-10.png",
+      "sha256": "724acb8ba2384cd667cb9de3497a2153b61a5d408e8023c0a638b942e2e4dd41",
+      "bytes": 50331,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0008",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-11.png",
+      "sha256": "d632c7f27d57d49de0084602c41ba4d18dcec0ec2084de433a707a86f3bacc4b",
+      "bytes": 135193,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0009",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-12.png",
+      "sha256": "7c87b91cfbce5c895f6f3744206841336c26c9e343a44fff2491fa632f2bf76c",
+      "bytes": 66578,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0010",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-13.png",
+      "sha256": "48ce1337ed1d63176943fe71a0f8c57999ccad7d8f11bb80f9644bc97eaf61e4",
+      "bytes": 79145,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s1-0011",
+      "exam": "Step 1",
+      "path": "/question-images/usmle/exhibit-01.jpg",
+      "sha256": "01cb254a472cb139f0f38ea705d39e297d62428bf17a5242152b3777bf8b69f9",
+      "bytes": 303601,
+      "origin": "Wikimedia Commons (attributed)"
+    },
+    {
+      "questionCode": "op-uw-s2-0001",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-14.png",
+      "sha256": "9d2d1b2fc32b6ad81a6cdfa6429aeacfdf0d7786d64bd09664068c47b39d4535",
+      "bytes": 128771,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0002",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-15.png",
+      "sha256": "461b502ff707e6c793405accb57b061f2589f436c6a62d5e1fed285f82b6a1d4",
+      "bytes": 145277,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0003",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-16.png",
+      "sha256": "183991fe96604eefe49603bb8bc7c7fd4fa701a904fec84b6407b562a1953011",
+      "bytes": 121505,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0004",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-17.png",
+      "sha256": "69f9e9da066f26929562a0bad2a471c7e94e5352533eca537acab1d79c738f87",
+      "bytes": 110767,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0005",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-18.png",
+      "sha256": "8f58e538107887452e9148e98bfccc18da017c5595994a6bb7eb3660f817ee92",
+      "bytes": 75006,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0006",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-19.png",
+      "sha256": "c0b9b4ae619e6de8d84980d871a6387db1a81654e6df92df87b9f4034eeedef4",
+      "bytes": 84181,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0007",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-20.png",
+      "sha256": "028d3597fb0a285b14d8b2cf31731a8a3465d91e5728dc26e5eb9e109448647c",
+      "bytes": 69163,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0008",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-21.png",
+      "sha256": "54ffed2fc784330a06d3778ac1e8f4f3c8204c3eca6d5900f682e5a72ef44c80",
+      "bytes": 56790,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0009",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-22.png",
+      "sha256": "25d63fd268716a3a8dbb6ec265a7cc16733a7468afae8b42b76a90ed9cd7d80a",
+      "bytes": 66925,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0010",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-23.png",
+      "sha256": "ea7e13de176fee4d11d02a1955b054c5ef711154c57e2ad17a68a97d564a1834",
+      "bytes": 97011,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s2-0011",
+      "exam": "Step 2 CK",
+      "path": "/question-images/usmle/exhibit-02.jpg",
+      "sha256": "bcf6af6dc9a17c57fc0c90f0323d9fb75ffdf9a266f0be4259b3d02ff3b3cddc",
+      "bytes": 362668,
+      "origin": "Wikimedia Commons (attributed)"
+    },
+    {
+      "questionCode": "op-uw-s3-0001",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-24.png",
+      "sha256": "55a7c8778ae01a3bdef01b42907a334002f7b252bf0ce3e230874f9bacbf433f",
+      "bytes": 76325,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0002",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-25.png",
+      "sha256": "9f98945b50790767ad342e6068deddf17022e4bb7e5d5ecea4c956307cb21e0c",
+      "bytes": 82913,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0003",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-26.png",
+      "sha256": "8b492f4f1c0f6f5b8a724961e587e3e5f1810f76d96994934386aec589df1769",
+      "bytes": 81105,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0004",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-27.png",
+      "sha256": "750ad26cf569183c64e69a95dadf2296ed58ec7f38868fb71cf1a0ab58c9f2fe",
+      "bytes": 111428,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0005",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-28.png",
+      "sha256": "d69238944d71698691f791613b6d9452290ef8aa498abd5c6a109e0ce9b2767e",
+      "bytes": 73556,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0006",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-29.png",
+      "sha256": "f781c6691b9fc83fd58b07c0e0ecc04a8bbd0781e0dc2a368ddcac4676c0deee",
+      "bytes": 44230,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0007",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-30.png",
+      "sha256": "1314c4d33e64c9c132a3d4a17f00b3a46f3dd31059e90117e40a47d233ad00cd",
+      "bytes": 85939,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0008",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-31.png",
+      "sha256": "4345de2c97b9172c1bd281a2743a2c3964e64e49a0ea16c3b6326066dd9d973c",
+      "bytes": 95095,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0009",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-32.png",
+      "sha256": "a703afbc71eecd6011f6760ff0f76e8ec26aeae16df631af3d066bfa97b9924c",
+      "bytes": 83935,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0010",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-33.png",
+      "sha256": "fb37013257149365a9ac41708414c58895e38cea8b26d02c43c77e55fe5d84c2",
+      "bytes": 70277,
+      "origin": "OpenPrep generated deterministic scientific/clinical diagram (CC-BY-SA-4.0)"
+    },
+    {
+      "questionCode": "op-uw-s3-0011",
+      "exam": "Step 3",
+      "path": "/question-images/usmle/exhibit-03.jpg",
+      "sha256": "e6cf05c27a36b532229d3e532b950ab1deab260316a00e6da0605bb63b12d25d",
+      "bytes": 498682,
+      "origin": "Wikimedia Commons (attributed)"
+    }
+  ]
+}

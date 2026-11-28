@@ -1,0 +1,61 @@
+{
+  "batch": "usmle-images-01",
+  "reviewStatus": "DRAFT_MEDICALLY_UNREVIEWED",
+  "publicationAuthorized": false,
+  "assets": [
+    {
+      "questionCode": "op-img-s1-0001",
+      "path": "/question-images/usmle/exhibit-01.jpg",
+      "creator": "Dr Graham Beards",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sickle_cells_in_blood.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sickle_cells_in_blood.jpg/1280px-Sickle_cells_in_blood.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Wikimedia-generated 1280-pixel thumbnail; no further image edits, cropping or annotations by OpenPrep. Neutral local filename.",
+      "sha256": "01cb254a472cb139f0f38ea705d39e297d62428bf17a5242152b3777bf8b69f9",
+      "width": 1280,
+      "height": 724,
+      "licensePageCheckedOn": "2026-11-28",
+      "reasoning": "application",
+      "difficultyReason": "Recognize the blood-film morphology and apply the oxygen-dependent hemoglobin-polymerization mechanism; no unsupported genotype inference.",
+      "clinicalReview": "PENDING",
+      "evidenceLimit": "NHLBI source supports the central polymerization mechanism; qualified review of all distractor claims and morphology remains pending."
+    },
+    {
+      "questionCode": "op-img-s2-0001",
+      "path": "/question-images/usmle/exhibit-02.jpg",
+      "creator": "Mikael Häggström",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Expired_X-ray_of_pneumothorax.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Expired_X-ray_of_pneumothorax.jpg/1280px-Expired_X-ray_of_pneumothorax.jpg",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "Wikimedia-generated 1280-pixel thumbnail; no further image edits, cropping or annotations by OpenPrep. Neutral local filename.",
+      "sha256": "bcf6af6dc9a17c57fc0c90f0323d9fb75ffdf9a266f0be4259b3d02ff3b3cddc",
+      "width": 1280,
+      "height": 1288,
+      "licensePageCheckedOn": "2026-11-28",
+      "reasoning": "integration",
+      "difficultyReason": "Combine the procedural timing, unilateral findings and pleural-air pattern to distinguish pleural from parenchymal causes; no management threshold is inferred.",
+      "clinicalReview": "PENDING",
+      "evidenceLimit": "The source page describes a left pneumothorax and reports consent for publication. Clinical image matching and every distractor exclusion still need qualified review."
+    },
+    {
+      "questionCode": "op-img-s3-0001",
+      "path": "/question-images/usmle/exhibit-03.jpg",
+      "creator": "Dan D. Ric",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Atrialfibrillation.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Atrialfibrillation.jpg/1280px-Atrialfibrillation.jpg",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "changes": "Wikimedia-generated 1280-pixel thumbnail; no further image edits, cropping or annotations by OpenPrep. Neutral local filename.",
+      "sha256": "e6cf05c27a36b532229d3e532b950ab1deab260316a00e6da0605bb63b12d25d",
+      "width": 1280,
+      "height": 641,
+      "licensePageCheckedOn": "2026-11-28",
+      "reasoning": "prioritization",
+      "difficultyReason": "Interpret the ECG, calculate a stroke-risk score and select prevention after accounting for valve, bleeding and antiplatelet constraints.",
+      "clinicalReview": "PENDING",
+      "evidenceLimit": "ACC point 4 supports risk-based anticoagulation and the stated DOAC/antiplatelet distinctions; qualified tracing interpretation and all-option review remain pending."
+    }
+  ]
+}

@@ -14,6 +14,7 @@ export const filtersSchema = z.object({
   pool: z.enum(POOLS).default('all'),
   q: z.string().trim().max(200).default(''),
   collectionId: id.optional(),
+  hasImage: z.boolean().optional(),
 });
 export type Filters = z.infer<typeof filtersSchema>;
 

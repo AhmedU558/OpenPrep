@@ -1,0 +1,178 @@
+[
+  {
+    "code": "op-img-s1-0001",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Blood-film morphology and oxygen-dependent hemoglobin polymerization",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 17-year-old boy has recurrent episodes of severe limb pain, often after dehydration or strenuous exercise. Hemoglobin is 8.2 g/dL, the reticulocyte count is elevated, and the direct antiglobulin test is negative. A peripheral blood film is shown. Which molecular event most directly produces the abnormal erythrocyte shape visible in the exhibit?\n\n*AI-authored; medically unreviewed. The clinical scenario is synthetic; the licensed image is a separate teaching exhibit.*\n\nExhibit: Dr Graham Beards / Wikimedia Commons, [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source details appear in the explanation.",
+    "image": "/question-images/usmle/exhibit-01.jpg",
+    "imageAlt": "Giemsa-stained blood film showing several elongated erythrocytes with pointed or crescent-shaped ends among round cells.",
+    "options": [
+      {
+        "text": "Oxidation of globin followed by precipitation as Heinz bodies",
+        "correct": false,
+        "explanation": "Oxidative injury can produce Heinz bodies and splenic bite cells, as in G6PD deficiency. It does not explain the pointed, elongated forms in this film or their characteristic relationship to deoxygenated hemoglobin."
+      },
+      {
+        "text": "Loss of membrane surface area from a spectrin–ankyrin defect",
+        "correct": false,
+        "explanation": "Defects of the erythrocyte membrane skeleton can produce spherocytes: dense round cells with reduced central pallor. Membrane surface loss is different from hemoglobin-driven elongation into the forms shown."
+      },
+      {
+        "text": "Polymerization of abnormal beta-globin-containing hemoglobin after deoxygenation",
+        "correct": true,
+        "explanation": "Deoxygenated hemoglobin S can form intracellular polymers. These distort erythrocytes into elongated or crescent forms, impair deformability and contribute to hemolysis and microvascular obstruction."
+      },
+      {
+        "text": "Reduced beta-globin synthesis with excess unpaired alpha chains",
+        "correct": false,
+        "explanation": "Reduced beta-chain production is the central defect in beta-thalassemia. It produces ineffective erythropoiesis and typically marked microcytosis; it is not the oxygen-dependent polymerization mechanism responsible for the shapes highlighted here."
+      }
+    ],
+    "explanation": "The elongated, pointed erythrocytes in the film support a sickling disorder when interpreted alongside recurrent painful episodes and chronic hemolysis. The decisive mechanism is polymerization of deoxygenated hemoglobin S, not an immune antibody reaction, a membrane-skeleton defect or reduced globin-chain synthesis. Poorly deformable cells obstruct small vessels and are also removed prematurely from the circulation. The negative antiglobulin test is compatible with a nonimmune cause of hemolysis, but it does not by itself identify the disorder.\n\nThis item tests recognition of an observed cell shape followed by application of its molecular mechanism. The film and vignette alone do not establish a particular sickle-cell genotype; hemoglobin analysis is required for that distinction.\n\n**Image credit:** Dr Graham Beards, *Sickle cells in blood*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sickle_cells_in_blood.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The Wikimedia 1280-pixel thumbnail is used without further alteration. The vignette and options were independently written by OpenPrep and do not describe the photographed patient's history. AI-authored; medically unreviewed.",
+    "objective": "Use peripheral-blood morphology to distinguish oxygen-dependent hemoglobin polymerization from membrane defects, oxidative injury and reduced globin synthesis.",
+    "keyPoints": [
+      "Deoxygenated hemoglobin S can polymerize and deform erythrocytes.",
+      "A characteristic film supports a disease process but does not independently determine the patient's genotype."
+    ],
+    "references": [
+      {
+        "label": "NHLBI: Sickle Cell Disease — Causes and Risk Factors; low-oxygen hemoglobin S strand formation",
+        "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/causes"
+      },
+      {
+        "label": "Image: Dr Graham Beards, Sickle cells in blood — CC BY-SA 4.0, Wikimedia thumbnail",
+        "url": "https://commons.wikimedia.org/wiki/File:Sickle_cells_in_blood.jpg"
+      },
+      {
+        "label": "Image license: Creative Commons Attribution-ShareAlike 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors. Wikimedia thumbnail: Dr Graham Beards / Wikimedia Commons, CC BY-SA 4.0. Synthetic vignette; no clinician review claimed."
+  },
+  {
+    "code": "op-img-s2-0001",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Postprocedural pleuritic pain and chest-radiograph interpretation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old woman develops sudden left-sided pleuritic pain and dyspnea after a central venous access procedure. Blood pressure is 126/78 mm Hg, pulse is 104/min, and oxygen saturation is 93% on room air. Breath sounds are reduced on the left. A frontal chest radiograph is shown. Which diagnosis best accounts for the new symptoms and the principal radiographic abnormality?\n\n*AI-authored; medically unreviewed. The clinical scenario is synthetic; the licensed image is a separate teaching exhibit.*\n\nExhibit: Mikael Häggström / Wikimedia Commons, [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). Source details appear in the explanation.",
+    "image": "/question-images/usmle/exhibit-02.jpg",
+    "imageAlt": "Frontal chest radiograph showing a left visceral pleural line and a lucent peripheral region without vascular markings; orientation is shown by the image markers.",
+    "options": [
+      {
+        "text": "Left pleural effusion",
+        "correct": false,
+        "explanation": "Pleural fluid typically creates dependent opacity and blunts the costophrenic angle rather than creating a peripheral lucent region beyond a visible visceral pleural edge. It does not explain the principal finding shown."
+      },
+      {
+        "text": "Left pneumothorax",
+        "correct": true,
+        "explanation": "A visible visceral pleural line with absent lung markings peripheral to it indicates air in the pleural space. The abrupt symptoms after a venous access procedure provide a compatible iatrogenic mechanism."
+      },
+      {
+        "text": "Left upper-lobe atelectasis",
+        "correct": false,
+        "explanation": "Lobar collapse usually produces increased opacity and signs of volume loss, such as fissure displacement or hilar shift. It does not ordinarily produce this peripheral pleural air pattern."
+      },
+      {
+        "text": "Left-sided pulmonary edema",
+        "correct": false,
+        "explanation": "Pulmonary edema produces interstitial or alveolar opacities, not a sharp visceral pleural line with no vascular markings beyond it. The temporal association with venous access also favors pleural injury here."
+      }
+    ],
+    "explanation": "The important image finding is the separation of the left lung edge from the chest wall, with no pulmonary vascular markings in the intervening lucent space. This localizes the abnormality to air in the pleural space. New unilateral pleuritic symptoms and reduced breath sounds after venous access make a postprocedural pneumothorax the best diagnosis. Pleural fluid, alveolar edema and lobar collapse produce different patterns of opacity or volume change.\n\nThe question asks for diagnosis, not a treatment threshold. Hemodynamic findings do not establish tension physiology, and neither a drainage decision nor a numerical pneumothorax size is inferred from this teaching image alone. Reviewers should confirm that the displayed resolution and orientation allow the pleural line to be identified.\n\n**Image credit:** Mikael Häggström, *Expired X-ray of pneumothorax*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Expired_X-ray_of_pneumothorax.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The Wikimedia 1280-pixel thumbnail is used without further alteration. The synthetic vignette is separate from the source patient's clinical history. AI-authored; medically unreviewed.",
+    "objective": "Integrate postprocedural symptoms with a visible pleural line and absent peripheral lung markings to distinguish pneumothorax from pleural fluid and parenchymal opacity.",
+    "keyPoints": [
+      "A visceral pleural line with absent peripheral lung markings supports pneumothorax.",
+      "Do not infer tension physiology or a specific intervention from an isolated teaching radiograph without the necessary clinical context."
+    ],
+    "references": [
+      {
+        "label": "MSD Manual Professional: Pneumothorax — diagnosis and chest-radiograph findings",
+        "url": "https://www.msdmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pneumothorax"
+      },
+      {
+        "label": "Image: Mikael Häggström, Expired X-ray of pneumothorax — CC0 1.0, Wikimedia thumbnail",
+        "url": "https://commons.wikimedia.org/wiki/File:Expired_X-ray_of_pneumothorax.jpg"
+      },
+      {
+        "label": "Image license: Creative Commons CC0 1.0 Universal",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors, CC BY-SA 4.0. Wikimedia thumbnail: Mikael Häggström / Wikimedia Commons, CC0 1.0. Synthetic vignette; no clinician review claimed."
+  },
+  {
+    "code": "op-img-s3-0001",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "ECG interpretation and long-term thromboembolism prevention",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old man attends follow-up for hypertension and type 2 diabetes. His ECG is shown. He has no chest pain, syncope or dyspnea; blood pressure is 134/76 mm Hg and ventricular rate is approximately 80/min. Echocardiography shows no mechanical valve and no moderate or severe mitral stenosis. Renal function and platelet count are normal, and he has no active bleeding or prior major hemorrhage. He has no coronary stent or other indication for antiplatelet therapy. Which long-term strategy most appropriately addresses his thromboembolic risk?\n\n*AI-authored; medically unreviewed. The clinical scenario is synthetic; the licensed ECG is a separate teaching exhibit.*\n\nExhibit: Dan D. Ric / Wikimedia Commons, [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/). Source details appear in the explanation.",
+    "image": "/question-images/usmle/exhibit-03.jpg",
+    "imageAlt": "ECG showing irregular R–R intervals and no consistent discrete P waves, with predominantly narrow QRS complexes.",
+    "options": [
+      {
+        "text": "Use aspirin alone after discussing gastrointestinal bleeding risk",
+        "correct": false,
+        "explanation": "Aspirin is not an adequate substitute for oral anticoagulation for stroke prevention in atrial fibrillation when the patient is a candidate for anticoagulation. Lack of a coronary indication further weakens this choice."
+      },
+      {
+        "text": "Use aspirin plus clopidogrel instead of an oral anticoagulant",
+        "correct": false,
+        "explanation": "Dual antiplatelet therapy is not recommended as an alternative to anticoagulation for this indication. The patient also has no separate stent-related indication for the combination."
+      },
+      {
+        "text": "Withhold anticoagulation because the ventricular rate is controlled",
+        "correct": false,
+        "explanation": "Rate control can improve symptoms and limit tachycardia-related effects, but it does not remove the atrial-arrhythmia-associated risk of thromboembolism. A comfortable patient can still need stroke prevention."
+      },
+      {
+        "text": "Offer a direct oral anticoagulant after a bleeding-risk discussion",
+        "correct": true,
+        "explanation": "The tracing supports atrial fibrillation. His age of 65–74 years, hypertension and diabetes give a CHA2DS2-VASc score of 3. In the absence of the stated exclusions, guideline-based stroke prevention favors oral anticoagulation, with a DOAC generally preferred to warfarin."
+      },
+      {
+        "text": "Use cardioversion alone and omit any ongoing stroke-risk assessment",
+        "correct": false,
+        "explanation": "A rhythm-control intervention does not replace assessment of long-term stroke risk. Decisions about ongoing anticoagulation depend on thromboembolic risk rather than simply on a plan to restore sinus rhythm."
+      }
+    ],
+    "explanation": "The ECG's irregular ventricular intervals and lack of consistent discrete P waves support atrial fibrillation. The next reasoning step is independent of whether the ventricular rate is comfortable: this man receives one CHA2DS2-VASc point for age 65–74, one for hypertension and one for diabetes, totaling 3. The ACC/AHA/ACCP/HRS approach recommends stroke-risk-based anticoagulation for patients at sufficiently elevated risk; a DOAC is generally preferred when there is no mechanical valve or moderate-to-severe mitral stenosis. The vignette supplies the relevant exclusions rather than asking the learner to assume them.\n\nDiscuss bleeding risk, modifiable risk factors, medication interactions, renal function, adherence and patient preferences before choosing a specific agent and dose. This question does not specify a dose or imply that a risk score replaces individualized assessment. Aspirin, dual antiplatelet therapy, rate control and a rhythm-control plan are not equivalent substitutes for indicated stroke prevention.\n\n**Image credit:** Dan D. Ric, *Atrialfibrillation*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atrialfibrillation.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). The Wikimedia 1280-pixel thumbnail is used without further alteration; its license is separate from the original question's CC BY-SA 4.0 license. The vignette is synthetic. AI-authored; medically unreviewed.",
+    "objective": "Interpret an ECG, calculate thromboembolic risk and select an appropriate prevention strategy while accounting for valve disease, bleeding and antiplatelet indications.",
+    "keyPoints": [
+      "Controlled ventricular rate does not remove the need for stroke-risk assessment in atrial fibrillation.",
+      "Oral anticoagulation and antiplatelet therapy are not interchangeable for this indication."
+    ],
+    "references": [
+      {
+        "label": "ACC: 2023 AF guideline key perspectives, point 4 — risk-based anticoagulation and DOAC eligibility",
+        "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/11/27/19/46/2023-acc-guideline-for-af-gl-af"
+      },
+      {
+        "label": "Image: Dan D. Ric, Atrialfibrillation — CC BY 3.0, Wikimedia thumbnail",
+        "url": "https://commons.wikimedia.org/wiki/File:Atrialfibrillation.jpg"
+      },
+      {
+        "label": "Image license: Creative Commons Attribution 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "Question: OpenPrep contributors, CC BY-SA 4.0. Wikimedia thumbnail: Dan D. Ric / Wikimedia Commons, CC BY 3.0. Synthetic vignette; no clinician review claimed."
+  }
+]

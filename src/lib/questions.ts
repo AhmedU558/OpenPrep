@@ -30,6 +30,7 @@ export async function questionWhere(
   if (f.systemIds.length) where.systemId = { in: f.systemIds };
   if (f.topicIds.length) where.topicId = { in: f.topicIds };
   if (f.difficulty.length) where.difficulty = { in: f.difficulty };
+  if (f.hasImage) where.imageUrl = { not: null };
   if (userId) {
     const mine = { userId };
     if (f.pool === 'marked') {
@@ -108,6 +109,7 @@ export async function listQuestions(userId: string | null, f: Filters, page: num
   const isDefaultUnfiltered =
     !f.q &&
     !f.collectionId &&
+    !f.hasImage &&
     f.pool === 'all' &&
     f.examIds.length === 0 &&
     f.subjectIds.length === 0 &&
@@ -123,7 +125,7 @@ export async function listQuestions(userId: string | null, f: Filters, page: num
       skip: (page - 1) * pageSize,
       take: pageSize,
       select: {
-        id: true, code: true, type: true, difficulty: true, stemMd: true, isDemo: true, source: true,
+        id: true, code: true, type: true, difficulty: true, stemMd: true, imageUrl: true, isDemo: true, source: true,
         exam: { select: { name: true } }, subject: { select: { name: true } }, system: { select: { name: true } },
         responses: userId ? { where: { userId }, select: { isCorrect: true, omitted: true } } : false,
         bookmarks: userId ? { where: { userId }, select: { questionId: true } } : false,

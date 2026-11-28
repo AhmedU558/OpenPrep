@@ -20,6 +20,7 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
     difficulty: arr(sp.difficulty).map(Number).filter((n) => n >= 1 && n <= 5),
     pool: POOLS.includes(sp.pool as never) ? sp.pool : 'all', q: typeof sp.q === 'string' ? sp.q : '',
     collectionId: typeof sp.list === 'string' && sp.list ? sp.list : undefined,
+    hasImage: sp.hasImage === '1' || sp.hasImage === 'true' ? true : undefined,
   });
   const f = parsed.success ? parsed.data : filtersSchema.parse({});
   const page = Math.max(1, Number(sp.page) || 1);
@@ -113,6 +114,10 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
                 ))}
               </div>
             </fieldset>
+            <label className="flex items-center gap-2 text-sm font-medium">
+              <input type="checkbox" name="hasImage" value="1" defaultChecked={Boolean(f.hasImage)} className="accent-[var(--brand)]" />
+              <span>With clinical exhibit</span>
+            </label>
             {collections.length > 0 && (
               <div>
                 <label htmlFor="list" className="text-sm font-semibold">Study list</label>
@@ -145,6 +150,7 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
                       <div className="flex flex-wrap items-center gap-2 text-xs">
                         <span className="font-mono text-muted">{r.code}</span>
                         <Badge>{r.exam.name}</Badge><Badge>{r.subject.name}</Badge><Badge>{r.system.name}</Badge>
+                        {r.imageUrl && <Badge tone="brand">Exhibit</Badge>}
                         <Badge tone={status === 'Correct' ? 'ok' : status === 'Incorrect' ? 'bad' : 'neutral'}>{status}</Badge>
                         {r.type === 'MULTIPLE' && <Badge tone="warn">Select all</Badge>}
                         <span className="text-muted">Difficulty {r.difficulty}/5</span>
